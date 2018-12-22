@@ -201,7 +201,7 @@ def entrypoint(incoming, old, new, keep):
                 existing_people.append(yaml.load(f))
 
         new_people = []
-        incoming_dir = get_data_dir(abbr).replace('test', 'incoming')
+        incoming_dir = get_data_dir(abbr).replace('data', 'incoming')
         for filename in glob.glob(os.path.join(incoming_dir, 'people/*.yml')):
             with open(filename) as f:
                 new_people.append(yaml.load(f))
