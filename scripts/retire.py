@@ -35,11 +35,6 @@ def move_file(filename):        # pragma: no cover
     os.renames(filename, new_filename)
 
 
-@click.command()
-@click.argument('end_date')
-@click.argument('filename')
-@click.option('--reason', default=None)
-@click.option('--death', is_flag=True)
 def retire(end_date, filename, reason, death):
     """
     Retire a legislator, given END_DATE and FILENAME.
@@ -72,6 +67,13 @@ def retire(end_date, filename, reason, death):
 
     move_file(filename)
 
+@click.command()
+@click.argument('end_date')
+@click.argument('filename')
+@click.option('--reason', default=None)
+@click.option('--death', is_flag=True)
+def entrypoint(end_date, filename, reason, death):
+    return retire(end_date, filename, reason, death)
 
 if __name__ == '__main__':
-    retire()
+    entrypoint()

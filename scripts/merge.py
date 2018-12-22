@@ -45,10 +45,12 @@ class MergeConflict(Exception):
         return str(self.difference)
 
 
-def compare_objects(obj1, obj2, prefix=''):
+def compare_objects(obj1, obj2, prefix='', ignore_keys=set()):
     combined_keys = set(obj1) | set(obj2)
     differences = []
     for key in combined_keys:
+        if key in ignore_keys:
+            continue
         key_name = '.'.join((prefix, key)) if prefix else key
         val1 = obj1.get(key)
         val2 = obj2.get(key)
