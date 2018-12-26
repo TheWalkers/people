@@ -4,7 +4,7 @@ import glob
 import click
 from collections import Counter
 from datetime import date
-from utils import get_data_dir, load_yaml, dump_obj, get_settings
+from utils import get_data_dir, load_yaml, dump_obj, get_settings, role_is_active
 from merge import compare_objects, merge_people
 from retire import retire
 
@@ -124,15 +124,20 @@ class PersonMerger(object):
     def retire(self, existing):
         click.secho(f"In {existing.seat} retiring {existing.name}.", fg='blue')
         if self.save:
-            end_date = '2001-01-01'  # FIXME
+            end_date = date.today().strftime('%Y-%m-%d')  # FIXME
             retire(end_date, existing.filename, None, False)
 
     @deferred
     def update(self, existing, new):
-        if existing.seat != new.seat:
-            moving = f" and moving to {new.seat}"
-        else:
-            moving = ""
+        moving = ""
+
+        # end any active roles
+        for role in existing.data['roles']:
+            district = role['district']
+            seat = role['type'], int(district) if district.isdigit() else district
+            if role_is_active(role) and seat != new.seat:
+                role['end_date'] = date.today().strftime('%Y-%m-%d')  # FIXME
+                moving = f" and moving to {new.seat}"
 
         click.secho(f"In {existing.seat} updating "
                     f"{existing.name}{moving}.", fg='yellow')
