@@ -148,30 +148,14 @@ class PersonMerger(object):
 
 
 def merge(state, merger):
-    # list all the existing and new people by district
-    # if two person-files have the same name, and are in the same district,
-    # it's an UPDATE: update the old file from the new, and remove these files
-    # from further consideration
+    """
+    Merge incoming data for a given state into existing files.
 
-    # Then, check there are people with the same names but in different
-    # districts. These people should be UPDATEd to a new district. It's
-    # functionally the same as above, but we need a different process to find
-    # them.
-
-    # If we find the existing person for whom we are doing an UPDATE is retired
-    # we need to un-retire that person; that is, move their yaml file from
-    # /retired/ to /data/.
-
-    # If there was a vacant district and there is now a new person for that
-    # district, CREATE that person. This involves moving the yaml file from
-    # /incoming/ to /data/.
-
-    # Finally, if a district had one person in it, and now has another, we need
-    # to RETIRE the existing person and CREATE (or MOVE) the new person.
-    # To RETIRE, we move the person from /data/ to /retired/.
-
+    Matches existing people to new people by name. If names match, update
+    the existing person. For unmatched people, retire existing persons and
+    create new persons.
+    """
     # FIXME: handle multi-member districts
-    # FIXME: handle vacancies
 
     data_dir = get_data_dir(state)
     existing_people = PersonFile.from_dir(os.path.join(data_dir, 'people')) + \
