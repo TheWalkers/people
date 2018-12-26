@@ -17,31 +17,6 @@ def similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 
-def expand_seats(state):
-    settings = get_settings()[state]
-    expanded = {}
-    for chamber in ['upper', 'lower', 'legislature']:
-        spec = settings.get(chamber + "_seats")
-        if not spec:
-            continue
-        if isinstance(spec, int):
-            counts = {d: 1 for d in range(1, spec + 1)}
-        elif isinstance(spec, list):
-            counts = {d: 1 for d in spec}
-        elif isinstance(spec, dict):
-            counts = spec
-        else:
-            raise Exception("Unrecognized specification %r" % spec)
-
-        expanded[chamber] = Counter(counts)
-
-    for vacancy in settings.get('vacancies', []):
-        if date.today() < vacancy['vacant_until']:
-            expanded[vacancy['chamber']][vacancy['district']] -= 1
-
-    return expanded
-
-
 class PersonFile(object):
     def __init__(self, filename, data):
         assert os.path.exists(filename)
@@ -180,8 +155,6 @@ def merge(state, merger):
     the existing person. For unmatched people, retire existing persons and
     create new persons.
     """
-    # FIXME: handle multi-member districts
-
     data_dir = get_data_dir(state)
     existing_people = PersonFile.from_dir(os.path.join(data_dir, 'people')) + \
         PersonFile.from_dir(os.path.join(data_dir, 'retired'))
@@ -189,7 +162,6 @@ def merge(state, merger):
     assert data_dir != incoming_dir
     new_people = PersonFile.from_dir(os.path.join(incoming_dir, 'people'))
 
-    seats = expand_seats(state)
     handled = set()
 
     similar = []
@@ -206,7 +178,6 @@ def merge(state, merger):
                 if existing.differences(new, new_only=True):
                     merger.update(existing, new)
                 handled |= {existing.id, new.id}
-                seats[new.seat[0]][new.seat[1]] -= 1
                 break
 
             elif existing.seat == new.seat:  # check for similar name, same seat
@@ -221,7 +192,6 @@ def merge(state, merger):
         if existing.differences(new, new_only=True):
             merger.update(existing, new)
         handled |= {existing.id, new.id}
-        seats[new.seat[0]][new.seat[1]] -= 1
 
     for existing in existing_people:
         if existing.id in handled:
