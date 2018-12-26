@@ -136,9 +136,14 @@ def directory_merge(existing_people, new_people):
     click.secho(f'{len(unmatched)} were unmatched')
 
 
-def merge_people(old, new, keep_on_conflict=None, keep_both_ids=False):
+def merge_people(old, new, keep_on_conflict=None, keep_both_ids=False, custom_merges={}):
     differences = compare_objects(old, new)
     for difference in differences:
+
+        custom_merge = custom_merges.get(difference.key_name)
+        if custom_merge:
+            custom_merge(old, new, difference)
+            continue
 
         if difference.key_name == 'id':
             if keep_both_ids:

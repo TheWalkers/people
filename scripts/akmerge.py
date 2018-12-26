@@ -2,7 +2,7 @@
 import os
 import glob
 import click
-from collections import Counter
+from collections import Counter, OrderedDict
 from datetime import date
 from utils import get_data_dir, load_yaml, dump_obj, get_settings, role_is_active
 from merge import compare_objects, merge_people, ListDifference, ItemDifference
@@ -86,10 +86,23 @@ class PersonFile(object):
     def same_name(self, other):
         return self.name == other.name  # TODO: Levenshtein dist
 
+    def merge_contact_details(self, old, new, difference):
+        contacts = OrderedDict((o['note'], o) for o in old[difference.key_name])
+
+        for office in new[difference.key_name]:
+            contacts.setdefault(office['note'], {}).update(office)
+
+        old[difference.key_name] = list(contacts.values())
+
+
     def merge(self, other):
         "Merge differences from the other PersonFile into this one"
+        custom_merges = {
+            'contact_details': self.merge_contact_details,
+        }
         self.data = merge_people(self.data, other.data, keep_on_conflict='new',
-                                 keep_both_ids=False)
+                                 custom_merges=custom_merges)
+
 
     def save(self):
         dump_obj(self.data, filename=self.filename)
