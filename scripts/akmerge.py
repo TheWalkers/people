@@ -4,9 +4,17 @@ import glob
 import click
 from collections import Counter, OrderedDict
 from datetime import date
+from difflib import SequenceMatcher
+from operator import itemgetter
 from utils import get_data_dir, load_yaml, dump_obj, get_settings, role_is_active
 from merge import compare_objects, merge_people, ListDifference, ItemDifference
 from retire import retire
+
+SIMILAR_NAME_RATIO = 0.7
+
+
+def similarity(a, b):
+    return SequenceMatcher(None, a, b).ratio()
 
 
 def expand_seats(state):
@@ -82,9 +90,6 @@ class PersonFile(object):
                  (isinstance(diff, ItemDifference) and diff.value_two is not None))]
 
         return differences
-
-    def same_name(self, other):
-        return self.name == other.name  # TODO: Levenshtein dist
 
     def merge_contact_details(self, old, new, difference):
         contacts = OrderedDict((o['note'], o) for o in old[difference.key_name])
@@ -187,6 +192,8 @@ def merge(state, merger):
     seats = expand_seats(state)
     handled = set()
 
+    similar = []
+
     for existing in existing_people:
         if existing.id in handled:
             continue
@@ -195,12 +202,26 @@ def merge(state, merger):
             if new.id in handled:
                 continue
 
-            if existing.same_name(new):
+            if existing.name == new.name:
                 if existing.differences(new, new_only=True):
                     merger.update(existing, new)
                 handled |= {existing.id, new.id}
                 seats[new.seat[0]][new.seat[1]] -= 1
                 break
+
+            elif existing.seat == new.seat:  # check for similar name, same seat
+                name_similarity = similarity(existing.name, new.name)
+                if name_similarity > SIMILAR_NAME_RATIO:
+                    similar.append((name_similarity, existing, new))
+
+    similar.sort(key=itemgetter(0), reverse=True)
+    for _, existing, new in similar:
+        if existing.id in handled or new.id in handled:
+            continue
+        if existing.differences(new, new_only=True):
+            merger.update(existing, new)
+        handled |= {existing.id, new.id}
+        seats[new.seat[0]][new.seat[1]] -= 1
 
     for existing in existing_people:
         if existing.id in handled:
