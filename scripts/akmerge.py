@@ -105,10 +105,11 @@ def deferred(fn):
 
 
 class PersonMerger(object):
-    def __init__(self, defer=True, save=True):
+    def __init__(self, defer=True, save=True, end_date=None):
         self.operations = []
         self.defer = defer
         self.save = save
+        self.end_date = end_date or date.today().strftime('%Y-%m-%d')
 
     def sort_operations(self):
         self.operations.sort(key=lambda op: getattr(op[1][0], 'seat'))
@@ -131,8 +132,7 @@ class PersonMerger(object):
     def retire(self, existing):
         click.secho(f"In {existing.seat} retiring {existing.name}.", fg='blue')
         if self.save:
-            end_date = date.today().strftime('%Y-%m-%d')  # FIXME
-            retire(end_date, existing.filename, None, False)
+            retire(self.end_date, existing.filename, None, False)
 
     @deferred
     def update(self, existing, new):
@@ -143,7 +143,7 @@ class PersonMerger(object):
             district = role['district']
             seat = role['type'], int(district) if district.isdigit() else district
             if role_is_active(role) and seat != new.seat:
-                role['end_date'] = date.today().strftime('%Y-%m-%d')  # FIXME
+                role['end_date'] = self.end_date
                 moving = f" and moving to {new.seat}"
 
         click.secho(f"In {existing.seat} updating "
@@ -206,8 +206,9 @@ def merge(state, merger):
 @click.argument('state', default=None)
 @click.option('--defer/--no-defer', default=True, help="Defer changes until all are ready.")
 @click.option('--save/--no-save', default=True, help="Save changes.")
-def entrypoint(state, defer, save):
-    merger = PersonMerger(defer=defer, save=save)
+@click.option('--end-date', default=None, help="Default end date for retirements and moves.")
+def entrypoint(state, defer, save, end_date):
+    merger = PersonMerger(defer=defer, save=save, end_date=end_date)
     merge(state, merger)
 
 
