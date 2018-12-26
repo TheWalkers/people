@@ -5,7 +5,7 @@ import click
 from collections import Counter
 from datetime import date
 from utils import get_data_dir, load_yaml, dump_obj, get_settings, role_is_active
-from merge import compare_objects, merge_people
+from merge import compare_objects, merge_people, ListDifference, ItemDifference
 from retire import retire
 
 
@@ -73,8 +73,15 @@ class PersonFile(object):
         district = role['district']
         return role['type'], int(district) if district.isdigit() else district
 
-    def differences(self, other, ignore_keys=set(["id"])):
-        return compare_objects(self.data, other.data, ignore_keys=ignore_keys)
+    def differences(self, other, ignore_keys=set(["id"]), new_only=True):
+        differences = compare_objects(self.data, other.data, ignore_keys=ignore_keys)
+        if new_only:
+            differences = [
+                diff for diff in differences if
+                ((isinstance(diff, ListDifference) and diff.which_list == 'second') or
+                 (isinstance(diff, ItemDifference) and diff.value_two is not None))]
+
+        return differences
 
     def same_name(self, other):
         return self.name == other.name  # TODO: Levenshtein dist
@@ -176,7 +183,7 @@ def merge(state, merger):
                 continue
 
             if existing.same_name(new):
-                if existing.differences(new):
+                if existing.differences(new, new_only=True):
                     merger.update(existing, new)
                 handled |= {existing.id, new.id}
                 seats[new.seat[0]][new.seat[1]] -= 1
