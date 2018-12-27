@@ -21,14 +21,6 @@ class PersonFile(object):
     def __init__(self, filename, data):
         assert os.path.exists(filename)
         self.filename = filename
-        if 'data/' in filename:
-            self.kind = 'existing'
-        elif 'retired/' in filename:
-            self.kind = 'retired'
-        elif 'incoming/' in filename:
-            self.kind = 'incoming'
-        else:
-            raise Exception("Can't determine kind from filename %s" % filename)
         self.data = data
 
     @classmethod
@@ -41,6 +33,10 @@ class PersonFile(object):
     def from_dir(cls, directory):
         return [PersonFile.from_yaml(filename) for filename in
                 glob.glob(os.path.join(directory, "*.yml"))]
+
+    @property
+    def retired(self):
+        return '/retired/' in self.filename
 
     @property
     def id(self):
@@ -196,7 +192,8 @@ def merge(state, merger):
     for existing in existing_people:
         if existing.id in handled:
             continue
-        merger.retire(existing)
+        if not existing.retired:
+            merger.retire(existing)
 
     for new in new_people:
         if new.id in handled:
