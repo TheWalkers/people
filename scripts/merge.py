@@ -2,7 +2,6 @@
 
 import os
 import glob
-import yaml
 import click
 from utils import get_filename, get_data_dir, load_yaml, dump_obj
 
@@ -45,11 +44,11 @@ class MergeConflict(Exception):
         return str(self.difference)
 
 
-def compare_objects(obj1, obj2, prefix='', ignore_keys=set()):
+def compare_objects(obj1, obj2, prefix='', ignore=None):
     combined_keys = set(obj1) | set(obj2)
     differences = []
     for key in combined_keys:
-        if key in ignore_keys:
+        if ignore and key in ignore:
             continue
         key_name = '.'.join((prefix, key)) if prefix else key
         val1 = obj1.get(key)
@@ -79,7 +78,10 @@ def calculate_similarity(existing, new):
         if names differ, maximum match is 0.8
         for each item that differs, we decrease score by 0.1
     """
-    differences = compare_objects(existing, new)
+    differences = compare_objects(
+        existing, new,
+        ignore=['id', 'other_identifiers', 'given_name', 'family_name']
+    )
 
     # if nothing differs or only id differs
     if len(differences) == 0 or (len(differences) == 1 and differences[0].key_name == 'id'):
@@ -92,23 +94,22 @@ def calculate_similarity(existing, new):
 
     score -= 0.1*len(differences)
 
-    # don't count id difference
-    if existing['id'] != new['id']:
-        score += 0.1
-
     if score < 0:
         score = 0
 
     return score
 
 
-def directory_merge(existing_people, new_people):
+def directory_merge(abbr, existing_people, new_people, remove_identical, copy_new, interactive):
     perfect_matched = set()
     matches = []
+    id_to_new_filename = {}
 
     for new in new_people:
         best_similarity = 0
         best_match = None
+
+        id_to_new_filename[new['id']] = get_filename(new)
 
         for existing in existing_people:
             similarity = calculate_similarity(existing, new)
@@ -124,22 +125,58 @@ def directory_merge(existing_people, new_people):
 
     click.secho(f'{len(perfect_matched)} were perfect matches', fg='green')
 
+    if remove_identical:
+        for id in perfect_matched:
+            fname = id_to_new_filename[id]
+            fname = f'incoming/{abbr}/people/{fname}'.format(fname)
+            click.secho('removing ' + fname, fg='red')
+            os.remove(fname)
+
     unmatched = set(p['id'] for p in new_people) - perfect_matched
 
     for sim, new, old in sorted(matches, reverse=True, key=lambda x: x[0]):
         if sim < 0.001:
             break
         unmatched.remove(new['id'])
-        click.secho(' {:.2f} {} {}'.format(sim, get_filename(new), get_filename(old)),
-                    fg='yellow')
+        oldfname = 'data/{}/people/{}'.format(abbr, get_filename(old))
+        newfname = 'incoming/{}/people/{}'.format(abbr, get_filename(new))
+        click.secho(' {:.2f} {} {}'.format(sim, oldfname, newfname), fg='yellow')
+        if interactive:
+            differences = compare_objects(old, new)
+
+            for difference in differences:
+                click.echo('    ' + str(difference))
+            ch = '~'
+            while ch not in 'onsa':
+                click.secho('Keep (o)ld? Keep (n)ew? (s)kip? (a)bort?', bold=True)
+                ch = click.getchar()
+                if ch == 'a':
+                    raise SystemExit(-1)
+                elif ch == 'o':
+                    keep_on_conflict = 'old'
+                elif ch == 'n':
+                    keep_on_conflict = 'new'
+                elif ch == 's':
+                    continue
+                merged = merge_people(old, new, keep_both_ids=False,
+                                      keep_on_conflict=keep_on_conflict)
+                dump_obj(merged, filename=oldfname)
+                os.remove(newfname)
 
     click.secho(f'{len(unmatched)} were unmatched')
+    for id in unmatched:
+        fname = id_to_new_filename[id]
+        oldfname = f'incoming/{abbr}/people/{fname}'.format(fname)
+        if copy_new:
+            newfname = f'data/{abbr}/people/{fname}'.format(fname)
+            click.secho(f'moving {oldfname} to {newfname}', fg='yellow')
+            os.rename(oldfname, newfname)
 
 
 def merge_people(old, new, keep_on_conflict=None, keep_both_ids=False, custom_merges={}):
     differences = compare_objects(old, new)
-    for difference in differences:
 
+    for difference in differences:
         custom_merge = custom_merges.get(difference.key_name)
         if custom_merge:
             custom_merge(old, new, difference)
@@ -175,6 +212,12 @@ def merge_people(old, new, keep_on_conflict=None, keep_both_ids=False, custom_me
 @click.command()
 @click.option('--incoming', default=None,
               help='Operate in incoming mode, argument should be state abbr to scan.')
+@click.option('--remove-identical/--no-remove-identical',
+              help='In incoming mode, remove identical files.')
+@click.option('--copy-new/--no-copy-new', default=None,
+              help='In incoming mode, copy brand new files over.')
+@click.option('--interactive/--no-interactive', default=False,
+              help='Do interactive merges.')
 @click.option('--old', default=None,
               help='Operate in merge mode, this is the older of two files & will be kept.')
 @click.option('--new', default=None,
@@ -188,7 +231,7 @@ new
     Keep data in new file if there's conflict.
 
 When omitted, conflicts will raise error.''')
-def entrypoint(incoming, old, new, keep):
+def entrypoint(incoming, old, new, keep, remove_identical, copy_new, interactive):
     """
         Script to assist with merging legislator files.
 
@@ -205,19 +248,19 @@ def entrypoint(incoming, old, new, keep):
         for filename in (glob.glob(os.path.join(get_data_dir(abbr), 'people/*.yml')) +
                          glob.glob(os.path.join(get_data_dir(abbr), 'retired/*.yml'))):
             with open(filename) as f:
-                existing_people.append(yaml.load(f))
+                existing_people.append(load_yaml(f))
 
         new_people = []
         incoming_dir = get_data_dir(abbr).replace('data', 'incoming')
         for filename in glob.glob(os.path.join(incoming_dir, 'people/*.yml')):
             with open(filename) as f:
-                new_people.append(yaml.load(f))
+                new_people.append(load_yaml(f))
 
         click.secho(
             f'analyzing {len(existing_people)} existing people and {len(new_people)} incoming'
         )
 
-        directory_merge(existing_people, new_people)
+        directory_merge(abbr, existing_people, new_people, remove_identical, copy_new, interactive)
 
     if old and new:
         with open(old) as f:
@@ -226,8 +269,11 @@ def entrypoint(incoming, old, new, keep):
             new_obj = load_yaml(f)
         if keep not in ('old', 'new'):
             raise ValueError('--keep parameter must be old or new')
+        keep_both_ids = True
+        if 'incoming' in new:
+            keep_both_ids = False
         merged = merge_people(old_obj, new_obj, keep_on_conflict=keep,
-                              keep_both_ids=True)
+                              keep_both_ids=keep_both_ids)
         dump_obj(merged, filename=old)
         os.remove(new)
         click.secho(f'merged files into {old}\ndeleted {new}\ncheck git diff before committing')
