@@ -56,8 +56,8 @@ class PersonFile(object):
         district = role['district']
         return role['type'], int(district) if district.isdigit() else district
 
-    def differences(self, other, ignore_keys=set(["id"]), new_only=True):
-        differences = compare_objects(self.data, other.data, ignore_keys=ignore_keys)
+    def differences(self, other, ignore=set(["id"]), new_only=True):
+        differences = compare_objects(self.data, other.data, ignore=ignore)
         if new_only:
             differences = [
                 diff for diff in differences if
