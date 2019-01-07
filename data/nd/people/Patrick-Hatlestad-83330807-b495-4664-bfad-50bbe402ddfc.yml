@@ -21,7 +21,6 @@ roles:
 - district: '1'
   jurisdiction: ocd-jurisdiction/country:us/state:nd/government
   type: lower
-  end_date: '2018-12-31'
 sources:
 - url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-patrick-hatlestad
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-patrick-hatlestad
