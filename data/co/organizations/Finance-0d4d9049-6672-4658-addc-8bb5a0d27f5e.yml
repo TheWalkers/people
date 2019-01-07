@@ -14,7 +14,6 @@ memberships:
 - id: ocd-person/066d6ffd-0ebe-4bc3-ab92-2bdd3be19ae6
   name: Mike Foote
   role: vice-chair
-  end_date: '2018-12-31'
 - id: ocd-person/8a101153-85fa-41f3-a839-a21e31998dce
   name: Susan Beckman
 - id: ocd-person/a033ad21-bdb7-4af2-be2e-e21c3e4cfa24

@@ -2,6 +2,7 @@ id: ocd-person/489b3afa-1e08-40f4-918a-f01c186b6f73
 name: Tammy Story
 party:
 - name: Republican
+- name: Democratic
 roles:
 - district: '16'
   jurisdiction: ocd-jurisdiction/country:us/state:co/government
@@ -10,6 +11,7 @@ contact_details:
 - address: 200 E. Colfax;RM 346;Denver, CO 80203
   note: Capitol Office
   voice: 303-866-4873
+  email: tammy.story.senate@state.co.us
 links:
 - url: http://leg.colorado.gov/legislators/tammy-story
 sources:

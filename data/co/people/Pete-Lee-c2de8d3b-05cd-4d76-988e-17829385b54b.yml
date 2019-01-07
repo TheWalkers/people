@@ -1,11 +1,8 @@
 contact_details:
-- address: 200 E. Colfax;RM 307;Denver, CO 80203
-  email: pete.lee.house@state.co.us
-  note: Capitol Office
-  voice: 303-866-2932
 - address: 200 E. Colfax;RM 346;Denver, CO 80203
   note: Capitol Office
   voice: 303-866-6364
+  email: pete.lee.senate@state.co.us
 family_name: Lee
 given_name: Pete
 id: ocd-person/c2de8d3b-05cd-4d76-988e-17829385b54b
@@ -36,7 +33,6 @@ roles:
 - district: '11'
   jurisdiction: ocd-jurisdiction/country:us/state:co/government
   type: upper
-  end_date: '2018-12-31'
 sources:
 - url: http://leg.colorado.gov/legislators/pete-lee
 - url: http://leg.colorado.gov/legislators
