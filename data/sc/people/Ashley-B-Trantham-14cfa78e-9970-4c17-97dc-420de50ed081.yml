@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sc/government
   type: lower
 contact_details:
-- address: 306D Blatt Bldg.Columbia 29201
+- address: 522A Blatt Bldg.Columbia 29201
   note: Capitol Office
   voice: 803-212-6966
 - address: 101 West Court St.Suite A, Greenville 29601
