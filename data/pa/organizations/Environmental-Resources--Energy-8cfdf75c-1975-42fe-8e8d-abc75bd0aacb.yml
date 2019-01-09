@@ -18,6 +18,7 @@ memberships:
   name: Carolyn T. Comitta
 - id: ocd-person/e34ed67c-9bf6-48ee-a124-160b58e46450
   name: Will Tallman
+  end_date: '2018-12-31'
 - name: Pam Snyder
 - id: ocd-person/057cfedb-4780-4540-b708-b61b3e904a8b
   name: Stephen Bloom
@@ -34,6 +35,7 @@ memberships:
 - id: ocd-person/206ece70-6ffb-4f49-8836-62c9909412e4
   name: John Maher
   role: chair
+  end_date: '2018-12-31'
 - id: ocd-person/6c87e66a-3a18-4bff-bc8c-2a86ce07109a
   name: Becky Corbin
   end_date: '2018-12-31'

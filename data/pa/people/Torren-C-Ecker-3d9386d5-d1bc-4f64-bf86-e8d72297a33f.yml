@@ -1,0 +1,27 @@
+id: ocd-person/3d9386d5-d1bc-4f64-bf86-e8d72297a33f
+name: Torren C. Ecker
+party:
+- name: Republican
+roles:
+- district: '193'
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  type: lower
+contact_details:
+- address: South Middleton Township Building 520 Park Drive Boiling Springs, PA 17007
+  fax: 717-259-7802
+  note: District Office
+  voice: 717-612-0807
+- address: 161B East Wing House PO Box 202193 Harrisburg, PA 17120-2193
+  fax: 717-787-7588
+  note: Capitol Office
+  voice: 717-783-8875
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1862
+image: https://www.legis.state.pa.us/images/members/200/1862.jpg
+extras:
+  facebook: https://www.facebook.com/RepTorrenEcker
+  twitter: https://twitter.com/eckerrep
+  youtube: https://www.youtube.com/channel/UC71AIhiyA0MJ0x6ScnYvJQg

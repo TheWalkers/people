@@ -17,7 +17,7 @@ contact_details:
 - address: Senate Box 203028;Harrisburg, PA 17120-3028;Room:;168 Main Capitol
   note: Capitol Office
   voice: 717-787-7085
-- address: 6872 Susquehanna Trail S;York, PA 17403
+- address: 6872 Susquehanna Trail South Post Office Box 277;Jacobus, PA 17407
   fax: 717-741-4655
   note: District Office
   voice: 717-741-4648
@@ -35,3 +35,7 @@ other_identifiers:
   scheme: legacy_openstates
 given_name: Kristin
 family_name: Phillips-Hill
+extras.facebook: http://www.facebook.com/SenatorKristin
+extras.twitter: http://www.twitter.com/SenatorKristin
+extras.youtube: https://www.youtube.com/channel/UCCVUqHEfIFP1Ex1x0t9mELg
+extras.instagram: http://www.instagram.com/SenatorKristin

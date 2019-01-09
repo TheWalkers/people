@@ -13,9 +13,14 @@ contact_details:
   voice: 814-946-7218
 - address: 415 Irvis Office Building House PO Box 202079 Harrisburg, PA 17120-2079
   note: Capitol Office
+  fax: 717-782-2923
+  voice: 717-787-6419
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1839
 image: https://www.legis.state.pa.us/images/members/200/1839.jpg
+extras.facebook: https://www.facebook.com/pg/RepSchmitt
+extras.twitter: https://twitter.com/repschmitt
+extras.youtube: https://www.youtube.com/channel/UCm6Ah9jIZvDQ8QcYvX3OcsA

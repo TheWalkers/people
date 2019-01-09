@@ -42,6 +42,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/02e26fe8-f94f-49f4-882f-dd6ac734468d
   name: Vanessa Lowery Brown
+  end_date: '2018-12-31'
 - name: Thomas P. Murt
 - id: ocd-person/67100a8b-2f01-4d78-b88d-56c4f81e59f1
   name: Michael N. Corr

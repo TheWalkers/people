@@ -1,0 +1,24 @@
+id: ocd-person/641cefcd-902b-46c6-93fa-d6536bdb446a
+name: Natalie Mihalek
+party:
+- name: Republican
+roles:
+- district: '40'
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  type: lower
+contact_details:
+- address: 3515 Washington Road Suite 540 McMurray, PA 15317
+  fax: 724-942-2046
+  note: District Office
+  voice: 724-942-2045
+- address: 143B East Wing House PO Box 202040 Harrisburg, PA 17120-2040
+  note: Capitol Office
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1830
+image: https://www.legis.state.pa.us/images/members/200/1830.jpg
+extras:
+  facebook: https://www.facebook.com/RepMihalek
+  youtube: https://www.youtube.com/channel/UCBPJMqP9CJAgFlSNP3UlmxQ
