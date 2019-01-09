@@ -1,8 +1,6 @@
 contact_details:
 - email: David.Johnson@sdlegislature.gov
   note: Capitol Office
-- email: David.Johnson@sdlegislature.gov
-  note: Capitol Office
   voice: 605-773-3851
 - address: PO Box 3403;Rapid City, SD 57709
   note: District Office
@@ -28,3 +26,4 @@ roles:
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1548&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1438&Session=2019
+extras.occupation: Tree Nurseryman, Arborist, Comm. Pilot

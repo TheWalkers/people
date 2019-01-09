@@ -1,5 +1,5 @@
 id: ocd-person/3dd21bc8-f85c-4152-9823-d5603122afef
-name: Jordan Youngberg
+name: Jordan R Youngberg
 party:
 - name: Republican
 roles:
@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: Jordan.Youngberg@sdlegislature.gov
   note: Capitol Office
+  voice: 605-773-3821
+- address: 609 NE 3rd St.;Madison, SD 57042
+  note: District Office
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1534&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1597&Session=2019
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1534&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1597&Session=2019
 image: https://sdlegislature.gov/inc/img/Legislators/Youngberg_2017.jpg
 extras:
   occupation: Business Owner
@@ -21,3 +24,4 @@ other_identifiers:
   scheme: legacy_openstates
 given_name: Jordan
 family_name: Youngberg
+extras.occupation: Business Owner/Entrepreneur

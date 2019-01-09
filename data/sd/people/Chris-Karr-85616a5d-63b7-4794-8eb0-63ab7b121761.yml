@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: Chris.Karr@sdlegislature.gov
   note: Capitol Office
+  voice: 605-773-3851
+- address: 7421 W. Luke Dr.;Sioux Falls, SD 57106
+  note: District Office
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1549&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1620&Session=2019
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1549&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1620&Session=2019
 image: https://sdlegislature.gov/inc/img/Legislators/Karr_2017.jpg
 extras:
   occupation: Small Business Owner
