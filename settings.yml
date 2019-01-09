@@ -545,11 +545,8 @@ oh:
   upper_seats: 33
   vacancies:
     - chamber: lower
-      district: 14
-      vacant_until: 2019-02-01
-    - chamber: upper
-      district: 20
-      vacant_until: 2019-02-01
+      district: 97
+      vacant_until: 2019-02-15
 ok:
   legislature_name: Oklahoma Legislature
   lower_seats: 101
@@ -608,6 +605,16 @@ tx:
   legislature_name: Texas Legislature
   lower_seats: 150
   upper_seats: 31
+  vacancies:
+    - chamber: lower
+      district: 79
+      vacant_until: 2019-02-02
+    - chamber: lower
+      district: 125
+      vacant_until: 2019-02-16
+    - chamber: lower
+      district: 145
+      vacant_until: 2019-02-02
 ut:
   legislature_name: Utah State Legislature
   lower_seats: 75
