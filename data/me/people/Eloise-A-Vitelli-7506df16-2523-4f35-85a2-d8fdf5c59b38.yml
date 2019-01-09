@@ -1,5 +1,5 @@
 id: ocd-person/7506df16-2523-4f35-85a2-d8fdf5c59b38
-name: Eloise A. Vitelli
+name: Eloise Vitelli
 party:
 - name: Democratic
 roles:
@@ -7,11 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: 73 Newtown Road;Arrowsic, ME 04530
+- address: 73 Newtown Road, Arrowsic, ME 04530
   note: District Office
 - note: District Phone
   voice: 207-443-4660
-- email: Eloise.Vitelli@legistlature.maine.gov
+- email: Eloise.Vitelli@legislature.maine.gov
   note: District Email
 links:
 - url: https://legislature.maine.gov/District-23

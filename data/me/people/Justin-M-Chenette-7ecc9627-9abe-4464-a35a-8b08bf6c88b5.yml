@@ -1,5 +1,5 @@
 id: ocd-person/7ecc9627-9abe-4464-a35a-8b08bf6c88b5
-name: Justin M. Chenette
+name: Justin Chenette
 party:
 - name: Democratic
 roles:
@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: PO Box 315;Saco, ME 04072
+- address: 6A Lillian Ave. Saco, ME 04072
   note: District Office
 - note: District Phone
   voice: 207-590-3266

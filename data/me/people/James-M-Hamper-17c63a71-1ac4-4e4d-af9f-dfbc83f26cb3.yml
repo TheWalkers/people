@@ -1,5 +1,5 @@
 id: ocd-person/17c63a71-1ac4-4e4d-af9f-dfbc83f26cb3
-name: James M. Hamper
+name: James Hamper
 party:
 - name: Republican
 roles:
@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: 1023 King Street;Oxford, ME 04270
+- address: 1023 King St., Oxford, ME 04270
   note: District Office
 - note: District Phone
   voice: 207-539-4586

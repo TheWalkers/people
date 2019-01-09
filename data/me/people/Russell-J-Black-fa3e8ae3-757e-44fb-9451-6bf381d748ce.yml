@@ -1,5 +1,5 @@
 id: ocd-person/fa3e8ae3-757e-44fb-9451-6bf381d748ce
-name: Russell J. Black
+name: Russell Black
 party:
 - name: Republican
 roles:
@@ -17,6 +17,10 @@ contact_details:
   note: District Office
 - note: Business Phone
   voice: 207-491-4667
+- note: District Phone
+  voice: 207-645-2990
+- email: Russell.Black@legislature.maine.gov
+  note: District Email
 links:
 - url: https://legislature.maine.gov/District-17
 sources:

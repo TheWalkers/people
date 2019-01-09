@@ -1,5 +1,5 @@
 id: ocd-person/49b64122-5c6a-4dd9-9230-d5e5460f4b4d
-name: Kimberley C. Rosen
+name: Kimberley Rosen
 party:
 - name: Republican
 roles:
@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: PO Box 877;Bucksport, ME 04416
+- address: P.O. Box 877, Bucksport, ME 04416
   note: District Office
 - note: District Phone
   voice: 207-469-3779

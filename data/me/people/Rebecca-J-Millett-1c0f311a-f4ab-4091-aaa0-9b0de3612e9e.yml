@@ -1,5 +1,5 @@
 id: ocd-person/1c0f311a-f4ab-4091-aaa0-9b0de3612e9e
-name: Rebecca J. Millett
+name: Rebecca Millett
 party:
 - name: Democratic
 roles:
@@ -7,11 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: PMB 375, 50 Market Street, Suite 1A;South Portland, ME 04106
+- address: PMB 375, 50 Market St., South Portland, ME 04106
   note: District Office
 - note: District Phone
   voice: 207-415-3770
-- email: Rebecca.Millett@legislature.maine.com
+- email: Rebecca.Millett@legislature.maine.gov
   note: District Email
 links:
 - url: https://legislature.maine.gov/District-29

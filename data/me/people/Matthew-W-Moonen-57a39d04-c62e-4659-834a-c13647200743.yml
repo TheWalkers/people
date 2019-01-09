@@ -1,5 +1,5 @@
 id: ocd-person/57a39d04-c62e-4659-834a-c13647200743
-name: Matthew W. Moonen
+name: Matt W. Moonen
 party:
 - name: Democratic
 roles:
@@ -7,14 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 contact_details:
-- address: '53 Thomas Street, #3, Portland, ME 04102'
-  email: Matthew.Moonen@legislature.maine.gov
+- address: '53 Thomas St., #3, Portland, ME 04102'
+  email: Matt.Moonen@legislature.maine.gov
   note: District Office
 links:
 - url: http://www.maine.gov/legis/house/hsebios/moonmw.htm
 sources:
 - url: http://www.maine.gov/legis/house/hsebios/moonmw.htm
-image: http://www.maine.gov/legis/house/photo128/moonmw.jpg
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/118
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/5ce2da1b-2227-407f-8f25-9cc5647cf4c5_moonen.jpg
 extras:
   district_name: Portland
 other_identifiers:

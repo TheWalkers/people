@@ -1,5 +1,5 @@
 id: ocd-person/703a35ac-6b04-473c-94b0-45cd0f790a31
-name: Geoffrey M. Gratwick
+name: Geoffrey Gratwick
 party:
 - name: Democratic
 roles:
@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: 1230 Kenduskeag Avenue;Bangor, ME 04401
+- address: 1230 Kenduskeag Ave., Bangor, ME 04401
   note: District Office
 - note: District Phone
   voice: 207-947-0637

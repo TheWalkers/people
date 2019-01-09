@@ -1,5 +1,5 @@
 id: ocd-person/3439fe0c-fb43-4977-ac8c-1dd1f8f10e96
-name: Stacey K. Guerin
+name: Stacey Guerin
 party:
 - name: Republican
 roles:
@@ -11,10 +11,17 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
   start_date: 2019-01-01
+- district: '10'
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  type: upper
 contact_details:
 - address: 79 Phillips Road, Glenburn, ME 04401
   email: Stacey.Guerin@legislature.maine.gov
   note: District Office
+- note: District Phone
+  voice: 207-249-0472
+- email: Stacey.Guerin@legislature.maine.gov
+  note: District Email
 links:
 - url: https://legislature.maine.gov/District-10
 sources:
