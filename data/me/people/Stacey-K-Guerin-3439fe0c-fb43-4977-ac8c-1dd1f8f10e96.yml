@@ -11,9 +11,6 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
   start_date: 2019-01-01
-- district: '10'
-  jurisdiction: ocd-jurisdiction/country:us/state:me/government
-  type: upper
 contact_details:
 - address: 79 Phillips Road, Glenburn, ME 04401
   email: Stacey.Guerin@legislature.maine.gov
