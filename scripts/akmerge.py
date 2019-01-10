@@ -78,7 +78,9 @@ class PersonFile(object):
         new_roles = {role_key(role): role for role in new[difference.key_name]}
 
         for role in old[difference.key_name]:
-            role.update(new_roles.get(role_key(role), {}))
+            role.update(new_roles.pop(role_key(role), {}))
+
+        old[difference.key_name].extend(new_roles.values())  # copy remaining
 
     def replace(self, old, new, difference):
         old[difference.key_name] = new[difference.key_name]
