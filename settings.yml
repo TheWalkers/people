@@ -360,7 +360,6 @@ me:
   vacancies:
       - chamber: lower
         district: 124
-        vacant_until: 2021-01-01
 mi:
   legislature_name: Michigan Legislature
   lower_seats: 110
@@ -376,6 +375,10 @@ mn:
   lower_seats: ['1A', '1B', '2A', '2B', '3A', '3B', '4A', '4B', '5A', '5B', '6A', '6B', '7A', '7B', '8A', '8B', '9A', '9B', '10A', '10B', '11A', '11B', '12A', '12B', '13A', '13B', '14A', '14B', '15A', '15B', '16A', '16B', '17A', '17B', '18A', '18B', '19A', '19B', '20A', '20B', '21A', '21B', '22A', '22B', '23A', '23B', '24A', '24B', '25A', '25B', '26A', '26B', '27A', '27B', '28A', '28B', '29A', '29B', '30A', '30B', '31A', '31B', '32A', '32B', '33A', '33B', '34A', '34B', '35A', '35B', '36A', '36B', '37A', '37B', '38A', '38B', '39A', '39B', '40A', '40B', '41A', '41B', '42A', '42B', '43A', '43B', '44A', '44B', '45A', '45B', '46A', '46B', '47A', '47B', '48A', '48B', '49A', '49B', '50A', '50B', '51A', '51B', '52A', '52B', '53A', '53B', '54A', '54B', '55A', '55B', '56A', '56B', '57A', '57B', '58A', '58B', '59A', '59B', '60A', '60B', '61A', '61B', '62A', '62B', '63A', '63B', '64A', '64B', '65A', '65B', '66A', '66B', '67A', '67B']
   legslature_name: Minnesota State Legislature
   upper_seats: 67
+  vacancies:
+    - chamber: upper
+      district: 11
+      vacant_until: 2019-02-10
 mt:
   legislature_name: Montana Legislature
   lower_seats: 100
@@ -428,76 +431,8 @@ ne:
   legislature_name: Nebraska Legislature
   legislature_title: Senator
   legislature_seats: 49
-  vacancies:
-    - chamber: legislature
-      district: 14
-      vacant_until: 2019-02-01
 nh:
   legislature_name: New Hampshire General Court
-  vacancies:
-    - district: Cheshire 4
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Merrimack 1
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Merrimack 12
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Rockingham 10
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Rockingham 29
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Rockingham 32
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Belknap 5
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 11
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 15
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 21
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 31
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 34
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 37
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 37
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 4
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 42
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Hillsborough 9
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Merrimack 27
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Rockingham 8
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Rockingham 8
-      chamber: lower
-      vacant_until: 2019-02-01
-    - district: Rockingham 8
-      chamber: lower
-      vacant_until: 2019-02-01
   upper_seats: 24
   lower_seats: {'Belknap 1': 1, 'Belknap 2': 4, 'Belknap 3': 4, 'Belknap 4': 2, 'Belknap 5': 2, 'Belknap 6': 2, 'Belknap 7': 1, 'Belknap 8': 1, 'Belknap 9': 1, 'Carroll 1': 1, 'Carroll 2': 3, 'Carroll 3': 2, 'Carroll 4': 2, 'Carroll 5': 3, 'Carroll 6': 2, 'Carroll 7': 1, 'Carroll 8': 1, 'Cheshire 1': 4, 'Cheshire 2': 1, 'Cheshire 3': 1, 'Cheshire 4': 1, 'Cheshire 5': 1, 'Cheshire 6': 1, 'Cheshire 7': 1, 'Cheshire 8': 1, 'Cheshire 9': 2, 'Cheshire 10': 1, 'Cheshire 11': 2, 'Cheshire 12': 2, 'Cheshire 13': 1, 'Cheshire 14': 1, 'Cheshire 15': 1, 'Cheshire 16': 2, 'Coos 1': 2, 'Coos 2': 1, 'Coos 3': 3, 'Coos 4': 1, 'Coos 5': 1, 'Coos 6': 1, 'Coos 7': 1, 'Grafton 1': 2, 'Grafton 2': 1, 'Grafton 3': 1, 'Grafton 4': 1, 'Grafton 5': 1, 'Grafton 6': 1, 'Grafton 7': 1, 'Grafton 8': 3, 'Grafton 9': 2, 'Grafton 10': 1, 'Grafton 11': 1, 'Grafton 12': 4, 'Grafton 13': 4, 'Grafton 14': 1, 'Grafton 15': 1, 'Grafton 16': 1, 'Grafton 17': 1, 'Hillsborough 1': 2, 'Hillsborough 2': 3, 'Hillsborough 3': 1, 'Hillsborough 4': 2, 'Hillsborough 5': 2, 'Hillsborough 6': 5, 'Hillsborough 7': 6, 'Hillsborough 8': 2, 'Hillsborough 9': 2, 'Hillsborough 10': 2, 'Hillsborough 11': 2, 'Hillsborough 12': 2, 'Hillsborough 13': 2, 'Hillsborough 14': 2, 'Hillsborough 15': 2, 'Hillsborough 16': 2, 'Hillsborough 17': 2, 'Hillsborough 18': 2, 'Hillsborough 19': 2, 'Hillsborough 20': 2, 'Hillsborough 21': 8, 'Hillsborough 22': 3, 'Hillsborough 23': 4, 'Hillsborough 24': 2, 'Hillsborough 25': 2, 'Hillsborough 26': 2, 'Hillsborough 27': 2, 'Hillsborough 28': 3, 'Hillsborough 29': 3, 'Hillsborough 30': 3, 'Hillsborough 31': 3, 'Hillsborough 32': 3, 'Hillsborough 33': 3, 'Hillsborough 34': 3, 'Hillsborough 35': 3, 'Hillsborough 36': 3, 'Hillsborough 37': 11, 'Hillsborough 38': 2, 'Hillsborough 39': 1, 'Hillsborough 40': 1, 'Hillsborough 41': 1, 'Hillsborough 42': 2, 'Hillsborough 43': 3, 'Hillsborough 44': 2, 'Hillsborough 45': 2, 'Merrimack 1': 1, 'Merrimack 2': 2, 'Merrimack 3': 2, 'Merrimack 4': 1, 'Merrimack 5': 2, 'Merrimack 6': 2, 'Merrimack 7': 1, 'Merrimack 8': 1, 'Merrimack 9': 2, 'Merrimack 10': 3, 'Merrimack 11': 1, 'Merrimack 12': 1, 'Merrimack 13': 1, 'Merrimack 14': 1, 'Merrimack 15': 1, 'Merrimack 16': 1, 'Merrimack 17': 1, 'Merrimack 18': 1, 'Merrimack 19': 1, 'Merrimack 20': 3, 'Merrimack 21': 2, 'Merrimack 22': 1, 'Merrimack 23': 3, 'Merrimack 24': 4, 'Merrimack 25': 1, 'Merrimack 26': 1, 'Merrimack 27': 2, 'Merrimack 28': 1, 'Merrimack 29': 1, 'Rockingham 1': 1, 'Rockingham 2': 3, 'Rockingham 3': 3, 'Rockingham 4': 5, 'Rockingham 5': 7, 'Rockingham 6': 10, 'Rockingham 7': 4, 'Rockingham 8': 9, 'Rockingham 9': 2, 'Rockingham 10': 1, 'Rockingham 11': 1, 'Rockingham 12': 1, 'Rockingham 13': 4, 'Rockingham 14': 4, 'Rockingham 15': 1, 'Rockingham 16': 1, 'Rockingham 17': 3, 'Rockingham 18': 4, 'Rockingham 19': 2, 'Rockingham 20': 3, 'Rockingham 21': 4, 'Rockingham 22': 1, 'Rockingham 23': 1, 'Rockingham 24': 2, 'Rockingham 25': 1, 'Rockingham 26': 1, 'Rockingham 27': 1, 'Rockingham 28': 1, 'Rockingham 29': 1, 'Rockingham 30': 1, 'Rockingham 31': 1, 'Rockingham 32': 1, 'Rockingham 33': 1, 'Rockingham 34': 1, 'Rockingham 35': 1, 'Rockingham 36': 1, 'Rockingham 37': 1, 'Strafford 1': 2, 'Strafford 2': 2, 'Strafford 3': 2, 'Strafford 4': 2, 'Strafford 5': 1, 'Strafford 6': 5, 'Strafford 7': 1, 'Strafford 8': 1, 'Strafford 9': 1, 'Strafford 10': 1, 'Strafford 11': 1, 'Strafford 12': 1, 'Strafford 13': 1, 'Strafford 14': 1, 'Strafford 15': 1, 'Strafford 16': 1, 'Strafford 17': 3, 'Strafford 18': 3, 'Strafford 19': 1, 'Strafford 20': 1, 'Strafford 21': 1, 'Strafford 22': 1, 'Strafford 23': 1, 'Strafford 24': 1, 'Strafford 25': 1, 'Sullivan 1': 2, 'Sullivan 2': 1, 'Sullivan 3': 1, 'Sullivan 4': 1, 'Sullivan 5': 1, 'Sullivan 6': 2, 'Sullivan 7': 1, 'Sullivan 8': 1, 'Sullivan 9': 1, 'Sullivan 10': 1, 'Sullivan 11': 1}
 nj:
@@ -545,11 +480,8 @@ oh:
   upper_seats: 33
   vacancies:
     - chamber: lower
-      district: 14
-      vacant_until: 2019-02-01
-    - chamber: upper
-      district: 20
-      vacant_until: 2019-02-01
+      district: 97
+      vacant_until: 2019-02-15
 ok:
   legislature_name: Oklahoma Legislature
   lower_seats: 101
@@ -628,6 +560,16 @@ tx:
   legislature_name: Texas Legislature
   lower_seats: 150
   upper_seats: 31
+  vacancies:
+    - chamber: lower
+      district: 79
+      vacant_until: 2019-02-02
+    - chamber: lower
+      district: 125
+      vacant_until: 2019-02-16
+    - chamber: lower
+      district: 145
+      vacant_until: 2019-02-02
 ut:
   legislature_name: Utah State Legislature
   lower_seats: 75
@@ -644,7 +586,7 @@ vt:
       district: Chittenden-6-7
       vacant_until: 2019-02-01
     - chamber: lower
-      district: Chittenden-9-1
+      district: Franklin-5
       vacant_until: 2019-02-01
   lower_seats: {'Addison-1': 2, 'Addison-2': 1, 'Addison-3': 2, 'Addison-4': 2, 'Addison-5': 1, 'Addison-Rutland': 1, 'Bennington-1': 1, 'Bennington-2-1': 2, 'Bennington-2-2': 2, 'Bennington-3': 1, 'Bennington-4': 2, 'Bennington-Rutland': 1, 'Caledonia-1': 1, 'Caledonia-2': 1, 'Caledonia-3': 2, 'Caledonia-4': 2, 'Caledonia-Washington': 1, 'Chittenden-10': 2, 'Chittenden-1': 1, 'Chittenden-2': 2, 'Chittenden-3': 2, 'Chittenden-4-1': 1, 'Chittenden-4-2': 1, 'Chittenden-5-1': 1, 'Chittenden-5-2': 1, 'Chittenden-6-1': 2, 'Chittenden-6-2': 1, 'Chittenden-6-3': 2, 'Chittenden-6-4': 2, 'Chittenden-6-5': 2, 'Chittenden-6-6': 1, 'Chittenden-6-7': 2, 'Chittenden-7-1': 1, 'Chittenden-7-2': 1, 'Chittenden-7-3': 1, 'Chittenden-7-4': 1, 'Chittenden-8-1': 2, 'Chittenden-8-2': 2, 'Chittenden-8-3': 1, 'Chittenden-9-1': 2, 'Chittenden-9-2': 2, 'Essex-Caledonia': 1, 'Essex-Caledonia-Orleans': 1, 'Franklin-1': 1, 'Franklin-2': 1, 'Franklin-3-1': 2, 'Franklin-3-2': 1, 'Franklin-4': 2, 'Franklin-5': 2, 'Franklin-6': 1, 'Franklin-7': 1, 'Grand Isle-Chittenden': 2, 'Lamoille-1': 1, 'Lamoille-2': 2, 'Lamoille-3': 1, 'Lamoille-Washington': 2, 'Orange-1': 2, 'Orange-2': 1, 'Orange-Caledonia': 1, 'Orange-Washington-Addison': 2, 'Orleans-1': 2, 'Orleans-2': 2, 'Orleans-Caledonia': 2, 'Orleans-Lamoille': 1, 'Rutland-1': 1, 'Rutland-2': 2, 'Rutland-3': 2, 'Rutland-4': 1, 'Rutland-5-1': 1, 'Rutland-5-2': 1, 'Rutland-5-3': 1, 'Rutland-5-4': 1, 'Rutland-6': 2, 'Rutland-Bennington': 1, 'Rutland-Windsor-1': 1, 'Rutland-Windsor-2': 1, 'Washington-1': 2, 'Washington-2': 2, 'Washington-3': 2, 'Washington-4': 2, 'Washington-5': 1, 'Washington-6': 1, 'Washington-7': 2, 'Washington-Chittenden': 2, 'Windham-1': 1, 'Windham-2-1': 1, 'Windham-2-2': 1, 'Windham-2-3': 1, 'Windham-3': 2, 'Windham-4': 2, 'Windham-5': 1, 'Windham-6': 1, 'Windham-Bennington': 1, 'Windham-Bennington-Windsor': 1, 'Windsor-1': 2, 'Windsor-2': 1, 'Windsor-3-1': 1, 'Windsor-3-2': 2, 'Windsor-4-1': 1, 'Windsor-4-2': 2, 'Windsor-5': 1, 'Windsor-Orange-1': 1, 'Windsor-Orange-2': 2, 'Windsor-Rutland': 1}
   upper_seats: {'Addison': 2, 'Bennington': 2, 'Caledonia': 2, 'Chittenden': 6, 'Essex-Orleans': 2, 'Franklin': 2, 'Grand Isle': 1, 'Lamoille': 1, 'Orange': 1, 'Rutland': 3, 'Washington': 3, 'Windham': 2, 'Windsor': 3}
