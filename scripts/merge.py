@@ -205,7 +205,7 @@ def merge_people(old, new, keep_on_conflict=None, keep_both_ids=False, custom_me
         if isinstance(difference, ListDifference):
             # only need to handle case where item is only in second list
             if difference.which_list == 'second':
-                old[difference.key_name].append(difference.list_item)
+                old.setdefault(difference.key_name, []).append(difference.list_item)
     return old
 
 
