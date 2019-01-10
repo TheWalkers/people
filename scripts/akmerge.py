@@ -1,6 +1,7 @@
 
 import os
 import glob
+import re
 import click
 from collections import Counter, OrderedDict
 from datetime import date
@@ -110,7 +111,16 @@ class PersonMerger(object):
         self.end_date = end_date or date.today().strftime('%Y-%m-%d')
 
     def sort_operations(self):
-        self.operations.sort(key=lambda op: getattr(op[1][0], 'seat'))
+        def get_seat(op):
+            type, district = getattr(op[1][0], 'seat', "")
+            district = str(district)
+            int_part = re.match(r'(\d+)', district)
+            if int_part:
+                return (type, int(int_part.group(1)),  district)
+            else:
+                return (type, 0, district)
+
+        self.operations.sort(key=get_seat)
 
     def execute_deferred(self):
         self.sort_operations()
