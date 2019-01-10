@@ -80,11 +80,16 @@ class PersonFile(object):
         for role in old[difference.key_name]:
             role.update(new_roles.get(role_key(role), {}))
 
+    def replace(self, old, new, difference):
+        old[difference.key_name] = new[difference.key_name]
+
     def merge(self, other):
         "Merge differences from the other PersonFile into this one"
         custom_merges = {
             'contact_details': self.merge_contact_details,
             'roles': self.merge_roles,
+            'sources': self.replace,
+            'links': self.replace,
         }
         self.data = merge_people(self.data, other.data, keep_on_conflict='new',
                                  custom_merges=custom_merges)
