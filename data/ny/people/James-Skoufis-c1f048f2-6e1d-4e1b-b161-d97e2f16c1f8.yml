@@ -20,11 +20,9 @@ contact_details:
   note: District Office
   voice: 518-455-3290
 links:
-- url: http://assembly.state.ny.us/mem/?sh=email
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/james-skoufis/contact
 sources:
-- url: http://assembly.state.ny.us/mem/James-Skoufis
 - url: http://www.nysenate.gov/senators/james-skoufis/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/headshot_4.jpg?itok=7Unqzqwx
 other_identifiers:
