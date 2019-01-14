@@ -1,0 +1,19 @@
+id: ocd-person/18b3f13c-8878-4b5d-9139-1c24ac170307
+name: Robert Sutherland
+party:
+- name: Republican
+roles:
+- district: '39'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 405 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  email: Dan.Kristiansen@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7967
+links:
+- url: http://houserepublicans.wa.gov/Robert-Sutherland/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/sutherland.jpg

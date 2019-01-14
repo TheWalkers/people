@@ -1,0 +1,19 @@
+id: ocd-person/9665a7d6-9ef9-4c96-855f-ecbcfbf25086
+name: Chris Corry
+party:
+- name: Republican
+roles:
+- district: '14'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 410 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  email: Chris.Corry@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7810
+links:
+- url: http://houserepublicans.wa.gov/Chris-Corry/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/corry.jpg

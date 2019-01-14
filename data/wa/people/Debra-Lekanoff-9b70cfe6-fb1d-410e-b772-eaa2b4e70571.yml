@@ -1,0 +1,19 @@
+id: ocd-person/9b70cfe6-fb1d-410e-b772-eaa2b4e70571
+name: Debra Lekanoff
+party:
+- name: Democratic
+roles:
+- district: '40'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 422 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  email: Debra.Lekanoff@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7800
+links:
+- url: http://housedemocrats.wa.gov/legislators/Debra-Lekanoff/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/lekanoff.jpg

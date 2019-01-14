@@ -1,0 +1,19 @@
+id: ocd-person/63a66fe4-6d6f-4628-b20f-16d267a40f02
+name: Melanie Morgan
+party:
+- name: Democratic
+roles:
+- district: '29'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 417 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  email: Melanie.Morgan@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7906
+links:
+- url: http://housedemocrats.wa.gov/legislators/Melanie-Morgan/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/morgan.jpg

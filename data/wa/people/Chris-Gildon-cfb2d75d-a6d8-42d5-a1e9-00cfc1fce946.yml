@@ -1,0 +1,19 @@
+id: ocd-person/cfb2d75d-a6d8-42d5-a1e9-00cfc1fce946
+name: Chris Gildon
+party:
+- name: Republican
+roles:
+- district: '25'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 409 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  email: Chris.Gildon@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7968
+links:
+- url: http://houserepublicans.wa.gov/Chris-Gildon/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/gildon.jpg

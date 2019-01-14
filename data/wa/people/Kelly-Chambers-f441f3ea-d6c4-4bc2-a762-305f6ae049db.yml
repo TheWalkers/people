@@ -1,0 +1,19 @@
+id: ocd-person/f441f3ea-d6c4-4bc2-a762-305f6ae049db
+name: Kelly Chambers
+party:
+- name: Republican
+roles:
+- district: '25'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 426 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  email: Kelly.Chambers@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7948
+links:
+- url: http://houserepublicans.wa.gov/Kelly-Chambers/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/chambers.jpg

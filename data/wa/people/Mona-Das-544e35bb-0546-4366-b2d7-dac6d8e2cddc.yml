@@ -1,0 +1,19 @@
+id: ocd-person/544e35bb-0546-4366-b2d7-dac6d8e2cddc
+name: Mona Das
+party:
+- name: Democratic
+roles:
+- district: '47'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: upper
+contact_details:
+- address: 230 John A. Cherberg Building;PO Box 40447;Olympia, WA 98504
+  email: mona.das@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7692
+links:
+- url: http://sdc.wastateleg.org/Das/
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx
+image: http://www.leg.wa.gov/Senate/Senators/PublishingImages/das.jpg
