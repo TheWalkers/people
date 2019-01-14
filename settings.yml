@@ -138,6 +138,9 @@ la:
       district: 17
       vacant_until: 2019-03-01
     - chamber: lower
+      district: 18
+      vacant_until: 2019-03-01
+    - chamber: lower
       district: 26
       vacant_until: 2019-03-01
     - chamber: lower
