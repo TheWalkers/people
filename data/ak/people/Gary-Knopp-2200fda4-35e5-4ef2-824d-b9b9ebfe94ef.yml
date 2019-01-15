@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=kno
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=KNO
 contact_details:
 - address: State Capitol Room 424;Juneau AK, 99801
   note: Capitol Office
@@ -24,8 +24,8 @@ contact_details:
 - fax: 907-283-2763
   note: District Office Fax
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=kno
-image: http://akleg.gov/images/legislators/rounded/KNO.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=KNO
+image: http://akleg.gov/images/legislators/KNO.jpg
 other_identifiers:
 - identifier: AKL000183
   scheme: legacy_openstates

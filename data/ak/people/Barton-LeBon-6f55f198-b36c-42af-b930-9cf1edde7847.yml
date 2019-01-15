@@ -1,0 +1,22 @@
+id: ocd-person/6f55f198-b36c-42af-b930-9cf1edde7847
+name: Barton LeBon
+party:
+- name: Republican
+roles:
+- district: '1'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: State Capitol Room 502;Juneau AK, 99801
+  note: Capitol Office
+- email: Representative.Barton.LeBon@akleg.gov
+  note: E-mail
+- address: 1292 Sadler Way Ste. 308;Fairbanks AK, 99701
+  note: District Office
+- note: Capitol Office Phone
+  voice: 907-465-3709
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=LEB
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=LEB
+image: http://akleg.gov/images/legislators/LEB.jpg

@@ -1,0 +1,22 @@
+id: ocd-person/2b212af4-3ebe-4f40-bbd3-584e719ae39d
+name: Kelly Merrick
+party:
+- name: Republican
+roles:
+- district: '14'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: State Capitol Room 409;Juneau AK, 99801
+  note: Capitol Office
+- email: Representative.Kelly.Merrick@akleg.gov
+  note: E-mail
+- address: 12641 Old Glenn Hwy, Ste 201 Ste. 201;Eagle River AK, 99577
+  note: District Office
+- note: Capitol Office Phone
+  voice: 907-465-3777
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=MRR
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=MRR
+image: http://akleg.gov/images/legislators/MRR.jpg

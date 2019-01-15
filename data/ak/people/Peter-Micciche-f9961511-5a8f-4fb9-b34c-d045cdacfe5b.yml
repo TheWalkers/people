@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: upper
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=mhe
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=MHE
 contact_details:
 - address: State Capitol Room 508;Juneau AK, 99801
   note: Capitol Office
@@ -22,8 +22,8 @@ contact_details:
 - fax: 907-283-3075
   note: District Office Fax
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=mhe
-image: http://akleg.gov/images/legislators/rounded/MHE.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=MHE
+image: http://akleg.gov/images/legislators/MHE.jpg
 other_identifiers:
 - identifier: AKL000067
   scheme: legacy_openstates

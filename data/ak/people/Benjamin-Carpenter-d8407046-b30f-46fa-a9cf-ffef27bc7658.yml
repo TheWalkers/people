@@ -1,0 +1,22 @@
+id: ocd-person/d8407046-b30f-46fa-a9cf-ffef27bc7658
+name: Benjamin Carpenter
+party:
+- name: Republican
+roles:
+- district: '29'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: State Capitol Room 434;Juneau AK, 99801
+  note: Capitol Office
+- email: Representative.Benjamin.Carpenter@akleg.gov
+  note: E-mail
+- address: 145 Main Street Loop Ste. 223;Kenai AK, 99611
+  note: District Office
+- note: Capitol Office Phone
+  voice: 907-465-3779
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=CAE
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=CAE
+image: http://akleg.gov/images/legislators/CAE.jpg

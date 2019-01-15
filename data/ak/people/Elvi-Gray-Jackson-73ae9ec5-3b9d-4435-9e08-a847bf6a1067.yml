@@ -1,0 +1,22 @@
+id: ocd-person/73ae9ec5-3b9d-4435-9e08-a847bf6a1067
+name: Elvi Gray-Jackson
+party:
+- name: Democratic
+roles:
+- district: I
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: upper
+contact_details:
+- address: State Capitol Room 417;Juneau AK, 99801
+  note: Capitol Office
+- email: Senator.Elvi.Gray-Jackson@akleg.gov
+  note: E-mail
+- address: 1500 W. Benson Blvd.;Anchorage AK, 99503
+  note: District Office
+- note: Capitol Office Phone
+  voice: 907-465-4930
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=GRA
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=GRA
+image: http://akleg.gov/images/legislators/GRA.jpg
