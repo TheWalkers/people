@@ -1,0 +1,20 @@
+id: ocd-person/6f55f198-b36c-42af-b930-9cf1edde7847
+name: Barton LeBon
+party:
+- name: Republican
+roles:
+- district: '1'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: ;,
+  note: Capitol Office
+- email: Representative.Barton.LeBon@akleg.gov
+  note: E-mail
+- address: ;,
+  note: District Office
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=LEB
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=LEB
+image: http://akleg.gov/images/legislators/LEB.jpg

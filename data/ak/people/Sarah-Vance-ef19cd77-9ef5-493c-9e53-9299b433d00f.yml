@@ -1,0 +1,20 @@
+id: ocd-person/ef19cd77-9ef5-493c-9e53-9299b433d00f
+name: Sarah Vance
+party:
+- name: Republican
+roles:
+- district: '31'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: ;,
+  note: Capitol Office
+- email: Representative.Sarah.Vance@akleg.gov
+  note: E-mail
+- address: ;,
+  note: District Office
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=VAN
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=VAN
+image: http://akleg.gov/images/legislators/VAN.jpg

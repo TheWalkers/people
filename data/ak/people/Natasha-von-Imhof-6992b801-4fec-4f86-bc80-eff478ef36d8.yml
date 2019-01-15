@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: upper
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=von
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=VON
 contact_details:
 - address: State Capitol Room 514;Juneau AK, 99801
   note: Capitol Office
@@ -20,8 +20,8 @@ contact_details:
 - note: District Office Phone
   voice: 907-269-0250
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=von
-image: http://akleg.gov/images/legislators/rounded/VON.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=VON
+image: http://akleg.gov/images/legislators/VON.jpg
 other_identifiers:
 - identifier: AKL000186
   scheme: legacy_openstates

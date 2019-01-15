@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=kre
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=KRE
 contact_details:
 - address: State Capitol Room 411;Juneau AK, 99801
   note: Capitol Office
@@ -20,8 +20,8 @@ contact_details:
 - note: District Office Phone
   voice: 907-747-4665
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=kre
-image: http://akleg.gov/images/legislators/rounded/KRE.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=KRE
+image: http://akleg.gov/images/legislators/KRE.jpg
 other_identifiers:
 - identifier: AKL000074
   scheme: legacy_openstates

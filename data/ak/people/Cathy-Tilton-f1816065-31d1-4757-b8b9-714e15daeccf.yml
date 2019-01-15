@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=tlt
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=TLT
 contact_details:
 - address: State Capitol Room 400;Juneau AK, 99801
   note: Capitol Office
@@ -20,8 +20,8 @@ contact_details:
 - note: District Office Phone
   voice: 907-373-6298
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=tlt
-image: http://akleg.gov/images/legislators/rounded/TLT.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=TLT
+image: http://akleg.gov/images/legislators/TLT.jpg
 other_identifiers:
 - identifier: AKL000144
   scheme: legacy_openstates

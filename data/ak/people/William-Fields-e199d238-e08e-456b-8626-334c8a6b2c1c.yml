@@ -1,0 +1,20 @@
+id: ocd-person/e199d238-e08e-456b-8626-334c8a6b2c1c
+name: William Fields
+party:
+- name: Democratic
+roles:
+- district: '20'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: ;,
+  note: Capitol Office
+- email: Representative.William.Fields@akleg.gov
+  note: E-mail
+- address: ;,
+  note: District Office
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=FIE
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=FIE
+image: http://akleg.gov/images/legislators/FIE.jpg

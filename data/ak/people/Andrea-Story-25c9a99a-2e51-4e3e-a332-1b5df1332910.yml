@@ -1,0 +1,20 @@
+id: ocd-person/25c9a99a-2e51-4e3e-a332-1b5df1332910
+name: Andrea Story
+party:
+- name: Democratic
+roles:
+- district: '34'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: ;,
+  note: Capitol Office
+- email: Representative.Andrea.Story@akleg.gov
+  note: E-mail
+- address: ;,
+  note: District Office
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=STO
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=STO
+image: http://akleg.gov/images/legislators/STO.jpg

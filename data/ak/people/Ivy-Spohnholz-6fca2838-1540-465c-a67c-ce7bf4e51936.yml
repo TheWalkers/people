@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=spn
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=SPN
 contact_details:
 - address: State Capitol Room 421;Juneau AK, 99801
   note: Capitol Office
@@ -22,8 +22,8 @@ contact_details:
 - fax: 907-269-0124
   note: District Office Fax
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=spn
-image: http://akleg.gov/images/legislators/rounded/SPN.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=SPN
+image: http://akleg.gov/images/legislators/SPN.jpg
 other_identifiers:
 - identifier: AKL000178
   scheme: legacy_openstates

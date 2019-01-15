@@ -1,0 +1,20 @@
+id: ocd-person/c56909c5-b5a0-473f-90cb-4996f072b80e
+name: Sara Rasmussen
+party:
+- name: Republican
+roles:
+- district: '22'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: ;,
+  note: Capitol Office
+- email: Representative.Sara.Rasmussen@akleg.gov
+  note: E-mail
+- address: ;,
+  note: District Office
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=RAS
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=RAS
+image: http://akleg.gov/images/legislators/RAS.jpg

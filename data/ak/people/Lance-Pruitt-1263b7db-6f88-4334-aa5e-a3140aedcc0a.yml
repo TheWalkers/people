@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=pru
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=PRU
 contact_details:
 - address: State Capitol Room 415;Juneau AK, 99801
   note: Capitol Office
@@ -22,8 +22,8 @@ contact_details:
 - fax: 907-269-0105
   note: District Office Fax
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=pru
-image: http://akleg.gov/images/legislators/rounded/PRU.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=PRU
+image: http://akleg.gov/images/legislators/PRU.jpg
 other_identifiers:
 - identifier: AKL000051
   scheme: legacy_openstates

@@ -1,0 +1,20 @@
+id: ocd-person/e1db4954-f7fd-420f-8abe-d5d52107e55f
+name: Sara Hannan
+party:
+- name: Democratic
+roles:
+- district: '33'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: ;,
+  note: Capitol Office
+- email: Representative.Sara.Hannan@akleg.gov
+  note: E-mail
+- address: ;,
+  note: District Office
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=HNN
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=HNN
+image: http://akleg.gov/images/legislators/HNN.jpg
