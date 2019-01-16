@@ -1,0 +1,20 @@
+id: ocd-person/d225c0c0-73e6-483f-826c-76bb27184487
+name: Josh Revak
+party:
+- name: Republican
+roles:
+- district: '25'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+contact_details:
+- address: ;,
+  note: Capitol Office
+- email: Representative.Josh.Revak@akleg.gov
+  note: E-mail
+- address: ;,
+  note: District Office
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=REA
+sources:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=REA
+image: http://akleg.gov/images/legislators/REA.jpg

@@ -1,5 +1,5 @@
 id: ocd-person/457bb1a2-7c80-4db7-882f-7ecf63615034
-name: Michael E Carpenter
+name: Michael Carpenter
 party:
 - name: Democratic
 roles:
@@ -7,10 +7,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: PO Box 1406;Houlton, ME 04730
+- address: PO Box 1406, Houlton, ME 04730
   note: District Office
 - note: District Phone
-  voice: 207-532-8137
+  voice: 207-532-2491
 - email: Mike.Carpenter@legislature.maine.gov
   note: District Email
 links:

@@ -1,0 +1,19 @@
+id: ocd-person/822faa2e-f20f-483c-8270-dc3f50c7b2c0
+name: Lauren Davis
+party:
+- name: Democratic
+roles:
+- district: '32'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 369 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  email: Lauren.Davis@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7910
+links:
+- url: http://housedemocrats.wa.gov/legislators/Lauren-Davis/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/davis.jpg

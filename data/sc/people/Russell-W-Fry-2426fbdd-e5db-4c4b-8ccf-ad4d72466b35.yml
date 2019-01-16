@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sc/government
   type: lower
 contact_details:
-- address: 522D Blatt Office Bldg.Columbia 29201
+- address: 522D Blatt Bldg.Columbia 29201
   note: Capitol Office
   voice: 803-212-6781
 - address: P.O. Box 14444Surfside Beach 29587

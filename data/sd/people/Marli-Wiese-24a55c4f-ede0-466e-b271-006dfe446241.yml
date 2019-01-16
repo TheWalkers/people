@@ -26,3 +26,4 @@ roles:
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1550&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1564&Session=2019
+extras.occupation: Farming

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=sul
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=SUL
 contact_details:
 - address: State Capitol Room 420;Juneau AK, 99801
   note: Capitol Office
@@ -20,8 +20,8 @@ contact_details:
 - note: District Office Phone
   voice: 907-373-6285
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=sul
-image: http://akleg.gov/images/legislators/rounded/SUL.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=SUL
+image: http://akleg.gov/images/legislators/SUL.jpg
 other_identifiers:
 - identifier: AKL000192
   scheme: legacy_openstates

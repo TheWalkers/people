@@ -10,6 +10,10 @@ contact_details:
 - address: Senate Box 203010;Harrisburg, PA 17120-3010;Room:;184 Main Capitol
   note: Capitol Office
   voice: 717-787-7305
+  email: mailto:Senatorsantarsiero@pasenate.com
+- address: Building 100, Suite 121 2003 Lower State Road;Doylestown, PA 18901
+  email: mailto:Senatorsantarsiero@pasenate.com
+  note: District Office
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
 sources:
@@ -20,3 +24,5 @@ extras:
   facebook: https://www.facebook.com/RepSantarsiero
   twitter: https://www.twitter.com/RepSantarsiero
   youtube: http://www.youtube.com/playlist?list=PLD551064C0003AF50
+extras.facebook: https://www.facebook.com/SenSantarsiero/
+extras.twitter: https://twitter.com/SenSantarsiero

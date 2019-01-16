@@ -20,7 +20,7 @@ links:
 sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1651
-image: http://www.legis.state.pa.us/images/members/200/1651.jpg
+image: https://www.legis.state.pa.us/images/members/200/1651.jpg
 extras:
   facebook: https://www.facebook.com/RepSnyder
   twitter: https://www.twitter.com/RepSnyder

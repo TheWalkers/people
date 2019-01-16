@@ -39,6 +39,7 @@ memberships:
   name: Matthew D. Dowling
 - id: ocd-person/97c8e552-2d56-4f0e-9d85-852481c0e72d
   name: Emilio A. Vazquez
+  end_date: '2018-12-31'
 - id: ocd-person/e6a8e555-0d65-4a1f-9673-56ad1e3c7855
   name: Christopher M. Rabb
 - id: ocd-person/e72daf8d-195e-442a-a778-78d530eb6edf

@@ -1,5 +1,5 @@
 id: ocd-person/c6fa0ac3-5c66-4661-bc45-7575a173a741
-name: Kris Langer
+name: Kris K Langer
 party:
 - name: Republican
 roles:
@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: Kris.Langer@sdlegislature.gov
   note: Capitol Office
+  voice: 605-773-3821
+- address: 600 W. 7th St.;Dell Rapids, SD 57022
+  note: District Office
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1504&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1603&Session=2019
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1504&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1603&Session=2019
 image: https://sdlegislature.gov/inc/img/Legislators/Langer_2017.jpg
 extras:
   occupation: Realtor

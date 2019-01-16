@@ -1,5 +1,5 @@
 id: ocd-person/3ef077c6-482d-4dc2-92ef-69ac2a09bf06
-name: Jeffrey L. Timberlake
+name: Jeffrey Timberlake
 party:
 - name: Republican
 roles:
@@ -17,6 +17,10 @@ contact_details:
   note: District Office
 - note: Home Phone
   voice: 207-225-6016
+- note: District Phone
+  voice: 207-754-6000
+- email: Jeffrey.Timberlake@legislature.maine.gov
+  note: District Email
 links:
 - url: https://legislature.maine.gov/District-22
 sources:

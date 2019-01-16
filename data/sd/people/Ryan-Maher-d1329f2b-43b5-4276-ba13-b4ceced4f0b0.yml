@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: Ryan.Maher@sdlegislature.gov
   note: Capitol Office
+  voice: 605-773-3821
+- address: PO Box 237;Isabel, SD 57633
+  note: District Office
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1462&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1568&Session=2019
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1462&Session=2018s
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1568&Session=2019
 image: https://sdlegislature.gov/inc/img/Legislators/Maher_2017.jpg
 extras:
   occupation: Insurance Agent/Restaurant Owner

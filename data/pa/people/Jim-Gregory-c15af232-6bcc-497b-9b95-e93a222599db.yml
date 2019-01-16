@@ -1,0 +1,25 @@
+id: ocd-person/c15af232-6bcc-497b-9b95-e93a222599db
+name: Jim Gregory
+party:
+- name: Republican
+roles:
+- district: '80'
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  type: lower
+contact_details:
+- address: 135 Stadium Drive P.O. Box 111 Bellwood, PA 16617
+  fax: 814-742-7207
+  note: District Office
+  voice: 814-742-7204
+- address: 159A East Wing House PO Box 202080 Harrisburg, PA 17120-080
+  note: Capitol Office
+  voice: 717-787-9020
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1840
+image: https://www.legis.state.pa.us/images/members/200/1840.jpg
+extras:
+  facebook: https://www.facebook.com/RepJimGregory
+  youtube: https://www.youtube.com/channel/UCQs49IhGjt72ANB33dQVdzA

@@ -6,6 +6,11 @@ roles:
 - district: '86'
   jurisdiction: ocd-jurisdiction/country:us/state:va/government
   type: lower
+  end_date: 2019-01-08
+- district: '33'
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  type: upper
+  start_date: 2019-01-14
 contact_details:
 - address: 730 Elden Street;Herndon, Virginia 20170
   email: DelJBoysko@house.virginia.gov

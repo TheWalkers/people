@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=jhs
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=JHS
 contact_details:
 - address: State Capitol Room 405;Juneau AK, 99801
   note: Capitol Office
@@ -24,8 +24,8 @@ contact_details:
 - fax: 907-376-4928
   note: District Office Fax
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=jhs
-image: http://akleg.gov/images/legislators/rounded/JHS.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=JHS
+image: http://akleg.gov/images/legislators/JHS.jpg
 other_identifiers:
 - identifier: AKL000187
   scheme: legacy_openstates

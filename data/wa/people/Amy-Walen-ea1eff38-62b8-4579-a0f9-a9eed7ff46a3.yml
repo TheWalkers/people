@@ -1,0 +1,19 @@
+id: ocd-person/ea1eff38-62b8-4579-a0f9-a9eed7ff46a3
+name: Amy Walen
+party:
+- name: Democratic
+roles:
+- district: '48'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 418 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  email: Joan.McBride@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7848
+links:
+- url: http://housedemocrats.wa.gov/legislators/Amy-Walen/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/walen.jpg

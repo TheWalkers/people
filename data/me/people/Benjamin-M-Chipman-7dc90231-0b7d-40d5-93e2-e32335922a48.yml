@@ -1,5 +1,5 @@
 id: ocd-person/7dc90231-0b7d-40d5-93e2-e32335922a48
-name: Benjamin M. Chipman
+name: Benjamin Chipman
 party:
 - name: Democratic
 roles:
@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: '5 Mayo St #3;Portland, ME 04101'
+- address: '5 Mayo St #3, Portland, ME 04101'
   note: District Office
 - note: District Phone
   voice: 207-318-4961

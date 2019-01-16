@@ -26,3 +26,4 @@ roles:
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1454&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1621&Session=2019
+extras.occupation: Insurance Agent

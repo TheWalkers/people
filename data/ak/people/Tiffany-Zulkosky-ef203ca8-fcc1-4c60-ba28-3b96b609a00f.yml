@@ -1,5 +1,5 @@
 id: ocd-person/ef203ca8-fcc1-4c60-ba28-3b96b609a00f
-name: Tiffany  Zulkosky
+name: Tiffany Zulkosky
 party:
 - name: Democratic
 roles:
@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=zul
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=ZUL
 contact_details:
 - address: State Capitol Room 416;Juneau AK, 99801
   note: Capitol Office
@@ -24,8 +24,8 @@ contact_details:
 - fax: 907-543-5892
   note: District Office Fax
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=zul
-image: http://akleg.gov/images/legislators/rounded/ZUL.png
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=ZUL
+image: http://akleg.gov/images/legislators/ZUL.jpg
 other_identifiers:
 - identifier: AKL000197
   scheme: legacy_openstates

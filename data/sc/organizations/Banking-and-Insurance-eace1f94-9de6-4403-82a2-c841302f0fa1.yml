@@ -23,6 +23,7 @@ memberships:
   name: Kent M. Williams
 - id: ocd-person/f80f5cbc-aebf-462e-ae16-7e5d32e002a5
   name: William Timmons
+  end_date: '2018-12-31'
 - id: ocd-person/27fb6caf-f757-44a3-8973-6ce72aacd7e2
   name: Luke A. Rankin
 - id: ocd-person/cfe2d50f-0241-496c-9557-2a3d6edef4fd

@@ -2,6 +2,10 @@ ak:
   legislature_name: Alaska State Legislature
   lower_seats: 40
   upper_seats: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T']
+  vacancies:
+      - chamber: lower
+        district: 13
+        vacant_until: 2019-06-01
 al:
   legislature_name: Alabama Legislature
   lower_seats: 105
@@ -24,14 +28,26 @@ co:
   legislature_name: Colorado General Assembly
   lower_seats: 65
   upper_seats: 35
-  vacancies:
-    - chamber: lower
-      district: 52
-      vacant_until: 2019-03-01   # unsure
 ct:
   legislature_name: Connecticut General Assembly
   lower_seats: 151
   upper_seats: 36
+  vacancies:
+    - chamber: lower
+      district: 39
+      vacant_until: 2021-01-01
+    - chamber: lower
+      district: 99
+      vacant_until: 2021-01-01
+    - chamber: upper
+      district: 3
+      vacant_until: 2021-01-01
+    - chamber: upper
+      district: 5
+      vacant_until: 2021-01-01
+    - chamber: upper
+      district: 6
+      vacant_until: 2021-01-01
 dc:
   legislature_name: Council of the District of Columbia
   legislature_seats: {'Ward 1': 1, 'Ward 2': 1, 'Ward 3': 1, 'Ward 4': 1, 'Ward 5': 1, 'Ward 6': 1, 'Ward 7': 1, 'Ward 8': 1, 'Chairman': 1, 'At-Large': 4}
@@ -57,20 +73,11 @@ fl:
   upper_seats: 40
   vacancies:
     - chamber: lower
-      district: 32
-      vacant_until: 2019-02-01
+      district: 7
+      vacant_until: 2021-01-01
     - chamber: lower
-      district: 33
-      vacant_until: 2019-02-01
-    - chamber: lower
-      district: 90
-      vacant_until: 2019-02-01
-    - chamber: lower
-      district: 105
-      vacant_until: 2019-02-01
-    - chamber: upper
-      district: 16
-      vacant_until: 2019-02-01
+      district: 97
+      vacant_until: 2021-01-01
 ga:
   legislature_name: Georgia General Assembly
   lower_seats: 180
@@ -95,6 +102,13 @@ il:
   legislature_name: Illinois General Assembly
   lower_seats: 118
   upper_seats: 59
+  vacancies:
+      - chamber: lower
+        district: 16
+        vacant_until: 2021-01-01
+      - chamber: lower
+        district: 26
+        vacant_until: 2021-01-01
 in:
   legislature_name: Indiana General Assembly
   lower_seats: 100
@@ -115,6 +129,10 @@ ky:
   legislature_name: Kentucky General Assembly
   lower_seats: 100
   upper_seats: 38
+  vacancies:
+      - chamber: upper
+        district: 31
+        vacant_until: 2021-01-01
 la:
   legislature_name: Louisiana Legislature
   lower_seats: 105
@@ -125,6 +143,9 @@ la:
       vacant_until: 2019-03-01
     - chamber: lower
       district: 17
+      vacant_until: 2019-03-01
+    - chamber: lower
+      district: 18
       vacant_until: 2019-03-01
     - chamber: lower
       district: 26
@@ -353,6 +374,9 @@ me:
   legislature_name: Maine Legislature
   lower_seats: 151
   upper_seats: 35
+  vacancies:
+      - chamber: lower
+        district: 124
 mi:
   legislature_name: Michigan Legislature
   lower_seats: 110
@@ -381,6 +405,16 @@ ms:
   legislature_name: Mississippi Legislature
   lower_seats: 122
   upper_seats: 52
+  vacancies:
+      - chamber: lower
+        district: 32
+        vacant_until: 2019-04-09
+      - chamber: lower
+        district: 71
+        vacant_until: 2019-04-09
+      - chamber: lower
+        district: 101
+        vacant_until: 2019-04-09
 nc:
   legislature_name: North Carolina General Assembly
   lower_seats: 120
@@ -443,6 +477,16 @@ pa:
   legislature_name: Pennsylvania General Assembly
   lower_seats: 203
   upper_seats: 50
+  vacancies:
+    - chamber: lower
+      district: 114
+      vacant_until: 2021-01-01
+    - chamber: lower
+      district: 190
+      vacant_until: 2021-01-01
+    - chamber: upper
+      district: 37
+      vacant_until: 2019-04-02
 pr:
   legislature_name: Legislative Assembly of Puerto Rico
   lower_seats: {'1': 1, '2': 1, '3': 1, '4': 1, '5': 1, '6': 1, '7': 1, '8': 1, '9': 1, '10': 1, '11': 1, '12': 1, '13': 1, '14': 1, '15': 1, '16': 1, '17': 1, '18': 1, '19': 1, '20': 1, '21': 1, '22': 1, '23': 1, '24': 1, '25': 1, '26': 1, '27': 1, '28': 1, '29': 1, '30': 1, '31': 1, '32': 1, '33': 1, '34': 1, '35': 1, '36': 1, '37': 1, '38': 1, '39': 1, '40': 1, 'At-Large': 11}
@@ -473,6 +517,13 @@ sc:
   legislature_name: South Carolina Legislature
   lower_seats: 124
   upper_seats: 46
+  vacancies:
+    - chamber: lower
+      district: 14
+      vacant_until: 2021-01-01
+    - chamber: upper
+      district: 6
+      vacant_until: 2021-01-01
 sd:
   legislature_name: South Dakota State Legislature
   lower_seats: {'1': 2, '2': 2, '3': 2, '4': 2, '5': 2, '6': 2, '7': 2, '8': 2, '9': 2, '10': 2, '11': 2, '12': 2, '13': 2, '14': 2, '15': 2, '16': 2, '17': 2, '18': 2, '19': 2, '20': 2, '21': 2, '22': 2, '23': 2, '24': 2, '25': 2, '26A': 1, '26B': 1, '27': 2, '28A': 1, '28B': 1, '29': 2, '30': 2, '31': 2, '32': 2, '33': 2, '34': 2, '35': 2}
@@ -482,6 +533,9 @@ tn:
   lower_seats: 99
   upper_seats: 33
   vacancies:
+    - chamber: upper
+      district: 22
+      vacant_until: 2019-05-14
     - chamber: upper
       district: 32
       vacant_until: 2019-03-14
@@ -508,6 +562,10 @@ va:
   lower_seats: 100
   lower_title: Delegate
   upper_seats: 40
+  vacancies:
+      - chamber: lower
+        district: 86
+        vacant_until: 2021-01-01
 vt:
   legislature_name: Vermont General Assembly
   vacancies:
@@ -523,6 +581,13 @@ wa:
   legislature_name: Washington State Legislature
   lower_seats: {'1': 2, '2': 2, '3': 2, '4': 2, '5': 2, '6': 2, '7': 2, '8': 2, '9': 2, '10': 2, '11': 2, '12': 2, '13': 2, '14': 2, '15': 2, '16': 2, '17': 2, '18': 2, '19': 2, '20': 2, '21': 2, '22': 2, '23': 2, '24': 2, '25': 2, '26': 2, '27': 2, '28': 2, '29': 2, '30': 2, '31': 2, '32': 2, '33': 2, '34': 2, '35': 2, '36': 2, '37': 2, '38': 2, '39': 2, '40': 2, '41': 2, '42': 2, '43': 2, '44': 2, '45': 2, '46': 2, '47': 2, '48': 2, '49': 2}
   upper_seats: 49
+  vacancies:
+    - chamber: lower
+      district: 13
+      vacant_until: 2019-06-01
+    - chamber: upper
+      district: 40
+      vacant_until: 2019-06-01
 wi:
   legislature_name: Wisconsin State Legislature
   lower_seats: 99

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: PO Box 68;Harpswell, ME 04079
+- address: PO Box 68, Harpswell, ME 04079
   note: District Office
 - note: District Phone
   voice: 207-751-9076

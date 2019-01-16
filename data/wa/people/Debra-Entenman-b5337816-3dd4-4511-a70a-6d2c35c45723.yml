@@ -1,0 +1,19 @@
+id: ocd-person/b5337816-3dd4-4511-a70a-6d2c35c45723
+name: Debra Entenman
+party:
+- name: Democratic
+roles:
+- district: '47'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 305 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  email: Debra.Entenman@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7918
+links:
+- url: http://housedemocrats.wa.gov/legislators/Debra-Entenman/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/entenman.jpg

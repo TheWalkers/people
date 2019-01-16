@@ -35,6 +35,7 @@ memberships:
   name: George E. "Chip" Campsen, III
 - id: ocd-person/f80f5cbc-aebf-462e-ae16-7e5d32e002a5
   name: William Timmons
+  end_date: '2018-12-31'
 - id: ocd-person/bf0e5259-d4e3-472c-a3a0-384eab1e8ae2
   name: Ross Turner
 - id: ocd-person/9b4e7cb9-4e4e-484d-8ce9-4fe4a73b8c59

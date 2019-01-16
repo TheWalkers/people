@@ -1,10 +1,8 @@
 contact_details:
 - email: Shawn.Bordeaux@sdlegislature.gov
   note: Capitol Office
-- email: Shawn.Bordeaux@sdlegislature.gov
-  note: Capitol Office
   voice: 605-773-3851
-- address: PO Box 283;444 Haystack Butte Rd.;Mission, SD 57555
+- address: PO Box 283;Mission, SD 57555
   note: District Office
 extras:
   occupation: Dir., Institute of Tribal Lands, Sinte Gleska Univ
@@ -28,3 +26,4 @@ roles:
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1513&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1592&Session=2019
+extras.occupation: Dir. Inst. of Tribal Lands, Sinte Gleska Univ

@@ -49,6 +49,7 @@ memberships:
   name: Jerry Knowles
 - id: ocd-person/02e26fe8-f94f-49f4-882f-dd6ac734468d
   name: Vanessa Lowery Brown
+  end_date: '2018-12-31'
 - id: ocd-person/4d2dae11-b2e5-4f69-8b7d-7ab1e0a4efad
   name: Gerald J. Mullery
 - id: ocd-person/4a2176cc-292b-4d19-aff6-8b4c4b460ba0

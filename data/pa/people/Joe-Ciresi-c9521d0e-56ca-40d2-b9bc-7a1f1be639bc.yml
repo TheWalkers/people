@@ -9,6 +9,8 @@ roles:
 contact_details:
 - address: 125A East Wing House PO Box 202146 Harrisburg, PA 17120-2146
   note: Capitol Office
+  fax: 717-705-1891
+  voice: 717-783-4086
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:

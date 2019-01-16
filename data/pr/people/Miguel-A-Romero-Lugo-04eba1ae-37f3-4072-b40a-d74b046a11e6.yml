@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/territory:pr/government
   type: upper
 contact_details:
-- email: mromero@senado.pr.gov
+- email: maromero@senado.pr.gov
   note: Capitol Office
   voice: 787-724-2030
 links:

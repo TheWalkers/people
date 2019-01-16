@@ -1,0 +1,20 @@
+id: ocd-person/a00ccb9e-1e3a-4fec-9be2-9a7e8fe7e19e
+name: Danilo Burgos
+party:
+- name: Democratic
+roles:
+- district: '197'
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  type: lower
+contact_details:
+- address: 635 West Erie Ave. Philadelphia, PA 19140
+  note: District Office
+  voice: 215-223-1890
+- address: 105B East Wing House PO Box 202197 Harrisburg, PA 17120-2197
+  note: Capitol Office
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1863
+image: https://www.legis.state.pa.us/images/members/200/1863.jpg
