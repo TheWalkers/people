@@ -7,12 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 contact_details:
-- address: ;,
+- address: State Capitol Room 24;Juneau AK, 99801
   note: Capitol Office
 - email: Representative.Andrea.Story@akleg.gov
   note: E-mail
-- address: ;,
+- address: State Capitol Room 24;Juneau AK, 99801
   note: District Office
+- note: Capitol Office Phone
+  voice: 907-465-3744
 links:
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=STO
 sources:

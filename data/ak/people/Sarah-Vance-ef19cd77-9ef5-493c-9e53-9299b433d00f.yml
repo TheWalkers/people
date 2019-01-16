@@ -7,12 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 contact_details:
-- address: ;,
+- address: State Capitol Room 505;Juneau AK, 99801
   note: Capitol Office
 - email: Representative.Sarah.Vance@akleg.gov
   note: E-mail
-- address: ;,
+- address: 270 W. Pioneer Ave.;Homer AK, 99603
   note: District Office
+- note: Capitol Office Phone
+  voice: 907-465-2689
 links:
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=VAN
 sources:
