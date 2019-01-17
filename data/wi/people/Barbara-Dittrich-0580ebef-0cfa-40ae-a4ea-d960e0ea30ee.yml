@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wi/government
   type: lower
 contact_details:
-- address: Room 18 North;State Capitol;PO Box 8952;Madison, WI 53708
+- address: Room 19 North;State Capitol;PO Box 8952;Madison, WI 53708
   email: Rep.Dittrich@legis.wisconsin.gov
   fax: 608-282-3638
   note: Capitol Office
