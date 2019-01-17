@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wy/government
   type: upper
 contact_details:
-- address: 1078 Riverbend Drive, Douglas WY 82633
+- address: PO Box 1308, Douglas WY 82633
   email: Brian.Boner@wyoleg.gov
   note: ''
   voice: 307-359-0707
@@ -25,6 +25,7 @@ extras:
   - orgname: Knights of Columbus
   - orgname: American Legion
   - orgname: Wyoming LEAD Class 13
+  - orgname: Association of Air Force Missileers
   county: Converse, Platte
   education:
   - degree: B.S.-Political Science

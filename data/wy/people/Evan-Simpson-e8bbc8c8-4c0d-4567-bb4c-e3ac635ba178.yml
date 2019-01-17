@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wy/government
   type: lower
 contact_details:
-- address: 406 Liberty Lane, Afton WY 83110
+- address: P.O. Box 678, Afton WY 83110
   email: Evan.Simpson@wyoleg.gov
   note: ''
   voice: 307-885-5588
@@ -25,7 +25,7 @@ extras:
   occupation: Consulting Civil Engineer, Retired
   place_of_birth: Afton, WY
   religion: Church of Jesus Christ of Latter-day Saints
-  spouse_given_name: Bev
+  spouse_given_name: Bev Simpson
   wy_leg_id: 2050
 other_identifiers:
 - identifier: WYL000166
