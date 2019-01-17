@@ -1,5 +1,5 @@
 id: ocd-person/5e54c6e7-01cb-42c8-b3ed-8137e6c995fd
-name: Connie Van Houten
+name: Constance Van Houten
 other_names:
 - name: Constance Van Houten
 party:
@@ -11,9 +11,6 @@ roles:
 contact_details:
 - email: Constance.VanHouten@leg.state.nh.us
   note: Capitol Office
-- address: 11 Carriage Way;Unit 4;Manchester, NH 03102-8429
-  note: District Office
-  voice: 603-622-9701
 - address: '"11 Carriage Way, Unit 4";Manchester, NH 03102-8429'
   note: District Office
   voice: 603-622-9701
