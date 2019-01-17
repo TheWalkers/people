@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nm/government
   type: lower
 contact_details:
-- address: 4301 Summit Lane;Las Cruces, NM 88011
+- address: 5305 Superstition Street;Las Cruces, NM 88011
   note: District Office
   voice: 575-649-6325
 - address: Room 134A State Capitol;Santa Fe, NM 87501
