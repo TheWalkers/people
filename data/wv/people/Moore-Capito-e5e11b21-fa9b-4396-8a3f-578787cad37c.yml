@@ -7,10 +7,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wv/government
   type: lower
 contact_details:
-- address: Room 404M, Building 1;State Capitol Complex;Charleston, WV 25305
+- address: Room 408M, Building 1;State Capitol Complex;Charleston, WV 25305
   email: moore.capito@wvhouse.gov
   note: Capitol Office
-  voice: 304-340-3340
+  voice: 304-340-3252
 - address: PO Box 2788;Charleston, WV, 25330
   note: District Office
   voice: 304-552-8986
