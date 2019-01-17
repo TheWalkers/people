@@ -12,7 +12,7 @@ roles:
   type: upper
   start_date: '2019-01-09'
 contact_details:
-- address: 216 Miller Senate Office Building;11 Bladen Street;Annapolis, MD 21401
+- address: 216 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401
   email: jeff.waldstreicher@senate.state.md.us
   note: Capitol Office
   voice: 410-841-3137
