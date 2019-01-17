@@ -173,6 +173,13 @@ def directory_merge(abbr, existing_people, new_people, remove_identical, copy_ne
             os.rename(oldfname, newfname)
 
 
+def set_prefixed(dictionary, key, value):
+    prefixes = key.split('.')
+    for prefix in prefixes[:-1]:
+        dictionary = dictionary.setdefault(prefix, {})
+    dictionary[prefixes[-1]] = value
+
+
 def merge_people(old, new, keep_on_conflict=None, keep_both_ids=False, custom_merges={}):
     differences = compare_objects(old, new)
 
@@ -192,20 +199,24 @@ def merge_people(old, new, keep_on_conflict=None, keep_both_ids=False, custom_me
 
         if isinstance(difference, ItemDifference):
             if difference.value_one is None:
-                old[difference.key_name] = difference.value_two
+                set_prefixed(old, difference.key_name, difference.value_two)
             elif difference.value_two is None:
                 pass
             elif keep_on_conflict == 'old':
                 pass
             elif keep_on_conflict == 'new':
-                old[difference.key_name] = difference.value_two
+                set_prefixed(old, difference.key_name, difference.value_two)
             else:
                 raise MergeConflict(difference)
 
         if isinstance(difference, ListDifference):
-            # only need to handle case where item is only in second list
             if difference.which_list == 'second':
-                old.setdefault(difference.key_name, []).append(difference.list_item)
+                dictionary = old
+                prefixes = difference.key_name.split('.')
+                for prefix in prefixes[:-1]:
+                    dictionary = dictionary.setdefault(prefix, {})
+                dictionary.setdefault(prefixes[-1], []).append(difference.list_item)
+
     return old
 
 
