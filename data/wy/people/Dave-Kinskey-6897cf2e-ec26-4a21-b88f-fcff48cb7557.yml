@@ -32,6 +32,7 @@ extras:
   - orgname: Wyoming Association of Municipalities
   - orgname: Sheridan Area Water System
   - orgname: Sheridan Economic and Educational Development Authority
+  - orgname: Pheasants Forever
   county: Sheridan, Johnson
   education:
   - degree: B.A., Economics
@@ -41,7 +42,7 @@ extras:
     gradYear: '1982'
     schoolName: University of Wyoming Law School
   number_children: '3'
-  occupation: Small Business Owner
+  occupation: Attorney / Independent Businessperson
   place_of_birth: ''
   religion: Catholic
   spouse_given_name: Donna

@@ -27,6 +27,10 @@ extras:
   religion: United Methodist
   spouse_given_name: Justin
   wy_leg_id: 1141
+  education:
+  - degree: MBA
+    gradYear: '2014'
+    schoolName: University of Wyoming
 other_identifiers:
 - identifier: WYL000089
   scheme: legacy_openstates

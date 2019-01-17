@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wy/government
   type: lower
 contact_details:
-- address: 2340 No. Carolina Way, Green River WY 82935
+- address: 2340 N. Carolina Way, Green River WY 82935
   email: John.Freeman@wyoleg.gov
   note: ''
   voice: 307-875-7378
