@@ -1,5 +1,5 @@
 id: ocd-person/85616a5d-63b7-4794-8eb0-63ab7b121761
-name: Chris Karr
+name: Chris G Karr
 party:
 - name: Republican
 roles:
@@ -12,6 +12,7 @@ contact_details:
   voice: 605-773-3851
 - address: 7421 W. Luke Dr.;Sioux Falls, SD 57106
   note: District Office
+  voice: 605-695-0391
 links:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1620&Session=2019
 sources:

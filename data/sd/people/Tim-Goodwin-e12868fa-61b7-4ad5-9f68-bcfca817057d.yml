@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3851
 - address: 12870 J. Pine Rd.;Rapid City, SD 57702
   note: District Office
+  voice: 605-390-5324
 extras:
-  occupation: Retired Military/Retired Business
+  occupation: Retired US Army/Retired Business
 family_name: Goodwin
 given_name: Tim
 id: ocd-person/e12868fa-61b7-4ad5-9f68-bcfca817057d
 image: https://sdlegislature.gov/inc/img/Legislators/Goodwin_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1546&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1444&Session=2019
 name: Tim Goodwin
 other_identifiers:
@@ -24,6 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1546&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1444&Session=2019
-extras.occupation: Retired US Army/Retired Business

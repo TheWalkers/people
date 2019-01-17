@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: 42472 Maxwell Rd.;Scotland, SD 57059
   note: District Office
+  voice: 605-660-6468
 extras:
   occupation: Certified Public Accountant
 family_name: Schoenfish
@@ -11,7 +12,6 @@ given_name: Kyle
 id: ocd-person/38a7ca91-fc3b-4ddf-94e4-eef20bc3bb79
 image: https://sdlegislature.gov/inc/img/Legislators/Schoenfish_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1492&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1581&Session=2019
 name: Kyle Schoenfish
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1492&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1581&Session=2019

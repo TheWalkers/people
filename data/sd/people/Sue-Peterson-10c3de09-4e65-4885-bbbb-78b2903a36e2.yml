@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: 6405 S. Killarney Cir.;Sioux Falls, SD 57108
   note: District Office
+  voice: 605-371-1668
 extras:
   occupation: Former Banker, Track Coach
 family_name: Peterson
@@ -11,7 +12,6 @@ given_name: Sue
 id: ocd-person/10c3de09-4e65-4885-bbbb-78b2903a36e2
 image: https://sdlegislature.gov/inc/img/Legislators/PetersonSue_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1537&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1431&Session=2019
 name: Sue Peterson
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1537&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1431&Session=2019

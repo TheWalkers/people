@@ -14,7 +14,7 @@ sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1456&Session=2018s
 memberships:
 - id: ocd-person/d1329f2b-43b5-4276-ba13-b4ceced4f0b0
-  name: Ryan Maher
+  name: Ryan M Maher
 - id: ocd-person/2e87a937-7488-46f1-a735-c8bf63b450dc
   name: Jason E Frerichs
   end_date: '2018-12-31'
@@ -30,4 +30,4 @@ memberships:
   role: vice-chair
   end_date: '2018-12-31'
 - id: ocd-person/c6fa0ac3-5c66-4661-bc45-7575a173a741
-  name: Kris Langer
+  name: Kris K Langer

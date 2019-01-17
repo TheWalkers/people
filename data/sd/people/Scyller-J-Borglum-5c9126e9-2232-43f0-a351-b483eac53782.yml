@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: PO Box 3094;Rapid City, SD 57709
   note: District Office
+  voice: 605-519-0500
 extras:
   occupation: Engineer
 family_name: Borglum
@@ -11,7 +12,6 @@ given_name: Scyller J
 id: ocd-person/5c9126e9-2232-43f0-a351-b483eac53782
 image: https://sdlegislature.gov/inc/img/Legislators/Borglum_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1553&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1643&Session=2019
 name: Scyller J Borglum
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1553&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1643&Session=2019

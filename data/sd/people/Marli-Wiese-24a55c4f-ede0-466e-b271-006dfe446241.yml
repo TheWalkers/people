@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3851
 - address: 520 NE 15th St.;Madison, SD 57042
   note: District Office
+  voice: 605-270-0786
 extras:
-  occupation: Farmer
+  occupation: Farming
 family_name: Wiese
 given_name: Marli
 id: ocd-person/24a55c4f-ede0-466e-b271-006dfe446241
 image: https://sdlegislature.gov/inc/img/Legislators/Wiese_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1550&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1564&Session=2019
 name: Marli Wiese
 other_identifiers:
@@ -24,6 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1550&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1564&Session=2019
-extras.occupation: Farming

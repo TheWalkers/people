@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: 720 N. Dakota St.;Salem, SD 57058
   note: District Office
+  voice: 605-425-3299
 extras:
   occupation: Farmer
 family_name: Peterson
@@ -11,7 +12,6 @@ given_name: Kent
 id: ocd-person/92e3aaf4-6f63-42e7-ac4f-413edc651198
 image: https://sdlegislature.gov/inc/img/Legislators/Peterson_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1511&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1630&Session=2019
 name: Kent Peterson
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1511&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1630&Session=2019
