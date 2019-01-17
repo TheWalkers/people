@@ -11,10 +11,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wa/government
   type: upper
 contact_details:
-- address: 201 Irv Newhouse Building;PO Box 40600;Olympia, WA 98504
+- address: 201 Irv Newhouse Building;Olympia, WA 98504
   email: Jeff.Holy@leg.wa.gov
   note: Capitol Office
-  voice: 360-786-7962
+  voice: 360-786-7610
 - address: 9 S Washington St;Ste 302;Spokane, WA 99201
   note: District Office
   voice: 509-456-2747
