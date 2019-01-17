@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3851
 - address: 1813 Abbey Rd.;Pierre, SD 57501
   note: District Office
+  voice: 605-224-6588
 extras:
-  occupation: Insurance
+  occupation: Insurance Claims Adjuster
 family_name: Rounds
 given_name: Tim
 id: ocd-person/657ed5a3-78fc-4602-b47d-cb44a4a84773
 image: https://sdlegislature.gov/inc/img/Legislators/Rounds_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1495&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1577&Session=2019
 name: Tim Rounds
 other_identifiers:
@@ -26,6 +26,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1495&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1577&Session=2019
-extras.occupation: Insurance Claims Adjuster

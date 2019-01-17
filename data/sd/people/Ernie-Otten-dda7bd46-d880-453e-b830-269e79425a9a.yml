@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3821
 - address: 46787 273rd St.;Tea, SD 57064
   note: District Office
+  voice: 605-368-5716
 extras:
   occupation: Contractor Sales
 family_name: Otten
@@ -11,7 +12,6 @@ given_name: Ernie
 id: ocd-person/dda7bd46-d880-453e-b830-269e79425a9a
 image: https://sdlegislature.gov/inc/img/Legislators/Otten_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1479&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1558&Session=2019
 name: Ernie Otten
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1479&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1558&Session=2019

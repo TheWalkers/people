@@ -12,16 +12,16 @@ contact_details:
   voice: 605-773-3821
 - address: 609 NE 3rd St.;Madison, SD 57042
   note: District Office
+  voice: 605-254-3051
 links:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1597&Session=2019
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1597&Session=2019
 image: https://sdlegislature.gov/inc/img/Legislators/Youngberg_2017.jpg
 extras:
-  occupation: Business Owner
+  occupation: Business Owner/Entrepreneur
 other_identifiers:
 - identifier: SDL000283
   scheme: legacy_openstates
 given_name: Jordan
 family_name: Youngberg
-extras.occupation: Business Owner/Entrepreneur

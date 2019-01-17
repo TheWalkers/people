@@ -16,15 +16,14 @@ contact_details:
   voice: 605-773-3821
 - address: PO Box 147;Britton, SD 57430
   note: District Office
+  voice: 605-448-5189
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1466&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1565&Session=2019
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1466&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1565&Session=2019
 image: https://sdlegislature.gov/inc/img/Legislators/Wismer_2017.jpg
 extras:
-  occupation: Public Accounting, CPA
+  occupation: CPA - Public Accounting
 other_identifiers:
 - identifier: SDL000307
   scheme: legacy_openstates
@@ -32,4 +31,3 @@ other_identifiers:
   scheme: openstates
 given_name: Susan
 family_name: Wismer
-extras.occupation: CPA - Public Accounting

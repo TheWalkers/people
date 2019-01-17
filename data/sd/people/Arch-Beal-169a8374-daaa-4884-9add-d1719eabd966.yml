@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: 4001 W. 74th St.;Sioux Falls, SD 57108
   note: District Office
+  voice: 605-336-3034
 extras:
   occupation: Business Owner
 family_name: Beal
@@ -11,7 +12,6 @@ given_name: Arch
 id: ocd-person/169a8374-daaa-4884-9add-d1719eabd966
 image: https://sdlegislature.gov/inc/img/Legislators/Beal_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1518&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1567&Session=2019
 name: Arch Beal
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1518&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1567&Session=2019

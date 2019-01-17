@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3851
 - address: 20451 398th Ave.;Huron, SD 57350
   note: District Office
+  voice: 605-352-5100
 extras:
-  occupation: Farmer - Real Estate Broker
+  occupation: Real Estate Broker/Farmer
 family_name: Chase
 given_name: Roger D
 id: ocd-person/a6fbd7fe-c97b-424c-8561-de59b137263c
 image: https://sdlegislature.gov/inc/img/Legislators/Chase_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1541&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1560&Session=2019
 name: Roger D Chase
 other_identifiers:
@@ -24,6 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1541&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1560&Session=2019
-extras.occupation: Real Estate Broker/Farmer

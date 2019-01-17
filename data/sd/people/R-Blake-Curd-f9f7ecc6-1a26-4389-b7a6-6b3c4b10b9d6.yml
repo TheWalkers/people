@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3821
 - address: 38 S. Riverview Hts.;Sioux Falls, SD 57105
   note: District Office
+  voice: 605-331-5890
 extras:
   occupation: Orthopedic Surgeon
 family_name: Curd
@@ -11,7 +12,6 @@ given_name: R. Blake
 id: ocd-person/f9f7ecc6-1a26-4389-b7a6-6b3c4b10b9d6
 image: https://sdlegislature.gov/inc/img/Legislators/Curd_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1455&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1599&Session=2019
 name: R. Blake Curd
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1455&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1599&Session=2019

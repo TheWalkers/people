@@ -1,5 +1,5 @@
 id: ocd-person/d1329f2b-43b5-4276-ba13-b4ceced4f0b0
-name: Ryan Maher
+name: Ryan M Maher
 party:
 - name: Republican
 roles:
@@ -12,6 +12,7 @@ contact_details:
   voice: 605-773-3821
 - address: PO Box 237;Isabel, SD 57633
   note: District Office
+  voice: 605-466-2131
 links:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1568&Session=2019
 sources:

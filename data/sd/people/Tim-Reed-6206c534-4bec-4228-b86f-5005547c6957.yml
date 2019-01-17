@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3851
 - address: 627 Medary Ave.;Brookings, SD 57006
   note: District Office
+  voice: 605-691-0452
 extras:
-  occupation: Former Mayor of Brookings
+  occupation: Former Mayor
 family_name: Reed
 given_name: Tim
 id: ocd-person/6206c534-4bec-4228-b86f-5005547c6957
 image: https://sdlegislature.gov/inc/img/Legislators/Reed_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1533&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1572&Session=2019
 name: Tim Reed
 other_identifiers:
@@ -24,6 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1533&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1572&Session=2019
-extras.occupation: Former Mayor

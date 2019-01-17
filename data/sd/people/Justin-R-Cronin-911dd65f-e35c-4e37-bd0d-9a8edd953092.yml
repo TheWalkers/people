@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3821
 - address: PO Box 42;Gettysburg, SD 57442
   note: District Office
+  voice: 605-765-2449
 extras:
-  occupation: Self Employed
+  occupation: Self Employed/Farm
 family_name: Cronin
 given_name: Justin R
 id: ocd-person/911dd65f-e35c-4e37-bd0d-9a8edd953092
 image: https://sdlegislature.gov/inc/img/Legislators/Cronin_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1468&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1562&Session=2019
 name: Justin R Cronin
 other_identifiers:
@@ -24,6 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1468&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1562&Session=2019
-extras.occupation: Self Employed/Farm

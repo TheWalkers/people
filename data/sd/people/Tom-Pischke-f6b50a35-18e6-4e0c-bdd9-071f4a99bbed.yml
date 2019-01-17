@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: 503 E. 12th St.;Dell Rapids, SD 57022
   note: District Office
+  voice: 605-999-2948
 extras:
   occupation: Insurance
 family_name: Pischke
@@ -11,7 +12,6 @@ given_name: Tom
 id: ocd-person/f6b50a35-18e6-4e0c-bdd9-071f4a99bbed
 image: https://sdlegislature.gov/inc/img/Legislators/Pischke_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1543&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1446&Session=2019
 name: Tom Pischke
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1543&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1446&Session=2019

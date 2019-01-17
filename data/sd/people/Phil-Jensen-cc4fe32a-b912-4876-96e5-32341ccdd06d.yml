@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3821
 - address: 10215 Pioneer Ave.;Rapid City, SD 57702
   note: District Office
+  voice: 605-343-1335
 extras:
   occupation: Small Business Owner
 family_name: Jensen
@@ -11,7 +12,6 @@ given_name: Phil
 id: ocd-person/cc4fe32a-b912-4876-96e5-32341ccdd06d
 image: https://sdlegislature.gov/inc/img/Legislators/JensenPhil_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1471&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1442&Session=2019
 name: Phil Jensen
 other_identifiers:
@@ -26,5 +26,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1471&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1442&Session=2019
