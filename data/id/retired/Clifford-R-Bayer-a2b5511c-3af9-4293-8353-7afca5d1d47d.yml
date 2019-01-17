@@ -6,6 +6,7 @@ roles:
 - district: '21'
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: upper
+  end_date: '2019-01-07'
 contact_details:
 - address: 592 E. Saint Kitts Drive, Meridian, ID 83642
   email: cbayer@senate.idaho.gov

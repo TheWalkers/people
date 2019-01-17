@@ -1,0 +1,19 @@
+id: ocd-person/8181ac56-92ff-49a2-b868-6386ceea49f5
+name: Regina M. Bayer
+party:
+- name: Republican
+roles:
+- district: '21'
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  type: upper
+contact_details:
+- address: 265 E. Calderwood Drive, Meridian, ID 83642
+  email: rbayer@senate.idaho.gov
+  note: District Office
+- note: Capitol Office
+  voice: 208-332-1331
+links:
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2019&district=21
+sources:
+- url: https://legislature.idaho.gov/senate/membership/
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Bayer5665.jpg
