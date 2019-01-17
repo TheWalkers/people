@@ -21,6 +21,7 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1839
 image: https://www.legis.state.pa.us/images/members/200/1839.jpg
-extras.facebook: https://www.facebook.com/pg/RepSchmitt
-extras.twitter: https://twitter.com/repschmitt
-extras.youtube: https://www.youtube.com/channel/UCm6Ah9jIZvDQ8QcYvX3OcsA
+extras:
+  facebook: https://www.facebook.com/pg/RepSchmitt
+  twitter: https://twitter.com/repschmitt
+  youtube: https://www.youtube.com/channel/UCm6Ah9jIZvDQ8QcYvX3OcsA

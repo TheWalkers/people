@@ -7,11 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   type: lower
 contact_details:
-- address: 1501 N. Broad Street Suite 17 Philadelphia, PA 19123
+- address: 1501 N. Broad Street Suite 17 Philadelphia, PA 19122
   note: District Office
-  voice: 215-983-6880
+  voice: 215-978-0311
+  fax: 215-978-0316
 - address: 105A East Wing House PO Box 202181 Hariisburg, PA 17120-2181
   note: Capitol Office
+  fax: 717-787-7297
+  voice: 717-787-9471
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:

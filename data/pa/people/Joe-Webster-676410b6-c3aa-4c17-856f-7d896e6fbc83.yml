@@ -9,6 +9,8 @@ roles:
 contact_details:
 - address: 125B East Wing House PO Box 202150 Harrisburg, PA 17120-2150
   note: Capitol Office
+- address: 488 E. Main Street Unit 1 Collegeville, PA 19426
+  note: District Office
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:
