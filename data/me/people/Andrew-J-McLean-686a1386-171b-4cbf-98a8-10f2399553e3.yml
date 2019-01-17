@@ -11,7 +11,7 @@ given_name: Andrew J.
 id: ocd-person/686a1386-171b-4cbf-98a8-10f2399553e3
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/eccc6c24-4698-45ff-ae97-19908e89c4cd_mcleaj.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/mcleaj.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/115
 name: Andrew J. McLean
 other_identifiers:
 - identifier: MEL000266
@@ -25,5 +25,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/mcleaj.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/115

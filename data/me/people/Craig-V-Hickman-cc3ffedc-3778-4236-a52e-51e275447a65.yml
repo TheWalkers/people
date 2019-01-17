@@ -11,7 +11,7 @@ given_name: Craig V.
 id: ocd-person/cc3ffedc-3778-4236-a52e-51e275447a65
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/538eb5b8-9a5b-4c84-bfb5-6f0e19f5492f_hickcv.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/hickcv.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/87
 name: Craig V. Hickman
 other_identifiers:
 - identifier: MEL000248
@@ -25,5 +25,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/hickcv.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/87

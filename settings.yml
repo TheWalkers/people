@@ -383,6 +383,7 @@ me:
   vacancies:
       - chamber: lower
         district: 124
+        vacant_until: 2021-01-01
 mi:
   legislature_name: Michigan Legislature
   lower_seats: 110

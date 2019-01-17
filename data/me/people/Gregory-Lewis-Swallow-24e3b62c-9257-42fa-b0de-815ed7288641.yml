@@ -7,10 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 contact_details:
-- address: 6 Alfred Street, Houlton, ME 04730
+- address: P.O.Box 742, Houlton, ME 04730
   email: Gregory.Swallow@legislature.maine.gov
   note: District Office
-links: []
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1381
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1381
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/e42361cf-f827-42a9-85de-64b34fc21ab3_swallow.jpg

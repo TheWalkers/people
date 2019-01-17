@@ -11,7 +11,7 @@ given_name: Deane
 id: ocd-person/bb234658-9a63-4898-be01-de54d1a67252
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/fd4f5f00-174b-478a-97ee-37f9c5eb84ff_ryked_[1].jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/ryked_.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/136
 name: Deane Rykerson
 other_identifiers:
 - identifier: MEL000276
@@ -25,5 +25,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/ryked_.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/136

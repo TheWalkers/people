@@ -13,7 +13,7 @@ given_name: John
 id: ocd-person/9cf170ae-cc54-4655-bdb6-6cb641374a05
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/1edad88c-fc05-4d4c-a189-77a68852be05_martjl.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/martjl.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/108
 name: John L. Martin
 other_identifiers:
 - identifier: MEL000036
@@ -27,5 +27,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/martjl.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/108

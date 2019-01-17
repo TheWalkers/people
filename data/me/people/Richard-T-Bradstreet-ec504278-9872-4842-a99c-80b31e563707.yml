@@ -9,7 +9,7 @@ given_name: Richard T.
 id: ocd-person/ec504278-9872-4842-a99c-80b31e563707
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/25f23c49-eaab-420a-8fdd-b4d2afb931bc_bradrt.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/bradrt.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/18
 name: Richard T. Bradstreet
 other_identifiers:
 - identifier: MEL000497
@@ -21,5 +21,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/bradrt.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/18

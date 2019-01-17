@@ -13,7 +13,7 @@ given_name: Timothy S.
 id: ocd-person/c04d68e4-aeed-474f-a8a7-86add554794c
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3c9a7510-a710-4755-833e-0e78028b1e86_therts[1].jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/therts.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/53
 name: Timothy S. Theriault
 other_identifiers:
 - identifier: MEL000285
@@ -25,5 +25,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/therts.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/53

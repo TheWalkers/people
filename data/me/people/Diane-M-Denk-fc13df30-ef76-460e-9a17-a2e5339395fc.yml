@@ -10,7 +10,8 @@ contact_details:
 - address: 32 River's Edge Drive, Kennebunk, ME 04043
   email: Diane.Denk@legislature.maine.gov
   note: District Office
-links: []
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1339
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1339
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/f1f1482f-5b67-418e-8116-46eaa48ee179_denk.jpg

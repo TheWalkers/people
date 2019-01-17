@@ -10,7 +10,8 @@ contact_details:
 - address: 137 Shepherds Lane, Farmington, ME 04938
   email: Scott.Landry@legislature.maine.gov
   note: District Office
-links: []
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1374
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1374
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/ad2ddc98-f4b5-4f4f-9594-bb0a5c89fabc_landry.jpg

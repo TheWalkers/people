@@ -11,7 +11,7 @@ given_name: Janice E.
 id: ocd-person/7ddad53f-40f7-408c-9173-085cffc115dc
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/fda2f277-064e-4457-b9e8-63745e891953_coopje.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/coopje.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/29
 name: Janice E. Cooper
 other_identifiers:
 - identifier: MEL000257
@@ -25,5 +25,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/coopje.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/29

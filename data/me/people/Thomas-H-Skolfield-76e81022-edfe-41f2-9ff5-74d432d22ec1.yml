@@ -11,7 +11,7 @@ given_name: Thomas H.
 id: ocd-person/76e81022-edfe-41f2-9ff5-74d432d22ec1
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/8c037ca2-265f-4872-82ad-f88b3c3e2386_skolfield.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/skolth.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/146
 name: Thomas H. Skolfield
 other_identifiers:
 - identifier: MEL000437
@@ -23,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/skolth.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/146

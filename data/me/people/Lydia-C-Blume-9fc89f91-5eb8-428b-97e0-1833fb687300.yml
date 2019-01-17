@@ -11,7 +11,7 @@ given_name: Lydia C.
 id: ocd-person/9fc89f91-5eb8-428b-97e0-1833fb687300
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/cc5e9f77-054d-4356-92cb-879108853b53_blumlc.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/blumlc.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/17
 name: Lydia C. Blume
 other_identifiers:
 - identifier: MEL000491
@@ -23,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/blumlc.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/17

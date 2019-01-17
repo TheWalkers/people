@@ -11,7 +11,7 @@ given_name: Gina M.
 id: ocd-person/c6554a3b-c04a-499a-bdfc-681e09324c76
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/d6f4c2b6-155d-4abf-88bf-5bdacf18c26d_melagm.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/melagm.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/116
 name: Gina M. Melaragno
 other_identifiers:
 - identifier: MEL000368
@@ -23,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/melagm.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/116

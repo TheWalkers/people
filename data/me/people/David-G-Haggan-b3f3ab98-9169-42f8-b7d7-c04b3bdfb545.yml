@@ -9,7 +9,7 @@ given_name: David G.
 id: ocd-person/b3f3ab98-9169-42f8-b7d7-c04b3bdfb545
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/ef1b37a7-5997-414d-9ae4-6f38e8f619d8_haggdg.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/haggdg.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/77
 name: David G. Haggan
 other_identifiers:
 - identifier: MEL000504
@@ -21,5 +21,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/haggdg.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/77
