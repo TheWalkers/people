@@ -475,6 +475,9 @@ oh:
     - chamber: lower
       district: 97
       vacant_until: 2019-02-15
+    - chamber: upper
+      district: 2
+      vacant_until: 2021-01-01
 ok:
   legislature_name: Oklahoma Legislature
   lower_seats: 101
