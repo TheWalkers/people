@@ -9,6 +9,11 @@ roles:
 contact_details:
 - address: 123A East Wing House PO Box 202061 Harrisburg, PA 17120-2061
   note: Capitol Office
+  fax: 717-705-2046
+  voice: 717-783-4102
+- address: 1098 W. Skippack Pike Blue Bell, PA 19422
+  note: District Office
+  voice: 610-277-3230
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:

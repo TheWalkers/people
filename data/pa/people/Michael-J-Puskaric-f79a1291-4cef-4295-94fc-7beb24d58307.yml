@@ -20,5 +20,6 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1829
 image: https://www.legis.state.pa.us/images/members/200/1829.jpg
-extras.facebook: https://www.facebook.com/RepPuskaric
-extras.youtube: https://www.youtube.com/channel/UC22ttmg0tQN8ZFBsg2BrFrA
+extras:
+  facebook: https://www.facebook.com/RepPuskaric
+  youtube: https://www.youtube.com/channel/UC22ttmg0tQN8ZFBsg2BrFrA

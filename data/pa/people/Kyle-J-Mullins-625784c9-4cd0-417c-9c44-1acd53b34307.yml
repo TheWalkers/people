@@ -9,6 +9,12 @@ roles:
 contact_details:
 - address: 116B East Wing House PO Box 202112 Harrisburg, PA 17120-2112
   note: Capitol Office
+  fax: 717-787-1231
+  voice: 717-783-5043
+- address: 1414 Monroe Avenue Dunmore Community Center Dunmore, PA 18509
+  fax: 570-342-2845
+  note: District Office
+  voice: 570-342-2710
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:

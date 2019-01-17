@@ -20,5 +20,6 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1835
 image: https://www.legis.state.pa.us/images/members/200/1835.jpg
-extras.facebook: https://www.facebook.com/RepStruzzi
-extras.youtube: https://www.youtube.com/channel/UCakfxrI6Njw5DpCRHqxuXXQ
+extras:
+  facebook: https://www.facebook.com/RepStruzzi
+  youtube: https://www.youtube.com/channel/UCakfxrI6Njw5DpCRHqxuXXQ

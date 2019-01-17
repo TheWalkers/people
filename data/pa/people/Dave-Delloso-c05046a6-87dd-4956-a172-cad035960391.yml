@@ -9,6 +9,11 @@ roles:
 contact_details:
 - address: 117A East Wing House PO Box 202162 Harrisburg, PA 17120-2162
   note: Capitol Office
+  fax: 717-705-1920
+  voice: 717-783-6437
+- address: 605 East Chester Pike Ridley Park, PA 19078
+  note: District Office
+  voice: 610-534-1002
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:

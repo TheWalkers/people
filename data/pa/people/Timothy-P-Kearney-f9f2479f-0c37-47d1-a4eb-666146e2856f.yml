@@ -16,3 +16,7 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1800
 image: https://www.legis.state.pa.us/images/members/200/1800.jpg
+extras:
+  facebook: https://www.facebook.com/SenTimKearney/
+  instagram: https://www.instagram.com/sentimkearney/
+  twitter: https://twitter.com/SenTimKearney

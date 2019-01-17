@@ -9,6 +9,11 @@ roles:
 contact_details:
 - address: 123B East Wing House PO Box 202253 Harrisburg, PA 17120-253
   note: Capitol Office
+  fax: 717-772-1424
+  voice: 717-783-8515
+- address: 100 West Main Street Suite 110 Lansdale, PA 19446
+  note: District Office
+  voice: 267-768-3671
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:

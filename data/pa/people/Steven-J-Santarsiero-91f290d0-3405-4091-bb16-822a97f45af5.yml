@@ -21,8 +21,6 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1179
 image: https://www.legis.state.pa.us/images/members/200/1179.jpg
 extras:
-  facebook: https://www.facebook.com/RepSantarsiero
-  twitter: https://www.twitter.com/RepSantarsiero
+  facebook: https://www.facebook.com/SenSantarsiero/
+  twitter: https://twitter.com/SenSantarsiero
   youtube: http://www.youtube.com/playlist?list=PLD551064C0003AF50
-extras.facebook: https://www.facebook.com/SenSantarsiero/
-extras.twitter: https://twitter.com/SenSantarsiero
