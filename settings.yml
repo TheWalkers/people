@@ -547,9 +547,6 @@ tn:
   upper_seats: 33
   vacancies:
     - chamber: upper
-      district: 22
-      vacant_until: 2019-05-14
-    - chamber: upper
       district: 32
       vacant_until: 2019-03-14
 tx:
