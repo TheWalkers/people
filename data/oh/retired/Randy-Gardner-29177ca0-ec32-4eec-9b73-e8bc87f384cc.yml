@@ -6,6 +6,7 @@ roles:
 - district: '2'
   jurisdiction: ocd-jurisdiction/country:us/state:oh/government
   type: upper
+  end_date: '2019-01-10'
 contact_details:
 - address: Senate Building;1 Capitol Square, 2nd Floor
   email: sd02@ohiosenate.gov
