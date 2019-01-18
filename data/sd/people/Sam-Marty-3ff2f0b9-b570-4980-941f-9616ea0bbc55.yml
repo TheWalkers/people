@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: 16692 Antelope Rd.;Prairie City, SD 57649
   note: District Office
+  voice: 605-866-4477
 extras:
   occupation: Rancher
 family_name: Marty
@@ -11,7 +12,6 @@ given_name: Sam
 id: ocd-person/3ff2f0b9-b570-4980-941f-9616ea0bbc55
 image: https://sdlegislature.gov/inc/img/Legislators/Marty_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1514&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1590&Session=2019
 name: Sam Marty
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1514&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1590&Session=2019

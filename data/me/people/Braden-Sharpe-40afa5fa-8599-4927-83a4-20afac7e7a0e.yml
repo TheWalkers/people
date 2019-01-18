@@ -10,7 +10,8 @@ contact_details:
 - address: 34 Harlie Woods Road, Durham, ME 04222
   email: Braden.Sharpe@legislature.maine.gov
   note: District Office
-links: []
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1352
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1352
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/31251ba4-7391-4b32-a357-562f4d7c0637_sharpe.jpg

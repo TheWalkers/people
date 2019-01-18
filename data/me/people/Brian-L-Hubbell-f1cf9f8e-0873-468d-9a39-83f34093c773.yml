@@ -11,7 +11,7 @@ given_name: Brian L.
 id: ocd-person/f1cf9f8e-0873-468d-9a39-83f34093c773
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/79727ae6-daa7-4bba-858b-55e81a169ce7_hubbbl.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/hubbbl.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/91
 name: Brian L. Hubbell
 other_identifiers:
 - identifier: MEL000226
@@ -25,5 +25,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/hubbbl.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/91

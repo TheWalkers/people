@@ -21,11 +21,13 @@ sources:
 image: http://billstatus.ls.state.ms.us/members/house/holloway.jpg
 extras:
   org_info: Representative Holloway is a member of Alpha Phi Alpha Fraternity, Inc.
-    and a Master Mason F&AM, Past Worshipful Master, Toll Fellow 2004, Jimmy Thorton
-    Legislator of the year, former employee of JSU, member of the board of trustees
-    for the Southern Association of Colleges and Schools Commission of Colleges (S.A.C.S.C.O.C).
-    He is also affiliated with the NAACP and the National Association of Student Affairs
-    Professionals.
+    and a Master Mason F&AM and Past Worshipful Master. He is affiliated with the
+    NAACP, the National Association of Student Affairs Professionals, Outstanding
+    Young Men of America, and National Selection Committee for Outstanding Young Men
+    of America. He is a member of the Executive Council for the Southern Association
+    of Colleges and Schools Commission of Colleges (S.A.C.S.C.O.C).  He is a former
+    employee of Jackson State University.  He is also a member of the board of directors
+    for the Mississippi Headstart Association.
 other_identifiers:
 - identifier: MSL000099
   scheme: legacy_openstates
@@ -33,11 +35,3 @@ other_identifiers:
   scheme: legacy_openstates
 given_name: Gregory
 family_name: Holloway
-extras.org_info: Representative Holloway is a member of Alpha Phi Alpha Fraternity,
-  Inc. and a Master Mason F&AM and Past Worshipful Master. He is affiliated with the
-  NAACP, the National Association of Student Affairs Professionals, Outstanding Young
-  Men of America, and National Selection Committee for Outstanding Young Men of America.
-  He is a member of the Executive Council for the Southern Association of Colleges
-  and Schools Commission of Colleges (S.A.C.S.C.O.C).  He is a former employee of
-  Jackson State University.  He is also a member of the board of directors for the
-  Mississippi Headstart Association.

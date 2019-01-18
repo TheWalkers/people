@@ -13,8 +13,8 @@ contact_details:
 - address: Suite 122;12421 North Florida Avenue;Tampa, FL 33612-4271
   note: district
 links:
-- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4745&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4745&LegislativeTermId=88
 sources:
-- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4745&LegislativeTermId=88
-- url: http://www.flhouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4745&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4745.jpg

@@ -9,7 +9,7 @@ given_name: Dustin Michael
 id: ocd-person/9b1284ef-cb9d-48a8-af22-1a220033edd8
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/50fedd1a-65ec-4707-9fab-d2ebdba14858_whitdm[1].jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/whitdm.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/42
 name: Dustin Michael White
 other_identifiers:
 - identifier: MEL000312
@@ -21,5 +21,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/whitdm.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/42

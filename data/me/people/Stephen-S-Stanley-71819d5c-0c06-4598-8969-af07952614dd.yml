@@ -11,7 +11,7 @@ given_name: Stephen S.
 id: ocd-person/71819d5c-0c06-4598-8969-af07952614dd
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/198f7ca2-05fd-47f6-8770-64a72e5b9ca6_stanss[1].jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/stanss.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/148
 name: Stephen S. Stanley
 other_identifiers:
 - identifier: MEL000214
@@ -25,5 +25,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/stanss.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/148

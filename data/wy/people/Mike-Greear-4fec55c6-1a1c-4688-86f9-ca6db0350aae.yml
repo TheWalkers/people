@@ -21,12 +21,14 @@ given_name: Mike
 family_name: Greear
 extras:
   county: Big Horn, Washakie
-  number_children: ''
-  occupation: null
+  number_children: '2'
+  occupation: President & CEO Wyoming Sugar Company
   place_of_birth: ''
   religion: ''
-  spouse_given_name: null
+  spouse_given_name: Tiffany
   wy_leg_id: 1961
+  civic_organizations:
+  - orgname: Rotary
 other_identifiers:
 - identifier: WYL000055
   scheme: legacy_openstates

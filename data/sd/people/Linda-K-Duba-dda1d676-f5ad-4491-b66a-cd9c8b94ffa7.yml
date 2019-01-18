@@ -12,11 +12,11 @@ contact_details:
   voice: 605-773-3851
 - address: 421 N. Phillips Ave., Apt. 309;Sioux Falls, SD 57104
   note: District Office
+  voice: 605-610-6590
 links:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1594&Session=2019
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1594&Session=2019
 image: https://sdlegislature.gov/inc/img/LegPlaceholder.png
 extras:
-  occupation: Educational Assistant -Sioux Falls School District
-extras.occupation: Educational Assistant -S.F. School District
+  occupation: Educational Assistant -S.F. School District

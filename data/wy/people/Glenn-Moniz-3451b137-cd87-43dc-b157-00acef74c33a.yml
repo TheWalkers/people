@@ -31,11 +31,15 @@ extras:
   - orgname: Albany County Stock Growers
   county: Albany
   number_children: '2'
-  occupation: Business Owner - The Feed Store
+  occupation: Commercial Property Developer
   place_of_birth: Laramie WY
   religion: ''
   spouse_given_name: Sharry
   wy_leg_id: 1259
+  education:
+  - degree: Executive Fire Officer
+    gradYear: '1994'
+    schoolName: National Fire Academy
 other_identifiers:
 - identifier: WYL000151
   scheme: legacy_openstates

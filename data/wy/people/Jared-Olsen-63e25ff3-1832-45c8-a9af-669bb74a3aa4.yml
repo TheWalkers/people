@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wy/government
   type: lower
 contact_details:
-- address: PO Box 4333, Cheyenne WY 82003
+- address: P.O. Box 4333, Cheyenne WY 82003
   email: Jared.Olsen@wyoleg.gov
   note: ''
   voice: 307-509-0242
@@ -25,6 +25,9 @@ extras:
   - orgname: Southeast Wyoming Estate Planning Council
   - orgname: Cheyenne City Housing and Community Development Advisory Council
   - orgname: Cheyenne Chamber of Commerce
+  - orgname: Chairman, Laramie County Republican Party (2014-2016)
+  - orgname: Cheyenne City Housing and Community Development Advisory Council (2014-2016)
+  - orgname: Vice Chairman, Wyoming's Republican Party (2016-2018)
   county: Laramie
   education:
   - degree: JD
@@ -36,8 +39,8 @@ extras:
   - degree: BS - Political Science
     gradYear: '2010'
     schoolName: Weber State University
-  number_children: '2'
-  occupation: Attorney
+  number_children: '3'
+  occupation: Attorney and Small Business Owner
   place_of_birth: ''
   religion: Christian
   spouse_given_name: Dani

@@ -7,12 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 contact_details:
-- address: ;,
+- address: State Capitol Room 511;Juneau AK, 99801
   note: Capitol Office
 - email: Representative.William.Fields@akleg.gov
   note: E-mail
-- address: ;,
+- address: 1500 W. Benson Blvd.;Anchorage AK, 99503
   note: District Office
+- note: Capitol Office Phone
+  voice: 907-465-2647
 links:
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=FIE
 sources:

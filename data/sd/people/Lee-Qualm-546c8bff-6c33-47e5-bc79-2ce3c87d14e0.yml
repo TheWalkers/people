@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: 27507 John Qualm Rd.;Platte, SD 57369
   note: District Office
+  voice: 605-337-3682
 extras:
   occupation: Farmer
 family_name: Qualm
@@ -11,7 +12,6 @@ given_name: Lee
 id: ocd-person/546c8bff-6c33-47e5-bc79-2ce3c87d14e0
 image: https://sdlegislature.gov/inc/img/Legislators/Qualm_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1493&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1569&Session=2019
 name: Lee Qualm
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1493&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1569&Session=2019

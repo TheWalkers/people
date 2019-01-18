@@ -21,12 +21,16 @@ given_name: Danny
 family_name: Eyre
 extras:
   county: Uinta
-  number_children: ''
-  occupation: null
-  place_of_birth: ''
-  religion: ''
-  spouse_given_name: null
+  number_children: '6'
+  occupation: Electric Utility Executive, Retired
+  place_of_birth: Rock Springs
+  religion: LDS
+  spouse_given_name: Ann Eyre
   wy_leg_id: 2038
+  education:
+  - degree: B.S.
+    gradYear: '1970'
+    schoolName: Utah State University
 other_identifiers:
 - identifier: WYL000139
   scheme: legacy_openstates

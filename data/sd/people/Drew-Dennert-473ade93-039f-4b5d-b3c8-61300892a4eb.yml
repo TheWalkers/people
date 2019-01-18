@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3851
 - address: 902 S. High St.;Aberdeen, SD 57401
   note: District Office
+  voice: 605-252-1008
 extras:
-  occupation: Rancher/Farmer
+  occupation: Rancher
 family_name: Dennert
 given_name: Drew
 id: ocd-person/473ade93-039f-4b5d-b3c8-61300892a4eb
 image: https://sdlegislature.gov/inc/img/Legislators/Dennert_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1528&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1579&Session=2019
 name: Drew Dennert
 other_identifiers:
@@ -24,6 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1528&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1579&Session=2019
-extras.occupation: Rancher

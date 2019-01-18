@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: 18769 Quin Rd.;Nisland, SD 57762
   note: District Office
+  voice: 605-257-2336
 extras:
   occupation: Farmer
 family_name: Brunner
@@ -11,7 +12,6 @@ given_name: Thomas J
 id: ocd-person/163c2967-cc1a-4f14-aad3-81cffb43b7d8
 image: https://sdlegislature.gov/inc/img/Legislators/Brunner_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1452&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1578&Session=2019
 name: Thomas J Brunner
 other_identifiers:
@@ -26,5 +26,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1452&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1578&Session=2019

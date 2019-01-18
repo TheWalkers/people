@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3821
 - address: 1145 Beach Circle NE;Huron, SD 57350
   note: District Office
+  voice: 605-352-8184
 extras:
-  occupation: Retired
+  occupation: Retired Banker
 family_name: White
 given_name: Jim
 id: ocd-person/0c40d5de-6f02-491e-8dcc-faa57543fe15
 image: https://sdlegislature.gov/inc/img/Legislators/White_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1477&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1587&Session=2019
 name: Jim White
 other_identifiers:
@@ -26,6 +26,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1477&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1587&Session=2019
-extras.occupation: Retired Banker

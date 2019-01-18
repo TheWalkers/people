@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: PO Box 143;Doland, SD 57436
   note: District Office
+  voice: 605-635-6932
 extras:
   occupation: Business Owner/Retired Teacher
 family_name: Greenfield
@@ -11,7 +12,6 @@ given_name: Lana
 id: ocd-person/7eefd193-a618-4a9b-b416-cd495239ead6
 image: https://sdlegislature.gov/inc/img/Legislators/GreenfieldLana_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1509&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1573&Session=2019
 name: Lana Greenfield
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1509&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1573&Session=2019

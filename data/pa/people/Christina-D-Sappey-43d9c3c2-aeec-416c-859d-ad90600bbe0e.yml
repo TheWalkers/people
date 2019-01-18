@@ -9,6 +9,10 @@ roles:
 contact_details:
 - address: 111A East Wing House PO Box 202158 Harrisburg, PA 17120-2158
   note: Capitol Office
+  fax: 717-772-3072
+  voice: 717-772-9973
+- address: 698 Unionville Road Kennett Square, PA 19348
+  note: District Office
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:

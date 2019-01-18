@@ -8,9 +8,10 @@ roles:
   type: legislature
 contact_details:
 - email: pmendelson@dccouncil.us
-  fax: 202-724-8099
+  fax: 202-724-8085
   note: Capitol Office
-  voice: 202-724-8085
+  voice: 202-724-8032
+  address: 1350 Pennsylvania Avenue NW, Suite 504;Washington, DC 20004
 links:
 - url: http://dccouncil.us/council/phil-mendelson/
 sources:

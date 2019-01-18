@@ -7,12 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 contact_details:
-- address: ;,
+- address: State Capitol Room 434;Juneau AK, 99801
   note: Capitol Office
 - email: Representative.Benjamin.Carpenter@akleg.gov
   note: E-mail
-- address: ;,
+- address: 145 Main Street Loop Ste. 223;Kenai AK, 99611
   note: District Office
+- note: Capitol Office Phone
+  voice: 907-465-3779
 links:
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=CAE
 sources:

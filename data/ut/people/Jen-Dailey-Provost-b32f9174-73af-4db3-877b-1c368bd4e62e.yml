@@ -11,6 +11,7 @@ contact_details:
 - address: 812 N SANDHURST DR, SALT LAKE CITY, UT, 84103
   email: jdprovost@le.utah.gov
   note: District Office
+  voice: 385-321-7827
 links:
 - url: http://house.utah.gov/rep/DAILEJ
 sources:
@@ -19,5 +20,6 @@ image: https://le.utah.gov/images/legislator/DAILEJ.jpg
 extras:
   links:
   - http://www.disclosures.utah.gov/Search/PublicSearch
+  - https://le.utah.gov/house2/CofI/COFIDAILEJ.pdf
 given_name: Jen
 family_name: Dailey-Provost

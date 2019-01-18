@@ -12,12 +12,12 @@ contact_details:
   voice: 850-717-5011
 - address: 421 Third Street North;Jacksonville Beach, FL 32250-7028
   note: district
-  voice: 904-548-9333
+  voice: 904-242-3495
 links:
-- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4632&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4632&LegislativeTermId=88
 sources:
-- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4632&LegislativeTermId=88
-- url: http://www.flhouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4632&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4632.jpg
 other_identifiers:
 - identifier: FLL000546

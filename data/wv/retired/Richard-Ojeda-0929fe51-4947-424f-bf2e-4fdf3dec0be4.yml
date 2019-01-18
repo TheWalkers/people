@@ -1,0 +1,27 @@
+id: ocd-person/0929fe51-4947-424f-bf2e-4fdf3dec0be4
+name: Richard Ojeda
+party:
+- name: Democratic
+roles:
+- district: '7'
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  type: upper
+  end_date: '2018-12-31'
+contact_details:
+- address: Room 213W, Building 1;State Capitol Complex;Charleston, WV 25305
+  email: richard.ojeda@wvsenate.gov
+  note: Capitol Office
+  voice: 304-357-7857
+- address: PO Box 624;Holden, WV, 25625
+  note: District Office
+  voice: 304-792-9833
+links:
+- url: http://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Ojeda
+sources:
+- url: http://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Ojeda
+image: http://www.legis.state.wv.us/images/members/2019/senate/ojeda_richard.jpg
+other_identifiers:
+- identifier: WVL000378
+  scheme: legacy_openstates
+given_name: Richard
+family_name: Ojeda

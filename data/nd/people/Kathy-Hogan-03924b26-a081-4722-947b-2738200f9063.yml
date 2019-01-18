@@ -9,7 +9,6 @@ given_name: Kathy
 id: ocd-person/03924b26-a081-4722-947b-2738200f9063
 image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/khogan.jpg?itok=SfoCEH0g
 links:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-kathy-hogan
 - url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-kathy-hogan
 name: Kathy Hogan
 other_identifiers:
@@ -31,5 +30,4 @@ roles:
   type: upper
   start_date: 2018-01-03
 sources:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-kathy-hogan
 - url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-kathy-hogan

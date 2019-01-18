@@ -30,6 +30,8 @@ extras:
   - orgname: Boone & Crocket Club
   - orgname: North American Pronghorn Foundation
   - orgname: MFT Horse Breed Assn
+  - orgname: River of Grace Bible Church
+  - orgname: NRA, RMEF, DU, BOW, P&Y
   county: Albany, Carbon, Sweetwater
   education:
   - degree: ''
@@ -46,9 +48,9 @@ extras:
     schoolName: University of Wyoming
   number_children: ''
   occupation: Natural Resources Manager
-  place_of_birth: ''
-  religion: ''
-  spouse_given_name: null
+  place_of_birth: Powell, WY
+  religion: Christian
+  spouse_given_name: Roxane "ROX" Hicks
   wy_leg_id: 1963
 other_identifiers:
 - identifier: WYL000015

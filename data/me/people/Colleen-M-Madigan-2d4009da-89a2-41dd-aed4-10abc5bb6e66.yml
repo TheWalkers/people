@@ -11,7 +11,7 @@ given_name: Colleen M.
 id: ocd-person/2d4009da-89a2-41dd-aed4-10abc5bb6e66
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/6f161024-d866-4264-b957-ce30cacd4db2_madicm.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/madicm.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/104
 name: Colleen M. Madigan
 other_identifiers:
 - identifier: MEL000496
@@ -23,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/madicm.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/104

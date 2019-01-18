@@ -16,6 +16,7 @@ contact_details:
   email: rep48@ohiohouse.gov
   note: Capitol Office
   voice: 614-752-2438
+  fax: 614-719-6951
 links:
 - url: http://www.ohiohouse.gov/scott-oelslager
 sources:
@@ -26,3 +27,7 @@ other_identifiers:
   scheme: legacy_openstates
 given_name: Scott
 family_name: Oelslager
+biography: "State Representative Scott Oelslager is serving his first term in the\
+  \ Ohio House of Representatives, after serving multiple terms in both the Senate\
+  \ and House previously. He returns to the People\u2019s House to represent the 48th\
+  \ District, which includes portions of Stark County."

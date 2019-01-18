@@ -11,7 +11,7 @@ given_name: James R.
 id: ocd-person/5479c085-2fa7-4a10-a812-4d3bad1dfcd4
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/0c106d0d-f39a-4422-8f42-caf1870b14f3_handjr.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/handjr.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/79
 name: James R. Handy
 other_identifiers:
 - identifier: MEL000469
@@ -23,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/handjr.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/79

@@ -28,14 +28,12 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1801
 image: https://www.legis.state.pa.us/images/members/200/1801.jpg
 extras:
-  facebook: https://www.facebook.com/RepKristin
-  youtube: http://www.youtube.com/user/RepKristin
+  facebook: http://www.facebook.com/SenatorKristin
+  youtube: https://www.youtube.com/channel/UCCVUqHEfIFP1Ex1x0t9mELg
+  instagram: http://www.instagram.com/SenatorKristin
+  twitter: http://www.twitter.com/SenatorKristin
 other_identifiers:
 - identifier: PAL000486
   scheme: legacy_openstates
 given_name: Kristin
 family_name: Phillips-Hill
-extras.facebook: http://www.facebook.com/SenatorKristin
-extras.twitter: http://www.twitter.com/SenatorKristin
-extras.youtube: https://www.youtube.com/channel/UCCVUqHEfIFP1Ex1x0t9mELg
-extras.instagram: http://www.instagram.com/SenatorKristin

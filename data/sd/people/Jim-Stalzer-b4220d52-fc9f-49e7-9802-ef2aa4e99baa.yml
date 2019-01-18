@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3821
 - address: 5909 W. Bristol Dr.;Sioux Falls, SD 57106
   note: District Office
+  voice: 605-838-0354
 extras:
-  occupation: Retired
+  occupation: Retired - IT
 family_name: Stalzer
 given_name: Jim
 id: ocd-person/b4220d52-fc9f-49e7-9802-ef2aa4e99baa
 image: https://sdlegislature.gov/inc/img/Legislators/Stalzer_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1486&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1584&Session=2019
 name: Jim Stalzer
 other_identifiers:
@@ -24,6 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1486&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1584&Session=2019
-extras.occupation: Retired - IT

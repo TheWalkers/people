@@ -9,7 +9,7 @@ given_name: Erik C.
 id: ocd-person/abb12079-fdb3-4cf5-a18b-389162f0fb79
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/c4be74a9-b6aa-4a91-91ef-8ee6d0bd56d7_jorgec1.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/jorgec.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/94
 name: Erik C. Jorgensen
 other_identifiers:
 - identifier: MEL000261
@@ -23,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/jorgec.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/94

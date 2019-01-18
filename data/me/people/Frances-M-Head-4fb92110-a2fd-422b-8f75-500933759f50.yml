@@ -11,7 +11,7 @@ given_name: Frances M.
 id: ocd-person/4fb92110-a2fd-422b-8f75-500933759f50
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/bfb56c96-3079-451c-ae1a-154f42d1f43a_headfm.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/headfm.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/86
 name: Frances M. Head
 other_identifiers:
 - identifier: MEL000364
@@ -23,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/headfm.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/86

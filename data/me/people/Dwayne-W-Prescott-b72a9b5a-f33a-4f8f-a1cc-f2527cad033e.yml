@@ -11,7 +11,7 @@ given_name: Dwayne W.
 id: ocd-person/b72a9b5a-f33a-4f8f-a1cc-f2527cad033e
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/ad3fc7ec-70fa-47e8-9227-9b2bc03ccb40_presdw[1].jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/presdw.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/132
 name: Dwayne W. Prescott
 other_identifiers:
 - identifier: MEL000433
@@ -23,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/presdw.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/132

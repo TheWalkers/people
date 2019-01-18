@@ -11,7 +11,7 @@ given_name: Matthew A.
 id: ocd-person/f4b39a4f-3a31-4e15-9b0a-459cb260f535
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/0e552940-7996-4adc-afea-5273bc158b29_harrma.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/harrma.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/83
 name: Matthew A. Harrington
 other_identifiers:
 - identifier: MEL000466
@@ -23,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/harrma.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/83

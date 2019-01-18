@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wy/government
   type: upper
 contact_details:
-- address: Box 155, Devils Tower WY 82714
+- address: P.O. Box 155, Devils Tower WY 82714
   email: Ogden.Driskill@wyoleg.gov
   note: ''
   voice: 307-680-5555
@@ -35,11 +35,11 @@ extras:
   - degree: ''
     gradYear: ''
     schoolName: University of Wyoming
-  number_children: ''
-  occupation: Rancher and Vegetation Management
+  number_children: '3'
+  occupation: Rancher and Tourism
   place_of_birth: ''
   religion: ''
-  spouse_given_name: null
+  spouse_given_name: Rosanne
   wy_leg_id: 1972
 other_identifiers:
 - identifier: WYL000010

@@ -10,7 +10,8 @@ contact_details:
 - address: 49 Wellington Road, Portland, ME 04103
   email: Michael.Brennan@legislature.maine.gov
   note: District Office
-links: []
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1350
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1350
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/3626b818-d26c-4777-99c6-0a04ef459fc3_brennan.jpg

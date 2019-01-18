@@ -4,6 +4,7 @@ contact_details:
   voice: 605-773-3851
 - address: 45708 116th St.;Sisseton, SD 57262
   note: District Office
+  voice: 605-698-7478
 extras:
   occupation: Grain Farmer, Cow/Calf Operator
 family_name: McCleerey
@@ -11,7 +12,6 @@ given_name: Steven D
 id: ocd-person/e25995d1-9534-402c-bb33-ecf79a6bb46f
 image: https://sdlegislature.gov/inc/img/Legislators/McCleerey_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1508&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1609&Session=2019
 name: Steven D McCleerey
 other_identifiers:
@@ -24,5 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1508&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1609&Session=2019

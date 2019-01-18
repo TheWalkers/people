@@ -11,7 +11,7 @@ given_name: Richard R.
 id: ocd-person/a90ad0e8-6d2e-46b4-93bb-a480722fcebf
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/85008bb1-fca7-4bb7-92b2-fc96cab89d49_farnrr.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/farnrr.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/60
 name: Richard R. Farnsworth
 other_identifiers:
 - identifier: MEL000262
@@ -25,5 +25,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/farnrr.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/60

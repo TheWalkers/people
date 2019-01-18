@@ -1,12 +1,9 @@
 contact_details:
 - address: 40 Federal Street, Brunswick, ME 04011
-  email: mattie.daughtry@legislature.maine.gov
+  email: Mattie.Daughtry@legislature.maine.gov
   note: District Office
 - note: Business Phone
   voice: 207-370-9871
-- address: 40 Federal Street, Brunswick, ME 04011
-  email: Mattie.Daughtry@legislature.maine.gov
-  note: District Office
 extras:
   district_name: Brunswick
 family_name: Daughtry
@@ -14,7 +11,7 @@ given_name: Matthea Elisabeth Larsen
 id: ocd-person/863a9ef0-5916-40d6-9929-7a7b498af0ec
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/9843188d-69ef-4632-9b02-305346d89f73_daugme.jpg
 links:
-- url: http://www.maine.gov/legis/house/hsebios/daugme.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/33
 name: Matthea Elisabeth Larsen Daughtry
 other_identifiers:
 - identifier: MEL000245
@@ -28,5 +25,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 sources:
-- url: http://www.maine.gov/legis/house/hsebios/daugme.htm
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/33

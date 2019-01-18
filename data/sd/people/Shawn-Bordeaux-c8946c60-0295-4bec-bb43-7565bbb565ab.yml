@@ -4,14 +4,14 @@ contact_details:
   voice: 605-773-3851
 - address: PO Box 283;Mission, SD 57555
   note: District Office
+  voice: 605-856-8241
 extras:
-  occupation: Dir., Institute of Tribal Lands, Sinte Gleska Univ
+  occupation: Dir. Inst. of Tribal Lands, Sinte Gleska Univ
 family_name: Bordeaux
 given_name: Shawn
 id: ocd-person/c8946c60-0295-4bec-bb43-7565bbb565ab
 image: https://sdlegislature.gov/inc/img/Legislators/Bordeaux_2017.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1513&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1592&Session=2019
 name: Shawn Bordeaux
 other_identifiers:
@@ -24,6 +24,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1513&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1592&Session=2019
-extras.occupation: Dir. Inst. of Tribal Lands, Sinte Gleska Univ
