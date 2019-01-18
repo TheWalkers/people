@@ -12,9 +12,10 @@ contact_details:
   voice: 850-717-5115
 - address: Suite 202;8500 Southwest 92nd Street;Miami, FL 33156-7379
   note: district
+  voice: 305-270-6530
 links:
-- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4713&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4713&LegislativeTermId=88
 sources:
-- url: http://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4713&LegislativeTermId=88
-- url: http://www.flhouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4713&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4713.jpg
