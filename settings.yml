@@ -2,10 +2,6 @@ ak:
   legislature_name: Alaska State Legislature
   lower_seats: 40
   upper_seats: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T']
-  vacancies:
-      - chamber: lower
-        district: 13
-        vacant_until: 2019-06-01
 al:
   legislature_name: Alabama Legislature
   lower_seats: 105

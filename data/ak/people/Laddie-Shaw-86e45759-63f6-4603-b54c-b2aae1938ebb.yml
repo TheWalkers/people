@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 contact_details:
-- address: State Capitol Room 126;Juneau AK, 99801
+- address: State Capitol Room 112;Juneau AK, 99801
   note: Capitol Office
 - email: Representative.Laddie.Shaw@akleg.gov
   note: E-mail
