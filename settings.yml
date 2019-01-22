@@ -448,13 +448,6 @@ nm:
   legislature_name: New Mexico Legislature
   lower_seats: 70
   upper_seats: 42
-  vacancies:
-    - chamber: upper
-      district: 16
-      vacant_until: 2021-01-01
-    - chamber: upper
-      district: 28
-      vacant_until: 2021-01-01
 nv:
   legislature_name: Nevada Legislature
   lower_seats: 42
