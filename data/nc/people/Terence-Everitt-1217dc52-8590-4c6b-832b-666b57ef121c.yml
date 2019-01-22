@@ -7,9 +7,9 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 1305 Heritage Heights Ln;Wake Forest, NC 27587
+- address: 16 West Jones Street, Rm. 1301;Raleigh, NC 27601-1096
   note: District Office
-  voice: 919-435-6200
+  voice: 919-715-3010
 - address: 16 West Jones Street, Rm. 1301;Raleigh, NC 27601-1096
   email: Terence.Everitt@ncleg.net
   note: Capitol Office
