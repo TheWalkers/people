@@ -1,12 +1,14 @@
 id: ocd-person/615c8d33-9652-4163-87b9-0fc82fc09b8c
 name: Mark Walczyk
 party:
-- name: Democratic
+- name: Republican
 roles:
 - district: '116'
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
-contact_details: []
+contact_details:
+- email: walczykm@nyassembly.gov
+  note: Capitol Office
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

@@ -10,6 +10,10 @@ contact_details:
 - address: 33 Front Street;Suite 104;Hempstead, NY 11550
   note: District Office
   voice: 516-489-6610
+- address: LOB 833;Albany, NY 12248
+  email: raynort@nyassembly.gov
+  note: Capitol Office
+  voice: 518-455-5861
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

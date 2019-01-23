@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: Room 432, Legislative Office Building;Albany, NY 12248
+- address: LOB 553;Albany, NY 12248
   email: HunterP@nyassembly.gov
   note: Capitol Office
   voice: 518-455-5383

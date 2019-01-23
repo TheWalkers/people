@@ -1,7 +1,7 @@
 id: ocd-person/bae3be97-95a3-4490-ad7a-56c000e14bd3
 name: Michael LiPetri
 party:
-- name: Democratic
+- name: Republican
 roles:
 - district: '9'
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government

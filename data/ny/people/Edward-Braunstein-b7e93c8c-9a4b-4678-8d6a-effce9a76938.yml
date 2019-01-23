@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: LOB 557;Albany, NY 12248
+- address: LOB 842;Albany, NY 12248
   email: braunsteine@nyassembly.gov
   fax: 518-455-4648
   note: Capitol Office

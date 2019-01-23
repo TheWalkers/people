@@ -6,7 +6,9 @@ roles:
 - district: '118'
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
-contact_details: []
+contact_details:
+- email: smullenr@nyassembly.gov
+  note: Capitol Office
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:
