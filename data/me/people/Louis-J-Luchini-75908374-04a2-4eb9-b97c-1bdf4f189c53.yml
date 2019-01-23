@@ -15,6 +15,10 @@ contact_details:
   email: Louis.Luchini@legislature.maine.gov
   note: District Office
   voice: 207-664-4699
+- note: District Phone
+  voice: 207-664-4699
+- email: Louis.Luchini@legislature.maine.gov
+  note: District Email
 links:
 - url: https://legislature.maine.gov/District-7
 sources:
