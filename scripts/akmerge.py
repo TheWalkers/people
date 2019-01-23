@@ -82,6 +82,10 @@ class PersonFile(object):
 
         old[difference.key_name].extend(new_roles.values())  # copy remaining
 
+    def merge_parties(self, old, new, difference):
+        # just change the last one
+        old[difference.key_name][-1]['name'] = new[difference.key_name][-1]['name']
+
     def replace(self, old, new, difference):
         old[difference.key_name] = new[difference.key_name]
 
@@ -92,6 +96,7 @@ class PersonFile(object):
             'roles': self.merge_roles,
             'sources': self.replace,
             'links': self.replace,
+            'party': self.merge_parties,
         }
         self.data = merge_people(self.data, other.data, keep_on_conflict='new',
                                  custom_merges=custom_merges)
