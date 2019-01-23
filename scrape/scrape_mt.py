@@ -11,7 +11,7 @@ import re
 import os
 import uuid
 from collections import OrderedDict
-from utils import dump_obj, get_jurisdiction_id, reformat_phone_number
+from utils import dump_obj, get_jurisdiction_id, reformat_phone_number, PHONE_RE
 
 
 PARTIES = {'d': 'Democratic',
@@ -110,8 +110,14 @@ class Person:
 
 def clean_name(name):
     name = re.sub('\s+', ' ', name)
-    name = name.strip()
-    return name.title()
+    name = name.strip().title()
+
+    # special cases
+    if name == 'Sharon Stewart Peregoy':
+        name = 'Sharon Stewart-Peregoy'
+    elif name == 'Nate Mcconnell':
+        name = 'Nate McConnell'
+    return name
 
 
 class MontanaScraper(scrapelib.Scraper):
@@ -150,7 +156,10 @@ class MontanaScraper(scrapelib.Scraper):
         if len(phone) == 14:
             person.capitol_office.voice = phone
         elif len(phone) > 30:
-            person.capitol_office.voice = phone.split('    ')[0]
+            for ph in phone.split('    '):
+                if PHONE_RE.match(ph):
+                    person.capitol_office.voice = ph
+                    break
 
         email = email.xpath('./a/@href')
         if email:
