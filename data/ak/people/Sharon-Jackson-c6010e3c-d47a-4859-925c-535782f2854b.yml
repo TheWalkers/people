@@ -7,12 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 contact_details:
-- address: ;,
+- address: State Capitol Room 428;Juneau AK, 99801
   note: Capitol Office
 - email: Representative.Sharon.Jackson@akleg.gov
   note: E-mail
-- address: ;,
+- address: 12641 Old Glenn Highway Suite 201;Eagle River AK, 99577
   note: District Office
+- note: Capitol Office Phone
+  voice: 907-465-3783
 links:
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=JAK
 sources:
