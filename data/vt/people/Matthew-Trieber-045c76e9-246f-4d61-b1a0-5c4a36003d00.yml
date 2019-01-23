@@ -9,6 +9,7 @@ roles:
 contact_details:
 - address: Vermont State House;115 State Street;Montpelier, VT 05633
   note: Capitol Office
+  email: mtrieber@leg.state.vt.us
 - address: 82 Atkinson St.;Bellows Falls, VT 05101
   email: matrieber@gmail.com
   note: District Office
@@ -18,7 +19,7 @@ links:
 sources:
 - url: http://legislature.vermont.gov/people/loadAll/2020
 - url: http://legislature.vermont.gov/people/single/2020/16361
-image: https://legislature.vermont.gov/assets/Documents/Legislators/MTrieber.jpg
+image: https://legislature.vermont.gov/Documents/Legislators/MTrieber.jpg
 other_identifiers:
 - identifier: VTL000209
   scheme: legacy_openstates
