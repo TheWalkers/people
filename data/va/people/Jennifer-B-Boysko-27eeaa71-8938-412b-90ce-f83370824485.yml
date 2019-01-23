@@ -21,7 +21,7 @@ links:
 sources:
 - url: http://lis.virginia.gov/191/mbr/MBR.HTM
 - url: http://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+S106
-image: http://memdata.virginiageneralassembly.gov/images/display_image/H0276
+image: https://apps.lis.virginia.gov/senatepics/newbiopics/Boysko33.jpg
 other_identifiers:
 - identifier: VAL000234
   scheme: legacy_openstates
