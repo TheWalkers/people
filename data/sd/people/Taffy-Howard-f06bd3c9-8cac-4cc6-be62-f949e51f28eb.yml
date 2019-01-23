@@ -1,8 +1,6 @@
 contact_details:
 - email: Taffy.Howard@sdlegislature.gov
   note: Capitol Office
-- email: Taffy.Howard@sdlegislature.gov
-  note: Capitol Office
   voice: 605-773-3851
 - address: 530 Westberry Dr.;Rapid City, SD 57702
   note: District Office
@@ -11,9 +9,8 @@ extras:
 family_name: Howard
 given_name: Taffy
 id: ocd-person/f06bd3c9-8cac-4cc6-be62-f949e51f28eb
-image: https://sdlegislature.gov/inc/img/Legislators/Howard_2017.jpg
+image: https://sdlegislature.gov/inc/img/Legislators/Howard_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1547&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1557&Session=2019
 name: Taffy Howard
 other_identifiers:
@@ -26,5 +23,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1547&Session=2018s
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1557&Session=2019
