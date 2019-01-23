@@ -19,6 +19,7 @@ image: https://le.utah.gov/images/legislator/BUXTODG.jpg
 extras:
   links:
   - http://www.disclosures.utah.gov/Search/PublicSearch
+  - https://le.utah.gov/senate/CofI/COFIBUXTODG.pdf
 other_identifiers:
 - identifier: UTL000291
   scheme: legacy_openstates
