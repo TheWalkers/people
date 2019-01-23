@@ -9,6 +9,8 @@ roles:
 contact_details:
 - address: 125B East Wing House PO Box 202150 Harrisburg, PA 17120-2150
   note: Capitol Office
+  fax: 717-772-9892
+  voice: 717-787-0419
 - address: 488 E. Main Street Unit 1 Collegeville, PA 19426
   note: District Office
 links:
