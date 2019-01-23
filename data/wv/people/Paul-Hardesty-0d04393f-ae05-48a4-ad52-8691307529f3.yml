@@ -1,0 +1,21 @@
+id: ocd-person/0d04393f-ae05-48a4-ad52-8691307529f3
+name: Paul Hardesty
+party:
+- name: Democratic
+roles:
+- district: '7'
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  type: upper
+  start_date: 2019-01-17
+contact_details:
+- address: Room 213W, Building 1;State Capitol Complex;Charleston, WV 25305
+  email: paul.hardesty@wvsenate.gov
+  note: Capitol Office
+  voice: 304-357-7857
+- address: P.O. Box 652;Holden, WV, 25625
+  note: District Office
+links:
+- url: http://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Hardesty
+sources:
+- url: http://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Hardesty
+image: http://www.legis.state.wv.us/images/members/2019/senate/hardesty_paul.jpg

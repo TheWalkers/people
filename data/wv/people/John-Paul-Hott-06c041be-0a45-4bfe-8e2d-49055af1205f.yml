@@ -12,6 +12,9 @@ contact_details:
   email: john.hott@wvhouse.gov
   note: Capitol Office
   voice: 304-340-3399
+- address: 207 N. Main St.;Petersburg, WV, 26847
+  note: District Office
+  voice: 304-668-0868
 links:
 - url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Hott
 sources:
