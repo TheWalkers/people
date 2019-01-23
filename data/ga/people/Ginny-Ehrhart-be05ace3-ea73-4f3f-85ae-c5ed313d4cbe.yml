@@ -9,6 +9,9 @@ roles:
 contact_details:
 - address: P.O. Box 1206;Marietta, GA 30061
   note: District Address
+- address: 401-B Coverdell Legislative Office Bldg.;Atlanta, GA 30334
+  note: Capitol Address
+  voice: 404-656-0152
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4937&Session=27
 sources:

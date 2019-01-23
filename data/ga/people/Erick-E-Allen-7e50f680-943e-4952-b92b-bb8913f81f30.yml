@@ -10,6 +10,10 @@ contact_details:
 - address: 2690 Cobb Parkway SE, AS-578;Smyrna, GA 30080
   note: District Address
   voice: 678-310-9650
+- address: 404-C Coverdell Legislative Office Bldg.;Atlanta, GA 30334
+  email: erick.allen@house.ga.gov
+  note: Capitol Address
+  voice: 404-656-0109
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4939&Session=27
 sources:

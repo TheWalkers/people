@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ga/government
   type: lower
 contact_details:
-- email: EL@ELforStateRep.com
+- email: el-mahdi.holly@house.ga.gov
   note: Capitol Address
 - address: 1740 Hudson Bridge Rd, Ste 1221;Stockbridge, GA 30253
   note: District Address
