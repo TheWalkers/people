@@ -11,7 +11,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:mi/government
   type: upper
 contact_details:
-- address: S-309 State Capitol Building;Lansing, MI 48909
+- address: S-310 State Capitol Building;Lansing, MI 48909
   email: SenKLaSata@senate.michigan.gov
   note: Capitol Office
   voice: 517-373-6960
