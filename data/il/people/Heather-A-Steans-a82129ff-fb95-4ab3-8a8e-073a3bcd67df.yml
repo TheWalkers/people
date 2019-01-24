@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:il/government
   type: upper
 contact_details:
-- address: 623 Capitol Building;Springfield, IL 62706
+- address: 627 I Capitol Building;Springfield, IL 62706
   note: capitol
   voice: 217-782-8492
 - address: 5533 North Broadway;Chicago, IL 60640

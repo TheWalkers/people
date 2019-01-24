@@ -1,0 +1,18 @@
+id: ocd-person/7f38b6e5-ed0f-46ff-bf7a-97a4bfbaeb28
+name: Kambium Buckner
+party:
+- name: Democratic
+roles:
+- district: '26'
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  type: lower
+  start_date: 2019-01-18
+contact_details:
+- address: Springfield, IL 62706
+  note: capitol
+links:
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2765
+sources:
+- url: http://ilga.gov/house/default.asp?GA=101
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2765
+image: http://ilga.gov/images/members/{37E72FD2-6318-45FD-9FF1-C750EB26137D}.jpg
