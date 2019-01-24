@@ -9,6 +9,10 @@ roles:
 contact_details:
 - address: P.O. Box 490723;Lawrenceville, GA 30049
   note: District Address
+- address: 507-C Coverdell Legislative Office Bldg.;Atlanta, GA 30334
+  email: gregg.kennard@house.ga.gov
+  note: Capitol Address
+  voice: 404-656-0202
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4950&Session=27
 sources:

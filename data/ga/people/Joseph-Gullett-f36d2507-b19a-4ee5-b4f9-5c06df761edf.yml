@@ -9,6 +9,9 @@ roles:
 contact_details:
 - address: 290 Hope Drive;Dallas, GA 30157
   note: District Address
+- address: 501-D Coverdell Legislative Office Bldg.;Atlanta, GA 30334
+  note: Capitol Address
+  voice: 404-656-0177
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4936&Session=27
 sources:

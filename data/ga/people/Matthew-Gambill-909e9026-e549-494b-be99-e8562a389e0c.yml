@@ -9,6 +9,10 @@ roles:
 contact_details:
 - address: P.O. Box 487;Cartersville, GA 30120
   note: District Address
+- address: 601-E Coverdell Legislative Office Bldg.;Atlanta, GA 30334
+  email: matthew.gambill@house.ga.gov
+  note: Capitol Address
+  voice: 404-656-0254
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4934&Session=27
 sources:

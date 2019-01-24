@@ -9,6 +9,10 @@ roles:
 contact_details:
 - address: P.O. Box 623;Watkinsville, GA 30677
   note: District Address
+- address: 612-G Coverdell Legislative Office Bldg.;Atlanta, GA 30334
+  email: marcus.wiedower@house.ga.gov
+  note: Capitol Address
+  voice: 404-656-0325
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4956&Session=27
 sources:
