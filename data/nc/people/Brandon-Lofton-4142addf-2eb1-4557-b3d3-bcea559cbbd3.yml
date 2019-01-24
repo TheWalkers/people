@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 921 Dacavin Dr;Charlotte, NC 28226
+- address: 16 West Jones Street, Rm. 1317;Raleigh, NC 27601-1096
   note: District Office
   voice: 919-715-3009
 - address: 16 West Jones Street, Rm. 1317;Raleigh, NC 27601-1096

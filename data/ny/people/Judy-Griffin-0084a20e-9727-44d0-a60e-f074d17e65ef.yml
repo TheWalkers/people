@@ -10,6 +10,9 @@ contact_details:
 - address: 100 Merrick Road;Lynbrook, NY 11563
   note: District Office
   voice: 516-561-8216
+- address: LOB 432;Albany, NY 12248
+  note: Capitol Office
+  voice: 518-455-4656
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

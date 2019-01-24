@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: LOB Room 528;Albany, NY 12248
+- address: LOB Room 538;Albany, NY 12248
   email: delaRosac@nyassembly.gov
   note: Capitol Office
   voice: 518-455-5807

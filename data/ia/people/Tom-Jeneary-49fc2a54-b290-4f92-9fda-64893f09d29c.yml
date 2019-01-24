@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: lower
 contact_details:
-- address: 1501 Schafer Ave. SE, LeMars, IA 51031
+- address: 1501 Schafer Ave SE, Le Mars, IA 51031
   note: District Office
 - email: Tom.Jeneary@legis.iowa.gov
   note: Capitol Office

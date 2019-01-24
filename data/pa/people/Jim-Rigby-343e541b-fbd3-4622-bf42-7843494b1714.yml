@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   type: lower
 contact_details:
-- address: 125 Mary Drive Suite B PO Box 339 Sidman, PA 15955
+- address: 125 Mary Drive Suite B PO Box 225 Sidman, PA 15955
   fax: 814-487-4043
   note: District Office
   voice: 814-487-4041

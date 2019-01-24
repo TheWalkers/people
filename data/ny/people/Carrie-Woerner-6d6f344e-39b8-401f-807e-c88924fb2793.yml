@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: 323 LOB;Albany, NY 12248
+- address: LOB 502;Albany, NY 12248
   email: woernerc@nyassembly.gov
   fax: 518-455-3727
   note: Capitol Office

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: lower
 contact_details:
-- address: PO Box 67, Bondurant, IA 50035
+- address: 1500 NE Morgan Dr, Bondurant, IA 50035
   note: District Office
 - email: Brian.Lohse@legis.iowa.gov
   note: Capitol Office

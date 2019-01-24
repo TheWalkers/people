@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: lower
 contact_details:
-- address: 2908 S. Soldier Creek Dr., Fort Dodge, IA 50501
+- address: 2908 S Soldier Creek Dr, Fort Dodge, IA 50501
   note: District Office
 - email: Ann.Meyer@legis.iowa.gov
   note: Capitol Office

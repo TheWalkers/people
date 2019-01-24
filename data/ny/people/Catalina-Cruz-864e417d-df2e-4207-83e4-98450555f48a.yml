@@ -11,6 +11,9 @@ contact_details:
   fax: 718-478-2371
   note: District Office
   voice: 718-458-5367
+- address: LOB 523;Albany, NY 12248
+  note: Capitol Office
+  voice: 518-455-4567
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

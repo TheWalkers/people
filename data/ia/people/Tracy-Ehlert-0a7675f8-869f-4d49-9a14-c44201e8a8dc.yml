@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: lower
 contact_details:
-- address: 411 Hanover Rd. SW, Cedar Rapids, IA 52404
+- address: 411 Hanover Rd SW, Cedar Rapids, IA 52404
   note: District Office
   voice: 319-899-2980
 - email: Tracy.Ehlert@legis.iowa.gov
