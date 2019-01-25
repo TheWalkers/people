@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ky/government
   type: upper
 contact_details:
-- address: 702 Capital Ave;Annex Room 236;Frankfort KY 40601
+- address: 702 Capital Ave;Annex Room 204;Frankfort KY 40601
   email: Jimmy.Higdon@lrc.ky.gov
   note: Capitol Office
   voice: 502-564-8100

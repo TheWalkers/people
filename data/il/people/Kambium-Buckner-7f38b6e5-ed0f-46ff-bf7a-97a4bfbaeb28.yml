@@ -10,6 +10,7 @@ roles:
 contact_details:
 - address: Springfield, IL 62706
   note: capitol
+  voice: 217-782-2023
 links:
 - url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2765
 sources:

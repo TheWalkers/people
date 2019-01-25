@@ -83,6 +83,9 @@ fl:
       district: 7
       vacant_until: 2021-01-01
     - chamber: lower
+      district: 38
+      vacant_until: 2021-01-01
+    - chamber: lower
       district: 97
       vacant_until: 2021-01-01
 ga:
