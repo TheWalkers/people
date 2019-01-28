@@ -13,7 +13,7 @@ contact_details:
   note: District Office
   voice: 385-272-8032
 links:
-- url: http://house.utah.gov/rep/PITCHS
+- url: http://house.utah.gov/rep/PITCHS/
 sources:
 - url: http://le.utah.gov/data/legislators.json
 image: https://le.utah.gov/images/legislator/PITCHS.jpg

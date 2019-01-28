@@ -12,7 +12,7 @@ contact_details:
   note: District Office
   voice: 801-633-1300
 links:
-- url: http://house.utah.gov/rep/WINDEM
+- url: http://house.utah.gov/rep/WINDEM/
 sources:
 - url: http://le.utah.gov/data/legislators.json
 image: https://le.utah.gov/images/legislator/WINDEM.jpg

@@ -12,7 +12,7 @@ contact_details:
   note: District Office
   voice: 801-836-6010
 links:
-- url: http://house.utah.gov/rep/STRATKJ
+- url: http://house.utah.gov/rep/STRATKJ/
 sources:
 - url: http://le.utah.gov/data/legislators.json
 image: https://le.utah.gov/images/legislator/STRATKJ.jpg
@@ -25,6 +25,7 @@ extras:
   - http://le.utah.gov/house2/CofI/kstratton.pdf
   - http://le.utah.gov/house2/CofI/STRATKJ.pdf
   - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1413031
+  - https://le.utah.gov/house2/CofI/COFISTRATKJ2.pdf
 other_identifiers:
 - identifier: UTL000113
   scheme: legacy_openstates

@@ -12,7 +12,7 @@ contact_details:
   note: District Office
   voice: 801-440-8765
 links:
-- url: http://house.utah.gov/rep/WARDR
+- url: http://house.utah.gov/rep/WARDR/
 sources:
 - url: http://le.utah.gov/data/legislators.json
 image: https://le.utah.gov/images/legislator/WARDR.jpg

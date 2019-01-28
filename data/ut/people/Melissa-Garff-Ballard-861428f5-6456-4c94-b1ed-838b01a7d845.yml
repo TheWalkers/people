@@ -13,7 +13,7 @@ contact_details:
   note: District Office
   voice: 385-226-2485
 links:
-- url: http://house.utah.gov/rep/BALLAMG
+- url: http://house.utah.gov/rep/BALLAMG/
 sources:
 - url: http://le.utah.gov/data/legislators.json
 image: https://le.utah.gov/images/legislator/BALLAMG.jpg
@@ -21,5 +21,6 @@ extras:
   links:
   - http://www.disclosures.utah.gov/Search/PublicSearch
   - https://le.utah.gov/house2/CofI/COFIBALLAMG.pdf
+  - https://le.utah.gov/house2/CofI/COFIBALLAMG1.pdf
 given_name: Melissa
 family_name: Ballard

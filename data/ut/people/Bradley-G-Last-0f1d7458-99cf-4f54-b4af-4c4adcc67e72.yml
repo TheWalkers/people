@@ -12,7 +12,7 @@ contact_details:
   note: District Office
   voice: 435-635-7334
 links:
-- url: http://house.utah.gov/rep/LASTBG
+- url: http://house.utah.gov/rep/LASTBG/
 sources:
 - url: http://le.utah.gov/data/legislators.json
 image: https://le.utah.gov/images/legislator/LASTBG.jpg
@@ -24,6 +24,7 @@ extras:
   - http://le.utah.gov/house2/CofI/blast.pdf
   - http://le.utah.gov/house2/CofI/LASTBG.pdf
   - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1614
+  - https://le.utah.gov/house2/CofI/COFILASTBG1.pdf
 other_identifiers:
 - identifier: UTL000070
   scheme: legacy_openstates

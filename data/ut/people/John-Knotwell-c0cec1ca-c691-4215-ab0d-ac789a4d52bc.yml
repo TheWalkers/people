@@ -12,7 +12,7 @@ contact_details:
   note: District Office
   voice: 801-449-1834
 links:
-- url: http://house.utah.gov/rep/KNOTWJ
+- url: http://house.utah.gov/rep/KNOTWJ/
 sources:
 - url: http://le.utah.gov/data/legislators.json
 image: https://le.utah.gov/images/legislator/KNOTWJ.jpg
@@ -24,6 +24,7 @@ extras:
   - http://le.utah.gov/house2/CofI/jknotwell.pdf
   - http://le.utah.gov/house2/CofI/KNOTWJ.pdf
   - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1411614
+  - https://le.utah.gov/house2/CofI/COFIKNOTWJ.pdf
 other_identifiers:
 - identifier: UTL000134
   scheme: legacy_openstates
