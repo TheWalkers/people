@@ -9,7 +9,7 @@ roles:
 contact_details:
 - email: biaggi@nysenate.gov
   note: Capitol Office
-- address: 188 State Street, Legislative Office Bldg.,;Albany,, NY 12247
+- address: 188 State Street, Legislative Office Bldg;Albany,, NY 12247
   note: District Office
   voice: 518-455-3595
 links:

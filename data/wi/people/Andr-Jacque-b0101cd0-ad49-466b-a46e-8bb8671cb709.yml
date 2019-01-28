@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wi/government
   type: upper
 contact_details:
-- address: Room 7 South;State Capitol;Madison, WI 53708
+- address: Room 7 South;State Capitol;PO Box 7882;Madison, WI 53708
   email: Sen.Jacque@legis.wisconsin.gov
   note: Capitol Office
   voice: 608-266-3512
