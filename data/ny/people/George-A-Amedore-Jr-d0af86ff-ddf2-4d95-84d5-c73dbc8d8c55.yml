@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: amedore@nysenate.gov
   note: Capitol Office
-- address: 721 Broadway, Suite 100;Kingston,, NY 12401
+  address: 188 State Street, Legislative Office Building;Albany, NY 12247
+  fax: 518-426-6751
+  voice: 518-455-2350
+- address: 721 Broadway, Suite 100;Kingston, NY 12401
   fax: 845-331-3893
   note: District Office
   voice: 845-331-3810

@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: bbenjamin@nysenate.gov
   note: Capitol Office
-- address: 188 State Street Room 517,;Albany,, NY 12247
+  address: 188 State Street Room 517,;Albany, NY 12247
   fax: 518-426-6809
-  note: District Office
   voice: 518-455-2441
+- address: 163 West 125th Street Harlem State Office Bldg.,;New York, NY 10027
+  fax: 212-678-0001
+  note: District Office
+  voice: 212-222-7315
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/brian-benjamin/contact

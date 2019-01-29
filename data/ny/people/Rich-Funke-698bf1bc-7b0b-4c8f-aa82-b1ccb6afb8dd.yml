@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: Funke@nysenate.gov
   note: Capitol Office
-- address: 230 Packett's Landing;Fairport,, NY 14450
+  address: Legislative Office Building, Room 415;Albany, NY 12247
+  fax: 518-426-6745
+  voice: 518-455-2215
+- address: 230 Packett's Landing;Fairport, NY 14450
   fax: 585-223-3157
   note: District Office
   voice: 585-223-1800

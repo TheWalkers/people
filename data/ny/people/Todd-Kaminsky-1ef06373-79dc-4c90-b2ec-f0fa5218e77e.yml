@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: kaminsky@nysenate.gov
   note: Capitol Office
-- address: 55 Front Street;Rockville Centre,, NY 11570-4040
+  address: Legislative Office Building;Albany, NY 12247
+  fax: 518-426-6914
+  voice: 518-455-3401
+- address: 55 Front Street;Rockville Centre, NY 11570-4040
   fax: 516-766-8011
   note: District Office
   voice: 516-766-8383

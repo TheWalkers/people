@@ -9,7 +9,9 @@ roles:
 contact_details:
 - email: robach@nysenate.gov
   note: Capitol Office
-- address: 2300 W. Ridge Road;Rochester,, NY 14626
+  address: 188 State Steet Room 711, Legislative Office Building;Albany, NY 12247
+  voice: 518-455-2909
+- address: 2300 W. Ridge Road;Rochester, NY 14626
   note: District Office
   voice: 585-225-3650
 links:

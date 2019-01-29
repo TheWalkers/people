@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: martinez@nysenate.gov
   note: Capitol Office
-- address: Legislative Office Bldg., Room 306;Albany,, NY 12247
+  address: Legislative Office Bldg., Room 306;Albany, NY 12247
   fax: 518-426-6781
-  note: District Office
   voice: 518-455-2950
+- address: 250 Veterans Memorial Highway,;Hauppauge, NY 11788
+  fax: 631-360-3637
+  note: District Office
+  voice: 631-360-3356
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/monica-r-martinez/contact

@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: tedisco@nysenate.gov
   note: Capitol Office
-- address: Legislative Office Building;Albany,, NY 12247
+  address: Legislative Office Building;Albany, NY 12247
   fax: 518-426-6821
-  note: District Office
   voice: 518-455-2181
+- address: 636 Plank Rd.;Clifton Park, NY 12065-2046
+  fax: 518-371-2649
+  note: District Office
+  voice: 518-885-1829
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/james-tedisco/contact

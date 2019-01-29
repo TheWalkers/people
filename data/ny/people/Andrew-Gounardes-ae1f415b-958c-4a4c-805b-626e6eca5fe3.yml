@@ -9,6 +9,9 @@ roles:
 contact_details:
 - email: gounardes@nysenate.gov
   note: Capitol Office
+  address: Legislative Office Bldg.;Albany, NY 12247
+  fax: 518-426-6782
+  voice: 518-455-2730
 - address: Legislative Office Bldg.;Albany,, NY 12247
   fax: 518-426-6782
   note: District Office

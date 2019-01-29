@@ -9,7 +9,9 @@ roles:
 contact_details:
 - email: myrie@nysenate.gov
   note: Capitol Office
-- address: 4417 4th Avenue, Ground Floor;Brooklyn,, NY 11220
+  address: 188 State Street., Legislative Office Bldg.;Albany, NY 12247
+  voice: 518-455-2410
+- address: 4417 4th Avenue, Ground Floor;Brooklyn, NY 11220
   note: District Office
   voice: 718-284-4700
 links:

@@ -9,9 +9,11 @@ roles:
 contact_details:
 - email: jacobs@nysenate.gov
   note: Capitol Office
-- address: Legislative Office Building;Albany,, NY 12247
-  note: District Office
+  address: Legislative Office Building;Albany, NY 12247
   voice: 518-455-3240
+- address: 65 Court Street;Buffalo, NY 14202
+  note: District Office
+  voice: 716-854-8705
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/christopher-jacobs/contact

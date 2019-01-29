@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: stavisky@nysenate.gov
   note: Capitol Office
-- address: 142-29 37th AveSuite 1;Flushing,, NY 11354
+  address: 188 State Street Room 913, Legislative Office Building;Albany, NY 12247
+  fax: 518-426-6857
+  voice: 518-455-3461
+- address: 142-29 37th AveSuite 1;Flushing, NY 11354
   fax: 718-445-8398
   note: District Office
   voice: 718-445-0004

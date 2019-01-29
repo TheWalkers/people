@@ -9,6 +9,9 @@ roles:
 contact_details:
 - email: kavanagh@nysenate.gov
   note: Capitol Office
+  address: Legislative Office Building;Albany, NY 12247
+  fax: 518-426-6956
+  voice: 518-455-2625
 - address: Legislative Office Building;Albany,, NY 12247
   fax: 518-426-6956
   note: District Office

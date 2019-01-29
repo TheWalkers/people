@@ -9,6 +9,8 @@ roles:
 contact_details:
 - email: may@nysenate.gov
   note: Capitol Office
+  address: 198 State Street, Legislative Office Building;Albany, NY 12210
+  voice: 518-455-2838
 - address: 172 State Street, Capitol Building;Albany,, NY 12247
   note: District Office
   voice: 518-455-2838

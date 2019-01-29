@@ -9,7 +9,9 @@ roles:
 contact_details:
 - email: Serino@nysenate.gov
   note: Capitol Office
-- address: 4254 Albany Post Road;Hyde Park,, NY 12538
+  address: 188 State Street, Legislative Office Building;Albany, NY 12247
+  voice: 518-455-2945
+- address: 4254 Albany Post Road;Hyde Park, NY 12538
   fax: 845-229-2586
   note: District Office
   voice: 845-229-0106

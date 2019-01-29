@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: flanagan@nysenate.gov
   note: Capitol Office
-- address: Room 315, State Capitol Building;Albany,, NY 12247
+  address: Room 315, State Capitol Building;Albany, NY 12247
   fax: 518-426-6904
-  note: District Office
   voice: 518-455-2071
+- address: 260 Middle Country Road, Suite 102;Smithtown, NY 11787
+  fax: 631-361-5367
+  note: District Office
+  voice: 631-361-2154
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/john-j-flanagan/contact

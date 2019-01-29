@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: omara@nysenate.gov
   note: Capitol Office
-- address: 333 East Water Street;Elmira,, NY 14901
+  address: Legislative Office Building;Albany, NY 12247
+  fax: 518-426-6976
+  voice: 518-455-2091
+- address: 333 East Water Street;Elmira, NY 14901
   fax: 607-735-9675
   note: District Office
   voice: 607-735-9671

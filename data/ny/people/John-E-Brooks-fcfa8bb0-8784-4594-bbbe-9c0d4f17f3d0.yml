@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: brooks@nysenate.gov
   note: Capitol Office
-- address: Legislative Office Building;Albany,, NY 12247
+  address: Legislative Office Building;Albany, NY 12247
   fax: 518-426-6925
-  note: District Office
   voice: 518-455-2765
+- address: 5550 Merrick Road;Massapequa, NY 11758
+  fax: 516-882-0636
+  note: District Office
+  voice: 516-882-0630
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/john-e-brooks/contact

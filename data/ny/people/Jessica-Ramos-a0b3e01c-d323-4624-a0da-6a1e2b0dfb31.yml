@@ -9,10 +9,12 @@ roles:
 contact_details:
 - email: ramos@nysenate.gov
   note: Capitol Office
-- address: Legislative Office Bldg.;Albany,, NY 12247
+  address: Legislative Office Bldg.;Albany, NY 12247
+  voice: 518-455-2529
+- address: 32-37 Junction Blvd.,;East Elmhurst, NY 11369
   fax: 718-205-4145
   note: District Office
-  voice: 518-455-2529
+  voice: 718-205-3881
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/jessica-ramos/contact

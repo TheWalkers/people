@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: scousins@nysenate.gov
   note: Capitol Office
-- address: '28 Wells Avenue, Building #3;Yonkers,, NY 10701'
+  address: 188 State Street Room 907, Legislative Office Building;Albany, NY 12247
+  fax: 518-426-6811
+  voice: 518-455-2585
+- address: '28 Wells Avenue, Building #3;Yonkers, NY 10701'
   fax: 914-423-0979
   note: District Office
   voice: 914-423-4031

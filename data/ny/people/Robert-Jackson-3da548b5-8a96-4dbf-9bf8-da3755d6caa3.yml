@@ -9,9 +9,11 @@ roles:
 contact_details:
 - email: jackson@nysenate.gov
   note: Capitol Office
-- address: 188 State Street,;Albany,, NY 12247
-  note: District Office
+  address: 188 State Street,;Albany, NY 12247
   voice: 518-455-2041
+- address: 5030 Broadway;New York, NY 10034
+  note: District Office
+  voice: 212-544-0173
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/robert-jackson/contact

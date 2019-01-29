@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: kennedy@nysenate.gov
   note: Capitol Office
-- address: 2239 South Park Ave.;Buffalo,, NY 14220
+  address: Legislative Office Building, Room 708;Albany, NY 12247
+  fax: 518-426-6851
+  voice: 518-455-2426
+- address: 2239 South Park Ave.;Buffalo, NY 14220
   fax: 716-826-2793
   note: District Office
   voice: 716-826-2683

@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: cyoung@nysenate.gov
   note: Capitol Office
-- address: 188 State Street, Legislative Office Building;Albany,, NY 12247
+  address: 188 State Street, Legislative Office Building;Albany, NY 12247
   fax: 518-426-6905
-  note: District Office
   voice: 518-455-3563
+- address: 700 W. State Street;Olean, NY 14760
+  fax: 716-372-5740
+  note: District Office
+  voice: 716-372-4901
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/catharine-young/contact

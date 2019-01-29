@@ -11,14 +11,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: upper
 contact_details:
-- address: LOB 704;Albany, NY 12248
+- address: 188 State Street, Legislative Office Building,;Albany, NY 12247
   email: skoufis@nysenate.gov
   note: Capitol Office
-  voice: 518-455-5441
-- address: 188 State Street, Legislative Office Building,;Albany,, NY 12247
-  fax: 518-426-6784
-  note: District Office
   voice: 518-455-3290
+  fax: 518-426-6784
+- address: 1093 Little Britain Rd;New Windsor, NY 12553
+  fax: 845-567-1276
+  note: District Office
+  voice: 845-567-1270
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/james-skoufis/contact

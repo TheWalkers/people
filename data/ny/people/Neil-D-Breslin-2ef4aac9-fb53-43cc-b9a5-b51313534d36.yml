@@ -9,6 +9,9 @@ roles:
 contact_details:
 - email: breslin@nysenate.gov
   note: Capitol Office
+  address: 172 State Street, Capitol Building;Albany, NY 12247
+  fax: 518-426-6807
+  voice: 518-455-2225
 - address: 172 State Street, Capitol Building;Albany,, NY 12247
   fax: 518-426-6807
   note: District Office

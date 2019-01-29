@@ -9,9 +9,11 @@ roles:
 contact_details:
 - email: antonacci@nysenate.gov
   note: Capitol Office
-- address: 188 State Street, Legislative Office Bldg.,;Albany,, NY 12247
-  note: District Office
+  address: 188 State Street, Legislative Office Bldg.,;Albany, NY 12247
   voice: 518-455-3511
+- address: 333 E. Washington St.,;Syracuse, NY 13202
+  note: District Office
+  voice: 315-428-7632
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/robert-e-antonacci/contact

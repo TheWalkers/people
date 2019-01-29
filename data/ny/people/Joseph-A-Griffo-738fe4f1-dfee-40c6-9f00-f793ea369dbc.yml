@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: griffo@nysenate.gov
   note: Capitol Office
-- address: 207 Genesee Street Room 408;Utica,, NY 13501
+  address: 172 State Street, Capitol Building;Albany, NY 12247
+  fax: 518-426-6921
+  voice: 518-455-3334
+- address: 207 Genesee Street Room 408;Utica, NY 13501
   fax: 315-793-0298
   note: District Office
   voice: 315-793-9072

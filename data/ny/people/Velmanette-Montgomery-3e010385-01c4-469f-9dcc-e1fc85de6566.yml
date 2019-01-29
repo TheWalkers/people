@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: montgome@nysenate.gov
   note: Capitol Office
-- address: 188 State Street,;Albany,, NY 12247
+  address: 188 State Street,;Albany, NY 12247
   fax: 518-426-6854
-  note: District Office
   voice: 518-455-3451
+- address: 30 Third Avenue, Suite 207;Brooklyn, NY 11217
+  fax: 718-237-4137
+  note: District Office
+  voice: 718-643-6140
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/velmanette-montgomery/contact

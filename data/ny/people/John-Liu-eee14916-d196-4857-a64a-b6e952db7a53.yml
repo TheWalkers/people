@@ -9,9 +9,11 @@ roles:
 contact_details:
 - email: liu@nysenate.gov
   note: Capitol Office
-- address: Legislative Office Bldg.;Albany,, NY 12247
-  note: District Office
+  address: Legislative Office Bldg.;Albany, NY 12247
   voice: 518-455-2210
+- address: 38-50 Bell Boulevard;Bayside, NY 11361
+  note: District Office
+  voice: 718-765-6675
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/john-liu/contact

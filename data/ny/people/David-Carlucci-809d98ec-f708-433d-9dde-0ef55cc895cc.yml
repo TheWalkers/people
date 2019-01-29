@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: carlucci@nysenate.gov
   note: Capitol Office
-- address: 181 State Street;Albany,, NY 12247
+  address: 181 State Street;Albany, NY 12247
   fax: 518-426-6737
-  note: District Office
   voice: 518-455-2991
+- address: 2 Church Street;Ossining, NY 10562
+  fax: 914-941-2054
+  note: District Office
+  voice: 914-941-2041
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/david-carlucci/contact

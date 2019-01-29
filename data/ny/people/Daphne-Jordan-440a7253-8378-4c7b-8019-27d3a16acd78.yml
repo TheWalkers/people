@@ -9,6 +9,8 @@ roles:
 contact_details:
 - email: jordan@nysenate.gov
   note: Capitol Office
+  address: 188 State Street, Legislative Office Bldg.,;Albany, NY 12247
+  voice: 518-455-2381
 - address: 188 State Street, Legislative Office Bldg.,;Albany,, NY 12247
   note: District Office
   voice: 518-455-2381

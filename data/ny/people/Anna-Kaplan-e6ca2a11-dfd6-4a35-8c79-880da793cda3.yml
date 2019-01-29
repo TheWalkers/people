@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: kaplan@nysenate.gov
   note: Capitol Office
-- address: Legislative Office Bldg. Room 805;Albany,, NY 12247
+  address: Legislative Office Bldg. Room 805;Albany, NY 12247
+  fax: 518-426-6787
+  voice: 518-455-2170
+- address: 252-254 Mineola Blvd;Mineola, NY 11501
   fax: 518-426-6787
   note: District Office
-  voice: 518-455-2170
+  voice: 516-746-5924
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/anna-m-kaplan/contact

@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: Ortt@nysenate.gov
   note: Capitol Office
-- address: 175 Walnut Street, Suite 6;Lockport,, NY 14094
+  address: Legislative Office Building, Room 815;Albany, NY 12247
+  fax: 518-426-6987
+  voice: 518-455-2024
+- address: 175 Walnut Street, Suite 6;Lockport, NY 14094
   fax: 716-434-3297
   note: District Office
   voice: 716-434-0680

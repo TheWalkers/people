@@ -9,10 +9,13 @@ roles:
 contact_details:
 - email: felder@nysenate.gov
   note: Capitol Office
-- address: 944 Legislative Office Building;Albany,, NY 12247
+  address: 944 Legislative Office Building;Albany, NY 12247
   fax: 518-426-6931
-  note: District Office
   voice: 518-455-2754
+- address: 1412 Avenue J,;Brooklyn, NY 11230
+  fax: 718-253-2030
+  note: District Office
+  voice: 718-253-2015
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/simcha-felder/contact

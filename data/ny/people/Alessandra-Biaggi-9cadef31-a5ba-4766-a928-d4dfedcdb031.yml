@@ -9,9 +9,11 @@ roles:
 contact_details:
 - email: biaggi@nysenate.gov
   note: Capitol Office
-- address: 198 State Street, Legislative Office Bldg;Albany,, NY 12210
-  note: District Office
+  address: 198 State Street, Legislative Office Bldg;Albany, NY 12210
   voice: 518-455-3595
+- address: 1250 Waters Place,;Bronx, NY 10461
+  note: District Office
+  voice: 718-822-2049
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/alessandra-biaggi/contact

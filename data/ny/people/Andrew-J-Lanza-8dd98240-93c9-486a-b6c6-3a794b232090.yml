@@ -9,7 +9,10 @@ roles:
 contact_details:
 - email: lanza@nysenate.gov
   note: Capitol Office
-- address: 3845 Richmond Ave. Suite 2A;Staten Island,, NY 10312
+  address: 708 Legislative Office Building;Albany, NY 12247
+  fax: 518-426-6852
+  voice: 518-455-3215
+- address: 3845 Richmond Ave. Suite 2A;Staten Island, NY 10312
   fax: 718-984-4455
   note: District Office
   voice: 718-984-4073

@@ -9,9 +9,11 @@ roles:
 contact_details:
 - email: sanders@nysenate.gov
   note: Capitol Office
-- fax: 518-426-6859
-  note: District Office
+  fax: 518-426-6859
   voice: 518-455-3531
+- fax: 718-523-3670
+  note: District Office
+  voice: 718-523-3069
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/james-sanders-jr/contact
