@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: LOB Room 821;Albany, NY 12248
+- address: LOB 821;Albany, NY 12248
   email: wallacem@nyassembly.gov
   fax: 518-455-3962
   note: Capitol Office

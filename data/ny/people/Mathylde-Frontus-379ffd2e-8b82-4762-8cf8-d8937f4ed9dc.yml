@@ -10,6 +10,9 @@ contact_details:
 - address: 2823 West 12 Street;Suite 1F;Brooklyn, NY 11224
   note: District Office
   voice: 718-266-0267
+- address: LOB 324;Albany, NY 12248
+  note: Capitol Office
+  voice: 518-455-4811
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

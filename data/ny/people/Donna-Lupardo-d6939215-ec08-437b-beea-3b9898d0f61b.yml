@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: 'LOB 824;Albany, NY 12248;518-455-5431;Fax: 518-455-5693;Albany Office
+- address: 'LOB 828;Albany, NY 12248;518-455-5431;Fax: 518-455-5693;Albany Office
     Directions'
   email: LupardoD@nyassembly.gov
   note: Capitol Office

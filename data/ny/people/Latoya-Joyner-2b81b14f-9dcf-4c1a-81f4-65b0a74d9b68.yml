@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: LOB 427;Albany, NY 12248
+- address: LOB 441;Albany, NY 12248
   email: joynerl@nyassembly.gov
   fax: 518-455-5461
   note: Capitol Office
