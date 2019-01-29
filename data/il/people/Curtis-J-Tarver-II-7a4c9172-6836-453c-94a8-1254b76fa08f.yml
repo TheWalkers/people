@@ -1,5 +1,5 @@
 id: ocd-person/7a4c9172-6836-453c-94a8-1254b76fa08f
-name: Curtis J. Tarver, II
+name: Curtis J. Tarver II
 party:
 - name: Democratic
 roles:
@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:il/government
   type: lower
 contact_details:
-- address: Springfield, IL 62706
+- address: 264-S Stratton Office Building;Springfield, IL 62706
   note: capitol
   voice: 217-782-8121
 links:

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:il/government
   type: lower
 contact_details:
-- address: 290-S Stratton Office Building;Springfield, IL 62706
+- address: 271-S Stratton Office Building;Springfield, IL 62706
   email: repmartwick@gmail.com
   fax: 217-557-1934
   note: capitol

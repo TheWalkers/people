@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:il/government
   type: lower
 contact_details:
-- address: 109 Capitol Building;Springfield, IL 62706
+- address: 300 Capitol Building;Springfield, IL 62706
   email: arthurt@ilga.gov
   note: capitol
   voice: 217-782-8116

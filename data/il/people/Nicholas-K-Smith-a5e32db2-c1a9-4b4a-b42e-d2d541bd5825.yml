@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:il/government
   type: lower
 contact_details:
-- address: 286-S Stratton Office Building;Springfield, IL 62706
+- address: 282-S Stratton Office Building;Springfield, IL 62706
   email: repsmith34@gmail.com
   note: capitol
   voice: 217-782-6476
