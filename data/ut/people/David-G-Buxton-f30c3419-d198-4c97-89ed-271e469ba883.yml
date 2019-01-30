@@ -12,14 +12,13 @@ contact_details:
   note: District Office
   voice: 801-707-7095
 links:
-- url: https://senate.utah.gov/david-g-buxton
+- url: https://senate.utah.gov/david-buxton
 sources:
 - url: http://le.utah.gov/data/legislators.json
 image: https://le.utah.gov/images/legislator/BUXTODG.jpg
 extras:
   links:
   - http://www.disclosures.utah.gov/Search/PublicSearch
-  - https://le.utah.gov/senate/CofI/COFIBUXTODG.pdf
 other_identifiers:
 - identifier: UTL000291
   scheme: legacy_openstates
