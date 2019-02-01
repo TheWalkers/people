@@ -7,9 +7,9 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ga/government
   type: lower
 contact_details:
-- email: betsy.holland@house.ga.gov
+- address: 409-B Coverdell Legislative Office Bldg.;Atlanta, GA 30334
+  email: betsy.holland@house.ga.gov
   note: Capitol Address
-  address: 409-B Coverdell Legislative Office Bldg.;Atlanta, GA 30334
   voice: 404-656-0116
 - address: 535 Pine Tree Drive NE;Atlanta, GA 30305
   note: District Address
