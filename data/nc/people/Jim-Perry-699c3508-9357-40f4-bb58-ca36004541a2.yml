@@ -1,0 +1,21 @@
+id: ocd-person/699c3508-9357-40f4-bb58-ca36004541a2
+name: Jim Perry
+party:
+- name: Republican
+roles:
+- district: '7'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: upper
+contact_details:
+- address: 300 N. Salisbury Street, Rm. 311;Raleigh, NC 27603
+  email: Jim.Perry@ncleg.net
+  note: Capitol Office
+  voice: 919-733-5621
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/419
+sources:
+- url: https://www.ncleg.gov/Members/Biography/S/419
+extras:
+  counties:
+  - Lenoir
+  - Wayne
