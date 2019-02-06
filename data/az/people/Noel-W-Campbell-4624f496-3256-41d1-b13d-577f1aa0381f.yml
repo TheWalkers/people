@@ -1,13 +1,13 @@
 id: ocd-person/4624f496-3256-41d1-b13d-577f1aa0381f
-name: Noel W. Campbell
+name: Noel Campbell
 party:
 - name: Republican
 roles:
 - district: '1'
   jurisdiction: ocd-jurisdiction/country:us/state:az/government
   type: lower
-  end_date: '2019-01-14'
 links:
+- url: https://www.azleg.gov/House/House-member/?legislature=54&session=121&legislator=1861
 - url: https://www.azleg.gov/House/House-member/?legislature=53&session=119&legislator=1718
 contact_details:
 - address: House of Representatives;1700 West Washington;Room Room 304;Phoenix, AZ
@@ -18,9 +18,9 @@ contact_details:
   note: ''
 sources:
 - url: http://www.azleg.gov/MemberRoster/?body=H
-image: https://www.azleg.gov/alisImages/MemberPhotos/53leg/House/CAMPBELL.gif
+image: https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/CAMPBELL.gif
 other_identifiers:
 - identifier: AZL000306
   scheme: legacy_openstates
-given_name: Noel W.
+given_name: Noel
 family_name: Campbell
