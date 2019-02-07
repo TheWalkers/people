@@ -1,0 +1,20 @@
+id: ocd-person/fd011836-d12a-41db-982b-1d1d80bffb99
+name: Matthew W. Milam
+party:
+- name: Democratic
+roles:
+- district: '1'
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  type: lower
+contact_details:
+- address: School House Office Park, 211 S. Main St., Suite 104;Cape May Court House,
+    NJ 08210
+  email: AsmMilam@njleg.org
+  note: District Office
+  voice: 609-465-0700
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=418
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=418
+- url: http://www.njleg.state.nj.us/downloads.asp
+gender: Male
