@@ -11,6 +11,7 @@ memberships:
   name: Nathan J. Wadsworth
 - id: ocd-person/b62dd4eb-73bf-4438-96ca-8c54aaa4692d
   name: Jennifer L. DeChant
+  end_date: '2019-02-01'
 - id: ocd-person/0e9d0339-b5b4-43dd-90b6-9973eb6a2b7a
   name: Jeffery P. Hanley
 - id: ocd-person/ce19b122-3357-499f-a116-5efc38d10725

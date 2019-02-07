@@ -22,5 +22,6 @@ roles:
 - district: '52'
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
+  end_date: '2019-02-01'
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/34

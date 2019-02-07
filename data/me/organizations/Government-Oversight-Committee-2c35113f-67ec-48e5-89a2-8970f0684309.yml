@@ -28,6 +28,7 @@ memberships:
 - name: Bill Diamond
 - id: ocd-person/b62dd4eb-73bf-4438-96ca-8c54aaa4692d
   name: Jennifer L. DeChant
+  end_date: '2019-02-01'
 - id: ocd-person/c51e42af-6645-41ac-97be-83039e6e842b
   name: Nathan L. Libby
 - id: ocd-person/e93c4b09-7c17-4fef-9db1-1ecf1cb84f0f

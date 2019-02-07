@@ -366,6 +366,13 @@ me:
   legislature_name: Maine Legislature
   lower_seats: 151
   upper_seats: 35
+  vacancies:
+      - chamber: lower
+        district: 52
+        vacant_until: 2021-01-01
+      - chamber: lower
+        district: 124
+        vacant_until: 2021-01-01
 mi:
   legislature_name: Michigan Legislature
   lower_seats: 110
