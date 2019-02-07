@@ -6,17 +6,21 @@ roles:
 - district: '3'
   jurisdiction: ocd-jurisdiction/country:us/state:oh/government
   type: lower
+  end_date: '2019-02-07'
+- district: '2'
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  type: upper
 contact_details:
-- address: 77 S. High St;13th Floor;Columbus, OH 43215
-  email: rep03@ohiohouse.gov
+- address: Senate Building;1st Floor
+  email: sd02@ohiosenate.gov
   fax: 614-719-0006
   note: Capitol Office
-  voice: 614-466-8104
+  voice: 614-466-8060
 links:
-- url: http://www.ohiohouse.gov/theresa-gavarone
+- url: http://www.ohiosenate.gov/senators/gavarone
 sources:
-- url: http://www.ohiohouse.gov/members/member-directory
-image: http://www.ohiohouse.gov/Assets/Headshots/Small/3.jpg
+- url: http://www.ohiosenate.gov/senators
+image: http://www.ohiosenate.gov/Assets/Members/Headshots/Medium/2925.jpg
 biography: State Representative Theresa Gavarone is serving her second term in the
   Ohio House of Representatives after being appointed in 2016. She represents the
   3rd Ohio House District, serving residents of Wood County.

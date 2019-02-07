@@ -1,0 +1,19 @@
+id: ocd-person/a95c8070-c3bd-4c72-b7d3-2550b96ca2b7
+name: Adam Holmes
+party:
+- name: Republican
+roles:
+- district: '97'
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  type: lower
+contact_details:
+- address: 77 S. High St;11th Floor;Columbus, OH 43215
+  email: rep97@ohiohouse.gov
+  fax: 614-719-6994
+  note: Capitol Office
+  voice: 614-644-6014
+links:
+- url: http://www.ohiohouse.gov/adam-holmes
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory
+image: http://www.ohiohouse.gov/Assets/Headshots/Small/97.jpg
