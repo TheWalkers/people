@@ -7,23 +7,20 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/31?code=TAL
+- url: http://www.akleg.gov/basis/Member/Detail/30?code=tal
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=tal
 contact_details:
-- address: State Capitol Room 110;Juneau AK, 99801
+- address: State Capitol Room 4527; Juneau AK, 99801
+  email: Representative.David.Talerico@akleg.gov
   note: Capitol Office
-- note: Capitol Office Phone
-  voice: 907-465-4527
-- email: Representative.David.Talerico@akleg.gov
-  note: E-mail
-- address: 1292 Sadler Way Suite 328;Fairbanks AK, 99701
-  note: District Office
-- note: District Office Phone
-  voice: 907-451-2818
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/31?code=TAL
-image: http://akleg.gov/images/legislators/TAL.jpg
+- url: http://www.akleg.gov/basis/Member/Detail/30?code=tal
+- url: http://w3.akleg.gov/
+image: http://akleg.gov/images/legislators/tal.jpg
 other_identifiers:
 - identifier: AKL000138
   scheme: legacy_openstates
-given_name: Dave
+- identifier: ocd-person/8905360f-b0a7-406d-9dd7-6e6b9ab351a6
+  scheme: openstates
+given_name: David
 family_name: Talerico
