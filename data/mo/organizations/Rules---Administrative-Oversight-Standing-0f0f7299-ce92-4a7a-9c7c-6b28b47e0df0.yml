@@ -21,6 +21,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/af12fdba-1167-4346-8b57-8d79e7a73b89
   name: Jean Evans
+  end_date: '2019-02-07'
 - id: ocd-person/ee48adde-5a82-46bb-ba2c-12989cc6e77a
   name: Kirk Mathews
   end_date: '2018-12-31'
