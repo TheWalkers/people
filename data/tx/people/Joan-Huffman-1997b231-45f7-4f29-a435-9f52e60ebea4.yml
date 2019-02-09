@@ -10,13 +10,15 @@ contact_details:
 - address: The Honorable Joan Huffman;P.O. Box 12068;Capitol Station;Austin, TX 78711
   note: 'Capitol Office #1'
   voice: 512-463-0117
-- address: Senator Joan Huffman;P.O. Box 541774;Houston, TX 77254
+- address: P.O. Box 12068 Capitol Station Austin, TX 78711
   note: District Office
-  voice: 281-980-3500
+  voice: 512-463-0117
+- address: P.O. Box 12068 Capitol Station Austin, TX 78711
+  note: Capitol Office
+  voice: 512-463-0117
 links:
 - url: https://senate.texas.gov/member.php?d=17
 sources:
-- url: https://senate.texas.gov/directory.php
 - url: https://senate.texas.gov/member.php?d=17
 other_identifiers:
 - identifier: TXL000196
@@ -25,3 +27,37 @@ other_identifiers:
   scheme: legacy_openstates
 given_name: Joan
 family_name: Huffman
+image: https://senate.texas.gov/members/d17/img/headshot.jpg
+biography: "Senator Joan Huffman started her career as a public servant in 1981. Upon\
+  \ earning her undergraduate degree from Louisiana State University, she became a\
+  \ secretary for the Harris County District Attorney's office. It was there that\
+  \ she became inspired by the work of prosecutors and decided to attend law school.\
+  \ She took night classes at South Texas College of Law while working full time.\r\
+  \ \r Upon earning her law degree, Joan was hired as a prosecutor and advanced from\
+  \ misdemeanor court to Chief Felony Prosecutor, Special Crimes Gang Prosecutor,\
+  \ and Legal Counsel to the Organized Crime Narcotics Task Force. She served as lead\
+  \ prosecutor in over 100 jury trials, including murders, sexual assaults, aggravated\
+  \ robberies, and sexual assaults of children. Huffman earned a reputation as a fair\
+  \ and tough enforcer of the law both as a prosecutor and a twice elected Judge to\
+  \ the 183rd Criminal District Court.\r \r Senator Huffman was first elected to the\
+  \ Texas Senate in 2008 after winning a special election to fill the vacated office\
+  \ of Senate District 17 and has been twice re-elected. Her background and knowledge\
+  \ on various topics has allowed for her to serve on several key committees which\
+  \ impact the overall operation and efficiency of state government. She currently\
+  \ serves as Chairwoman of the Senate Committee on State Affairs, Vice Chairwoman\
+  \ of the Senate Committee on Criminal Justice, and as a member of the Senate Committee\
+  \ on Finance.\r \r Senator Huffman's common sense approach to solving issues has\
+  \ allowed for her to build strong relationships with members of both parties, which\
+  \ enables her to represent the needs of her district and her constituents efficiently\
+  \ and effectively. Her leadership has been acknowledged by numerous advocacy groups.\
+  \ She was named a \"Champion for Free Enterprise\" by the Texas Association of Business,\
+  \ a \"Taxpayer Champion\" by Texans for Fiscal Responsibility and a \"Big Voice\
+  \ for Little Texans\" by Court Appointed Special Advocates for her work to protect\
+  \ children. She was also named a \"Patient Care Champion\" by the Harris County\
+  \ Medical Society, earned the TEXPAC \"Patient Protection Award\" from the Texas\
+  \ Medical Association, both for back-to-back legislative sessions, and is the only\
+  \ repeat recipient of the Texas District and County Attorneys Association's \"Law\
+  \ and Order Award\" since its inception, for her efforts to improve victims' protections\
+  \ and the criminal justice system.\r \r Senator Huffman lives with her family in\
+  \ Houston and proudly represents a diverse district which includes portions of Brazoria,\
+  \ Fort Bend and Harris counties.\r \r Download   in PDF format."

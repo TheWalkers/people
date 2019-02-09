@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 2515 Marsh Hen Dr;Oak Island, NC 28465
+- address: PO Box 1412;Shallotte, NC 28459
   note: District Office
   voice: 919-301-1450
 - address: 300 N. Salisbury Street, Rm. 639;Raleigh, NC 27603-5925

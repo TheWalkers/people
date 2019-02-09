@@ -7,19 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wi/government
   type: upper
 contact_details:
-- address: Room 18 South;State Capitol;PO Box 7882;Madison, WI 53707-7882
-  email: Sen.Stroebel@legis.wisconsin.gov
-  note: Capitol Office
-  voice: 608-266-7513
-- address: Room 18 South;State Capitol;Madison, WI 53707-7882
+- address: Room 18 South;State Capitol;PO Box 7882;Madison, WI 53707
   email: Sen.Stroebel@legis.wisconsin.gov
   note: Capitol Office
   voice: 608-266-7513
 links:
-- url: https://docs.legis.wisconsin.gov/2017/legislators/senate/1526
 - url: https://docs.legis.wisconsin.gov/2019/legislators/senate/1919
 sources:
-- url: https://docs.legis.wisconsin.gov/2017/legislators/senate/1526
 - url: https://docs.legis.wisconsin.gov/2019/legislators/senate/1919
 image: https://docs.legis.wisconsin.gov/2019/legislators/senate/1919.jpg
 other_identifiers:

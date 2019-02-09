@@ -12,6 +12,8 @@ contact_details:
   fax: 512-463-2331
   note: Capitol Address
   voice: 512-463-0722
+- address: 9601 Jones Rd., Ste. 215;Houston, Texas 77065
+  note: District Address
 links:
 - url: https://house.texas.gov/members/member-page/?district=135
 sources:

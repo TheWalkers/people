@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wi/government
   type: upper
 contact_details:
-- address: Room 316 South;State Capitol;PO Box 7882;Madison, WI 53707-7882
+- address: Room 316 South;State Capitol;PO Box 7882;Madison, WI 53707
   email: Sen.Tiffany@legis.wisconsin.gov
   note: Capitol Office
   voice: 608-266-2509

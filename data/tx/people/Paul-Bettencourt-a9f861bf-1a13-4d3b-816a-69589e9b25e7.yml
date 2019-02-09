@@ -11,17 +11,70 @@ contact_details:
     78711
   note: 'Capitol Office #1'
   voice: 512-463-0107
-- address: 11451 Katy Freeway, Suite 209;Houston, TX 77079
+- address: P.O. Box 12068 Capitol Station Austin, TX 78711
   fax: 713-461-0108
   note: District Office
-  voice: 713-464-0282
+  voice: 512-463-0107
+- address: P.O. Box 12068 Capitol Station Austin, TX 78711
+  note: Capitol Office
+  voice: 512-463-0107
 links:
 - url: https://senate.texas.gov/member.php?d=7
 sources:
-- url: https://senate.texas.gov/directory.php
 - url: https://senate.texas.gov/member.php?d=7
 other_identifiers:
 - identifier: TXL000482
   scheme: legacy_openstates
 given_name: Paul
 family_name: Bettencourt
+image: https://senate.texas.gov/members/d07/img/headshot.jpg
+biography: "Elected to the Texas Senate in 2014, Senator Paul Bettencourt represents\
+  \ Senate District 7, which encompasses West Harris County. He previously served\
+  \ 10 years as the Harris County Tax Assessor-Collector, where he introduced \u201C\
+  Smart Government\u201D at the Harris County Tax Office and developed a customer\
+  \ service-driven organization. His team created the first major online property\
+  \ tax payment system and the first county tax office website with online vehicle\
+  \ registration in Texas. (His motto was \u201CGet on-line, not in-line.\u201D) He\
+  \ was well-known as the \"Tax  Man\" for his outspoken efforts to cut property taxes.\r\
+  \ \r In the most recent Legislative Session, Senator Bettencourt worked tirelessly\
+  \ to pass a conservative budget and several property tax reform bills.  These accomplishments\
+  \ range from passing legislation to stamp out inappropriate student-educator relationships,\
+  \ reaching across the aisle to establish ISD and Charter School Partnerships to\
+  \ give Texas students better access to educational opportunities, and working to\
+  \ pass HB 810, which gets government out of the way and allows adult stem cell treatments\
+  \ to be used for patients facing severe chronic illnesses.  A champion for property\
+  \ tax relief in Texas Government, Senator Bettencourt authored the Texas Property\
+  \ Tax Reform and Relief Act of 2017 (SB 2) and again in the  Special Session The\
+  \ 2017 Reform Act was created after touring Texas and taking over almost 50 hours\
+  \ of public testimony to discuss property tax reform.\r \r This success builds upon\
+  \ his previous accomplishments in the 84th Legislative Session where Senator Bettencourt\
+  \ served as the chief Senate sponsor or author on 25 bills that the Legislature\
+  \ approved, earning him notice from capitol insiders. This legislation included\
+  \ his amendment to SB 1760 that requires a 60% supermajority within a taxing jurisdiction\
+  \ to increase property taxes which has already been documented to prevent imposing\
+  \ a $100 million tax increase in one taxing entity. Senator Bettencourt also led\
+  \ the passage of the Andrea Sloan \u201CRight to Try\u201D bill, which allows terminally\
+  \ ill Texas patients access to drugs still in the FDA approval pipeline, and SB\
+  \ 1004, which expanded student dual credit opportunities in Harris County.  During\
+  \ his two Legislative Sessions Senator Bettencourt has authored or sponsored 64\
+  \ bills that have become law. \r \r Numerous organizations have acknowledged Senator\
+  \ Bettencourt for his conservative solutions to Texas' challenges. His work earned\
+  \ him the distinction of \u201CMost Valuable Freshman\u201D by Capitol Inside, \"\
+  Outstanding Texas Legislator\" by Vision America, and he was called an \u201Carchitect\
+  \ of tax relief\u201D by Governor Greg Abbott for his leadership on property tax\
+  \ reform. He has also been named \u201CTaxpayer Advocate of the Year\u201D by the\
+  \ Americans for Prosperity, a \u201CHero of Faith\u201D by the Houston Area Pastors\u2019\
+  \ Council, and earned the \u201CPioneer Award\" from the Harris County Republican\
+  \ Party. \r \r Senator Bettencourt is the Chair of the Senate Select Committee of\
+  \ Property Tax Reform, the Chair of the Senate Select Committee on Government Reform,\
+  \ and serves on the Senate Finance, Education, and Higher Education committees.\
+  \ Additionally, he is also the Vice-Chair of the Intergovernmental Relations Committee\
+  \ and elected Chair of the Texas Senate Republican Caucus by his Senate colleagues.\
+  \   He also serves on the Joint Committee on Government Facilities and is an active\
+  \ member of the ongoing Texas Commission on Public School Finance, where he is the\
+  \ Chair of the Revenue Workgroup.\r \r A proud graduate of Texas A&M University\
+  \ with a Bachelor of Science in Industrial Distribution, Senator Bettencourt is\
+  \ the President and CEO of Bettencourt Tax Advisors, LLC, a tax consulting company\
+  \ in Houston that has grown to forty employees. He is also a radio and television\
+  \ personality.\r \r The Senator and his wife Susan are active members of Saint John\
+  \ Vianney Catholic Church, where Paul is a fourth degree Knight of Columbus."

@@ -1,5 +1,5 @@
 contact_details:
-- address: Senate Box 203039;Harrisburg, PA 17120-3039;Room:;168 Main Capitol
+- address: Senate Box 203039;Harrisburg, PA 17120-3039;Room:;173 Main Capitol
   email: kward@pasen.gov
   fax: 717-772-0580
   note: Capitol Office
@@ -10,11 +10,6 @@ contact_details:
   fax: 724-600-7008
   note: District Office
   voice: 724-600-7002
-- address: Senate Box 203039;Harrisburg, PA 17120-3039;Room:;173 Main Capitol
-  email: kward@pasen.gov
-  fax: 717-772-0580
-  note: Capitol Office
-  voice: 717-787-6063
 extras:
   youtube: http://www.youtube.com/senatorkimward
 family_name: Ward
