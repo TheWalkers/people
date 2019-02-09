@@ -10,9 +10,11 @@ contact_details:
 - address: 1175 Old York Road Abington, PA 19001
   note: District Office
   voice: 215-517-6800
+  fax: 215-517-6828
 - address: 26A East Wing House PO Box 202153 Harrisburg, PA 17120-2153
   note: Capitol Office
   voice: 717-783-7619
+  fax: 717-780-4754
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wi/government
   type: upper
 contact_details:
-- address: Room 211 South;State Capitol;PO Box 7882;Madison, WI 53707-7882
+- address: Room 211 South;State Capitol;PO Box 7882;Madison, WI 53707
   email: Sen.Fitzgerald@legis.wisconsin.gov
   fax: 608-267-6795
   note: Capitol Office

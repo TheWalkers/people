@@ -6,6 +6,17 @@ party:
 - name: Democratic
 roles:
 - district: '40'
-  jurisdiction: ocd-jurisdiction/country:us/state:WA/government
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
   start_date: '2019-02-05'
   type: upper
+image: http://www.leg.wa.gov/Senate/Senators/PublishingImages/lovelett.jpg
+links:
+- url: http://sdc.wastateleg.org/Lovelett/
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx
+contact_details:
+- address: 215 John A. Cherberg Building;PO Box 40440;Olympia, WA 98504
+  email: Liz.Lovelett@leg.wa.gov
+  note: Capitol Office
+  voice: 360-786-7678

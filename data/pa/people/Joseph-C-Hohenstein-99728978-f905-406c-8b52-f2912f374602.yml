@@ -7,12 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   type: lower
 contact_details:
-- address: 7238 Barnard Street Philadelphia, PA 19149
+- address: 4725-27 Richmond Street Philadelphia, PA 19137
   note: District Office
   voice: 215-744-2600
+  fax: 215-398-0002
 - address: 121A East Wing House PO Box 202177 Harrisburg, PA 17120-2177
   note: Capitol Office
   voice: 717-783-4087
+  fax: 717-705-2098
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:

@@ -8,12 +8,12 @@ roles:
   type: lower
   start_date: '2019-01-14'
 contact_details:
-- address: 469 John L. O'Brien Building;PO BOX 40600;Olympia, WA 98504
+- address: 469 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
   email: Alex.Ybarra@leg.wa.gov
   note: Capitol Office
   voice: 360-786-7808
 links:
-- url: http://houserepublicans.wa.gov/Alex-Ybarra/
+- url: http://AlexYbarra.houserepublicans.wa.gov/
 - url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
 sources:
 - url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx

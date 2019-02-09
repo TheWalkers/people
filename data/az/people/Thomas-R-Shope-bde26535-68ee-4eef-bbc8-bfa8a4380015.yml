@@ -1,5 +1,5 @@
 id: ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015
-name: Thomas "T.J." Shope, Jr.
+name: Thomas "T.J." Shope
 party:
 - name: Republican
 roles:
@@ -8,10 +8,8 @@ roles:
   type: lower
 links:
 - url: https://www.azleg.gov/House/House-member/?legislature=54&session=121&legislator=1871
-- url: https://www.azleg.gov/House/House-member/?legislature=53&session=119&legislator=1743
 contact_details:
-- address: House of Representatives;1700 West Washington;Room Room 204;Phoenix, AZ
-    85007
+- address: House of Representatives;1700 West Washington;Room 204;Phoenix, AZ 85007
   note: Capitol Office
   voice: 602-926-3012
 - email: tshope@azleg.gov

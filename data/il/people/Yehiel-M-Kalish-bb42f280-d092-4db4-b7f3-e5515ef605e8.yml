@@ -11,6 +11,10 @@ contact_details:
 - address: 242-W Stratton Office Building;Springfield, IL 62706
   note: capitol
   voice: 217-782-1252
+- address: 4508 Oakton St.;Skokie, IL 60076
+  fax: 847-982-0393
+  note: district
+  voice: 847-673-1131
 links:
 - url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2764
 sources:

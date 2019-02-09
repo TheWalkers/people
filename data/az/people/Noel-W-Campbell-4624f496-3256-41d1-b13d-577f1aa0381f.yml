@@ -1,5 +1,5 @@
 id: ocd-person/4624f496-3256-41d1-b13d-577f1aa0381f
-name: Noel Campbell
+name: Noel W. Campbell
 party:
 - name: Republican
 roles:
@@ -8,10 +8,8 @@ roles:
   type: lower
 links:
 - url: https://www.azleg.gov/House/House-member/?legislature=54&session=121&legislator=1861
-- url: https://www.azleg.gov/House/House-member/?legislature=53&session=119&legislator=1718
 contact_details:
-- address: House of Representatives;1700 West Washington;Room Room 304;Phoenix, AZ
-    85007
+- address: House of Representatives;1700 West Washington;Room 304;Phoenix, AZ 85007
   note: Capitol Office
   voice: 602-926-3124
 - email: ncampbell@azleg.gov

@@ -12,6 +12,8 @@ contact_details:
   fax: 512-463-2040
   note: Capitol Address
   voice: 512-463-0458
+- address: 100 E. Corsicana St., Suite 204;Athens, Texas 75751
+  note: District Address
 links:
 - url: https://house.texas.gov/members/member-page/?district=4
 sources:

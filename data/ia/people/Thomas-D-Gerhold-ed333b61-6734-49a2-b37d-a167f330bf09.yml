@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: lower
 contact_details:
-- address: 3326 71st Street, Atkins, IA 52206
+- address: 3326 71st St, Atkins, IA 52206
   note: District Office
 - email: Thomas.Gerhold@legis.iowa.gov
   note: Capitol Office

@@ -7,10 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wi/government
   type: upper
 contact_details:
-- address: Room 22 South;State Capitol;PO Box 7882;Madison, WI 53707-7882
+- address: Room 22 South;State Capitol;PO Box 7882;Madison, WI 53707
   email: Sen.Smith@legis.wisconsin.gov
   note: Capitol Office
   voice: 608-266-8546
+  fax: 608-282-3571
 links:
 - url: https://docs.legis.wisconsin.gov/2019/legislators/senate/1944
 sources:

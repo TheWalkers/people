@@ -49,12 +49,16 @@ class AlaskaScraper(scrapelib.Scraper):
         chamber = item.attrib["chamber"]
         code = item.attrib["code"].lower()
 
+        party = item_dict["Party"]
+        if party and party == 'N':
+            party = 'Independent'
+
         person = Person(
             name="{FirstName} {LastName}".format(**item_dict),
             given_name=item_dict['FirstName'],
             family_name=item_dict['LastName'],
             state='ak',
-            party=item_dict["Party"],
+            party=party,
             chamber=('upper' if chamber == 'S' else 'lower'),
             district=item_dict["District"],
             image=f"http://akleg.gov/images/legislators/{code}.jpg"
@@ -65,8 +69,9 @@ class AlaskaScraper(scrapelib.Scraper):
         ))
         person.add_source("http://w3.akleg.gov/")
 
-        phone = "907-" + item_dict["Phone"][0:3] + "-" + item_dict["Phone"][3:]
-        person.capitol_office.voice = phone
+        if len(item_dict["Phone"]) == 7:
+            phone = "907-" + item_dict["Phone"][0:3] + "-" + item_dict["Phone"][3:]
+            person.capitol_office.voice = phone
         person.capitol_office.email = item_dict["EMail"]
 
         if item_dict["Building"] == "CAPITOL":

@@ -10,6 +10,7 @@ import lxml.html
 import re
 import os
 from common import Person
+from utils import PHONE_RE
 
 # Montana-specific
 

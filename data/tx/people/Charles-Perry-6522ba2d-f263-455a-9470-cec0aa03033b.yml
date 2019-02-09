@@ -11,13 +11,15 @@ contact_details:
   fax: 512-463-2424
   note: 'Capitol Office #1'
   voice: 512-463-0128
-- address: 119 Avenue B NW;Childress, TX 79201
+- address: 119 Avenue B NW Childress, TX 79201
   note: District Office
   voice: 940-937-0909
+- address: P.O. Box 12068 Capitol Station Austin, TX 78711
+  note: Capitol Office
+  voice: 512-463-0128
 links:
 - url: https://senate.texas.gov/member.php?d=28
 sources:
-- url: https://senate.texas.gov/directory.php
 - url: https://senate.texas.gov/member.php?d=28
 other_identifiers:
 - identifier: TXL000400
@@ -28,3 +30,48 @@ other_identifiers:
   scheme: legacy_openstates
 given_name: Charles
 family_name: Perry
+image: https://senate.texas.gov/members/d28/img/headshot.jpg
+biography: "Charles Perry, a practicing CPA from Lubbock, was elected to the Texas\
+  \ Senate in 2014 after first serving two terms in the Texas House of Representatives.\
+  \ A life-long West Texan, Perry is a conservative fighting for lower taxes, better\
+  \ schools, safer communities, and individual liberties.\r  \r Perry currently chairs\
+  \ the Senate Committee on Agriculture, Water, & Rural Affairs and sits on the Senate\
+  \ Committees for Criminal Justice, Health and Human Services, and Transportation.\
+  \ He additionally, co-chairs the State Water Implementation Fund for Texas (SWIFT)\
+  \ Advisory Committee, and was appointed by Gov. Abbott to the Southwestern States\
+  \ Water Commission.\r  \r In the 85th legislative session, Perry passed 34 senate\
+  \ bills and 38 house bills and a number of amendments. These bills included legislation\
+  \ to strengthen pro-life measures in Texas, expand Second Amendment rights, protect\
+  \ our ballot box from voter fraud, stop the sale of illegal synthetic substances\
+  \ to our youth, and protect rural communities.\r  \r Most notably, Perry authored\
+  \ and passed Senate Bill 4, which banned sanctuary cities in Texas. Perry put a\
+  \ stop to sanctuary cities by preventing local government from helping criminal\
+  \ immigrants evade federal detainer requests, causing public safety concerns statewide.\
+  \ He also helped pass legislation prohibiting physicians from performing tortuous\
+  \ dismemberment abortions.\r  \r Perry fought to pass economic development programs\
+  \ for rural communities, improve our water laws, cut red tape allowing a new VA\
+  \ health care clinic to be built in West Texas, and reformed healthcare laws to\
+  \ increase access to medicine using telepharmacy and telemedicine.\r  \r Outside\
+  \ his work in the Legislature, Perry has served his community as past president\
+  \ of the Lubbock Boys and Girls Club, American Business Clubs, and Community Partners,\
+  \ and previously served on the board of the National Council on Family Violence\
+  \ and the Women's Protective Services of Lubbock. He has also serves as a deacon\
+  \ at his church, Southcrest Baptist in Lubbock.\r  \r Perry grew up in the district\
+  \ he currently represents, graduating from Sweetwater High School in 1980. In 1984,\
+  \ he earned his Bachelor of Business Administration in Accounting and Management\
+  \ Information Systems from Texas Tech University.\r  \r Perry has been married to\
+  \ his wife, Jacklyn, for over 34years and together they have a daughter, Jordan,\
+  \ and a son, Matthew, and two grandchildren. The entire family are graduates of\
+  \ Texas Tech University.\r  \r Geographically, Perry represents the largest Senate\
+  \ District in the State. The district is made up of 51 counties, is over 48,000\
+  \ square miles, and is larger than 19 U.S. states.\r  \r Senator Perry has been\
+  \ honored by a number of groups for his commitment to conservative leadership, including\
+  \ an \"A+ Rating\" by the National Rifle Association (NRA); named a \"Rural Friend\"\
+  \ by the Texas State Telephone Cooperative, Inc. (TSTCI); \"2017 Legislative Champion\"\
+  \ by the Meadows Mental Health Policy Institute; \"2017 Faith & Family Champion\"\
+  \ by Texas Values; \"2017 Pro Life Hero\" with a 100% Pro Life voting record by\
+  \ Texas Right to life;\"100% Pro-Life Rating\" from Texas Alliance for Life; \"\
+  100% Small Business Voting Record\" award by the National Federation of Independent\
+  \ Business (NFIB); named \"2017 Courageous Conservative\" by the Texas Conservative\
+  \ Coalition; \"Legislative Hero Award\" by the Access to Justice Foundation; and\
+  \ \"Fighter for Free Enterprise\" by the Texas Association of Business."

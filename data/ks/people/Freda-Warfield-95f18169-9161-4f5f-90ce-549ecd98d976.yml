@@ -13,4 +13,9 @@ roles:
 links:
 - url: http://www.kslegislature.org/li/b2019_20/members/rep_warfield_freda_1/
 sources:
-- url: http://www.kslegislature.org/li/b2019_20/members/rep_warfield_freda_1/
+- url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_warfield_freda_1
+contact_details:
+- address: Room 559-S;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612
+  email: Freda.Warfield@house.ks.gov
+  note: Capitol Office
+  voice: 785-296-7656
