@@ -64,7 +64,7 @@ class PersonFile(object):
         return differences
 
     def merge_contact_details(self, old, new, difference):
-        contacts = OrderedDict((o['note'], o) for o in old[difference.key_name])
+        contacts = OrderedDict((o['note'], o) for o in old.get(difference.key_name, []))
 
         for office in new[difference.key_name]:
             contacts.setdefault(office['note'], {}).update(office)
@@ -100,7 +100,6 @@ class PersonFile(object):
         }
         self.data = merge_people(self.data, other.data, keep_on_conflict='new',
                                  custom_merges=custom_merges)
-
 
     def save(self):
         dump_obj(self.data, filename=self.filename)
