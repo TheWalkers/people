@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 240;1540 Cornerstone Boulevard;Daytona Beach, FL 32117-7144
   note: district
   voice: 386-238-4865
+- email: Tom.Leek@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4662.jpg
 other_identifiers:
 - identifier: FLL000598

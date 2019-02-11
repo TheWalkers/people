@@ -13,11 +13,14 @@ contact_details:
 - address: Unit 1;105 Southwest 140th Court;Jonesville, FL 32669-3391
   note: district
   voice: 352-313-6542
+- email: Chuck.Clemons@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4655&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4655&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4655.jpg
 other_identifiers:
 - identifier: FLL000599

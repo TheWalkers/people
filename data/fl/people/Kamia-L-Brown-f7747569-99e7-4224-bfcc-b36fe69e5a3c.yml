@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 211;6965 Piazza Grande Avenue;Orlando, FL 32835-8780
   note: district
   voice: 407-297-2001
+- email: Kamia.Brown@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4625&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4625&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4625.jpg
 other_identifiers:
 - identifier: FLL000627

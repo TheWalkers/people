@@ -13,11 +13,14 @@ contact_details:
 - address: 12972 North Dale Mabry Highway;Tampa, FL 33618-2806
   note: district
   voice: 813-265-6272
+- email: James.Grant@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4504&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4504&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4504.jpg
 other_identifiers:
 - identifier: FLL000648

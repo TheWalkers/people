@@ -13,11 +13,14 @@ contact_details:
 - address: Suite B2-203;1801 27th Street;Vero Beach, FL 32960-3388
   note: district
   voice: 772-778-5005
+- email: Erin.Grall@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4637&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4637&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4637.jpg
 other_identifiers:
 - identifier: FLL000585

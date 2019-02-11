@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 101;6000 South Rio Grande Avenue;Orlando, FL 32809-4650
   note: district
   voice: 407-251-2388
+- email: Amy.Mercado@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4638&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4638&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4638.jpg
 other_identifiers:
 - identifier: FLL000527

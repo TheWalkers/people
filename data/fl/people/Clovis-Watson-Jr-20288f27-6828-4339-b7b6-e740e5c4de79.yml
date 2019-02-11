@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 202;2815 Northwest 13th Street;Gainesville, FL 32609-2865
   note: district
   voice: 352-264-4001
+- email: Clovis.Watson@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4541&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4541&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4541.jpg
 other_identifiers:
 - identifier: FLL000642

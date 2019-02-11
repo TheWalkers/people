@@ -13,11 +13,14 @@ contact_details:
 - address: Suite B;205 South Commerce Avenue;Sebring, FL 33870-3626
   note: district
   voice: 863-386-6000
+- email: Cary.Pigman@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4551&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4551&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4551.jpg
 other_identifiers:
 - identifier: FLL000633

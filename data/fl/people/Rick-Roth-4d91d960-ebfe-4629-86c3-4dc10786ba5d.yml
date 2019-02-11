@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 104;100 Village Square Crossing;Palm Beach Gardens, FL 33410-4531
   note: district
   voice: 561-625-5176
+- email: Rick.Roth@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4648&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4648&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4648.jpg
 other_identifiers:
 - identifier: FLL000605

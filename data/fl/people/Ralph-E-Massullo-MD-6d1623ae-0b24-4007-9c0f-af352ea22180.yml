@@ -13,11 +13,14 @@ contact_details:
 - address: 4067 North Lecanto Highway;Beverly Hills, FL 34465-3551
   note: district
   voice: 352-527-4510
+- email: Ralph.Massullo@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4624&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4624&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4624.jpg
 other_identifiers:
 - identifier: FLL000568

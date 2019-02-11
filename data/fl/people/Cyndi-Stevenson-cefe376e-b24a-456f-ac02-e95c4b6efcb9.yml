@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 902;309 Kingsley Lake Drive;St. Augustine, FL 32092-3048
   note: district
   voice: 904-823-2300
+- email: Cyndi.Stevenson@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4620&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4620&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4620.jpg
 other_identifiers:
 - identifier: FLL000580

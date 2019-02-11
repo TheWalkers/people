@@ -13,11 +13,14 @@ contact_details:
 - address: 315 Southeast 25th Avenue;Ocala, FL 34471-2689
   note: district
   voice: 352-732-1313
+- email: Stan.McClain@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4658&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4658&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4658.jpg
 other_identifiers:
 - identifier: FLL000644

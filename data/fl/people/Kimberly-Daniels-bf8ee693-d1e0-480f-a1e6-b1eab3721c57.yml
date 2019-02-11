@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 106;11565 North Main Street;Jacksonville, FL 32218-4091
   note: district
   voice: 904-696-5928
+- email: Kimberly.Daniels@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4652&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4652&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4652.jpg
 other_identifiers:
 - identifier: FLL000528

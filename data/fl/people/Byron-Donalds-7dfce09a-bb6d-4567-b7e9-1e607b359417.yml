@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 212, Harmon Turner Building;3299 Tamiami Trail East;Naples, FL 34112-5746
   note: district
   voice: 239-417-6270
+- email: Byron.Donalds@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4636&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4636&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4636.jpg
 other_identifiers:
 - identifier: FLL000609

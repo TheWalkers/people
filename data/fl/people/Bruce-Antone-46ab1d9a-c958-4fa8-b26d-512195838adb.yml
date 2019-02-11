@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 216;927 South Goldwyn Avenue;Orlando, FL 32805-4326
   note: district
   voice: 407-445-5313
+- email: Bruce.Antone@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4269&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4269&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4269.jpg
 other_identifiers:
 - identifier: FLL000565

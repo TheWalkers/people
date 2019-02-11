@@ -13,11 +13,14 @@ contact_details:
 - address: Suite 204;610 Northwest 183rd Street;Miami Gardens, FL 33169-4472
   note: district
   voice: 305-654-7100
+- email: Barbara.Watson@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4532&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4532&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4532.jpg
 other_identifiers:
 - identifier: FLL000519
