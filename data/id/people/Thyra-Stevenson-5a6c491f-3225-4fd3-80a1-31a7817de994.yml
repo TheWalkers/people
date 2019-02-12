@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: P.O. Box 369, 511 Walnut Street, Nezperce, ID 83543
+- address: P.O. Box 369, 511 Walnut Street, Nezperce, ID, 83543
   email: tstevenson@house.idaho.gov
   note: District Office
 - note: Capitol Office

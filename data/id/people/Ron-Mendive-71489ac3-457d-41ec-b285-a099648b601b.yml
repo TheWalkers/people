@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: "3732 S. Dusty Lane, Coeur d\u2019Alene, ID 83814"
+- address: "3732 S. Dusty Lane, Coeur d\u2019Alene, ID, 83814"
   email: rmendive@house.idaho.gov
   note: District Office
 - note: Capitol Office

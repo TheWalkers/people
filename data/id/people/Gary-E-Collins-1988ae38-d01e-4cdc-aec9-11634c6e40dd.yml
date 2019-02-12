@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 2019 E. Massachusetts Avenue, Nampa, ID 83686
+- address: 2019 E. Massachusetts Avenue, Nampa, ID, 83686
   email: gcollins@house.idaho.gov
   note: District Office
 - note: Capitol Office

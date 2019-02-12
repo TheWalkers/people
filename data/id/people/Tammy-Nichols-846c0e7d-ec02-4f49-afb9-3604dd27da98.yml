@@ -8,7 +8,7 @@ roles:
   type: lower
   start_date: '2018-12-01'
 contact_details:
-- address: '10 S. Hawthorne Drive #651, Middleton, ID 83644'
+- address: '10 S. Hawthorne Drive #651, Middleton, ID, 83644'
   email: tnichols@house.idaho.gov
   note: District Office
 - note: Capitol Office

@@ -11,10 +11,11 @@ contact_details:
   email: gilmanjd@comcast.net
   note: District Office
   voice: 603-580-1393
+- email: Julie.Gilman@leg.state.nh.us
+  note: Capitol Office
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408615
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408615.jpg
 extras:

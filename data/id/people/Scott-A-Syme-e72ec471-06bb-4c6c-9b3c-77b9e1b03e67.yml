@@ -8,7 +8,7 @@ roles:
   type: lower
   start_date: '2018-12-01'
 contact_details:
-- address: 206 S. 9th Avenue / Suite 105, Caldwell, ID 83605
+- address: 206 S. 9th Avenue / Suite 105, Caldwell, ID, 83605
   email: ssyme@house.idaho.gov
   note: District Office
 - note: Capitol Office

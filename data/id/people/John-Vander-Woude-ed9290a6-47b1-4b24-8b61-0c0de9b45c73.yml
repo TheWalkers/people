@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 5311 Ridgewood Road, Nampa, ID 83687
+- address: 5311 Ridgewood Road, Nampa, ID, 83687
   email: jvanderwoude@house.idaho.gov
   note: District Office
 - note: Capitol Office

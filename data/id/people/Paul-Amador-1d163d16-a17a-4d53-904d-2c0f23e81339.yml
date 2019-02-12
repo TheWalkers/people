@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: "333 W. Vista Drive, Coeur d\u2019Alene, ID 83815"
+- address: "333 W. Vista Drive, Coeur d\u2019Alene, ID, 83815"
   email: pamador@house.idaho.gov
   note: District Office
 - note: Capitol Office

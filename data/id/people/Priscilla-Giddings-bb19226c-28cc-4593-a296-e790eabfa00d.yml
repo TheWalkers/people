@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: P.O. Box 43, White Bird, ID 83554
+- address: P.O. Box 43, White Bird, ID, 83554
   email: pgiddings@house.idaho.gov
   note: District Office
 - note: Capitol Office

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: P.O. Box 1207, Burley, ID 83318-0828
+- address: P.O. Box 1207, Burley, ID, 83318-0828
   email: fwood@house.idaho.gov
   note: District Office
 - note: Capitol Office

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 2355 S. Bellin Road, Idaho Falls, ID 83402
+- address: 2355 S. Bellin Road, Idaho Falls, ID, 83402
   email: bzollinger@house.idaho.gov
   note: District Office
 - note: Capitol Office

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 71 S. 700 W., Blackfoot, ID 83221
+- address: 71 S. 700 W., Blackfoot, ID, 83221
   email: nanderson@house.idaho.gov
   note: District Office
 - note: Capitol Office

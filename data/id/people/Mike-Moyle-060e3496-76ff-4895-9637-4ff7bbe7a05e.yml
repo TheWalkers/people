@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 480 N. Plummer Road, Star, ID 83669
+- address: 480 N. Plummer Road, Star, ID, 83669
   email: mmoyle@house.idaho.gov
   note: District Office
 - note: Capitol Office

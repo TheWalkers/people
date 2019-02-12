@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 1104 S. Johnson Street, Boise, ID 83705
+- address: 1104 S. Johnson Street, Boise, ID, 83705
   email: jgannon@house.idaho.gov
   note: District Office
 - note: Capitol Office

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: P.O. Box 57, Midvale, ID 83645
+- address: P.O. Box 57, Midvale, ID, 83645
   email: jboyle@house.idaho.gov
   fax: 208-355-3225
   note: District Office

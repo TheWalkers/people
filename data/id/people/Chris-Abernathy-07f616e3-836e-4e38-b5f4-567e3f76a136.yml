@@ -8,7 +8,7 @@ roles:
   type: lower
   start_date: '2018-12-01'
 contact_details:
-- address: 1768 S. Grant, Pocatello, ID 83204
+- address: 1768 S. Grant, Pocatello, ID, 83204
   email: cabernathy@house.idaho.gov
   note: District Office
 - note: Capitol Office

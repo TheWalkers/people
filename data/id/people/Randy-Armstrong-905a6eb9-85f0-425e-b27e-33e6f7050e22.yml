@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: P.O. Box 8, Inkom, ID 83245
+- address: P.O. Box 8, Inkom, ID, 83245
   email: armstrong@house.idaho.gov
   note: District Office
 - note: Capitol Office

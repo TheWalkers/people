@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: H.C. 67 / Box 304, Stanley, ID 83278
+- address: H.C. 67 / Box 304, Stanley, ID, 83278
   email: dmoon@house.idaho.gov
   note: District Office
 - note: Capitol Office

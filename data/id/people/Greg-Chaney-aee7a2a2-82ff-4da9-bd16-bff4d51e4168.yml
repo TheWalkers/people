@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: P.O. Box 489, Caldwell, ID 83606
+- address: P.O. Box 489, Caldwell, ID, 83606
   email: gchaney@house.idaho.gov
   note: District Office
 - note: Capitol Office

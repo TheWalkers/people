@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 5470 Highway 52, New Plymouth, ID 83655
+- address: 5470 Highway 52, New Plymouth, ID, 83655
   email: rkerby@house.idaho.gov
   note: District Office
 - note: Capitol Office

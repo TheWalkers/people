@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 2794 Highway 95, Genesee, ID 83832
+- address: 2794 Highway 95, Genesee, ID, 83832
   email: cntroy@house.idaho.gov
   note: District Office
 - note: Capitol Office

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 2096 E. 1500 S., Gooding, ID 83330
+- address: 2096 E. 1500 S., Gooding, ID, 83330
   email: stoone@house.idaho.gov
   note: District Office
 - note: Capitol Office

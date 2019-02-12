@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 3413 Bluebird Circle, Lewiston, ID 83501
+- address: 3413 Bluebird Circle, Lewiston, ID, 83501
   email: mkingsley@house.idaho.gov
   note: District Office
 - note: Capitol Office

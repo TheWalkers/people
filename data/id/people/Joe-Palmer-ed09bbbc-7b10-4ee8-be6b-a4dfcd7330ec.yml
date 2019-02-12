@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 1524 N. Meridian Road, Meridian, ID 83642
+- address: 1524 N. Meridian Road, Meridian, ID, 83642
   email: jpalmer@house.idaho.gov
   note: District Office
 - note: Capitol Office

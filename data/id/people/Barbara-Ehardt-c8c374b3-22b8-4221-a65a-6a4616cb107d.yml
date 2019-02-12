@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 961 J Street, Idaho Falls, ID 83402
+- address: 961 J Street, Idaho Falls, ID, 83402
   email: behardt@house.idaho.gov
   note: District Office
 - note: Capitol Office

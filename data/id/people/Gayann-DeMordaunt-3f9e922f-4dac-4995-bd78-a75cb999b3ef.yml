@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 1017 S. Arbor Island Way, Eagle, ID 83616
+- address: 1017 S. Arbor Island Way, Eagle, ID, 83616
   email: gdemordaunt@house.idaho.gov
   note: District Office
 - note: Capitol Office

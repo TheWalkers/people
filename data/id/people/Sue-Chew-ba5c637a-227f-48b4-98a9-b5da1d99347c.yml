@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 1304 Lincoln Avenue, Boise, ID 83706
+- address: 1304 Lincoln Avenue, Boise, ID, 83706
   email: schew@house.idaho.gov
   note: District Office
 - note: Capitol Office

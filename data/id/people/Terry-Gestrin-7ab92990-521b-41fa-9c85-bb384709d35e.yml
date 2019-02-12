@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: P.O. Box 399, Donnelly, ID 83615
+- address: P.O. Box 399, Donnelly, ID, 83615
   email: tgestrin@house.idaho.gov
   note: District Office
 - note: Capitol Office

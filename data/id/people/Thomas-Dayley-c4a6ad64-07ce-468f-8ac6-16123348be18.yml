@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 4892 S. Willandra Way, Boise, ID 83709
+- address: 4892 S. Willandra Way, Boise, ID, 83709
   email: tdayley@house.idaho.gov
   note: District Office
 - note: Capitol Office

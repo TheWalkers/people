@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 7401 E. Grey Lag Drive, Nampa, ID 83687
+- address: 7401 E. Grey Lag Drive, Nampa, ID, 83687
   email: randerst@house.idaho.gov
   note: District Office
 - note: Capitol Office

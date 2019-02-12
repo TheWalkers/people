@@ -94,9 +94,6 @@ ga:
   upper_seats: 56
   vacancies:
     - chamber: lower
-      district: 5
-      vacant_until: 2021-02-01
-    - chamber: lower
       district: 176
       vacant_until: 2019-03-15
 hi:
@@ -390,7 +387,7 @@ mn:
   vacancies:
     - chamber: upper
       district: 11
-      vacant_until: 2019-02-10
+      vacant_until: 2019-02-17
 mt:
   legislature_name: Montana Legislature
   lower_seats: 100
@@ -535,9 +532,6 @@ tx:
   lower_seats: 150
   upper_seats: 31
   vacancies:
-    - chamber: lower
-      district: 79
-      vacant_until: 2019-02-11
     - chamber: lower
       district: 125
       vacant_until: 2019-02-16

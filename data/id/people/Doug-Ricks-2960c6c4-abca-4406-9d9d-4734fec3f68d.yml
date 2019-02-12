@@ -8,7 +8,7 @@ roles:
   type: lower
   start_date: '2018-12-01'
 contact_details:
-- address: 140 S. 3rd East, Rexburg, ID 83440
+- address: 140 S. 3rd East, Rexburg, ID, 83440
   email: dricks@house.idaho.gov
   note: District Office
 - note: Capitol Office

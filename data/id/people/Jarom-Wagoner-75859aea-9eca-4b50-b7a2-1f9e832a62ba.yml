@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: ID 11846 Linden Road, Caldwell, ID 83605
+- address: 11846 Linden Road, Caldwell, ID, 83605
   email: jwagoner@house.idaho.gov
   note: District Office
 - note: Capitol Office

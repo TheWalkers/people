@@ -8,7 +8,7 @@ roles:
   type: lower
   start_date: '2018-12-01'
 contact_details:
-- address: P.O. Box 653, Rexburg, ID 83440
+- address: P.O. Box 653, Rexburg, ID, 83440
   email: braybould@house.idaho.gov
   note: District Office
 - note: Capitol Office

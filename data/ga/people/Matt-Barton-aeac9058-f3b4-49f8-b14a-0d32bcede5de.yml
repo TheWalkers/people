@@ -1,0 +1,23 @@
+id: ocd-person/aeac9058-f3b4-49f8-b14a-0d32bcede5de
+name: Matt Barton
+party:
+- name: Republican
+roles:
+- district: '5'
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  type: lower
+contact_details:
+- address: 612-E Coverdell Legislative Bldg.;Atlanta, GA 30334
+  email: matt.barton@house.ga.gov
+  note: Capitol Address
+  voice: 404-656-0325
+links:
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4966&Session=27
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4966&Session=27
+image: http://www.house.ga.gov/SiteCollectionImages/BartonMatt4966.jpg
+family_name: Barton
+given_name: Matt
+extras:
+  guid: 4966

@@ -8,7 +8,7 @@ roles:
   type: lower
   start_date: '2018-12-01'
 contact_details:
-- address: 445 E. 400 South, Jerome, ID 83338
+- address: 445 E. 400 South, Jerome, ID, 83338
   email: LLickley@house.idaho.gov
   note: District Office
 - note: Capitol Office

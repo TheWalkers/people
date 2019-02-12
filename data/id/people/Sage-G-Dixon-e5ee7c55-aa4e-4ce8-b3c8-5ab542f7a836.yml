@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: P.O. Box 206, Ponderay, ID 83852
+- address: P.O. Box 206, Ponderay, ID, 83852
   email: sdixon@house.idaho.gov
   note: District Office
 - note: Capitol Office

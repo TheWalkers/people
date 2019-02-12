@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 632 Highway 34, Grace, ID 83241
+- address: 632 Highway 34, Grace, ID, 83241
   email: mgibbs@house.idaho.gov
   note: District Office
 - note: Capitol Office

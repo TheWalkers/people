@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 3759 Heron Avenue, Pocatello, ID 83201
+- address: 3759 Heron Avenue, Pocatello, ID, 83201
   email: esmith@house.idaho.gov
   note: District Office
 - note: Capitol Office

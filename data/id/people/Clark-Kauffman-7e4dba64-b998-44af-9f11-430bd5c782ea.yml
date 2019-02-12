@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: 3791 N. 2100 E., Filer, ID 83328
+- address: 3791 N. 2100 E., Filer, ID, 83328
   email: ckauffman@house.idaho.gov
   fax: 208-326-4132
   note: District Office

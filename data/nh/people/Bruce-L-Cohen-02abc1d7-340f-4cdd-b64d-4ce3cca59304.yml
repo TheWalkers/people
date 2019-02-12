@@ -11,11 +11,10 @@ contact_details:
   note: Capitol Office
 - address: 17 Crimson Court;Nashua, NH 03063
   note: District Office
-  voice: 603-759-0222
+  voice: 603-417-6980
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408869
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Bruce

@@ -1,0 +1,18 @@
+id: ocd-person/19111542-2664-4b6b-a127-b4efdf0cba49
+name: Art Fierro
+party:
+- name: Democratic
+roles:
+- district: '79'
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  type: lower
+contact_details:
+- address: Room E2.422;P.O. Box 2910;Austin, TX 78768
+  fax: 512-463-6504
+  note: Capitol Address
+  voice: 512-463-0596
+links:
+- url: https://house.texas.gov/members/member-page/?district=79
+sources:
+- url: https://house.texas.gov/members/member-page/?district=79
+image: https://house.texas.gov/photos/members/3725.jpg

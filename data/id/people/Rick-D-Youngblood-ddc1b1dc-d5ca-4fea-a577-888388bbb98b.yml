@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: lower
 contact_details:
-- address: ID 12612 Smith Avenue, Nampa, ID 83651
+- address: 12612 Smith Avenue, Nampa, ID, 83651
   email: ryoungblood@house.idaho.gov
   note: District Office
 - note: Capitol Office

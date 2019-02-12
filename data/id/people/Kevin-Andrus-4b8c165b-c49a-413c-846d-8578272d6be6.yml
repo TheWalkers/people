@@ -8,7 +8,7 @@ roles:
   type: lower
   start_date: '2018-12-01'
 contact_details:
-- address: 6948 E. Old Oregon Trail, Lava Hot Springs, ID 83246
+- address: 6948 E. Old Oregon Trail, Lava Hot Springs, ID, 83246
   email: kandrus@house.idaho.gov
   note: District Office
 - note: Capitol Office
