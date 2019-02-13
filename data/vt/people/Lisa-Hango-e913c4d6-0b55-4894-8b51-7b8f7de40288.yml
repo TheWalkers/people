@@ -1,0 +1,19 @@
+id: ocd-person/e913c4d6-0b55-4894-8b51-7b8f7de40288
+name: Lisa Hango
+party:
+- name: Republican
+roles:
+- district: Franklin-5
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  type: lower
+contact_details:
+- address: Vermont State House;115 State Street;Montpelier, VT 05633
+  note: Capitol Office
+- address: ';, '
+  note: District Office
+links:
+- url: http://legislature.vermont.gov/people/single/2020/31854
+sources:
+- url: http://legislature.vermont.gov/people/loadAll/2020
+- url: http://legislature.vermont.gov/people/single/2020/31854
+image: https://legislature.vermont.gov/images/profile.png

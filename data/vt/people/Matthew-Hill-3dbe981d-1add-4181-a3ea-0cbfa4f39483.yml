@@ -10,7 +10,7 @@ contact_details:
 - address: Vermont State House;115 State Street;Montpelier, VT 05633
   email: MHill@leg.state.vt.us
   note: Capitol Office
-- address: P.O. Box 561;Johnson, VT 05656
+- address: ';, '
   note: District Office
   voice: 802-760-7089
 links:
