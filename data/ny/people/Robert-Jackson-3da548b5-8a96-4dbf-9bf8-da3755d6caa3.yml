@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: upper
 contact_details:
-- email: jackson@nysenate.gov; request Albany meeting at albany.senatorjackson.com
+- email: jackson@nysenate.gov
   note: Capitol Office
   address: 188 State Street,;Albany, NY 12247
   voice: 518-455-2041
