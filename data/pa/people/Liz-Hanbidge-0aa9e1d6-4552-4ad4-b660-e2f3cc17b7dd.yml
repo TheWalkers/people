@@ -21,3 +21,7 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1834
 image: https://www.legis.state.pa.us/images/members/200/1834.jpg
+extras:
+  facebook: https://www.facebook.com/RepHanbidge
+  twitter: https://www.twitter.com/RepHanbidge
+  youtube: https://www.youtube.com/playlist?list=PLjtqNtfs0bgWHK4t2_JcE0FjGCJskjkgu

@@ -11,9 +11,10 @@ contact_details:
   note: Capitol Office
   address: 188 State Street., Legislative Office Bldg.,;Albany, NY 12247
   voice: 518-455-2177
-- address: 188 State Street., Legislative Office Bldg.,;Albany,, NY 12247
+  fax: 518-426-6947
+- address: 1068 Broadway;Brooklyn, NY 11221
   note: District Office
-  voice: 518-455-2177
+  voice: 917-370-4440
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/julia-salazar/contact

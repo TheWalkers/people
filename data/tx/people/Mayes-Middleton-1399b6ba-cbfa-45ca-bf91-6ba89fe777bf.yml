@@ -12,6 +12,8 @@ contact_details:
   fax: 512-936-4260
   note: Capitol Address
   voice: 512-463-0502
+- address: 2101 Mechanic Street;Suite 245;Galveston, TX 77550
+  note: District Address
 links:
 - url: https://house.texas.gov/members/member-page/?district=23
 sources:

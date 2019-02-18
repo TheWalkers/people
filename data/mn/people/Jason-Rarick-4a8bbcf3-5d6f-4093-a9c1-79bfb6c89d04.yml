@@ -1,0 +1,19 @@
+id: ocd-person/4a8bbcf3-5d6f-4093-a9c1-79bfb6c89d04
+name: Jason Rarick
+party:
+- name: Republican
+roles:
+- district: '11'
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  type: upper
+contact_details:
+- address: 3411 Minnesota Senate Bldg.;95 University Avenue W.;St. Paul, MN 55155
+  email: sen.jason.rarick@senate.mn
+  note: capitol
+  voice: 651-296-1508
+links:
+- url: http://www.senate.mn/members/member_bio.php?member_id=1240
+sources:
+- url: http://www.senate.mn/members/member_list_ascii.php?ls=
+- url: http://www.senate.mn/members/index.php
+image: http://www.senate.mn/graphics/member_thumbnails/11Rarick.jpg

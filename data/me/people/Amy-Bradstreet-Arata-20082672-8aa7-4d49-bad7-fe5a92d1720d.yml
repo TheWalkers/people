@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 contact_details:
-- address: 607 Bald Hill Road, New Gloucester, ME 04260
+- address: P.O. Box 2, New Gloucester, ME 04260
   email: Amy.Arata@legislature.maine.gov
   note: District Office
 links:

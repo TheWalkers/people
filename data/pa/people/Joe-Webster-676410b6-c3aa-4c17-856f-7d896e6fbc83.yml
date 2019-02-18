@@ -21,3 +21,7 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1848
 image: https://www.legis.state.pa.us/images/members/200/1848.jpg
+extras:
+  facebook: https://www.facebook.com/RepJoeWebster
+  twitter: https://www.twitter.com/RepJoeWebster
+  youtube: https://www.youtube.com/playlist?list=PLjtqNtfs0bgVqc-0u5IRw2yt5F84yWNoy

@@ -21,3 +21,7 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1850
 image: https://www.legis.state.pa.us/images/members/200/1850.jpg
+extras:
+  facebook: https://www.facebook.com/RepDanielle
+  twitter: https://www.twitter.com/RepDanielle
+  youtube: https://www.youtube.com/playlist?list=PLjtqNtfs0bgVr-fZ-diFi9mzN-IRKsx2e

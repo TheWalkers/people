@@ -21,3 +21,7 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1845
 image: https://www.legis.state.pa.us/images/members/200/1845.jpg
+extras:
+  facebook: https://www.facebook.com/RepUllman
+  twitter: https://www.twitter.com/RepUllman
+  youtube: https://www.youtube.com/playlist?list=PLjtqNtfs0bgWcrL-QF8Sjgm-7wIIGfBmU

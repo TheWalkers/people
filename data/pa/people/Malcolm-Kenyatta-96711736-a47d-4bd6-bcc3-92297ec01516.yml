@@ -11,7 +11,7 @@ contact_details:
   note: District Office
   voice: 215-978-0311
   fax: 215-978-0316
-- address: 105A East Wing House PO Box 202181 Hariisburg, PA 17120-2181
+- address: 105A East Wing House PO Box 202181 Harrisburg, PA 17120-2181
   note: Capitol Office
   fax: 717-787-7297
   voice: 717-787-9471
@@ -21,3 +21,7 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1860
 image: https://www.legis.state.pa.us/images/members/200/1860.jpg
+extras:
+  facebook: https://www.facebook.com/RepKenyatta
+  twitter: https://www.twitter.com/RepKenyatta
+  youtube: https://www.youtube.com/playlist?list=PLjtqNtfs0bgWV5sfi05EqUSILVtdNkaLc
