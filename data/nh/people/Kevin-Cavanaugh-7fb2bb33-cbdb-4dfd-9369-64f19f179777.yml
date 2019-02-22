@@ -7,11 +7,6 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: upper
 contact_details:
-- address: '"Legislative Office Building, Room 5";33 North State Street;Concord, NH
-    03301'
-  email: Kevin.Cavanaugh@leg.state.nh.us
-  note: Capitol Office
-  voice: 603-271-3067
 - address: '"State House, Room 106";107 North Main Street;Concord, NH 03301'
   email: Kevin.Cavanaugh@leg.state.nh.us
   note: Capitol Office
@@ -21,7 +16,7 @@ links:
 sources:
 - url: http://www.gencourt.state.nh.us/Senate/members/webpages/district16.aspx
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
-image: http://www.gencourt.state.nh.us/Senate/images/senators/16.png
+image: http://www.gencourt.state.nh.us/Senate/images/senators/16.jpg
 extras:
   first_name: Kevin
   last_name: Cavanaugh

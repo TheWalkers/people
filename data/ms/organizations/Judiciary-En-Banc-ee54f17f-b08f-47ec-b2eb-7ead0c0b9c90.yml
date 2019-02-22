@@ -46,6 +46,7 @@ memberships:
   name: John Thomas "Trey" Lamar, III
 - id: ocd-person/8d911038-c5a1-4bcd-b84e-586f58f7d96a
   name: Cory Wilson
+  end_date: '2019-02-22'
 - id: ocd-person/2295ae6d-30a5-4316-83dd-72f19a5fd421
   name: Adrienne Wooten
   end_date: '2018-12-31'

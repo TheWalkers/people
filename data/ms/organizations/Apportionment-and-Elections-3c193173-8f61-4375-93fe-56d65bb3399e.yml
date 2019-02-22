@@ -16,6 +16,7 @@ memberships:
   role: Chairman
 - id: ocd-person/8d911038-c5a1-4bcd-b84e-586f58f7d96a
   name: Cory Wilson
+  end_date: '2019-02-22'
 - id: ocd-person/ea446f2d-78e7-4faf-8313-8987f9ae896f
   name: Charles Jim Beckett
 - id: ocd-person/bec0f8f6-7f4c-442b-be25-14e2a2c1f5cb

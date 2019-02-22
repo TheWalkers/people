@@ -6,6 +6,7 @@ roles:
 - district: '73'
   jurisdiction: ocd-jurisdiction/country:us/state:ms/government
   type: lower
+  end_date: '2019-02-22'
 contact_details:
 - address: Room 112-E;P. O. Box 1018;Jackson, MS 39215
   email: cwilson@house.ms.gov

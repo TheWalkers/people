@@ -23,6 +23,7 @@ extras:
   - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1223
   - https://le.utah.gov/senate/CofI/COFIDAVISG.pdf
   - https://le.utah.gov/senate/CofI/COFIDAVISG2.pdf
+  - https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1223
 other_identifiers:
 - identifier: UTL000005
   scheme: legacy_openstates

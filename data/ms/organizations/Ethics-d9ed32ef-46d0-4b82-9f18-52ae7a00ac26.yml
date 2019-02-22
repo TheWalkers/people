@@ -10,6 +10,7 @@ memberships:
 - name: Sara R. Thomas
 - id: ocd-person/8d911038-c5a1-4bcd-b84e-586f58f7d96a
   name: Cory Wilson
+  end_date: '2019-02-22'
 - id: ocd-person/9510ffea-ad50-40da-8634-30d92edc6d68
   name: Mac Huddleston
 - id: ocd-person/b451df76-af3e-4c9c-be78-8c8e6c3c1cf6

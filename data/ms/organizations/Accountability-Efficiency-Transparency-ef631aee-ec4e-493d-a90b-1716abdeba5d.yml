@@ -24,6 +24,7 @@ memberships:
   name: Cheikh Taylor
 - id: ocd-person/8d911038-c5a1-4bcd-b84e-586f58f7d96a
   name: Cory Wilson
+  end_date: '2019-02-22'
 - id: ocd-person/c38f3e52-9594-4580-a280-bdaa11a33b66
   name: Greg Haney
 - id: ocd-person/2601640f-867f-480f-83a1-c59c332c0b82

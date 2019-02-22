@@ -22,6 +22,7 @@ extras:
   - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1875
   - https://le.utah.gov/senate/CofI/COFIESCAML.pdf
   - https://le.utah.gov/senate/CofI/COFIESCAML2.pdf
+  - https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1875
 other_identifiers:
 - identifier: UTL000020
   scheme: legacy_openstates

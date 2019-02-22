@@ -7,8 +7,8 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 2055 2nd Street;Suite A;Slidell, LA 70458;100 Port Boulevard;Suite 20;Chalmette,
-    LA 70043
+- address: 250 Bouscaren Street;Suite 201;Slidell, LA 70458;100 Port Boulevard;Suite
+    20;Chalmette, LA 70043
   email: hewitts@legis.la.gov
   fax: 985-646-6497
   note: District Office

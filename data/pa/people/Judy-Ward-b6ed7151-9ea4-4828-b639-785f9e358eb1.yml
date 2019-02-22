@@ -15,10 +15,12 @@ contact_details:
   fax: 717-783-5192
   note: Capitol Office
   voice: 717-787-5490
+  email: jward@pasen.gov
 - address: 201 Lincoln Way West Suite 102 McConnellsburg, PA 17233
   fax: 717-485-4207
   note: District Office
   voice: 717-485-4126
+  email: jward@pasen.gov
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
 sources:
@@ -27,6 +29,7 @@ sources:
 image: https://www.legis.state.pa.us/images/members/200/1683.jpg
 extras:
   youtube: http://www.youtube.com/user/RepJudyWard
+  facebook: https://www.facebook.com/SenJudyWard/
 other_identifiers:
 - identifier: PAL000495
   scheme: legacy_openstates

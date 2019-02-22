@@ -56,6 +56,7 @@ memberships:
 - id: ocd-person/8d911038-c5a1-4bcd-b84e-586f58f7d96a
   name: Cory Wilson
   role: Vice-Chairman
+  end_date: '2019-02-22'
 - id: ocd-person/6504a75a-5562-4d4e-bb6a-351c9af765ea
   name: Brad Touchstone
   end_date: '2018-12-31'

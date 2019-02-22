@@ -57,6 +57,7 @@ memberships:
   name: Tom Miles
 - id: ocd-person/8d911038-c5a1-4bcd-b84e-586f58f7d96a
   name: Cory Wilson
+  end_date: '2019-02-22'
 - id: ocd-person/d4017949-ce4d-42d0-8b22-c3cae7505860
   name: Margaret Rogers
 - id: ocd-person/a5143ca1-ead2-4a7d-aeb1-d1ea3e912f2f

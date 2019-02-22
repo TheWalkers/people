@@ -25,6 +25,7 @@ extras:
   - http://le.utah.gov/house2/CofI/DUCKWS.pdf
   - http://www.disclosures.utah.gov/Search/PublicSearch/FolderDetails/1850
   - https://le.utah.gov/house2/CofI/COFIDUCKWS1.pdf
+  - https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1850
 other_identifiers:
 - identifier: UTL000048
   scheme: legacy_openstates

@@ -56,6 +56,7 @@ memberships:
   name: John Thomas "Trey" Lamar, III
 - id: ocd-person/8d911038-c5a1-4bcd-b84e-586f58f7d96a
   name: Cory Wilson
+  end_date: '2019-02-22'
 - id: ocd-person/c5b5d0c1-fde4-45bf-90d0-daf1bf1820fb
   name: Alyce G. Clarke
 - id: ocd-person/c82f017d-2ac8-45d9-a91e-cd8e88b14d76

@@ -56,6 +56,7 @@ memberships:
   name: Mark Baker
 - id: ocd-person/8d911038-c5a1-4bcd-b84e-586f58f7d96a
   name: Cory Wilson
+  end_date: '2019-02-22'
 - id: ocd-person/0de22359-9403-4bec-917a-985b26fd45ff
   name: Robert L. Johnson III
 - id: ocd-person/e8d21f92-a17f-4bdc-ae8e-ebb0f2af563d

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 1314 McCuiston Dr;Burlington, NC 27215
+- address: 16 West Jones Street, Rm. 1229;Raleigh, NC 27601-1096
   note: District Office
   voice: 919-733-5820
 - address: 16 West Jones Street, Rm. 1229;Raleigh, NC 27601-1096
