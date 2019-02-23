@@ -541,7 +541,7 @@ tx:
   vacancies:
     - chamber: lower
       district: 125
-      vacant_until: 2019-02-16
+      vacant_until: 2019-03-16
     - chamber: lower
       district: 145
       vacant_until: 2019-03-02
