@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: upper
 contact_details:
-- address: 100 Saco Falls Way Apt 611, Biddeford, ME 04005
+- address: 100 Saco Falls Way, Biddeford, ME 04005
   note: District Office
 - note: District Phone
   voice: 207-284-3570

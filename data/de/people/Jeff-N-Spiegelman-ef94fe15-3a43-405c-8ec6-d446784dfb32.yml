@@ -1,5 +1,5 @@
 id: ocd-person/ef94fe15-3a43-405c-8ec6-d446784dfb32
-name: Jeff N. Spiegelman
+name: Jeffrey N. Spiegelman
 party:
 - name: Republican
 roles:
@@ -18,7 +18,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/House
-image: https://legis.delaware.gov/images/default-source/default-album/Spiegelman_Jeff_IMG_0472--2019.jpg?sfvrsn=0
+image: https://legis.delaware.gov/images/default-source/Legislators/Spiegelman_Jeff_IMG_0472--2019.jpg?sfvrsn=0
 other_identifiers:
 - identifier: DEL000146
   scheme: legacy_openstates

@@ -18,7 +18,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/House
-image: https://legis.delaware.gov/images/default-source/default-album/EarlJaques.jpg?sfvrsn=0
+image: https://legis.delaware.gov/Content/images/de-state-dots.png
 other_identifiers:
 - identifier: DEL000143
   scheme: legacy_openstates
