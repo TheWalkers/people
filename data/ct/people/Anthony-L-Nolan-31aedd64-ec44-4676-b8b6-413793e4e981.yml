@@ -1,0 +1,20 @@
+id: ocd-person/31aedd64-ec44-4676-b8b6-413793e4e981
+name: Anthony L. Nolan
+party:
+- name: Democratic
+roles:
+- district: '39'
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  type: lower
+contact_details:
+- address: Legislative Office Building;Room;Hartford, CT 06106
+  note: Capitol Office
+  voice: 860-240-8500
+- email: Anthony.Nolan@cga.ct.gov
+  note: ''
+- address: 105 Blackhall Street;New London, CT 06320
+  note: District Office
+links:
+- url: http://www.housedems.ct.gov/nolan
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

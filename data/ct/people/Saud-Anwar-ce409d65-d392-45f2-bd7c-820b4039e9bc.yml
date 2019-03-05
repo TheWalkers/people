@@ -1,0 +1,18 @@
+id: ocd-person/ce409d65-d392-45f2-bd7c-820b4039e9bc
+name: Saud Anwar
+party:
+- name: Democratic
+roles:
+- district: '3'
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  type: upper
+contact_details:
+- address: Legislative Office Building;Room 3300;Hartford, CT 06106
+  note: Capitol Office
+  voice: 860-240-8600
+- address: 93 Rockledge Drive;South Windsor, CT 06074
+  note: District Office
+links:
+- url: http://www.senatedems.ct.gov/anwar
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

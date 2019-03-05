@@ -12,6 +12,8 @@ contact_details:
   fax: 512-463-8987
   note: Capitol Address
   voice: 512-463-0684
+- address: 1301 North Stagecoach Rd.;Salado, Texas 76571
+  note: District Address
 links:
 - url: https://house.texas.gov/members/member-page/?district=54
 sources:

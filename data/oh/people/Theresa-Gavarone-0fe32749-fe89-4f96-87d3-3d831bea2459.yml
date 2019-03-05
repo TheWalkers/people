@@ -11,7 +11,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:oh/government
   type: upper
 contact_details:
-- address: Senate Building;1st Floor
+- address: Senate Building;Ground Floor
   email: sd02@ohiosenate.gov
   fax: 614-719-0006
   note: Capitol Office

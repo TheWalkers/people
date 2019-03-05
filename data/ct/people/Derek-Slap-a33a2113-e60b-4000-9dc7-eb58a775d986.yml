@@ -6,17 +6,21 @@ roles:
 - district: '19'
   jurisdiction: ocd-jurisdiction/country:us/state:ct/government
   type: lower
+  end_date: '2019-03-05'
+- district: '5'
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  type: upper
 contact_details:
-- address: Legislative Office Building;Room 4036;Hartford, CT 06106
+- address: Legislative Office Building;Room 3300;Hartford, CT 06106
   note: Capitol Office
-  voice: 860-240-8500
+  voice: 860-240-8600
 - email: Derek.Slap@cga.ct.gov
   note: ''
 - address: 51 Fairlee Road;West Hartford, CT 06107
   note: District Office
   voice: 860-503-3599
 links:
-- url: http://www.housedems.ct.gov/Slap
+- url: http://www.senatedems.ct.gov/slap
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

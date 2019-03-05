@@ -1,0 +1,20 @@
+id: ocd-person/7ed4cf8b-16f6-4c62-8ae2-2de2e1fd05eb
+name: Joseph Zullo
+party:
+- name: Republican
+roles:
+- district: '99'
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  type: lower
+contact_details:
+- address: Legislative Office Building;Room;Hartford, CT 06106
+  note: Capitol Office
+  voice: 860-240-8700
+- email: joseph.zullo@housegop.ct.gov
+  note: ''
+- address: 2 Lisa Lane;East Haven, CT 06512
+  note: District Office
+links:
+- url: http://www.cthousegop.com/zullo/main/
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

@@ -1,0 +1,20 @@
+id: ocd-person/79b0ffc6-b9d3-4e5d-8a84-c1cce059afa7
+name: Gennaro Bizzarro
+party:
+- name: Republican
+roles:
+- district: '6'
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  type: upper
+contact_details:
+- address: Legislative Office Building;Room 3400;Hartford, CT 06106
+  note: Capitol Office
+  voice: 860-240-8800
+- email: Gennaro.Bizzarro@cga.ct.gov
+  note: ''
+- address: 440 Shuttle Meadow Avenue;New Britain, CT 06052
+  note: District Office
+links:
+- url: http://www.ctsenaterepublicans.com/home-bizzarro
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
