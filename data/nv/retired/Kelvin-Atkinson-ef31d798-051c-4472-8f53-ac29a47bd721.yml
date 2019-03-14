@@ -6,6 +6,7 @@ roles:
 - district: '4'
   jurisdiction: ocd-jurisdiction/country:us/state:nv/government
   type: upper
+  end_date: '2019-03-14'
 contact_details:
 - address: 4165 Fuselier Drive;North Las Vegas, NV 89032
   email: Kelvin.Atkinson@sen.state.nv.us

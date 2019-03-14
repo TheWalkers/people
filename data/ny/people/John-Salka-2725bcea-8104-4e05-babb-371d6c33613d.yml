@@ -6,7 +6,9 @@ roles:
 - district: '121'
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
-contact_details: []
+contact_details:
+- email: salkaj@nyassembly.gov
+  note: Capitol Office
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

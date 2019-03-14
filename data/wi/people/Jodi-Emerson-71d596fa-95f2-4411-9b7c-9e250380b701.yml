@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wi/government
   type: lower
 contact_details:
-- address: Room 15 West;State Capitol;PO Box 8952;Madison, WI 53708
+- address: Room 322 West;State Capitol;PO Box 8952;Madison, WI 53708
   email: Rep.Emerson@legis.wisconsin.gov
   fax: 608-282-3691
   note: Capitol Office

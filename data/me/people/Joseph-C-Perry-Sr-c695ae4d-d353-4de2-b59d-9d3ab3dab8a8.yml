@@ -1,0 +1,17 @@
+id: ocd-person/c695ae4d-d353-4de2-b59d-9d3ab3dab8a8
+name: Joseph C. Perry Sr.
+party:
+- name: Democratic
+roles:
+- district: '124'
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  type: lower
+contact_details:
+- address: 349 Fern Street, Bangor, ME 04401
+  email: Joseph.Perry@legislature.maine.gov
+  note: District Office
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/559
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/559
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/37c627f4-f72a-4db9-990f-0236f34ef452_perryjc-2019.jpg

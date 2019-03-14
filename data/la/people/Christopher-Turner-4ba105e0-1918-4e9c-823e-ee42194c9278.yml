@@ -1,0 +1,17 @@
+id: ocd-person/4ba105e0-1918-4e9c-823e-ee42194c9278
+name: Christopher Turner
+party:
+- name: Republican
+roles:
+- district: '12'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 308 W. Alabama Ave.;Ruston, LA 71270
+  note: District Office
+  voice: 318-251-5038
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=12
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=12
+image: http://house.louisiana.gov/h_reps/RepPics09/rep12.jpg

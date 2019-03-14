@@ -1,0 +1,22 @@
+id: ocd-person/0d28674d-df27-4d4e-a511-618fb36d60cd
+name: Barbara Hernandez
+party:
+- name: Democratic
+roles:
+- district: '83'
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  type: lower
+contact_details:
+- address: 233-E Stratton Office Building;Springfield, IL 62706
+  email: Repbarbarahernandez@gmail.com
+  note: capitol
+  voice: 217-558-1002
+- address: 540 W. Galena Blvd.;Aurora, IL 60506
+  note: district
+  voice: 630-270-1848
+links:
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2766
+sources:
+- url: http://ilga.gov/house/default.asp?GA=101
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2766
+image: http://ilga.gov/images/members/{E3518E4F-7AAF-4D93-8985-336197D96094}.jpg

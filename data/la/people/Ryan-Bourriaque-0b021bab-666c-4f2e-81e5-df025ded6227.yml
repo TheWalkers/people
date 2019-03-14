@@ -1,0 +1,17 @@
+id: ocd-person/0b021bab-666c-4f2e-81e5-df025ded6227
+name: Ryan Bourriaque
+party:
+- name: Republican
+roles:
+- district: '47'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 407 Charity Street;Abbeville, LA 70510
+  note: District Office
+  voice: 337-893-5035
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=47
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=47
+image: http://house.louisiana.gov/h_reps/RepPics09/rep47.jpg

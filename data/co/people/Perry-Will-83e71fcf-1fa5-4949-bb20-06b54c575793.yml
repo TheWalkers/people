@@ -1,0 +1,19 @@
+id: ocd-person/83e71fcf-1fa5-4949-bb20-06b54c575793
+name: Perry Will
+party:
+- name: Republican
+roles:
+- district: '57'
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  type: lower
+contact_details:
+- address: 200 E. Colfax;RM 307;Denver, CO 80203
+  email: perry.will.house@state.co.us
+  note: Capitol Office
+  voice: 303-866-2949
+links:
+- url: http://leg.colorado.gov/legislators/perry-will
+sources:
+- url: http://leg.colorado.gov/legislators/perry-will
+- url: http://leg.colorado.gov/legislators
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2019a_co-h-will%2C%20perry.jpg?itok=3DTMrmdf
