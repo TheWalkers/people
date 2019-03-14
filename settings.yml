@@ -31,10 +31,6 @@ co:
   legislature_name: Colorado General Assembly
   lower_seats: 65
   upper_seats: 35
-  vacancies:
-    - chamber: lower
-      district: 57
-      vacant_until: 2019-04-01   # unsure
 ct:
   legislature_name: Connecticut General Assembly
   lower_seats: 151
@@ -107,10 +103,6 @@ il:
   legislature_name: Illinois General Assembly
   lower_seats: 118
   upper_seats: 59
-  vacancies:
-    - chamber: lower
-      district: 83
-      vacant_until: 2019-06-15
 in:
   legislature_name: Indiana General Assembly
   lower_seats: 100
@@ -137,9 +129,6 @@ la:
   upper_seats: 39
   vacancies:
     - chamber: lower
-      district: 12
-      vacant_until: 2019-04-01
-    - chamber: lower
       district: 17
       vacant_until: 2019-04-01
     - chamber: lower
@@ -147,12 +136,6 @@ la:
       vacant_until: 2019-04-01
     - chamber: lower
       district: 26
-      vacant_until: 2019-04-01
-    - chamber: lower
-      district: 27
-      vacant_until: 2019-04-01
-    - chamber: lower
-      district: 47
       vacant_until: 2019-04-01
     - chamber: lower
       district: 62
@@ -376,9 +359,6 @@ me:
       - chamber: lower
         district: 52
         vacant_until: 2021-01-01
-      - chamber: lower
-        district: 124
-        vacant_until: 2021-01-01
 mi:
   legislature_name: Michigan Legislature
   lower_seats: 110
@@ -455,12 +435,20 @@ nv:
   lower_title: Assembly Member
   lower_chamber_name: Assembly
   upper_seats: 21
+  vacancies:
+    - chamber: upper
+      district: 4
+      vacant_until: 2021-01-01
 ny:
   legislature_name: New York Legislature
   lower_seats: 150
   lower_chamber_name: Assembly
   lower_title: Assembly Member
   upper_seats: 63
+  vacancies:
+    - chamber: upper
+      district: 57
+      vacant_until: 2021-01-01
 oh:
   legislature_name: Ohio General Assembly
   lower_seats: 99
@@ -535,10 +523,6 @@ tn:
   legislature_name: Tennessee General Assembly
   lower_seats: 99
   upper_seats: 33
-  vacancies:
-    - chamber: upper
-      district: 32
-      vacant_until: 2019-03-14
 tx:
   legislature_name: Texas Legislature
   lower_seats: 150
