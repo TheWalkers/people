@@ -15,7 +15,7 @@ contact_details:
 - address: 85 Brett Lane;Fairfield, CT 06824
   note: District Office
 links:
-- url: http://www.cthousegop.com/Devlin/main/
+- url: http://www.cthousegop.com/Devlin/
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

@@ -15,7 +15,7 @@ contact_details:
 - address: 50 Judson Street;Thomaston, CT 06787
   note: District Office
 links:
-- url: http://www.cthousegop.com/Piscopo/main/
+- url: http://www.cthousegop.com/Piscopo/
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

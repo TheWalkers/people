@@ -15,7 +15,7 @@ contact_details:
 - address: 90 Main Street;Stafford Springs, CT 06076
   note: District Office
 links:
-- url: http://www.cthousegop.com/Vail/main/
+- url: http://www.cthousegop.com/Vail/
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

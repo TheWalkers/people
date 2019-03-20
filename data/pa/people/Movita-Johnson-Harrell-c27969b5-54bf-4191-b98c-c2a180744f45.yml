@@ -1,0 +1,13 @@
+id: ocd-person/c27969b5-54bf-4191-b98c-c2a180744f45
+name: Movita Johnson-Harrell
+party:
+- name: Democratic
+roles:
+- district: '190'
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  type: lower
+contact_details: []
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm

@@ -15,7 +15,7 @@ contact_details:
 - address: 3 Wiley Lane;Newtown, CT 06470
   note: District Office
 links:
-- url: http://www.cthousegop.com/Bolinsky/main/
+- url: http://www.cthousegop.com/Bolinsky/
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

@@ -29,6 +29,7 @@ memberships:
 - id: ocd-person/3638bacc-53ab-4880-9797-ffbb6b5fb47a
   name: Brian L. Ellis
   role: chair
+  end_date: '2019-03-20'
 - id: ocd-person/6a971ef6-eb92-434b-a390-c658cfbf2d00
   name: George Dunbar
 - id: ocd-person/e5de67f9-3e82-4e65-89ce-47aa0772d1f8

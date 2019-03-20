@@ -15,7 +15,7 @@ contact_details:
 - address: 25 Jeremy Drive;New Fairfield, CT 06812
   note: District Office
 links:
-- url: http://www.cthousegop.com/Smith/main/
+- url: http://www.cthousegop.com/Smith/
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

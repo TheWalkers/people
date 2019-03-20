@@ -15,7 +15,7 @@ contact_details:
 - address: 64 Wellington Avenue;Waterbury, CT 06708
   note: District Office
 links:
-- url: http://www.cthousegop.com/DAmelio/main/
+- url: http://www.cthousegop.com/DAmelio/
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

@@ -15,7 +15,7 @@ contact_details:
 - address: 182 Rossi Drive;Bristol, CT 06010
   note: District Office
 links:
-- url: http://www.cthousegop.com/Pavalock/main/
+- url: http://www.cthousegop.com/Pavalock/
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

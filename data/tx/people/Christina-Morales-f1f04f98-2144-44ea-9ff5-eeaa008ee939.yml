@@ -1,0 +1,18 @@
+id: ocd-person/f1f04f98-2144-44ea-9ff5-eeaa008ee939
+name: Christina Morales
+party:
+- name: Democratic
+roles:
+- district: '145'
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  type: lower
+contact_details:
+- address: Room;P.O. Box 2910;Austin, TX 78768
+  fax: 512-463-4781
+  note: Capitol Address
+  voice: 512-463-0732
+links:
+- url: https://house.texas.gov/members/member-page/?district=145
+sources:
+- url: https://house.texas.gov/members/member-page/?district=145
+image: https://house.texas.gov/photos/members/3910.jpg

@@ -15,7 +15,7 @@ contact_details:
 - address: 179 Grieb Road;Wallingford, CT 06492
   note: District Office
 links:
-- url: http://www.cthousegop.com/Fishbein/main/
+- url: http://www.cthousegop.com/Fishbein/
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

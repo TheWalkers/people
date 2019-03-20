@@ -15,7 +15,7 @@ contact_details:
 - address: 37 Holly Road;New Canaan, CT 06840
   note: District Office
 links:
-- url: http://www.cthousegop.com/ODea/main/
+- url: http://www.cthousegop.com/ODea/
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 other_identifiers:

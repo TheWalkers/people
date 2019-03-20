@@ -1,0 +1,13 @@
+id: ocd-person/b5b71de6-4bdf-4dea-8caf-e5f55a08b95e
+name: Bridget M. Kosierowski
+party:
+- name: Democratic
+roles:
+- district: '114'
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  type: lower
+contact_details: []
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
