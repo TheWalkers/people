@@ -80,9 +80,6 @@ ga:
     - chamber: lower
       district: 28
       vacant_until: 2019-06-15
-    - chamber: lower
-      district: 176
-      vacant_until: 2019-03-15
 hi:
   legislature_name: Hawaii State Legislature
   lower_seats: 51
@@ -119,10 +116,6 @@ ky:
   legislature_name: Kentucky General Assembly
   lower_seats: 100
   upper_seats: 38
-  vacancies:
-    - chamber: upper
-      district: 31
-      vacant_until: 2021-01-01
 la:
   legislature_name: Louisiana Legislature
   lower_seats: 105
@@ -133,9 +126,6 @@ la:
       vacant_until: 2019-04-01
     - chamber: lower
       district: 18
-      vacant_until: 2019-04-01
-    - chamber: lower
-      district: 26
       vacant_until: 2019-04-01
     - chamber: lower
       district: 62
@@ -392,12 +382,6 @@ ms:
   upper_seats: 52
   vacancies:
     - chamber: lower
-      district: 32
-      vacant_until: 2021-01-01
-    - chamber: lower
-      district: 71
-      vacant_until: 2021-01-01
-    - chamber: lower
       district: 73
       vacant_until: 2021-01-01
     - chamber: lower
@@ -436,8 +420,8 @@ nv:
   lower_chamber_name: Assembly
   upper_seats: 21
   vacancies:
-    - chamber: upper
-      district: 4
+    - chamber: lower
+      district: 30
       vacant_until: 2021-01-01
 ny:
   legislature_name: New York Legislature
@@ -471,11 +455,8 @@ pa:
   upper_seats: 50
   vacancies:
     - chamber: lower
-      district: 114
-      vacant_until: 2021-01-01
-    - chamber: lower
-      district: 190
-      vacant_until: 2021-01-01
+      district: 11
+      vacant_until: 2019-06-02
     - chamber: upper
       district: 33
       vacant_until: 2019-06-02
@@ -530,9 +511,6 @@ tx:
   vacancies:
     - chamber: lower
       district: 125
-      vacant_until: 2019-04-02
-    - chamber: lower
-      district: 145
       vacant_until: 2019-04-02
 ut:
   legislature_name: Utah State Legislature
