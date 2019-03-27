@@ -1,0 +1,6 @@
+Click==7.0
+lxml==4.3.0
+PyYAML==3.13
+rtyaml==0.0.5
+scrapelib==1.2.0
+yamlordereddictloader==0.4.0
