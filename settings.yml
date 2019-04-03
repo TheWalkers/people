@@ -6,6 +6,10 @@ al:
   legislature_name: Alabama Legislature
   lower_seats: 105
   upper_seats: 35
+  vacancies:
+    - chamber: lower
+      district: 74
+      vacant_until: 2019-05-01
 ar:
   legislature_name: Arkansas General Assembly
   lower_seats: 100

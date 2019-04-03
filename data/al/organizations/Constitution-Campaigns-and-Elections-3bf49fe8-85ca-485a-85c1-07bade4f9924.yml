@@ -21,6 +21,7 @@ memberships:
 - id: ocd-person/0af252ae-a8f8-48e6-aba8-b5c3bb4eafdd
   name: Dimitri Polizos
   role: Member
+  end_date: '2019-04-03'
 - id: ocd-person/73cebf90-bf5a-444a-857e-b5bbddc374bf
   name: Juandalynn Givan
   role: Member

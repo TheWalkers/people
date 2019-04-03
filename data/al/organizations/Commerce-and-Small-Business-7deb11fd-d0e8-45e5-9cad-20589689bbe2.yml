@@ -13,6 +13,7 @@ memberships:
 - id: ocd-person/0af252ae-a8f8-48e6-aba8-b5c3bb4eafdd
   name: Dimitri Polizos
   role: Vice Chair
+  end_date: '2019-04-03'
 - id: ocd-person/7813c3d4-5487-4f65-8437-c6096998f628
   name: Jimmy Martin
   role: Member
