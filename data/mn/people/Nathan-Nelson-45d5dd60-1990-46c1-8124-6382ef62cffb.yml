@@ -1,0 +1,18 @@
+id: ocd-person/45d5dd60-1990-46c1-8124-6382ef62cffb
+name: Nathan Nelson
+party:
+- name: Republican
+roles:
+- district: 11B
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  type: lower
+contact_details:
+- address: 393 State Office Building;St. Paul, MN 55155
+  email: rep.nathan.nelson@house.mn
+  note: capitol
+  voice: 651-296-0518
+links:
+- url: http://www.house.leg.state.mn.us/members/profile/15534
+sources:
+- url: http://www.house.leg.state.mn.us/members/hmem.asp
+image: https://www.house.leg.state.mn.us/hinfo/memberimgls91/11B.gif

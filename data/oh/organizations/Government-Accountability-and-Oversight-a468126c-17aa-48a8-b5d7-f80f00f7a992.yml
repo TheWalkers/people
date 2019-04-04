@@ -30,6 +30,7 @@ memberships:
   name: Bill Reineke
 - id: ocd-person/776b0fb2-b54d-4953-b1a8-8bff1ba9f79f
   name: Brian Hill
+  end_date: '2019-04-04'
 - id: ocd-person/173f8d23-2cf6-4376-9681-338eb65c4c7a
   name: Timothy E. Ginter
 - id: ocd-person/2d8ceb88-cc59-479c-ac14-52f1c378dec8

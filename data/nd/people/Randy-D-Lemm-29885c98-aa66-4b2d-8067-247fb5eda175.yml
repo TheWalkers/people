@@ -1,0 +1,19 @@
+id: ocd-person/29885c98-aa66-4b2d-8067-247fb5eda175
+name: Randy D. Lemm
+party:
+- name: Republican
+roles:
+- district: '20'
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  type: upper
+contact_details:
+- email: rlemm@nd.gov
+  note: Capitol Office
+- address: 623 166th Avenue SE;Hillsboro, ND;58045-9263
+  note: District Office
+  voice: 701-636-5465
+links:
+- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-randy-d-lemm
+sources:
+- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-randy-d-lemm
+image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/photo-not-available.jpg?itok=J6l35hT6

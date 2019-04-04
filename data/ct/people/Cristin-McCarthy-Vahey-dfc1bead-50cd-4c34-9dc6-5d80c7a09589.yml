@@ -7,9 +7,9 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ct/government
   type: lower
 contact_details:
-- address: Legislative Office Building;Room 4001;Hartford, CT 06106
+- address: Legislative Office Building;Room 2103;Hartford, CT 06106
   note: Capitol Office
-  voice: 860-240-8760
+  voice: 860-240-8362
 - email: Cristin.McCarthyVahey@cga.ct.gov
   note: ''
 - address: 1625 Melville Avenue;Fairfield, CT 06825

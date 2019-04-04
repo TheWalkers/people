@@ -11,9 +11,9 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ct/government
   type: upper
 contact_details:
-- address: Legislative Office Building;Room 3300;Hartford, CT 06106
+- address: Legislative Office Building;Room 1000;Hartford, CT 06106
   note: Capitol Office
-  voice: 860-240-8600
+  voice: 860-240-1436
 - email: Derek.Slap@cga.ct.gov
   note: ''
 - address: 51 Fairlee Road;West Hartford, CT 06107

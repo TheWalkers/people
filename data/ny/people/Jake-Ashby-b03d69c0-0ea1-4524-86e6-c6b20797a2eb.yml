@@ -11,9 +11,10 @@ contact_details:
   email: ashbyj@nyassembly.gov
   note: Capitol Office
   voice: 518-455-5777
-- address: 258 Hoosick Street;Suite 109;Troy, NY 12180
+- address: 594 Columbia Turnpike;East Greenbush, NY 12061
   note: District Office
   voice: 518-272-6149
+  fax: 518-477-5404
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

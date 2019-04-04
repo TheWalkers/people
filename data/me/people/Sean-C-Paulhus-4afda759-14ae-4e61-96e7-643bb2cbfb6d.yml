@@ -1,0 +1,17 @@
+id: ocd-person/4afda759-14ae-4e61-96e7-643bb2cbfb6d
+name: Sean C. Paulhus
+party:
+- name: Democratic
+roles:
+- district: '52'
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  type: lower
+contact_details:
+- address: 677 Middle Street, Bath, ME 04530
+  email: sean.paulhus@legislature.maine.gov
+  note: District Office
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1402
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1402
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/f475602b-a844-4b96-a84a-12e41ddc5047_paulhus_sc.jpg

@@ -35,6 +35,7 @@ memberships:
   name: Shane Wilkin
 - id: ocd-person/776b0fb2-b54d-4953-b1a8-8bff1ba9f79f
   name: Brian Hill
+  end_date: '2019-04-04'
 - id: ocd-person/67a5adae-ac82-4355-b1e2-3ab09b2ade62
   name: Marlene Anielski
   end_date: '2018-12-31'

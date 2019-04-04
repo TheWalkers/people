@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 contact_details:
-- address: PO Box 347, Blue Hill, ME 04614
+- address: P.O. Box 347, Blue Hill, ME 04614
   email: Sarah.Pebworth@legislature.maine.gov
   note: District Office
 links:

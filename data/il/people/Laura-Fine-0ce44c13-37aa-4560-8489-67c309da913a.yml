@@ -12,7 +12,7 @@ roles:
   type: upper
   start_date: '2019-01-09'
 contact_details:
-- address: 1812 Waukegan Road;Suite A;Glenview, IL
+- address: 1812 Waukegan Road;Suite A;Glenview, IL 60025
   email: repfine@gmail.com
   note: district
   voice: 847-998-1717

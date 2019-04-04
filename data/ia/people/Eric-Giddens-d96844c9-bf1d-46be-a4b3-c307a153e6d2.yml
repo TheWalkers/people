@@ -1,0 +1,18 @@
+id: ocd-person/d96844c9-bf1d-46be-a4b3-c307a153e6d2
+name: Eric Giddens
+party:
+- name: Democratic
+roles:
+- district: '30'
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  type: upper
+contact_details:
+- address: 1416 Madison St., Cedar Falls, IA 50613
+  note: District Office
+- email: Eric.Giddens@legis.iowa.gov
+  note: Capitol Office
+links:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=28254
+sources:
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=28254
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=2019-2020&pid=28254

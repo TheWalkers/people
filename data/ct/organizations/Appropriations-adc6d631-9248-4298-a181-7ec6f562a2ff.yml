@@ -95,6 +95,7 @@ memberships:
 - id: ocd-person/b56ac685-dc65-4583-9209-e8fd129455e2
   name: Ezequiel Santiago
   role: vice chair
+  end_date: '2019-04-04'
 - id: ocd-person/15f3df31-84bc-4ae6-b399-c9b9c58ecec6
   name: Chris Perone
 - id: ocd-person/2d99a0ff-740d-4c97-8d0c-524842f99f73

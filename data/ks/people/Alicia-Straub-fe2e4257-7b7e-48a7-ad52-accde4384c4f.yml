@@ -1,0 +1,18 @@
+id: ocd-person/fe2e4257-7b7e-48a7-ad52-accde4384c4f
+name: Alicia Straub
+party:
+- name: Republican
+roles:
+- district: '113'
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  type: lower
+contact_details:
+- address: Room 512-N;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612
+  email: alicia.straub@house.ks.gov
+  note: Capitol Office
+  voice: 785-296-7682
+links:
+- url: http://www.kslegislature.org/li/b2019_20/members/rep_straub_alicia_1/
+sources:
+- url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_straub_alicia_1
+image: http://www.kslegislature.org/li/m/images/pics/rep_straub_alicia_1.jpg

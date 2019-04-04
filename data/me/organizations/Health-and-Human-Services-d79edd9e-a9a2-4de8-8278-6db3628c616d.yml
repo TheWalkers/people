@@ -28,6 +28,7 @@ memberships:
   name: Colleen M. Madigan
 - id: ocd-person/869e08fc-743e-4180-8af1-0c307bed5b13
   name: Dale J. Denno
+  end_date: '2019-04-04'
 - id: ocd-person/06fd0ddf-be79-4065-b311-83c0cda7b015
   name: Scott M. Hamann
   end_date: '2018-12-31'

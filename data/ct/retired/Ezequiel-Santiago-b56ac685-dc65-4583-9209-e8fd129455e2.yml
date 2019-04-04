@@ -6,6 +6,7 @@ roles:
 - district: '130'
   jurisdiction: ocd-jurisdiction/country:us/state:ct/government
   type: lower
+  end_date: '2019-04-04'
 contact_details:
 - address: Legislative Office Building;Room 5003;Hartford, CT 06106
   note: Capitol Office

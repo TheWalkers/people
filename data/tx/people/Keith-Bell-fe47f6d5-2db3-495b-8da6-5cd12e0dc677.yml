@@ -12,8 +12,15 @@ contact_details:
   fax: 512-463-2040
   note: Capitol Address
   voice: 512-463-0458
-- address: 100 E. Corsicana St., Suite 204;Athens, Texas 75751
+- address: 100 E. Corsicana Street, Suite 204;Athens, Texas 75751
   note: District Address
+  voice: 903-675-3069
+- address: 100 E. Corsicana Street, Suite 204;Athens, Texas 75751
+  note: Athens Office
+  voice: 903-675-3069
+- address: 315 Bois D. Arc;Forney, Texas 75126
+  note: Forney Office
+  voice: 972-552-5573
 links:
 - url: https://house.texas.gov/members/member-page/?district=4
 sources:

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 3570 Toringdon Way, Apt, 4026;Charlotte, NC 28277
+- address: 3570 Toringdon Way, Apt 4026;Charlotte, NC 28277
   note: District Office
   voice: 919-733-5886
 - address: 16 West Jones Street, Rm. 1321;Raleigh, NC 27601-1096
