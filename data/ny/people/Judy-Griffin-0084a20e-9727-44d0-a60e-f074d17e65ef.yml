@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: 74 North Village Ave.;Rockville Centre, NY 11570
+- address: 74 N. Village Ave.;Rockville Centre, NY 11570
   note: District Office
   voice: 516-561-8216
 - address: LOB 432;Albany, NY 12248
