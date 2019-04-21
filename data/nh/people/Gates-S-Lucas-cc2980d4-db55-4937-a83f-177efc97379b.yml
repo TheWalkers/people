@@ -9,12 +9,11 @@ roles:
 contact_details:
 - email: Gates.Lucas@leg.state.nh.us
   note: Capitol Office
-- address: PO Box 105;34 River Road;Sunapee, NH 03782-0105
+- address: PO Box 105;Sunapee, NH 03782-0105
   note: District Office
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408940
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Gates

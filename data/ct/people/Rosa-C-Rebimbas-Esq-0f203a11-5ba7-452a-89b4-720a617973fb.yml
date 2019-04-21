@@ -1,5 +1,5 @@
 id: ocd-person/0f203a11-5ba7-452a-89b4-720a617973fb
-name: Rosa C. Rebimbas Esq.
+name: Rosa C. Rebimbas
 party:
 - name: Republican
 roles:
@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ct/government
   type: lower
 contact_details:
-- address: Legislative Office Building;Room 4064;Hartford, CT 06106
+- address: Legislative Office Building;Room 4067;Hartford, CT 06106
   note: Capitol Office
   voice: 860-240-8700
 - email: Rosa.Rebimbas@housegop.ct.gov

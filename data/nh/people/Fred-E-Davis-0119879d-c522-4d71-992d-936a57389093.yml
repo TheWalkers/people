@@ -9,13 +9,12 @@ roles:
 contact_details:
 - email: Fred.Davis@leg.state.nh.us
   note: Capitol Office
-- address: 58 Worcester Street;Nashua, NH 03060
+- address: 58 Worcester Street;Nashua, NH 03060-9009
   note: District Office
   voice: 603-820-9848
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408873
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Fred

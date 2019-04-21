@@ -7,10 +7,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nj/government
   type: lower
 contact_details:
-- address: 176 Route 70, Suite 13;Medford, NJ 08055
+- address: 668 Main Street;Lumberton, NJ 08048
   email: AsmPeters@njleg.org
   note: District Office
-  voice: 609-654-1498
+  voice: 609-667-7360
 links:
 - url: http://www.njleg.state.nj.us/members/bio.asp?Leg=398
 sources:

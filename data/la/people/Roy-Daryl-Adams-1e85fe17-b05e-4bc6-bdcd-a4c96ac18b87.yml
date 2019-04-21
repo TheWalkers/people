@@ -1,0 +1,18 @@
+id: ocd-person/1e85fe17-b05e-4bc6-bdcd-a4c96ac18b87
+name: Roy Daryl Adams
+party:
+- name: Independent
+roles:
+- district: '62'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: P.O. Box 217;Jackson, LA 70748
+  email: hse062@legis.la.gov
+  note: District Office
+  voice: 225-634-7470
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=62
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=62
+image: http://house.louisiana.gov/h_reps/RepPics09/rep62.jpg

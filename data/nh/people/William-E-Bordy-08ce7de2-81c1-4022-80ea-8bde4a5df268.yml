@@ -9,13 +9,12 @@ roles:
 contact_details:
 - email: William.Bordy@leg.state.nh.us
   note: Capitol Office
-- address: 21 Hampton Drive;Nashua, NH 03063
+- address: 21 Hampton Drive;Nashua, NH 03063-2720
   note: District Office
   voice: 603-557-8740
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408868
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: William

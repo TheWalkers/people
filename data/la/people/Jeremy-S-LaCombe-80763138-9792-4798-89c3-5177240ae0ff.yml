@@ -1,0 +1,17 @@
+id: ocd-person/80763138-9792-4798-89c3-5177240ae0ff
+name: Jeremy S. LaCombe
+party:
+- name: Democratic
+roles:
+- district: '18'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 2993 LA Hwy 78;Livonia, LA 70755
+  email: hse018@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=18
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=18
+image: http://house.louisiana.gov/h_reps/RepPics09/rep18.jpg

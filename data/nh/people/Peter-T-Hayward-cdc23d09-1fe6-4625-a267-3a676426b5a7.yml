@@ -9,13 +9,12 @@ roles:
 contact_details:
 - email: Peter.Hayward@leg.state.nh.us
   note: Capitol Office
-- address: 4 Gold Street;Milton, NH 03851
+- address: 4 Gold Street;Milton, NH 03851-4708
   note: District Office
   voice: 603-755-2901
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408928
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Peter

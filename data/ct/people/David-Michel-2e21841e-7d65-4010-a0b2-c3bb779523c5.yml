@@ -7,12 +7,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ct/government
   type: lower
 contact_details:
-- address: Legislative Office Building;Room 4000;Hartford, CT 06106
+- address: Legislative Office Building;Room 4037;Hartford, CT 06106
   note: Capitol Office
   voice: 860-240-8500
 - email: David.Michel@cga.ct.gov
   note: ''
-- address: 40 Rockledge Drive;Stamford, CT 06902
+- address: 4 Rockledge Drive;Stamford, CT 06902
   note: District Office
   voice: 860-240-8500
 links:

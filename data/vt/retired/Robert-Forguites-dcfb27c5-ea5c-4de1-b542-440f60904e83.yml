@@ -6,6 +6,7 @@ roles:
 - district: Windsor-3-2
   jurisdiction: ocd-jurisdiction/country:us/state:vt/government
   type: lower
+  end_date: '2019-04-21'
 contact_details:
 - address: Vermont State House;115 State Street;Montpelier, VT 05633
   email: rforguites@leg.state.vt.us

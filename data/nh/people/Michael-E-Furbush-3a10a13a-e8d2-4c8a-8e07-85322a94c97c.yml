@@ -9,13 +9,12 @@ roles:
 contact_details:
 - email: Mike.Furbush@leg.state.nh.us
   note: Capitol Office
-- address: 24 Bear Rock Road;Colebrook, NH 03576
+- address: 24 Bear Rock Road;Colebrook, NH 03576-3401
   note: District Office
   voice: 603-237-4685
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408831
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Michael

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nv/government
   type: upper
 contact_details:
-- address: ';, NV '
+- address: 401 South Carson Street, Room 2145;Carson City, NV 89701-4747
   note: District Office
   email: Marcia.Washington@sen.state.nv.us
 links:

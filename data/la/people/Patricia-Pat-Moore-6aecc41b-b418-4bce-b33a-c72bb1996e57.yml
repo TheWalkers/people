@@ -1,0 +1,17 @@
+id: ocd-person/6aecc41b-b418-4bce-b33a-c72bb1996e57
+name: Patricia "Pat" Moore
+party:
+- name: Democratic
+roles:
+- district: '17'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 300 Washington St.;Suite 404;Monroe, LA 71201
+  email: hse017@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=17
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=17
+image: http://house.louisiana.gov/h_reps/RepPics09/rep17.jpg

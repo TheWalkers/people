@@ -9,12 +9,11 @@ roles:
 contact_details:
 - email: Michael.Trento@leg.state.nh.us
   note: Capitol Office
-- address: 6 Barr Farm;Bedford, NH 03110-5221
+- address: 6 Barr Farm Road;Bedford, NH 03110-5221
   note: District Office
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408851
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Michael

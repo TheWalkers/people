@@ -1,5 +1,5 @@
 id: ocd-person/bda95ef9-7054-4100-ab95-498abe8b892f
-name: J. Collins
+name: J Collins
 party:
 - name: Republican
 roles:
@@ -18,9 +18,9 @@ links:
 sources:
 - url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4892&Session=27
-image: http://www.house.ga.gov/SiteCollectionImages/CollinsJ.4892.jpg
+image: http://www.house.ga.gov/SiteCollectionImages/CollinsJ4892.jpg
 family_name: Collins
-given_name: J.
+given_name: J
 extras:
   guid: 4892
 other_identifiers:

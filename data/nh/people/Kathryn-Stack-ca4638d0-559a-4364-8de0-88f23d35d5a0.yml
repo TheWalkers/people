@@ -9,12 +9,11 @@ roles:
 contact_details:
 - email: Kathryn.Stack@leg.state.nh.us
   note: Capitol Office
-- address: 7 Knollwood Drive;Merrimack, NH 03054
+- address: 7 Knollwood Drive;Merrimack, NH 03054-3257
   note: District Office
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408863
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Kathryn

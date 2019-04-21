@@ -9,13 +9,12 @@ roles:
 contact_details:
 - email: Kat.McGhee@leg.state.nh.us
   note: Capitol Office
-- address: PO Box 1602;237 Hayden Road;Hollis, NH 03049-1602
+- address: PO Box 1602;Hollis, NH 03049-1602
   note: District Office
   voice: 603-465-2033
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408947
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Kat

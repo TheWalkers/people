@@ -9,8 +9,14 @@ roles:
 contact_details:
 - address: 106B East Wing PO Box 202114 Harrisburg, PA
   note: District Office
+  fax: 717-772-2008
+  voice: 717-783-4874
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1866
+image: https://www.legis.state.pa.us/images/members/200/1866.jpg
+extras:
+  facebook: https://www.facebook.com/RepBridget/
+  twitter: https://twitter.com/RepBridget

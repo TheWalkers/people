@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
 contact_details:
-- address: 1195 2nd NH Tpk;Unity, NH 03773
+- address: 1195 Second NH Turnpike;Unity, NH 03773-7610
   note: District Office
   voice: 603-863-2119
 - email: John.Callum@leg.state.nh.us
