@@ -1,12 +1,11 @@
 id: ocd-person/ca62c53a-7a36-4f88-9680-4fd8f7353993
-name: Walter Bryan "Mike" Hill
+name: Mike Hill
 party:
 - name: Republican
 roles:
 - district: '1'
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   type: lower
-  end_date: '2019-04-21'
 contact_details:
 - address: 1101 The Capitol;402 South Monroe Street;Tallahassee, FL 32399-1300
   note: capitol
