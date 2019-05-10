@@ -9,8 +9,18 @@ roles:
 contact_details:
 - address: Senate Box 203037;Harrisburg, PA 17120-3037;Room:;352 Main Capitol
   note: Capitol Office
+  voice: 717-787-5839
+- address: 100 Broughton Road;Bethel Park, PA 15102
+  fax: 412-831-2740
+  note: District Office
+  voice: 412-831-0250
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
 sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1867
+image: https://www.legis.state.pa.us/images/members/200/1867.jpg
+extras:
+  facebook: https://www.facebook.com/SenatorIovino
+  instagram: https://instagram.com/senatoriovino
+  twitter: http://twitter.com/SenatorIovino

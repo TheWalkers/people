@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wy/government
   type: upper
 contact_details:
-- address: '1740H Dell Range Boulevard #149, Cheyenne WY 82009'
+- address: '1903 S. Greeley Hwy. #273, Cheyenne WY 82007'
   email: Anthony.Bouchard@wyoleg.gov
   note: ''
   voice: 307-212-6464

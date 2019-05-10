@@ -7,8 +7,8 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: 11 Main Street;Chester, NY 10918
-  fax: 845-469-0914
+- address: 6 Depot St.,;Suite 103;Washingtonville, NY 10992
+  fax: 845-497-0286
   note: District Office
   voice: 845-469-6929
 - address: LOB 433;Albany, NY 12248

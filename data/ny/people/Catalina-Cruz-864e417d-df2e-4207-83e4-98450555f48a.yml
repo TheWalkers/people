@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: 82-11 37th Avenue;Suite 607;Jackson Heights, NY 11372
+- address: 41-40 Junction Blvd;Corona, NY 11368
   fax: 718-478-2371
   note: District Office
   voice: 718-458-5367

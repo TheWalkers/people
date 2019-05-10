@@ -22,6 +22,7 @@ memberships:
   role: ranking minority member
 - id: ocd-person/9bb8a758-4d6c-4554-b516-fc32dd931e49
   name: DaRon McGee
+  end_date: '2019-05-10'
 - id: ocd-person/34829e4c-4db2-48e5-bf60-c8011ba802ba
   name: Chris Dinkins
 - id: ocd-person/5d6d2e6d-5e93-4323-adc1-32635f0077e3

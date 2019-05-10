@@ -38,6 +38,7 @@ memberships:
   name: Wendell R. Beitzel
 - id: ocd-person/90fd0012-8b67-4d58-ab1e-ac2c2212f7d6
   name: Michael E. Busch
+  end_date: '2019-05-10'
 - id: ocd-person/6db0ae48-9a12-4f21-9967-39bab711e147
   name: C. William Frick
   end_date: '2019-01-08'
