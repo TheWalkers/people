@@ -1,18 +1,18 @@
-id: ocd-person/3969673d-4a3e-487e-a572-42ce9f79e6dd
-name: Kara Rochelle
+id: ocd-person/ff7dcc97-cbc3-4db3-9fe6-f978cd2e18ca
+name: Tammy R. Exum
 party:
 - name: Democratic
 roles:
-- district: '104'
+- district: '19'
   jurisdiction: ocd-jurisdiction/country:us/state:ct/government
   type: lower
 contact_details:
-- address: Legislative Office Building;Room 4000;Hartford, CT 06106
+- address: Legislative Office Building;Room 4014;Hartford, CT 06106
   note: Capitol Office
   voice: 860-240-8585
-- email: Kara.Rochelle@cga.ct.gov
+- email: Tammy.Exum@cga.ct.gov
   note: ''
 links:
-- url: http://www.housedems.ct.gov/rochelle
+- url: http://www.housedems.ct.gov/exum
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

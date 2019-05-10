@@ -7,11 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:md/government
   type: lower
 contact_details:
-- address: 312 House Office Building;6 Bladen Street;Annapolis, MD 21401
+- address: H-101, State House;100 State Circle;Annapolis, MD 21401
   email: adrienne.jones@house.state.md.us
   fax: 410-841-3157
   note: Capitol Office
-  voice: 410-841-3391
+  voice: 410-841-3800
 links:
 - url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=jones&stab=01
 sources:

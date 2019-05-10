@@ -1,7 +1,7 @@
 id: ocd-person/0c5035ae-1260-44cc-899b-c6dda5994aee
 name: Andy McKean
 party:
-- name: Republican
+- name: Democratic
 roles:
 - district: '58'
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government

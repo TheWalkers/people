@@ -7,9 +7,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 300 Washington St.;Suite 404;Monroe, LA 71201
+- address: 300 Washington St.;Suite 304;Monroe, LA 71201
   email: hse017@legis.la.gov
   note: District Office
+  voice: 318-362-3014
 links:
 - url: http://house.louisiana.gov/H_Reps/members.aspx?ID=17
 sources:

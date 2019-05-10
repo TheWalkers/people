@@ -6,6 +6,7 @@ roles:
 - district: '17'
   jurisdiction: ocd-jurisdiction/country:us/state:nv/government
   type: lower
+  end_date: '2019-05-10'
 contact_details:
 - address: 117 Fox Crossing Avenue;North Las Vegas, NV 89084-5207
   email: Tyrone.Thompson@asm.state.nv.us
