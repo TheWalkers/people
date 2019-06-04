@@ -1,0 +1,21 @@
+id: ocd-person/8bacfb7b-82fd-436a-9101-9a45f6a24fc6
+name: Chuck Little
+party:
+- name: Republican
+roles:
+- district: '9'
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  type: lower
+contact_details:
+- address: Room 212E, Building 1;State Capitol Complex;Charleston, WV 25305
+  email: chuck.little@wvhouse.gov
+  note: Capitol Office
+  voice: 304-340-3136
+- address: 6584 Staunton Turnpike;Davisville, WV, 26142
+  note: District Office
+  voice: 304-481-1929
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Little
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Little
+image: http://www.legis.state.wv.us/images/members/2019/house/little_chuck.jpg

@@ -6,6 +6,7 @@ roles:
 - district: '9'
   jurisdiction: ocd-jurisdiction/country:us/state:wv/government
   type: lower
+  end_date: '2019-06-04'
 contact_details:
 - address: Room 224E, Building 1;State Capitol Complex;Charleston, WV 25305
   email: ray.hollen@wvhouse.gov
