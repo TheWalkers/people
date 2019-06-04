@@ -1,0 +1,19 @@
+id: ocd-person/36c26b26-7d5a-4620-8019-c865fcf761de
+name: Diane V. Grendell
+party:
+- name: Republican
+roles:
+- district: '76'
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  type: lower
+contact_details:
+- address: 77 S. High St;13th Floor;Columbus, OH 43215
+  email: rep76@ohiohouse.gov
+  fax: 614-719-6998
+  note: Capitol Office
+  voice: 614-644-5088
+links:
+- url: http://www.ohiohouse.gov/diane-v-grendell
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory
+image: http://www.ohiohouse.gov/Assets/Headshots/Small/76.jpg

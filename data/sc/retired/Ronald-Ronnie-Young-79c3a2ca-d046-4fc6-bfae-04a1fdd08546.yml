@@ -6,6 +6,7 @@ roles:
 - district: '84'
   jurisdiction: ocd-jurisdiction/country:us/state:sc/government
   type: lower
+  end_date: '2019-06-04'
 contact_details:
 - address: 418A Blatt Bldg.Columbia 29201
   note: Capitol Office

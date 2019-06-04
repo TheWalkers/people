@@ -2,7 +2,7 @@ contact_details:
 - email: djohnson@nd.gov
   note: Capitol Office
   voice: 701-739-9328
-- address: 7871 45th Street NE;Devils Lake, ND;58301-9089
+- address: 4518 Highway 20 South;Devils Lake, ND;58301-8518
   note: District Office
   voice: 701-662-4998
 family_name: Johnson
@@ -10,7 +10,6 @@ given_name: Dennis
 id: ocd-person/5d600d38-31f0-4a13-9ceb-9ed6630edb3c
 image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/djohnson.jpg?itok=JSW04RNu
 links:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-dennis-johnson
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-dennis-johnson
 name: Dennis Johnson
 other_identifiers:
@@ -27,5 +26,4 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nd/government
   type: lower
 sources:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-dennis-johnson
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-dennis-johnson

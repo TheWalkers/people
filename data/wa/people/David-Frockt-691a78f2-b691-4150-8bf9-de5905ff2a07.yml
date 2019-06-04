@@ -11,6 +11,9 @@ contact_details:
   email: David.Frockt@leg.wa.gov
   note: Capitol Office
   voice: 360-786-7690
+- address: '10212 5th Ave. NE;Suite #255;Seattle, WA 98125'
+  note: District Office
+  voice: 206-729-3260
 links:
 - url: http://sdc.wastateleg.org/Frockt/
 - url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx

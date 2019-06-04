@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 5530 Munford Rd, Suite 105;Raleigh, NC 27612
+- address: 16 West Jones Street, Rm. 1311;Raleigh, NC 27601-1096
   note: District Office
   voice: 919-715-0795
 - address: 16 West Jones Street, Rm. 1311;Raleigh, NC 27601-1096

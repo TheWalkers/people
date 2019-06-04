@@ -9,6 +9,13 @@ roles:
 contact_details:
 - email: malliotakisn@nyassembly.gov
   note: Capitol Office
+  address: LOB 404;Albany, NY 12248
+  fax: 518-455-5970
+  voice: 518-455-5716
+- address: 11 Maplewood Place;Staten Island, NY 10306
+  fax: 718-987-0863
+  note: District Office
+  voice: 718-987-0197
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

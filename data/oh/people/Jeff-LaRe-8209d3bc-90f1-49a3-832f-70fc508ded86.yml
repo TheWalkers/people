@@ -1,0 +1,19 @@
+id: ocd-person/8209d3bc-90f1-49a3-832f-70fc508ded86
+name: Jeff LaRe
+party:
+- name: Republican
+roles:
+- district: '77'
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  type: lower
+contact_details:
+- address: 77 S. High St;13th Floor;Columbus, OH 43215
+  email: rep77@ohiohouse.gov
+  fax: 614-719-0005
+  note: Capitol Office
+  voice: 614-466-8100
+links:
+- url: http://www.ohiohouse.gov/jeff-lare
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory
+image: http://www.ohiohouse.gov/Assets/Headshots/Small/77.jpg

@@ -1,0 +1,21 @@
+id: ocd-person/dca7d62c-7dda-48df-a530-ce394f05eb9e
+name: Antonio Felipe
+party:
+- name: Democratic
+roles:
+- district: '130'
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  type: lower
+contact_details:
+- address: Legislative Office Bldg;Room 4000;Hartford, CT 06106
+  note: Capitol Office
+  voice: 860-240-8585
+- email: antonio.felipe@cga.ct.gov
+  note: ''
+- address: 666 Iranistan Avenue;Bridgeport, CT 06604
+  note: District Office
+  voice: 203-726-6398
+links:
+- url: http://www.housedems.ct.gov/felipe
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

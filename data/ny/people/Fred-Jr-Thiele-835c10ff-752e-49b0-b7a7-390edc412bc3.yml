@@ -11,9 +11,11 @@ contact_details:
   email: ThieleF@nyassembly.gov
   note: Capitol Office
   voice: 518-455-5997
+  fax: 518-455-5963
 - address: 2302 Main Street;Box 3062;Bridgehampton, NY 11932
   note: District Office
   voice: 631-537-2583
+  fax: 631-537-2836
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

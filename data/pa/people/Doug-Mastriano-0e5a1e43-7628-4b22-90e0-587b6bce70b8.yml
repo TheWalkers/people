@@ -1,0 +1,17 @@
+id: ocd-person/0e5a1e43-7628-4b22-90e0-587b6bce70b8
+name: Doug Mastriano
+party:
+- name: Republican
+roles:
+- district: '33'
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  type: upper
+contact_details:
+- address: Senate Box 203033;Harrisburg, PA 17120-3033;Room:;172 Main Capitol
+  note: Capitol Office
+  voice: 717-787-4651
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1869

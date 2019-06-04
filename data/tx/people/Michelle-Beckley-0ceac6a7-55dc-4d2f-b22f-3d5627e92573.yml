@@ -12,6 +12,8 @@ contact_details:
   fax: 512-463-2089
   note: Capitol Address
   voice: 512-463-0478
+- address: 3740 N Josey Lane, Suite 136;Carrollton, TX 75007
+  note: District Address
 links:
 - url: https://house.texas.gov/members/member-page/?district=65
 sources:

@@ -11,6 +11,8 @@ contact_details:
   fax: 512-463-6504
   note: Capitol Address
   voice: 512-463-0596
+- address: 1760 Lee Trevino, Suite B;El Paso, Texas 79936
+  note: District Address
 links:
 - url: https://house.texas.gov/members/member-page/?district=79
 sources:
