@@ -16,11 +16,11 @@ contact_details:
 - email: powell.bobby.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s30
+- url: https://www.flsenate.gov/Senators/S30
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s30
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s30_5201.jpg
+- url: https://www.flsenate.gov/Senators/S30
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s30_5201.jpg
 other_identifiers:
 - identifier: FLL000630
   scheme: legacy_openstates

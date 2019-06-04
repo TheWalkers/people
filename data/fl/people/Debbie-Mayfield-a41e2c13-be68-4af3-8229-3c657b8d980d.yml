@@ -17,11 +17,11 @@ contact_details:
 - email: mayfield.debbie.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s17
+- url: https://www.flsenate.gov/Senators/S17
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s17
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s17_5199.jpg
+- url: https://www.flsenate.gov/Senators/S17
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s17_5199.jpg
 other_identifiers:
 - identifier: FLL000593
   scheme: legacy_openstates

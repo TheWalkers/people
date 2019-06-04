@@ -16,11 +16,11 @@ contact_details:
 - email: galvano.bill.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s21
+- url: https://www.flsenate.gov/Senators/S21
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s21
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s21_5098.jpg
+- url: https://www.flsenate.gov/Senators/S21
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s21_5098.jpg
 other_identifiers:
 - identifier: FLL000521
   scheme: legacy_openstates

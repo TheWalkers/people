@@ -16,11 +16,11 @@ contact_details:
 - email: rouson.darryl.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s19
+- url: https://www.flsenate.gov/Senators/S19
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s19
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s19_5203.jpg
+- url: https://www.flsenate.gov/Senators/S19
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s19_5203.jpg
 other_identifiers:
 - identifier: FLL000440
   scheme: legacy_openstates

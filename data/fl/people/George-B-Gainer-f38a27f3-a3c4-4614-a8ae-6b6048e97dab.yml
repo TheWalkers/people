@@ -17,11 +17,11 @@ contact_details:
 - email: gainer.george.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s2
+- url: https://www.flsenate.gov/Senators/S2
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s2
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s02_5190.jpg
+- url: https://www.flsenate.gov/Senators/S2
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s02_5190.jpg
 other_identifiers:
 - identifier: FLL000448
   scheme: legacy_openstates

@@ -16,11 +16,11 @@ contact_details:
 - email: passidomo.kathleen.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s28
+- url: https://www.flsenate.gov/Senators/S28
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s28
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s28_5196.jpg
+- url: https://www.flsenate.gov/Senators/S28
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s28_5196.jpg
 other_identifiers:
 - identifier: FLL000567
   scheme: legacy_openstates

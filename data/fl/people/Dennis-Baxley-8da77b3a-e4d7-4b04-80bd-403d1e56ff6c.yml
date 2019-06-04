@@ -16,11 +16,11 @@ contact_details:
 - email: baxley.dennis.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s12
+- url: https://www.flsenate.gov/Senators/S12
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s12
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s12_5192.jpg
+- url: https://www.flsenate.gov/Senators/S12
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s12_5192.jpg
 other_identifiers:
 - identifier: FLL000548
   scheme: legacy_openstates

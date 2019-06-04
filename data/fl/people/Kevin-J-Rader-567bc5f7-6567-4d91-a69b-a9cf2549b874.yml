@@ -16,11 +16,11 @@ contact_details:
 - email: rader.kevin.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s29
+- url: https://www.flsenate.gov/Senators/S29
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s29
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s29_5032.jpg
+- url: https://www.flsenate.gov/Senators/S29
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s29_5032.jpg
 other_identifiers:
 - identifier: FLL000437
   scheme: legacy_openstates

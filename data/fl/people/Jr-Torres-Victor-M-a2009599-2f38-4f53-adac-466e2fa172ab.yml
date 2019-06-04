@@ -17,11 +17,11 @@ contact_details:
 - email: torres.victor.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s15
+- url: https://www.flsenate.gov/Senators/S15
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s15
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s15_5206.jpg
+- url: https://www.flsenate.gov/Senators/S15
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s15_5206.jpg
 other_identifiers:
 - identifier: FLL000314
   scheme: legacy_openstates

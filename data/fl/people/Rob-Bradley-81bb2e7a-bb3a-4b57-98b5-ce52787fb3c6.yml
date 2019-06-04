@@ -17,11 +17,11 @@ contact_details:
 - email: bradley.rob.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s5
+- url: https://www.flsenate.gov/Senators/S5
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s5
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s05_5101.jpg
+- url: https://www.flsenate.gov/Senators/S5
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s05_5101.jpg
 other_identifiers:
 - identifier: FLL000617
   scheme: legacy_openstates

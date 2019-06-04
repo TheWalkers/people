@@ -17,11 +17,11 @@ contact_details:
 - email: gibson.audrey.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s6
+- url: https://www.flsenate.gov/Senators/S6
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s6
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s06_4765.jpg
+- url: https://www.flsenate.gov/Senators/S6
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s06_4765.jpg
 other_identifiers:
 - identifier: FLL000587
   scheme: legacy_openstates

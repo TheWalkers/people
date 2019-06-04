@@ -16,11 +16,11 @@ contact_details:
 - email: flores.anitere.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s39
+- url: https://www.flsenate.gov/Senators/S39
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s39
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s39_4783.jpg
+- url: https://www.flsenate.gov/Senators/S39
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s39_4783.jpg
 other_identifiers:
 - identifier: FLL000614
   scheme: legacy_openstates

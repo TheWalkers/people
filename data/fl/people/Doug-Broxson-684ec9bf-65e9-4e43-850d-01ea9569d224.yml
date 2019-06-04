@@ -16,11 +16,11 @@ contact_details:
 - email: broxson.doug.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s1
+- url: https://www.flsenate.gov/Senators/S1
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s1
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s01_5194.jpg
+- url: https://www.flsenate.gov/Senators/S1
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s01_5194.jpg
 other_identifiers:
 - identifier: FLL000577
   scheme: legacy_openstates

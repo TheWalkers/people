@@ -20,11 +20,11 @@ contact_details:
 - email: albritton.ben.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s26
+- url: https://www.flsenate.gov/Senators/S26
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s26
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s26_5342.jpg
+- url: https://www.flsenate.gov/Senators/S26
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s26_5342.jpg
 other_identifiers:
 - identifier: FLL000550
   scheme: legacy_openstates

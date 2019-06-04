@@ -17,11 +17,11 @@ contact_details:
 - email: berman.lori.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s31
+- url: https://www.flsenate.gov/Senators/S31
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s31
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s31_5339.jpg
+- url: https://www.flsenate.gov/Senators/S31
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s31_5339.jpg
 other_identifiers:
 - identifier: FLL000512
   scheme: legacy_openstates

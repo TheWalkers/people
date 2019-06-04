@@ -16,11 +16,11 @@ contact_details:
 - email: perry.keith.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s8
+- url: https://www.flsenate.gov/Senators/S8
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s8
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s08_5200.jpg
+- url: https://www.flsenate.gov/Senators/S8
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s08_5200.jpg
 other_identifiers:
 - identifier: FLL000588
   scheme: legacy_openstates

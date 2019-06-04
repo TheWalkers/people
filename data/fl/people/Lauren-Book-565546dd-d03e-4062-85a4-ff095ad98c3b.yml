@@ -16,11 +16,11 @@ contact_details:
 - email: book.lauren.web@flsenate.gov
   note: ''
 links:
-- url: http://www.flsenate.gov/Senators/s32
+- url: https://www.flsenate.gov/Senators/S32
 sources:
 - url: http://www.flsenate.gov/Senators/
-- url: http://www.flsenate.gov/Senators/s32
-image: http://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s32_5189.jpg
+- url: https://www.flsenate.gov/Senators/S32
+image: https://www.flsenate.gov/PublishedContent/Senators/2018-2020/Photos/s32_5189.jpg
 other_identifiers:
 - identifier: FLL000532
   scheme: legacy_openstates
