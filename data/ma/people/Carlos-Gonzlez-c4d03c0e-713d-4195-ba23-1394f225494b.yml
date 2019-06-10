@@ -32,3 +32,4 @@ roles:
   type: lower
 sources:
 - url: https://malegislature.gov/Legislators/Profile/C_G1
+gender: Male
