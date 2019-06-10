@@ -27,3 +27,4 @@ roles:
   type: lower
 sources:
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-dennis-johnson
+gender: Male

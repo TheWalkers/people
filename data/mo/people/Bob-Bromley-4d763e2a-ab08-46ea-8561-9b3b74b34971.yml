@@ -19,3 +19,4 @@ sources:
 extras:
   first_name: Bob
   last_name: Bromley
+gender: Male

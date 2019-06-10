@@ -19,3 +19,4 @@ sources:
 extras:
   first_name: Ben
   last_name: Baker
+gender: Male

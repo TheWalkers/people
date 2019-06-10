@@ -24,3 +24,4 @@ roles:
 sources:
 - url: http://leg.colorado.gov/legislators/jack-tate
 - url: http://leg.colorado.gov/legislators
+gender: Male

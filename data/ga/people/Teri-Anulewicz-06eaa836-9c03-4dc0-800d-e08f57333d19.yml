@@ -11,7 +11,6 @@ contact_details:
   email: teri.anulewicz@house.ga.gov
   note: Capitol Address
   voice: 404-656-0116
-  email: teri.anulewicz@house.ga.gov
 - address: P.O. Box 1385;Smyrna, GA 30081
   note: District Address
 links:
@@ -27,3 +26,4 @@ extras:
 other_identifiers:
 - identifier: GAL000480
   scheme: legacy_openstates
+gender: Female

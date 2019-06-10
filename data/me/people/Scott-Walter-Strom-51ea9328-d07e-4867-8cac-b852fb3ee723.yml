@@ -22,3 +22,4 @@ roles:
   type: lower
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/152
+gender: Male

@@ -19,3 +19,4 @@ sources:
 extras:
   first_name: Jim
   last_name: Murphy
+gender: Male

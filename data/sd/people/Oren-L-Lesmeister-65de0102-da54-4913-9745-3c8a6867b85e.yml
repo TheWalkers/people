@@ -25,3 +25,4 @@ roles:
   type: lower
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1593&Session=2019
+gender: Male

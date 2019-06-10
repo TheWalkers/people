@@ -29,3 +29,4 @@ roles:
   type: upper
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1588&Session=2019
+gender: Male
