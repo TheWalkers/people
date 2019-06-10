@@ -20,7 +20,7 @@ links:
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4705&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
-image: http://www.flhouse.gov/FileStores/Web/Imaging/Member/4705.jpg
+image: https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4705.jpg
 other_identifiers:
 - identifier: FLL000514
   scheme: legacy_openstates
