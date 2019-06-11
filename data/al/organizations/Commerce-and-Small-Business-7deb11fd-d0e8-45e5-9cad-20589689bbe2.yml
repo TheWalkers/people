@@ -17,6 +17,7 @@ memberships:
 - id: ocd-person/7813c3d4-5487-4f65-8437-c6096998f628
   name: Jimmy Martin
   role: Member
+  end_date: '2019-06-11'
 - id: ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b
   name: Danny Garrett
   role: Member

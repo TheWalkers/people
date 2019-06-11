@@ -44,6 +44,7 @@ memberships:
 - id: ocd-person/7813c3d4-5487-4f65-8437-c6096998f628
   name: Jimmy Martin
   role: Member
+  end_date: '2019-06-11'
 - id: ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26
   name: Pebblin W. Warren
   role: Member

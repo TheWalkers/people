@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nm/government
   type: upper
 contact_details:
-- address: 3608 Ladera Drive NW B-302;Albuquerque, NM 87120
+- address: 6739 Academy Road NE Suite 200;Albuquerque, NM 87109
   note: District Office
   voice: 505-847-5079
 - address: Room 218B State Capitol;Santa Fe, NM 87501

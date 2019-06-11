@@ -12,6 +12,8 @@ contact_details:
   fax: 512-463-1044
   note: Capitol Address
   voice: 512-463-0468
+- address: 12300 Ford Road, Suite B348;Dallas, TX 75234
+  note: District Address
 links:
 - url: https://house.texas.gov/members/member-page/?district=115
 sources:
