@@ -8,6 +8,9 @@ al:
   upper_seats: 35
   vacancies:
     - chamber: lower
+      district: 42
+      vacant_until: 2019-12-01
+    - chamber: lower
       district: 74
       vacant_until: 2019-12-01
 ar:
@@ -104,10 +107,6 @@ in:
   legislature_name: Indiana General Assembly
   lower_seats: 100
   upper_seats: 50
-  vacancies:
-    - chamber: lower
-      district: 93
-      vacant_until: 2019-07-01
 ks:
   legislature_name: Kansas State Legislature
   lower_seats: 125
@@ -399,6 +398,10 @@ nm:
   legislature_name: New Mexico Legislature
   lower_seats: 70
   upper_seats: 42
+  vacancies:
+    - chamber: upper
+      district: 3
+      vacant_until: 2021-01-01
 nv:
   legislature_name: Nevada Legislature
   lower_seats: 42
@@ -423,10 +426,6 @@ oh:
   legislature_name: Ohio General Assembly
   lower_seats: 99
   upper_seats: 33
-  vacancies:
-    - chamber: lower
-      district: 63
-      vacant_until: 2021-01-01
 ok:
   legislature_name: Oklahoma Legislature
   lower_seats: 101
@@ -435,6 +434,10 @@ or:
   legislature_name: Oregon Legislative Assembly
   lower_seats: 60
   upper_seats: 30
+  vacancies:
+    - chamber: upper
+      district: 10
+      vacant_until: 2019-07-15
 pa:
   legislature_name: Pennsylvania General Assembly
   lower_seats: 203

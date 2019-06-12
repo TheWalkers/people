@@ -10,9 +10,12 @@ contact_details:
 - address: Senate Box 203033;Harrisburg, PA 17120-3033;Room:;172 Main Capitol
   note: Capitol Office
   voice: 717-787-4651
+- address: 37 South Main Street Suite 200;Chambersburg, PA 17201
+  note: District Office
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
 sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1869
 gender: Male
+image: https://www.legis.state.pa.us/images/members/200/1869.jpg

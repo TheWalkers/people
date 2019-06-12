@@ -46,3 +46,4 @@ memberships:
 - id: ocd-person/7813c3d4-5487-4f65-8437-c6096998f628
   name: Jimmy Martin
   role: Member
+  end_date: '2019-06-11'

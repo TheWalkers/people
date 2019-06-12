@@ -39,6 +39,7 @@ memberships:
 - id: ocd-person/7813c3d4-5487-4f65-8437-c6096998f628
   name: Jimmy Martin
   role: Member
+  end_date: '2019-06-11'
 - id: ocd-person/e383fc29-5212-42d3-bc76-46dd93bf3e6f
   name: Jack Williams
   role: Member

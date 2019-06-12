@@ -1,0 +1,19 @@
+id: ocd-person/11da6ee0-5cd2-46b4-8d60-ad8987b88e8b
+name: Dollyne Sherman
+party:
+- name: Republican
+roles:
+- district: '93'
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  type: lower
+contact_details:
+- address: 200 W. Washington Street;Indianapolis, IN 46204
+  email: h93@iga.in.gov
+  note: Capitol Office
+  voice: 800-382-9841
+links:
+- url: http://iga.in.gov/legislative/2019/legislators/legislator_dollyne_sherman_1
+sources:
+- url: http://iga.in.gov/legislative/2019/legislators/legislator_dollyne_sherman_1
+- url: https://api.iga.in.gov/2019/legislators/dollyne_sherman_1
+image: http://iga.in.gov/legislative/2019/portraits/legislator_dollyne_sherman_1

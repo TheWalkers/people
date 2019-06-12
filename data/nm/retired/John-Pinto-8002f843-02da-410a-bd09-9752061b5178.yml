@@ -6,6 +6,7 @@ roles:
 - district: '3'
   jurisdiction: ocd-jurisdiction/country:us/state:nm/government
   type: upper
+  end_date: '2019-06-11'
 contact_details:
 - address: 509 W Morgan Avenue;Gallup, NM 87301
   note: District Office
