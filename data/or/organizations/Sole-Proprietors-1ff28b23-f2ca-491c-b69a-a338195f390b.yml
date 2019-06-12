@@ -29,6 +29,7 @@ memberships:
 - id: ocd-person/ad8d27f4-ddd4-49dc-b7d7-9598b30f9fcc
   name: Jackie Winters
   role: Co-Vice Chair
+  end_date: '2019-06-12'
 - id: ocd-person/a3e2d670-179f-4614-bbfd-be3c8fd4df35
   name: Brian Boquist
   role: Member

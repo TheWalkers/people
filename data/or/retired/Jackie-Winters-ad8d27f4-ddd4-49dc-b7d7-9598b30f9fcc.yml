@@ -6,6 +6,7 @@ roles:
 - district: '10'
   jurisdiction: ocd-jurisdiction/country:us/state:or/government
   type: upper
+  end_date: '2019-06-12'
 contact_details:
 - address: 900 Court St NE, S-301, Salem, OR, 97301
   email: Sen.JackieWinters@oregonlegislature.gov
