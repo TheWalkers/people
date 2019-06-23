@@ -1,0 +1,15 @@
+id: ocd-person/5416f9e3-0ba9-4bca-a0f5-b280b9167c6c
+name: Randall Scott "Randy" Maggard
+party:
+- name: Republican
+roles:
+- district: '38'
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  type: lower
+contact_details: []
+links:
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4758&LegislativeTermId=88
+sources:
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4758&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+image: https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4758.jpg

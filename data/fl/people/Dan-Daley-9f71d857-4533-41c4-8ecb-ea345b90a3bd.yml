@@ -1,0 +1,15 @@
+id: ocd-person/9f71d857-4533-41c4-8ecb-ea345b90a3bd
+name: Dan Daley
+party:
+- name: Democratic
+roles:
+- district: '97'
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  type: lower
+contact_details: []
+links:
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4757&LegislativeTermId=88
+sources:
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4757&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+image: https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4757.jpg

@@ -1,0 +1,15 @@
+id: ocd-person/a8547eea-0c54-4d40-bc17-88edfccca5ea
+name: Jason Shoaf
+party:
+- name: Republican
+roles:
+- district: '7'
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  type: lower
+contact_details: []
+links:
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4756&LegislativeTermId=88
+sources:
+- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4756&LegislativeTermId=88
+- url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+image: https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4756.jpg

@@ -1,0 +1,17 @@
+id: ocd-person/0578862e-b9b5-458a-9192-1a3c9b010333
+name: Stephen W. Moriarty
+party:
+- name: Democratic
+roles:
+- district: '45'
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  type: lower
+contact_details:
+- address: 12 Oak Street, Cumberland, ME 04021
+  email: Stephen.Moriarty@legislature.maine.gov
+  note: District Office
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/279
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/279
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a9500121-d638-45d3-b340-fe6afd86052c_morisw.jpg
