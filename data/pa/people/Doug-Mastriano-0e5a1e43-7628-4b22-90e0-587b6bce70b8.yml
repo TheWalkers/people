@@ -10,8 +10,10 @@ contact_details:
 - address: Senate Box 203033;Harrisburg, PA 17120-3033;Room:;172 Main Capitol
   note: Capitol Office
   voice: 717-787-4651
-- address: 37 South Main Street Suite 200;Chambersburg, PA 17201
+- address: 118 Carlisle Street Suite 309;Hanover, PA 17331
   note: District Office
+  fax: 717-632-1183
+  voice: 717-632-1153
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/senators_alpha.cfm
 sources:
@@ -19,3 +21,7 @@ sources:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1869
 gender: Male
 image: https://www.legis.state.pa.us/images/members/200/1869.jpg
+extras:
+  facebook: https://www.facebook.com/SenatorDougMastriano
+  instagram: https://www.instagram.com/senatormastriano/
+  twitter: https://twitter.com/senmastriano
