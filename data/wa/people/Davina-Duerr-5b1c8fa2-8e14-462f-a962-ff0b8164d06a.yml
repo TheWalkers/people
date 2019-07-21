@@ -1,0 +1,17 @@
+id: ocd-person/5b1c8fa2-8e14-462f-a962-ff0b8164d06a
+name: Davina Duerr
+party:
+- name: Democratic
+roles:
+- district: '1'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- email: Davina.Duerr@leg.wa.gov
+  note: Capitol Office
+links:
+- url: https://housedemocrats.wa.gov/Duerr/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/duerr.jpg

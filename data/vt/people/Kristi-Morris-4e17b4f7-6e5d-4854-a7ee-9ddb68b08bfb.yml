@@ -1,0 +1,20 @@
+id: ocd-person/4e17b4f7-6e5d-4854-a7ee-9ddb68b08bfb
+name: Kristi Morris
+party:
+- name: Democratic
+roles:
+- district: Windsor-3-2
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  type: lower
+contact_details:
+- address: Vermont State House;115 State Street;Montpelier, VT 05633
+  note: Capitol Office
+- address: ';, '
+  note: District Office
+  voice: 802-885-2949
+links:
+- url: http://legislature.vermont.gov/people/single/2020/33012
+sources:
+- url: http://legislature.vermont.gov/people/loadAll/2020
+- url: http://legislature.vermont.gov/people/single/2020/33012
+image: https://legislature.vermont.gov/Documents/Legislators/KristiMorris.jpg

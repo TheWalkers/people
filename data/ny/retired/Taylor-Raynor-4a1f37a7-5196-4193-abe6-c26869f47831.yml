@@ -6,6 +6,7 @@ roles:
 - district: '18'
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
+  end_date: '2019-07-21'
 contact_details:
 - address: 33 Front Street;Suite 104;Hempstead, NY 11550
   note: District Office

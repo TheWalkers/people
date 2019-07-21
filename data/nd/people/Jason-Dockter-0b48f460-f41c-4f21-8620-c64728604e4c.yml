@@ -3,7 +3,7 @@ contact_details:
   fax: 701-258-1011
   note: Capitol Office
   voice: 701-258-9848
-- address: 4433 Cumberland Loop;Bismarck, ND;58503-8504
+- address: 2025 Pebbleview Loop;Bismarck, ND;58503-1277
   note: District Office
   voice: 701-214-0486
 family_name: Dockter
@@ -11,7 +11,6 @@ given_name: Jason
 id: ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c
 image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/jddockter.jpg?itok=mBqEFY1V
 links:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-jason-dockter
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-jason-dockter
 name: Jason Dockter
 other_identifiers:
@@ -26,6 +25,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nd/government
   type: lower
 sources:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-jason-dockter
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-jason-dockter
 gender: Male

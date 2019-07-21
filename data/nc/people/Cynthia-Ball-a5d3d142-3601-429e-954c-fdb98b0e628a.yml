@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 1428 Canterbury Rd;Raleigh, NC 27608
+- address: 16 West Jones Street, Rm. 1004;Raleigh, NC 27601-1096
   note: District Office
   voice: 919-733-5860
 - address: 16 West Jones Street, Rm. 1004;Raleigh, NC 27601-1096

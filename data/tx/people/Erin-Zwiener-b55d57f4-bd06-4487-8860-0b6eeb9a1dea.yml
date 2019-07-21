@@ -12,6 +12,8 @@ contact_details:
   fax: 512-463-3573
   note: Capitol Address
   voice: 512-463-0647
+- address: 225 S Main St. Unit 102;Kyle, Texas 78640
+  note: District Address
 links:
 - url: https://house.texas.gov/members/member-page/?district=45
 sources:

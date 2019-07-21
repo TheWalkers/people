@@ -21,6 +21,9 @@ contact_details:
 - address: 17555 Peak Avenue;Morgan Hill, CA 95037
   note: 'District Office #3'
   voice: 831-256-1272
+- address: 2301 Technology Parkway, 1st Floor;Hollister, CA 95023
+  note: 'District Office #4'
+  voice: 831-630-1330
 links:
 - url: https://a30.asmdc.org/
 sources:

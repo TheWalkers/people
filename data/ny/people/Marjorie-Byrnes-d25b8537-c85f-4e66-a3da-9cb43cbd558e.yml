@@ -7,8 +7,8 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: 30 Office Park Way;Pittsford, NY 14534
-  fax: 585-218-0063
+- address: 79 Genesee St.;Avon, NY 14414
+  fax: 585-226-2022
   note: District Office
   voice: 585-218-0038
 - address: LOB 723;Albany, NY 12248
