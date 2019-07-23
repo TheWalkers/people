@@ -6,11 +6,14 @@ roles:
 - district: '38'
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   type: lower
-contact_details: []
+contact_details:
+- email: Randy.Maggard@myfloridahouse.gov
+  note: Capitol Office
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4758&LegislativeTermId=88
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4758&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4758.jpg
 gender: Male
