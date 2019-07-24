@@ -439,9 +439,9 @@ or:
   lower_seats: 60
   upper_seats: 30
   vacancies:
-    - chamber: upper
-      district: 10
-      vacant_until: 2019-07-15
+    - chamber: lower
+      district: 19
+      vacant_until: 2019-09-01
 pa:
   legislature_name: Pennsylvania General Assembly
   lower_seats: 203
