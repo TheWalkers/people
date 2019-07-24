@@ -183,6 +183,7 @@ memberships:
   name: Katrina R. Jackson
 - id: ocd-person/292aa00e-a092-4cd3-b0b1-9cf8da19f822
   name: Nancy Landry
+  end_date: '2019-07-24'
 - id: ocd-person/79c5ce59-b06c-4c9d-ba58-ff6926952a61
   name: Charles R. Chaney
 - id: ocd-person/dcf2c7e1-e124-424c-ac0c-8d1e6600e970

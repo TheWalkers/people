@@ -264,6 +264,7 @@ memberships:
   name: Julie Stokes
 - id: ocd-person/292aa00e-a092-4cd3-b0b1-9cf8da19f822
   name: Nancy Landry
+  end_date: '2019-07-24'
 - id: ocd-person/e618cc5f-34ec-4327-91cd-4feef23fb2cc
   name: Neil C. Abramson
 - id: ocd-person/e49647e3-b5c3-4329-9472-27048115441c

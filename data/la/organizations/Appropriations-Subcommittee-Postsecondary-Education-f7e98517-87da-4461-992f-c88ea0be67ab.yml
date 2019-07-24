@@ -110,6 +110,7 @@ memberships:
   name: Chad Brown
 - id: ocd-person/292aa00e-a092-4cd3-b0b1-9cf8da19f822
   name: Nancy Landry
+  end_date: '2019-07-24'
 - id: ocd-person/cdc1b6c5-a3cb-4e34-af46-5e17c7d13b46
   name: Jimmy Harris
 - id: ocd-person/e46f897b-04ed-41c2-bdbe-b419dc328203

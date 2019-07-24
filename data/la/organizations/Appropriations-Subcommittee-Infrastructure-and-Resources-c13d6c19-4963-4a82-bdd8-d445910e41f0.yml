@@ -329,6 +329,7 @@ memberships:
   name: Patricia Haynes Smith
 - id: ocd-person/292aa00e-a092-4cd3-b0b1-9cf8da19f822
   name: Nancy Landry
+  end_date: '2019-07-24'
 - id: ocd-person/c8fa77d4-2453-4953-b87a-1c58d841ce97
   name: Randal L. Gaines
 - name: Fred H. Jr. Mills

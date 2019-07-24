@@ -216,6 +216,7 @@ memberships:
   name: Bob Hensgens
 - id: ocd-person/292aa00e-a092-4cd3-b0b1-9cf8da19f822
   name: Nancy Landry
+  end_date: '2019-07-24'
 - id: ocd-person/c1e86998-273e-41ee-9e58-380b1ce3e54d
   name: Robert A. Johnson
 - name: Larry Bagley

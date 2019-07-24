@@ -329,6 +329,7 @@ memberships:
   name: Cameron Henry
 - id: ocd-person/292aa00e-a092-4cd3-b0b1-9cf8da19f822
   name: Nancy Landry
+  end_date: '2019-07-24'
 - id: ocd-person/7dac3861-2ffb-45ba-b690-a8e199eb2acd
   name: Bob Hensgens
 - id: ocd-person/32df738b-e30c-42da-85a1-5d854a93d168

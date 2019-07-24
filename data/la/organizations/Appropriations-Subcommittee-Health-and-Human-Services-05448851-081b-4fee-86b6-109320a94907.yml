@@ -119,6 +119,7 @@ memberships:
   name: Blake Miguez
 - id: ocd-person/292aa00e-a092-4cd3-b0b1-9cf8da19f822
   name: Nancy Landry
+  end_date: '2019-07-24'
 - name: Walt III Leger
 - id: ocd-person/cdbdd188-93b6-4fd6-95c8-fee4fe753c94
   name: Mike Huval

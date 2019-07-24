@@ -6,6 +6,7 @@ roles:
 - district: '31'
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
+  end_date: '2019-07-24'
 contact_details:
 - address: 109 South College Road;Lafayette, LA 70503
   email: landryn@legis.la.gov
