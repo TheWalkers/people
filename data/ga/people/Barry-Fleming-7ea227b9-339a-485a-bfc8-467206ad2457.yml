@@ -11,6 +11,8 @@ contact_details:
   email: barry.fleming@house.ga.gov
   note: Capitol Address
   voice: 404-656-5125
+- email: barry.fleming@house.ga.gov
+  note: District Address
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=101&Session=27
 sources:

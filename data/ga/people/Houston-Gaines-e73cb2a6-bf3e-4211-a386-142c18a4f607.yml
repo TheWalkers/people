@@ -8,14 +8,11 @@ roles:
   type: lower
 contact_details:
 - address: 612-F Coverdell Legislative Office Bldg.;Atlanta, GA 30334
-  email: houston.gaines@house.ga.gov
   note: Capitol Address
   voice: 404-656-0325
+  email: houston.gaines@house.ga.gov
 - address: P.O. Box 1203;Athens, GA 30603
   note: District Address
-- address: 612-F Coverdell Legislative Office Bldg.;Atlanta, GA 30334
-  note: Capitol Address
-  voice: 404-656-0325
   email: houston.gaines@house.ga.gov
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4955&Session=27

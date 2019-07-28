@@ -8,16 +8,16 @@ roles:
   type: upper
   start_date: '2018-12-01'
 contact_details:
-- address: 804 East E Street, Moscow, ID 83843
+- address: 804 East E Street, Moscow, ID, 83843
   email: dnelson@senate.idaho.gov
   note: District Office
 - note: Capitol Office
   voice: 208-332-1405
 links:
-- url: https://legislature.idaho.gov/legislators/membership/?yr=2019&district=5
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2020&district=5
 sources:
 - url: https://legislature.idaho.gov/senate/membership/
-image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Nelson5346.jpg
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Nelson5346.jpg
 given_name: David
 family_name: Nelson
 gender: Male

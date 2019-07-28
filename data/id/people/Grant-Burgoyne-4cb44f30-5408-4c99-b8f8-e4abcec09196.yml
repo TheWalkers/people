@@ -7,16 +7,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: upper
 contact_details:
-- address: 2203 Mountain View Drive, Boise , ID 83706
+- address: 2203 Mountain View Drive, Boise , ID, 83706
   email: gburgoyne@senate.idaho.gov
   note: District Office
 - note: Capitol Office
   voice: 208-332-1409
 links:
-- url: https://legislature.idaho.gov/legislators/membership/?yr=2019&district=16
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2020&district=16
 sources:
 - url: https://legislature.idaho.gov/senate/membership/
-image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Burgoyne746.jpg
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Burgoyne746.jpg
 other_identifiers:
 - identifier: IDL000275
   scheme: legacy_openstates

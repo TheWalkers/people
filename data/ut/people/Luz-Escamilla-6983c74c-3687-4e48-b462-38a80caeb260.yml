@@ -11,7 +11,8 @@ contact_details:
   email: lescamilla@le.utah.gov
   note: District Office
   voice: 801-550-6434
-links: []
+links:
+- url: https://senate.utah.gov/luz-escamilla
 sources:
 - url: http://le.utah.gov/data/legislators.json
 image: https://le.utah.gov/images/legislator/ESCAML.jpg

@@ -7,14 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: upper
 contact_details:
-- address: 265 E. Calderwood Drive, Meridian, ID 83642
+- address: 265 E. Calderwood Drive, Meridian, ID, 83642
   email: rbayer@senate.idaho.gov
   note: District Office
 - note: Capitol Office
   voice: 208-332-1331
 links:
-- url: https://legislature.idaho.gov/legislators/membership/?yr=2019&district=21
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2020&district=21
 sources:
 - url: https://legislature.idaho.gov/senate/membership/
-image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Bayer5665.jpg
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Bayer5665.jpg
 gender: Female

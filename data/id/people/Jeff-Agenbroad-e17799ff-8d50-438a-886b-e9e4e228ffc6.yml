@@ -7,16 +7,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: upper
 contact_details:
-- address: 3615 Portland Avenue, Nampa, ID 83636
+- address: 3615 Portland Avenue, Nampa, ID, 83636
   email: jagenbroad@senate.idaho.gov
   note: District Office
 - note: Capitol Office
   voice: 208-332-1329
 links:
-- url: https://legislature.idaho.gov/legislators/membership/?yr=2019&district=13
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2020&district=13
 sources:
 - url: https://legislature.idaho.gov/senate/membership/
-image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Agenbroad4271.jpg
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Agenbroad4271.jpg
 other_identifiers:
 - identifier: IDL000242
   scheme: legacy_openstates

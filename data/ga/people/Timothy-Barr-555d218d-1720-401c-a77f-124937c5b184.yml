@@ -11,6 +11,8 @@ contact_details:
   email: timothy.barr@house.ga.gov
   note: Capitol Address
   voice: 404-656-0298
+- email: timothy.barr@house.ga.gov
+  note: District Address
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=809&Session=27
 sources:

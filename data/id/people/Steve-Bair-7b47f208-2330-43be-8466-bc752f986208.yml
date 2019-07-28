@@ -7,16 +7,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: upper
 contact_details:
-- address: 947 W. 200 S., Blackfoot, ID 83221
+- address: 947 W. 200 S., Blackfoot, ID, 83221
   email: sbair@senate.idaho.gov
   note: District Office
 - note: Capitol Office
   voice: 208-332-1346
 links:
-- url: https://legislature.idaho.gov/legislators/membership/?yr=2019&district=31
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2020&district=31
 sources:
 - url: https://legislature.idaho.gov/senate/membership/
-image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Bair72.jpg
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Bair72.jpg
 other_identifiers:
 - identifier: IDL000303
   scheme: legacy_openstates

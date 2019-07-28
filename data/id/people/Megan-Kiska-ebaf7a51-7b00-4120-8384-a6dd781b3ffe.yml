@@ -1,0 +1,19 @@
+id: ocd-person/ebaf7a51-7b00-4120-8384-a6dd781b3ffe
+name: Megan Kiska
+party:
+- name: Republican
+roles:
+- district: '21'
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  type: lower
+contact_details:
+- address: P.O. Box 191207, Boise, ID, 83719
+  email: mkiska@house.idaho.gov
+  note: District Office
+- note: Capitol Office
+  voice: 208-332-1072
+links:
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2020&district=21
+sources:
+- url: https://legislature.idaho.gov/house/membership/
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Kiska5945.jpg

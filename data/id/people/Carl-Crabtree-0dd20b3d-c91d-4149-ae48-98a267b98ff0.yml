@@ -7,16 +7,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: upper
 contact_details:
-- address: 36 White Tail Acres Lane, Grangeville, ID 83530
+- address: 36 White Tail Acres Lane, Grangeville, ID, 83530
   email: ccrabtree@senate.idaho.gov
   note: District Office
 - note: Capitol Office
   voice: 208-332-1355
 links:
-- url: https://legislature.idaho.gov/legislators/membership/?yr=2019&district=7
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2020&district=7
 sources:
 - url: https://legislature.idaho.gov/senate/membership/
-image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/directory/Crabtree4270.jpg
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Crabtree4270.jpg
 other_identifiers:
 - identifier: IDL000329
   scheme: legacy_openstates
