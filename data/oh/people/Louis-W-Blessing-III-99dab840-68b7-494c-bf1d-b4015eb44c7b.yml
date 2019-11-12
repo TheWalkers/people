@@ -1,0 +1,18 @@
+id: ocd-person/99dab840-68b7-494c-bf1d-b4015eb44c7b
+name: Louis W. Blessing, III
+party:
+- name: Republican
+roles:
+- district: '8'
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  type: upper
+contact_details:
+- address: Senate Building;1 Capitol Square;Ground Floor
+  email: sd08@ohiosenate.gov
+  note: Capitol Office
+  voice: 614-466-8068
+links:
+- url: http://www.ohiosenate.gov/senators/blessing
+sources:
+- url: http://www.ohiosenate.gov/senators
+image: http://www.ohiosenate.gov/Assets/Members/Headshots/Medium/2933.jpg

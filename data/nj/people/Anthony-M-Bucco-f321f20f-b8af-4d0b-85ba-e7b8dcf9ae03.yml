@@ -6,17 +6,21 @@ roles:
 - district: '25'
   jurisdiction: ocd-jurisdiction/country:us/state:nj/government
   type: lower
+  end_date: '2019-11-12'
+- district: '25'
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  type: upper
 contact_details:
 - address: 1040 Route 10 West, 1st Floor;Randolph, NJ 07869
-  email: AsmBucco@njleg.org
+  email: SenBucco@njleg.org
   note: District Office
   voice: 973-927-2526
 links:
-- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=321
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=148
 sources:
-- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=321
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=148
 - url: http://www.njleg.state.nj.us/downloads.asp
-image: http://www.njleg.state.nj.us/members/memberphotos/bucco_a_m_color.jpg
+image: http://www.njleg.state.nj.us/members/memberphotos/bucco_a_r_color.jpg
 gender: Male
 other_identifiers:
 - identifier: NJL000075

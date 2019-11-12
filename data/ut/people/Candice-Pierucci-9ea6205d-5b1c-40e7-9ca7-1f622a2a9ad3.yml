@@ -1,0 +1,17 @@
+id: ocd-person/9ea6205d-5b1c-40e7-9ca7-1f622a2a9ad3
+name: Candice Pierucci
+party:
+- name: Republican
+roles:
+- district: '52'
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  type: lower
+contact_details: []
+links:
+- url: http://house.utah.gov/rep/PIERUC/
+sources:
+- url: http://le.utah.gov/data/legislators.json
+image: https://le.utah.gov/images/legislator/PIERUC.jpg
+extras:
+  links:
+  - http://www.disclosures.utah.gov/Search/PublicSearch

@@ -9,6 +9,7 @@ roles:
 contact_details:
 - address: Vermont State House;115 State Street;Montpelier, VT 05633
   note: Capitol Office
+  email: LHango@leg.state.vt.us
 - address: ;115 State St.;Montpelier, VT 05633
   note: District Office
 links:

@@ -19,6 +19,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/c0cec1ca-c691-4215-ab0d-ac789a4d52bc
   name: John Knotwell
+  end_date: '2019-11-12'
 - id: ocd-person/d987aff4-abcf-4f2a-826d-b5741d065d44
   name: Angela Romero
 - id: ocd-person/5b47c889-e555-4d3c-9b30-97d52ee02960

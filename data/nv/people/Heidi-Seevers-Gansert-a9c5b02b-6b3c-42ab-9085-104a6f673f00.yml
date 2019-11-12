@@ -8,7 +8,7 @@ roles:
   type: upper
   start_date: '2019-02-04'
 contact_details:
-- address: '316 California Ave., #519;Reno, NV 89509'
+- address: '316 California Avenue, #519;Reno, NV 89509'
   note: District Office
   email: Heidi.Gansert@sen.state.nv.us
 links:

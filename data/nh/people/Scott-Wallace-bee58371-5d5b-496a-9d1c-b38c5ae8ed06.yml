@@ -17,9 +17,9 @@ contact_details:
   note: District Office
   voice: 603-642-6379
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408431.jpg
 extras:
   first_name: Scott

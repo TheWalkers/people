@@ -1,7 +1,7 @@
 id: ocd-person/a2248bc0-9253-48d8-9ee2-d9c0b6fbc800
 name: Max Abramson
 party:
-- name: Republican
+- name: Libertarian
 roles:
 - district: Rockingham 20
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
@@ -13,9 +13,9 @@ contact_details:
   note: District Office
   voice: 603-760-7090
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/377201.jpg
 extras:
   first_name: Max

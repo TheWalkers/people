@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 1010 Martin Street;Parks, LA 70582;800 S. Lewis Street;Suite 203;New Iberia,
+- address: 1019 Periou Street;Parks, LA 70582;800 S. Lewis Street;Suite 203;New Iberia,
     LA 70560
   email: millsf@legis.la.gov
   fax: 337-845-4095

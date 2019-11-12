@@ -30,3 +30,4 @@ memberships:
   name: George Brown Jr
 - id: ocd-person/c3c70d8f-2032-4762-af59-d5907398767e
   name: Tim Moore
+  end_date: '2019-11-12'

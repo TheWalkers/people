@@ -8,7 +8,7 @@ roles:
   type: lower
   start_date: '2018-12-01'
 contact_details:
-- address: Room 219E, Building 1;State Capitol Complex;Charleston, WV 25305
+- address: Room 211E, Building 1;State Capitol Complex;Charleston, WV 25305
   email: carl.martin@wvhouse.gov
   note: Capitol Office
   voice: 304-340-3167

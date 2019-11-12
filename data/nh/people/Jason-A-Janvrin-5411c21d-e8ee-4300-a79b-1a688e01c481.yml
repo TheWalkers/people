@@ -18,9 +18,9 @@ contact_details:
   note: District Office
   voice: 603-944-7449
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408422.jpg
 extras:
   first_name: Jason

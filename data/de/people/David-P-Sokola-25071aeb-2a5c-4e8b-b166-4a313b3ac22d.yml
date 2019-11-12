@@ -18,7 +18,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/Senate
-image: https://legis.delaware.gov/images/default-source/Legislators/DavidSokola.jpg?sfvrsn=4
+image: https://legis.delaware.gov/images/default-source/Legislators/DavidSokola.jpg?sfvrsn=4882b038_4
 other_identifiers:
 - identifier: DEL000019
   scheme: legacy_openstates

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wv/government
   type: lower
 contact_details:
-- address: Room 215 B, Building 1;State Capitol Complex;Charleston, WV 25305
+- address: Room 217E, Building 1;State Capitol Complex;Charleston, WV 25305
   email: jordan.hill@wvhouse.gov
   note: Capitol Office
   voice: 304-340-3269

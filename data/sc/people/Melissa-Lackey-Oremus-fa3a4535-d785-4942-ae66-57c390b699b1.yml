@@ -1,0 +1,18 @@
+id: ocd-person/fa3a4535-d785-4942-ae66-57c390b699b1
+name: Melissa Lackey Oremus
+party:
+- name: Republican
+roles:
+- district: '84'
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  type: lower
+contact_details:
+- address: 418A Blatt Bldg.Columbia 29201
+  note: Capitol Office
+  voice: 803-212-6917
+links:
+- url: http://www.scstatehouse.gov/member.php?code=1432386192
+sources:
+- url: http://www.scstatehouse.gov/member.php?chamber=H
+- url: http://www.scstatehouse.gov/member.php?code=1432386192
+image: http://www.scstatehouse.gov/images/members/1432386192.jpg

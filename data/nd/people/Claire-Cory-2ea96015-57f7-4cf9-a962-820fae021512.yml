@@ -1,0 +1,19 @@
+id: ocd-person/2ea96015-57f7-4cf9-a962-820fae021512
+name: Claire Cory
+party:
+- name: Republican
+roles:
+- district: '42'
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  type: lower
+contact_details:
+- email: clairecory@nd.gov
+  note: Capitol Office
+- address: 902 Shakespeare Road;Grand Forks, ND;58203-2033
+  note: District Office
+  voice: 701-213-6553
+links:
+- url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-claire-cory
+sources:
+- url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-claire-cory
+image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/photo-not-available.jpg?itok=J6l35hT6

@@ -10,17 +10,13 @@ contact_details:
 - email: Ellen.Read@leg.state.nh.us
   note: Capitol Office
 - address: 283 Lita Lane;Newmarket, NH 03857-2425
-  note: District Office
-  voice: 352-978-7692
-- address: 283 Lita Lane;Newmarket, NH 03857-2425
   email: ellen4nh@gmail.com
   note: District Office
   voice: 603-292-5376
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408613
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408613.jpg
 extras:
   first_name: Ellen

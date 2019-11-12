@@ -40,6 +40,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/64e82120-1faf-4774-b840-173585f8b2b8
   name: Diane St. Onge
+  end_date: '2019-11-12'
 - id: ocd-person/ec846db3-c75b-4460-ba72-3e2b3fd9e04d
   name: Walker Thomas
 - id: ocd-person/6a2d83cc-b459-431b-8103-a28bbcede9b8

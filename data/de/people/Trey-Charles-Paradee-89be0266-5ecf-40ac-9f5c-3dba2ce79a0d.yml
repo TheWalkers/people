@@ -23,7 +23,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/Senate
-image: https://legis.delaware.gov/images/default-source/Legislators/TeryParadee.jpg?sfvrsn=6
+image: https://legis.delaware.gov/images/default-source/Legislators/TeryParadee.jpg?sfvrsn=1481b038_6
 other_identifiers:
 - identifier: DEL000148
   scheme: legacy_openstates

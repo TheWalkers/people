@@ -14,9 +14,9 @@ contact_details:
 - email: Mark.Pearson@leg.state.nh.us
   note: Capitol Office
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408749.jpg
 extras:
   first_name: Mark

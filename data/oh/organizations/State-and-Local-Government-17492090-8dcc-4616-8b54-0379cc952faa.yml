@@ -31,6 +31,7 @@ memberships:
   name: James M. Hoops
 - id: ocd-person/193ef670-8329-47fc-bb7f-536ee4d5d09e
   name: Steven M. Arndt
+  end_date: '2019-11-12'
 - id: ocd-person/bb1ae016-cdfe-48aa-8bc5-9e3636e430f3
   name: Shane Wilkin
 - id: ocd-person/776b0fb2-b54d-4953-b1a8-8bff1ba9f79f

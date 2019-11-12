@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: upper
 contact_details:
-- address: 1619 8-Mile Creek Road, Soda Springs, ID, 83276
+- address: 1619 8- Mile Creek Road, Soda Springs, ID, 83276
   email: mharris@senate.idaho.gov
   note: District Office
 - note: Capitol Office

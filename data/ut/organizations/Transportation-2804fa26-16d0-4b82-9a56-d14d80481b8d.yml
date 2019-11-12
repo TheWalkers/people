@@ -33,6 +33,7 @@ memberships:
   name: Karen Kwan
 - id: ocd-person/c0cec1ca-c691-4215-ab0d-ac789a4d52bc
   name: John Knotwell
+  end_date: '2019-11-12'
 - id: ocd-person/53a3ee25-bf36-4c14-8b89-8efece8c6021
   name: Michael S. Kennedy
   end_date: '2018-12-31'

@@ -17,6 +17,7 @@ memberships:
   name: Jerry T. Miller
 - id: ocd-person/c3c70d8f-2032-4762-af59-d5907398767e
   name: Tim Moore
+  end_date: '2019-11-12'
 - id: ocd-person/f73e54d0-9547-4688-b97d-4818b104d160
   name: Steven Rudy
 - id: ocd-person/9bc85025-5ec8-49b8-9c9c-9c0fa0a82ba2

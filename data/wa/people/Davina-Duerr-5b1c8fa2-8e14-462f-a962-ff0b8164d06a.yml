@@ -9,6 +9,11 @@ roles:
 contact_details:
 - email: Davina.Duerr@leg.wa.gov
   note: Capitol Office
+  address: 327 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+  voice: 360-786-7928
+- address: 18414 103rd Avenue NE;Bothell, WA 98011
+  note: District Office
+  voice: 425-408-1354
 links:
 - url: https://housedemocrats.wa.gov/Duerr/
 - url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx

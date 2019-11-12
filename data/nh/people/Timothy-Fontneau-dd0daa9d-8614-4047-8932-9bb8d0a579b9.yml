@@ -7,20 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
 contact_details:
-- address: PO Box 1293;Rochester, NH 03866-1293
-  email: timffornh@yahoo.com
+- address: 49 Sullivan Farm Dr.;Rochester, NH 03868-5721
   note: District Office
   voice: 603-332-0607
 - email: Tim.Fontneau@leg.state.nh.us
   note: Capitol Office
-- address: 49 Sullivan Farm Dr.;Rochester, NH 03868-5721
-  note: District Office
-  voice: 603-332-0607
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408625
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408625.jpg
 extras:
   first_name: Timothy

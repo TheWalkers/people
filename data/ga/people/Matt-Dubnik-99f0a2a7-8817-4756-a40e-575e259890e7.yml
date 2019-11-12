@@ -11,6 +11,8 @@ contact_details:
   email: matt.dubnik@house.ga.gov
   note: Capitol Address
   voice: 404-656-0213
+- email: matt.dubnik@house.ga.gov
+  note: District Address
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4886&Session=27
 sources:

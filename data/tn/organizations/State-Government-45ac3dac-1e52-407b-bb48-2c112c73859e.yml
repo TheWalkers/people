@@ -27,6 +27,7 @@ memberships:
   name: Mary Littleton
 - id: ocd-person/98e2f0f3-9ddf-4b67-9c72-aadeda1499c3
   name: Bill Sanderson
+  end_date: '2019-11-12'
 - id: ocd-person/1e3046c6-b44b-43dd-9cb2-937f40e97a6a
   name: Bud Hulsey
   role: Vice-Chair

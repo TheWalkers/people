@@ -9,14 +9,13 @@ roles:
 contact_details:
 - email: Cam.Kenney@leg.state.nh.us
   note: Capitol Office
-- address: 36 Young Drive;Durham, NH 03824-2410
+- address: PO Box 26;Durham, NH 03824-0026
   note: District Office
   voice: 508-677-5141
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408932
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 extras:
   first_name: Cam
   last_name: Kenney

@@ -12,8 +12,12 @@ contact_details:
   fax: 512-463-8987
   note: Capitol Address
   voice: 512-463-0684
-- address: 1301 North Stagecoach Rd.;Salado, Texas 76571
+- address: 1301 North Stagecoach Road;Salado, Texas 76571
   note: District Address
+  voice: 254-947-5026
+- address: 501 East 4th Street, Suite 301;Lampasas, Texas 76550
+  note: County Office
+  voice: 512-556-5934
 links:
 - url: https://house.texas.gov/members/member-page/?district=54
 sources:

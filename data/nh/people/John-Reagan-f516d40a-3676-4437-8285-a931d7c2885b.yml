@@ -7,22 +7,17 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: upper
 contact_details:
-- email: john.reagan111@gmail.com
-  note: District Office
-- address: '"State House, Room 107";107 North Main Street;Concord, NH 03301'
-  note: Capitol Office
-  voice: 603-271-4063
 - email: John.Reagan111@gmail.com
   note: District Office
-- address: '"Legislative Office Building, Room 101-A";33 North State Street;Concord,
-    NH 03301'
+- address: Legislative Office Building, Room 101-A;33 North State Street;Concord,
+    NH 03301
   note: Capitol Office
   voice: 603-271-4063
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
 - url: http://www.gencourt.state.nh.us/Senate/members/webpages/district17.aspx
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/Senate/images/senators/17.jpg
 extras:
   first_name: John

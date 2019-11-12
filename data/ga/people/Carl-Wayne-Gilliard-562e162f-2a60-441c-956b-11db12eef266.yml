@@ -11,6 +11,8 @@ contact_details:
   email: carl.gilliard@house.ga.gov
   note: Capitol Address
   voice: 404-656-7859
+- email: carl.gilliard@house.ga.gov
+  note: District Address
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4881&Session=27
 sources:

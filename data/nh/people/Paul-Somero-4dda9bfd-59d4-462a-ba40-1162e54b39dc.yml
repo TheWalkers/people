@@ -10,15 +10,11 @@ contact_details:
 - address: 10 Vista Drive;New Ipswich, NH 03071-3703
   email: paulsomero@msn.com
   note: District Office
-- address: 10 Vista Drive;New Ipswich, NH 03071-3703
-  email: paulsomero@msn.com
-  note: District Office
   voice: 617-899-7995
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408344
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408344.jpg
 extras:
   first_name: Paul

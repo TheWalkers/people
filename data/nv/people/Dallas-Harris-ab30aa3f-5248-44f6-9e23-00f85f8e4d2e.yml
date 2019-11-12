@@ -8,7 +8,7 @@ roles:
   type: upper
   start_date: '2019-02-04'
 contact_details:
-- address: '8020 South Rainbow Blvd., Suite 100, #271;Las Vegas, NV 89139'
+- address: '8020 South Rainbow Boulevard, Suite 100, #271;Las Vegas, NV 89139'
   note: District Office
   email: Dallas.Harris@sen.state.nv.us
 links:

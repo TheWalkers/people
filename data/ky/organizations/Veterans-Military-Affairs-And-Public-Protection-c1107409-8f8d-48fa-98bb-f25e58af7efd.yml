@@ -11,6 +11,7 @@ memberships:
 - id: ocd-person/c3c70d8f-2032-4762-af59-d5907398767e
   name: Tim Moore
   role: chair
+  end_date: '2019-11-12'
 - id: ocd-person/6fb235f0-d685-4b7f-a042-c468d58bf757
   name: Donna Mayfield
   role: vice chair

@@ -8,12 +8,12 @@ roles:
   type: lower
 contact_details:
 - address: 417-A State Capitol;Atlanta, GA 30334
-  email: chuck@martinforgeorgia.com
+  email: chuck.martin@house.ga.gov
   note: Capitol Address
   voice: 404-656-5064
 - address: 11770 Haynes Bridge RoadSuite 205-544;Alpharetta, GA 30004
   note: District Address
-  email: chuck@martinforgeorgia.com
+  email: chuck.martin@house.ga.gov
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=164&Session=27
 sources:

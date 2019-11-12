@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: upper
 contact_details:
-- address: 1011 Teton Avenue, Caldwell, ID, 83605
+- address: 225 Appalachian Street, Caldwell, ID, 83607
   email: jrice@senate.idaho.gov
   note: District Office
 - note: Capitol Office

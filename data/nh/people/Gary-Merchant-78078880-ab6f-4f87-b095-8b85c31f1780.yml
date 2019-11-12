@@ -12,9 +12,9 @@ contact_details:
 - address: 272 Pleasant Street;Claremont, NH 03743-3162
   note: District Office
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 extras:
   first_name: Gary
   last_name: Merchant

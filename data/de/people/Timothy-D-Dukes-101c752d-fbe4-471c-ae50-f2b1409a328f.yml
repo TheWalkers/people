@@ -18,7 +18,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/House
-image: https://legis.delaware.gov/images/default-source/Legislators/TimothyDukes.jpg?sfvrsn=6
+image: https://legis.delaware.gov/images/default-source/Legislators/TimothyDukes.jpg?sfvrsn=1081b038_6
 other_identifiers:
 - identifier: DEL000094
   scheme: legacy_openstates

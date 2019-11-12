@@ -1,0 +1,20 @@
+id: ocd-person/9c67aa61-6c15-475b-b4ad-f1cf447bd399
+name: T. Kevan Bartlett
+party:
+- name: Republican
+roles:
+- district: '39'
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  type: lower
+contact_details:
+- address: Room 208E, Building 1;State Capitol Complex;Charleston, WV 25305
+  email: kevan.bartlett@wvhouse.gov
+  note: Capitol Office
+  voice: 304-340-3194
+- note: District Office
+  voice: 304-988-3330
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Bartlett
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Bartlett
+image: http://www.legis.state.wv.us/images/members/2019/house/bartlett_t.jpg

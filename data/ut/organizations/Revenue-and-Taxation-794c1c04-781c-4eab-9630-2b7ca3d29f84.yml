@@ -28,6 +28,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/dc7ed9be-2389-4da0-af91-5123770111e6
   name: Ken Ivory
+  end_date: '2019-11-12'
 - id: ocd-person/037a4e06-f076-43fd-a6d2-33f9d0eb0184
   name: Douglas V. Sagers
   role: vice chair

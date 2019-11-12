@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: P.O. Box 151;Winnfield, LA 71483
+- address: 9671 Highway 84;Winnfield, LA 71483
   email: longg@legis.la.gov
   fax: 318-628-6120
   note: District Office

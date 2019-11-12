@@ -79,6 +79,7 @@ memberships:
 - id: ocd-person/573a438f-ad34-43df-bdd0-7e28c499e1ef
   name: Ed Rynders
   role: Member
+  end_date: '2019-11-12'
 - id: ocd-person/ce7cb314-aa41-43a3-a875-9204f3a10beb
   name: Mickey Stephens
   role: Member

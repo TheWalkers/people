@@ -8,7 +8,7 @@ roles:
   type: lower
   start_date: '2019-01-01'
 contact_details:
-- address: '1192 DRAPER PARKWAY #551, DRAPER, UT, 84020'
+- address: '129 E 13800 S, Ste B2 #351, DRAPER, UT, 84020'
   email: jstenquist@le.utah.gov
   note: District Office
   voice: 385-272-9437
@@ -23,6 +23,7 @@ extras:
   - https://le.utah.gov/house2/CofI/COFISTENQJ.pdf
   - https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414943
   - https://le.utah.gov/house2/CofI/COFISTENQJ1.pdf
+  - https://le.utah.gov/house2/CofI/COFISTENQJ2.pdf
 given_name: Jeffrey
 family_name: Stenquist
 gender: Male

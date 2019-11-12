@@ -8,19 +8,14 @@ roles:
   type: lower
 contact_details:
 - address: 30 Clancy Road;Freedom, NH 03836-4406
-  email: knirknhhouse@gmail.com
   note: District Office
   voice: 617-448-7557
 - email: Jerry.Knirk@leg.state.nh.us
   note: Capitol Office
-- address: 30 Clancy Road;Freedom, NH 03836-4406
-  note: District Office
-  voice: 617-448-7557
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408473
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408473.jpg
 extras:
   first_name: Jerry

@@ -11,15 +11,10 @@ contact_details:
   email: ladd.nhhouse@charter.net
   note: District Office
   voice: 603-989-3268
-- address: PO Box 67;399 Dartmouth College Hwy;Haverhill, NH 03765-0067
-  email: ladd.nhhouse@charter.net
-  note: District Office
-  voice: 603-989-3268
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376832
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/376832.jpg
 extras:
   first_name: Rick

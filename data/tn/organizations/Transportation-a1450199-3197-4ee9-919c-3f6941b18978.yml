@@ -27,6 +27,7 @@ memberships:
   name: Jason Zachary
 - id: ocd-person/98e2f0f3-9ddf-4b67-9c72-aadeda1499c3
   name: Bill Sanderson
+  end_date: '2019-11-12'
 - id: ocd-person/12b43f56-ed71-4f2e-80a8-35f0965069cd
   name: John Mark Windle
 - id: ocd-person/379eb12e-35d7-4e26-a6fc-a7e7a6582205

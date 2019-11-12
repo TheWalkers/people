@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   type: lower
 contact_details:
-- address: 1435 N. 52nd Street Philadelphia, PA 19131
+- address: 550 N. 52nd Street Philadelphia, PA 19131
   note: District Office
   fax: 215-879-6616
   voice: 215-879-6615

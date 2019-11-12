@@ -1,0 +1,24 @@
+id: ocd-person/551d343b-5e95-45dd-b1a1-edfcce2d21d5
+name: Perrin Jones, MD
+party:
+- name: Republican
+roles:
+- district: '9'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: lower
+contact_details:
+- address: 300 N. Salisbury Street, Rm. 537;Raleigh, NC 27603-5925
+  note: District Office
+  voice: 919-733-5757
+- address: 300 N. Salisbury Street, Rm. 537;Raleigh, NC 27603-5925
+  email: Perrin.Jones@ncleg.net
+  note: Capitol Office
+  voice: 919-733-5757
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/763
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/763
+image: https://www.ncleg.gov/Members/MemberImage/H/763/High
+extras:
+  counties:
+  - Pitt

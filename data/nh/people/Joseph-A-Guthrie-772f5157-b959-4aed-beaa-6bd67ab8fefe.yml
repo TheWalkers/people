@@ -10,17 +10,13 @@ contact_details:
 - email: joseph.guthrie@leg.state.nh.us
   note: Capitol Office
 - address: 15 Madison Drive;Hampstead, NH 03841-2246
-  note: District Office
-  voice: 603-489-1228
-- address: 15 Madison Drive;Hampstead, NH 03841-2246
   email: lojogut@gmail.com
   note: District Office
   voice: 603-489-1228
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376127
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/376127.jpg
 extras:
   first_name: Joseph

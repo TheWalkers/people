@@ -1,0 +1,23 @@
+id: ocd-person/70aa016d-fa14-435e-8347-f3321ade57d6
+name: David H. Rowe
+party:
+- name: Republican
+roles:
+- district: '85'
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  type: lower
+contact_details:
+- address: Mifflinburg Government Center 343 Chestnut Street Suite 1 Mifflinburg,
+    PA 17844
+  note: District Office
+  voice: 570-837-0052
+- address: 141-A East Wing PO Box 202085 Harrisburg, PA 17120-2085
+  fax: 717-782-2887
+  note: Capitol Office
+  voice: 717-787-3443
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1871
+image: https://www.legis.state.pa.us/images/members/200/1871.jpg

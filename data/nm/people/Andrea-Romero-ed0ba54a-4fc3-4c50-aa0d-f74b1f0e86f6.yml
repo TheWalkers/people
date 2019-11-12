@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nm/government
   type: lower
 contact_details:
-- address: 1101 Hickox St.;Santa Fe, NM 87505
+- address: P.O. Box 8139;Santa Fe, NM 87504-8139
   note: District Office
   voice: 505-490-6155
 - email: andrea@andrearomero.com

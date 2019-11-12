@@ -44,6 +44,7 @@ memberships:
   name: Susan Duckworth
 - id: ocd-person/c0cec1ca-c691-4215-ab0d-ac789a4d52bc
   name: John Knotwell
+  end_date: '2019-11-12'
 - id: ocd-person/1922924c-d724-483d-a376-782b40c28a6b
   name: Val K. Potter
 - id: ocd-person/82aa8212-b406-4766-b870-85a0333daba9

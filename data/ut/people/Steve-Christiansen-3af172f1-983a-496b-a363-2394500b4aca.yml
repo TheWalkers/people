@@ -1,0 +1,22 @@
+id: ocd-person/3af172f1-983a-496b-a363-2394500b4aca
+name: Steve Christiansen
+party:
+- name: Republican
+roles:
+- district: '47'
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  type: lower
+contact_details:
+- address: 1994 W. OLYPMUS PEAK CIRCLE, WEST JORDAN, UT, 84088
+  email: schristiansen@le.utah.gov
+  note: District Office
+  voice: 385-465-4492
+links:
+- url: http://house.utah.gov/rep/CHRISS/
+sources:
+- url: http://le.utah.gov/data/legislators.json
+image: https://le.utah.gov/images/legislator/CHRISS.jpg
+extras:
+  links:
+  - https://le.utah.gov/house2/CofI/COFICHRISS.pdf
+  - http://www.disclosures.utah.gov/Search/PublicSearch

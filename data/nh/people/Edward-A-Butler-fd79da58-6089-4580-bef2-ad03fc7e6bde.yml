@@ -7,19 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
 contact_details:
-- address: 2 Morey Road;Harts Location, NH 03812-4105
-  email: edofthenotch@gmail.com
-  note: District Office
-  voice: 603-374-6131
 - address: 2 Morey Road;Hart's Location, NH 03812-4105
   email: edofthenotch@gmail.com
   note: District Office
   voice: 603-374-6131
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376662
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/376662.jpg
 extras:
   first_name: Edward

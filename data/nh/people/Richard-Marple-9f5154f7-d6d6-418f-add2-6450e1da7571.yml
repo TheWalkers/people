@@ -8,18 +8,13 @@ roles:
   type: lower
 contact_details:
 - address: 11 Dartmouth St;Hooksett, NH 03106-1703
-  email: NHrep@outlook.com
-  note: District Office
-  voice: 603-627-1837
-- address: 11 Dartmouth St;Hooksett, NH 03106-1703
   email: armlaw@hotmail.com
   note: District Office
   voice: 603-627-1837
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376245
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/376245.jpg
 extras:
   first_name: Richard

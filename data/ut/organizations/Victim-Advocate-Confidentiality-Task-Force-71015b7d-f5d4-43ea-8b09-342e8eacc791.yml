@@ -11,6 +11,7 @@ sources:
 memberships:
 - id: ocd-person/dc7ed9be-2389-4da0-af91-5123770111e6
   name: Ken Ivory
+  end_date: '2019-11-12'
 - id: ocd-person/6d49f384-ea91-41f2-b703-229a0a7452d9
   name: Todd Weiler
   role: chair

@@ -11,6 +11,7 @@ memberships:
 - id: ocd-person/573a438f-ad34-43df-bdd0-7e28c499e1ef
   name: Ed Rynders
   role: Chairman
+  end_date: '2019-11-12'
 - id: ocd-person/7ea227b9-339a-485a-bfc8-467206ad2457
   name: Barry Fleming
   role: Vice Chairman

@@ -8,7 +8,7 @@ roles:
   type: upper
   start_date: '2019-02-04'
 contact_details:
-- address: '4030 South Jones Blvd., #30125;Las Vegas, NV 89173-8806'
+- address: '4030 South Jones Boulevard, #30125;Las Vegas, NV 89173-8806'
   note: District Office
   email: Melanie.Scheible@sen.state.nv.us
 links:

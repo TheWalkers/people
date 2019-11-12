@@ -9,14 +9,13 @@ roles:
 contact_details:
 - email: Mac.Kittredge@leg.state.nh.us
   note: Capitol Office
-- address: '"4 Tampa Drive, Unit D6";Rochester, NH 03867-2237'
+- address: 4 Tampa Drive, Unit D6;Rochester, NH 03867-2237
   note: District Office
   voice: 603-534-4243
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408933
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 extras:
   first_name: Derek
   last_name: Kittredge

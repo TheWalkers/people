@@ -12,9 +12,9 @@ contact_details:
 - address: 7 Knollwood Drive;Merrimack, NH 03054-3257
   note: District Office
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 extras:
   first_name: Kathryn
   last_name: Stack

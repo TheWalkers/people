@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   type: lower
 contact_details:
-- address: 6 Chesapeake Street Suite 200 Lyndora, PA 16045
+- address: 100 Barracks Road Kerven Building Butler, PA 16001
   note: District Office
   voice: 724-283-5852
 - address: 147A East Wing PO Box 202011 Harrisburg, PA 17120-2011

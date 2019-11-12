@@ -10,17 +10,13 @@ contact_details:
 - email: glen.aldrich@leg.state.nh.us
   note: Capitol Office
 - address: 343 Old Lakeshore Road;Lot 43;Gilford, NH 03249-6598
-  note: District Office
-  voice: 603-527-8726
-- address: 343 Old Lakeshore Road;Lot 43;Gilford, NH 03249-6598
   email: glenaldrich@gmail.com
   note: District Office
   voice: 603-527-8726
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377203
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/377203.jpg
 extras:
   first_name: Glen

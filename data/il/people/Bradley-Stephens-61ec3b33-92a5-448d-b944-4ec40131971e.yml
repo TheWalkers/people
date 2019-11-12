@@ -7,8 +7,9 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:il/government
   type: lower
 contact_details:
-- address: Springfield, IL 62706
+- address: 227-N Stratton Office Building;Springfield, IL 62706
   note: capitol
+  voice: 217-782-8182
 - address: 5515 N. East River Rd.;Chicago, IL 60656
   note: district
   voice: 773-444-0611

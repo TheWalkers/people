@@ -1,5 +1,5 @@
 id: ocd-person/524f6cce-8333-442a-aff3-2e92bd9df894
-name: Tiffany Roberts-Lovell
+name: Tiffany D. Roberts
 party:
 - name: Democratic
 roles:
@@ -8,7 +8,7 @@ roles:
   type: lower
 contact_details:
 - address: 35 Buttonwood Road, South Berwick, ME 03908
-  email: Tiffany.Roberts-Lovell@legislature.maine.gov
+  email: Tiffany.Roberts@legislature.maine.gov
   note: District Office
 links:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1385

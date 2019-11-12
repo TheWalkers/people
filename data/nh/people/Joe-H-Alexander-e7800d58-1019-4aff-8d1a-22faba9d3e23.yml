@@ -9,14 +9,13 @@ roles:
 contact_details:
 - email: Joe.Alexander@leg.state.nh.us
   note: Capitol Office
-- address: '"3 Oakwood Lane, Unit 1";Goffstown, NH 03045-2597'
+- address: 3 Oakwood Lane, Unit 1;Goffstown, NH 03045-2597
   note: District Office
   voice: 603-856-5227
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408950
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 extras:
   first_name: Joe
   last_name: Alexander

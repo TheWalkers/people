@@ -15,6 +15,7 @@ memberships:
 - id: ocd-person/98e2f0f3-9ddf-4b67-9c72-aadeda1499c3
   name: Bill Sanderson
   role: Chair
+  end_date: '2019-11-12'
 - id: ocd-person/64763c0c-7ac4-4a76-8402-95cab163d713
   name: Darren Jernigan
 - id: ocd-person/1e3046c6-b44b-43dd-9cb2-937f40e97a6a

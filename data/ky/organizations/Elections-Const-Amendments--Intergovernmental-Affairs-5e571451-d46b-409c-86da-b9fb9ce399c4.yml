@@ -32,6 +32,7 @@ memberships:
   name: Reginald Meeks
 - id: ocd-person/c3c70d8f-2032-4762-af59-d5907398767e
   name: Tim Moore
+  end_date: '2019-11-12'
 - id: ocd-person/76a01b95-6251-4e4e-9c76-93b662eba3f2
   name: C. Wesley Morgan
   end_date: '2018-12-31'

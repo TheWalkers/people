@@ -11,14 +11,13 @@ roles:
 contact_details:
 - email: Constance.VanHouten@leg.state.nh.us
   note: Capitol Office
-- address: '"11 Carriage Way, Unit 4";Manchester, NH 03102-8429'
+- address: 11 Carriage Way, Unit 4;Manchester, NH 03102-8429
   note: District Office
   voice: 603-622-9701
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408558
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408558.jpg
 extras:
   first_name: Connie

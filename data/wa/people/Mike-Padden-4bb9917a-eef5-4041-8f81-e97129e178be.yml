@@ -11,7 +11,7 @@ contact_details:
   email: Mike.Padden@leg.wa.gov
   note: Capitol Office
   voice: 360-786-7606
-- address: 408 N Mullan Road;Suite 106;Spokane Valley, WA 99206
+- address: '408 N Mullan Road;Suite #106;Spokane Valley, WA 99206'
   note: District Office
   voice: 509-921-2460
 links:

@@ -8,19 +8,14 @@ roles:
   type: lower
 contact_details:
 - address: 25 Charlotte Avenue;Nashua, NH 03064-1552
-  email: snewmannh@aol.com
   note: District Office
   voice: 603-880-8973
 - email: sue.newman@leg.state.nh.us
   note: Capitol Office
-- address: 25 Charlotte Avenue;Nashua, NH 03064-1552
-  note: District Office
-  voice: 603-880-8973
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408537
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408537.jpg
 extras:
   first_name: Sue

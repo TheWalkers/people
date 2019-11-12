@@ -19,6 +19,7 @@ memberships:
   name: Angela Romero
 - id: ocd-person/c0cec1ca-c691-4215-ab0d-ac789a4d52bc
   name: John Knotwell
+  end_date: '2019-11-12'
 - id: ocd-person/5b47c889-e555-4d3c-9b30-97d52ee02960
   name: J. Stuart Adams
 - id: ocd-person/d2c89771-1318-4618-a703-dc2a7647b326

@@ -11,15 +11,10 @@ contact_details:
   email: nhfirst@gmail.com
   note: District Office
   voice: 603-826-5940
-- address: PO Box 624;796 Old Acworth Stage Road;Charlestown, NH 03603-0624
-  email: nhfirst@gmail.com
-  note: District Office
-  voice: 603-826-5940
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377031
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/377031.jpg
 extras:
   first_name: Steven

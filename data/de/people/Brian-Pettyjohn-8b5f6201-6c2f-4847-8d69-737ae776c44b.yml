@@ -18,7 +18,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/Senate
-image: https://legis.delaware.gov/images/default-source/Legislators/BrianPettyjohn.jpg?sfvrsn=2
+image: https://legis.delaware.gov/images/default-source/Legislators/BrianPettyjohn.jpg?sfvrsn=548db038_2
 other_identifiers:
 - identifier: DEL000079
   scheme: legacy_openstates

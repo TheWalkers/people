@@ -1,7 +1,7 @@
 id: ocd-person/b2e4bec5-55fb-4bd2-a0f1-728997f9e780
 name: John Doll
 party:
-- name: Independent
+- name: Republican
 roles:
 - district: '39'
   jurisdiction: ocd-jurisdiction/country:us/state:ks/government

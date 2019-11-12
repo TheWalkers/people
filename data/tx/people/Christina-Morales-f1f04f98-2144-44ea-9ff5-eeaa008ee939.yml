@@ -11,6 +11,8 @@ contact_details:
   fax: 512-463-4781
   note: Capitol Address
   voice: 512-463-0732
+- address: 6960 Rustic Street, Suite 107;Parking Garage, Bldg. C;Houston, Texas 77087
+  note: District Address
 links:
 - url: https://house.texas.gov/members/member-page/?district=145
 sources:

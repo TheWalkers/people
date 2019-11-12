@@ -10,17 +10,13 @@ contact_details:
 - email: Peter.Somssich@leg.state.nh.us
   note: Capitol Office
 - address: 34 Swett Avenue;Portsmouth, NH 03801-5315
-  note: District Office
-  voice: 603-436-5221
-- address: 34 Swett Avenue;Portsmouth, NH 03801-5315
   email: staterep27@myfairpoint.net
   note: District Office
   voice: 603-436-5382
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408620
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408620.jpg
 extras:
   first_name: Peter

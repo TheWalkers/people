@@ -64,6 +64,7 @@ memberships:
 - id: ocd-person/573a438f-ad34-43df-bdd0-7e28c499e1ef
   name: Ed Rynders
   role: Secretary
+  end_date: '2019-11-12'
 - id: ocd-person/80f4bbdf-02f3-4233-8456-e550e7e745af
   name: Steve Tarvin
   role: Vice-Chairman of Subcommittee

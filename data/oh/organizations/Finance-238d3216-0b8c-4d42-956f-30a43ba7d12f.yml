@@ -95,8 +95,10 @@ memberships:
   name: Bill Reineke
 - id: ocd-person/193ef670-8329-47fc-bb7f-536ee4d5d09e
   name: Steven M. Arndt
+  end_date: '2019-11-12'
 - id: ocd-person/193ef670-8329-47fc-bb7f-536ee4d5d09e
   name: Steven M. Arndt
+  end_date: '2019-11-12'
 - id: ocd-person/6ba7bed1-8474-4dd8-ad1e-634786b8fa5f
   name: Gary Scherer
 - id: ocd-person/6ba7bed1-8474-4dd8-ad1e-634786b8fa5f
@@ -154,8 +156,10 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/5a9b2a16-6827-4e00-961a-f3de39538749
   name: Louis W. Blessing III
+  end_date: '2019-11-12'
 - id: ocd-person/5a9b2a16-6827-4e00-961a-f3de39538749
   name: Louis W. Blessing III
+  end_date: '2019-11-12'
 - id: ocd-person/1b304c47-6447-401e-af61-064ded790e76
   name: Brigid Kelly
 - id: ocd-person/1b304c47-6447-401e-af61-064ded790e76

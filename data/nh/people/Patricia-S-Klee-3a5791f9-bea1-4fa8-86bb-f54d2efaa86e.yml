@@ -12,14 +12,10 @@ contact_details:
 - address: 9 Maywood Drive;Nashua, NH 03064-1640
   note: District Office
   voice: 603-966-0979
-- address: 9 Maywood Drive;Nashua, NH 03064-1640
-  note: District Office
-  voice: 603-883-1942
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408539
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408539.jpg
 extras:
   first_name: Patricia

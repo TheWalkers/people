@@ -8,19 +8,14 @@ roles:
   type: lower
 contact_details:
 - address: 100 Piscataqua Road;Durham, NH 03824-3326
-  email: msmithpen@aol.com
   note: District Office
   voice: 603-868-7500
 - email: marjorie.smith@leg.state.nh.us
   note: Capitol Office
-- address: 100 Piscataqua Road;Durham, NH 03824-3326
-  note: District Office
-  voice: 603-868-7500
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376166
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/376166.jpg
 extras:
   first_name: Marjorie

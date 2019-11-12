@@ -22,9 +22,10 @@ image: http://billstatus.ls.state.ms.us/members/senate/simmons_(12th).jpg
 extras:
   org_info: Senator Simmons is a trial lawyer and is affiliated with the American
     Bar Association, National Bar Association, Mississippi Bar, Magnolia Bar, District
-    of Columbia Bar and Greenville Rotary Club.  Senator Simmons is a Mason, life
-    member of NAACP, and life member of Kappa Alpha Psi Fraternity, Inc.  Senator
-    Simmons also sits on the Mississippi Technology Alliance Liaison Committee.
+    of Columbia Bar, Mississippi Association of Justice and Greenville Rotary Club.  Senator
+    Simmons is a Mason, life member of NAACP, and life member of Kappa Alpha Psi Fraternity,
+    Inc.  Senator Simmons also sits on the Mississippi Technology Alliance Liaison
+    Committee.
 other_identifiers:
 - identifier: MSL000177
   scheme: legacy_openstates

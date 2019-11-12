@@ -18,7 +18,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/House
-image: https://legis.delaware.gov/images/default-source/Legislators/EdwardOsienski.jpg?sfvrsn=4
+image: https://legis.delaware.gov/images/default-source/Legislators/EdwardOsienski.jpg?sfvrsn=cb82b038_4
 other_identifiers:
 - identifier: DEL000047
   scheme: legacy_openstates

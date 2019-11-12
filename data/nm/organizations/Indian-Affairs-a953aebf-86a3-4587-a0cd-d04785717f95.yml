@@ -98,6 +98,7 @@ memberships:
 - id: ocd-person/82778f01-fec7-4320-9e79-67719b413597
   name: Carlos R. Cisneros
   role: interim advisory
+  end_date: '2019-11-12'
 - id: ocd-person/f4e26ecc-9ede-40ac-9b72-51cc2ac62f85
   name: Eliseo Lee Alcon
   role: interim advisory

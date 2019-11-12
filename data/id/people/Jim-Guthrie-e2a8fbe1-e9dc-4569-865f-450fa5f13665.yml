@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   type: upper
 contact_details:
-- address: 320 S. Marsh Creek Road, Inkom, ID, 83245
+- address: 320 S. Marsh Creek Road, McCammon, ID, 83250
   email: jguthrie@senate.idaho.gov
   note: District Office
 - note: Capitol Office

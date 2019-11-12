@@ -7,13 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wv/government
   type: lower
 contact_details:
-- address: Room 227E, Building 1;State Capitol Complex;Charleston, WV 25305
+- address: Room 216E, Building 1;State Capitol Complex;Charleston, WV 25305
   email: zack.maynard@wvhouse.gov
   note: Capitol Office
   voice: 304-340-3152
 - address: 374 Little Harts Creek Road;Harts, WV, 25524
   note: District Office
-  voice: 304-885-1555
+  voice: 304-310-1239
 links:
 - url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Maynard
 sources:

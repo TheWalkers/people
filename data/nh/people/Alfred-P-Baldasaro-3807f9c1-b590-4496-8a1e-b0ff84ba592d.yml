@@ -13,15 +13,11 @@ contact_details:
   note: Capitol Office
 - address: 41 Hall Road;Londonderry, NH 03053-2306
   note: District Office
-  voice: 603-425-6997
-- address: 41 Hall Road;Londonderry, NH 03053-2306
-  note: District Office
   voice: 603-858-3535
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376740
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/376740.jpg
 extras:
   first_name: Alfred

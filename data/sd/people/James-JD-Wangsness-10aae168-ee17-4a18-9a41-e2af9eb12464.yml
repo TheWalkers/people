@@ -1,0 +1,21 @@
+id: ocd-person/10aae168-ee17-4a18-9a41-e2af9eb12464
+name: James "JD" Wangsness
+party:
+- name: Republican
+roles:
+- district: '23'
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  type: lower
+contact_details:
+- note: Capitol Office
+  voice: 605-773-3851
+- address: PO Box 21;20211 355th Avenue;Miller, SD 57362
+  note: District Office
+  voice: 605-853-3493
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1761&Session=2019
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1761&Session=2019
+image: https://sdlegislature.gov/inc/img/LegPlaceholder.png
+extras:
+  occupation: Farmer/Rancher

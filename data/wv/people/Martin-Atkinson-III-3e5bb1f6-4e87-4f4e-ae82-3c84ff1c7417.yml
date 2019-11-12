@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wv/government
   type: lower
 contact_details:
-- address: Room 208E, Building 1;State Capitol Complex;Charleston, WV 25305
+- address: Room 212E, Building 1;State Capitol Complex;Charleston, WV 25305
   email: martin.atkinson@wvhouse.gov
   note: Capitol Office
   voice: 304-340-3185
@@ -15,9 +15,9 @@ contact_details:
   note: District Office
   voice: 304-927-1563
 links:
-- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Atkinson+III
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Atkinson
 sources:
-- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Atkinson+III
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Atkinson
 image: http://www.legis.state.wv.us/images/members/2019/house/atkinson_martin.jpg
 other_identifiers:
 - identifier: WVL000340

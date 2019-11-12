@@ -7,20 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
 contact_details:
-- address: 35 Sandra's Run;Dover, NH 03820-4731
-  email: casandler@comcast.net
-  note: District Office
-  voice: 603-343-2005
-- email: Catt.Sandler@leg.state.nh.us
-  note: Capitol Office
 - address: 2 Firefly Circle;Somersworth, NH 03878-3301
   note: District Office
   voice: 603-841-7431
+- email: Catt.Sandler@leg.state.nh.us
+  note: Capitol Office
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408634
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408634.jpg
 extras:
   first_name: Catt

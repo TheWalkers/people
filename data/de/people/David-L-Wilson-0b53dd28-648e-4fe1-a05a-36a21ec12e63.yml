@@ -23,7 +23,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/Senate
-image: https://legis.delaware.gov/images/default-source/Legislators/DavidWilson.jpg?sfvrsn=2
+image: https://legis.delaware.gov/images/default-source/Legislators/DavidWilson.jpg?sfvrsn=4c82b038_2
 other_identifiers:
 - identifier: DEL000062
   scheme: legacy_openstates

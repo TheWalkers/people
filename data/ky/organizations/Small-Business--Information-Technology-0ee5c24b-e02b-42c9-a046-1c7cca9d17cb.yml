@@ -11,6 +11,7 @@ memberships:
 - id: ocd-person/64e82120-1faf-4774-b840-173585f8b2b8
   name: Diane St. Onge
   role: chair
+  end_date: '2019-11-12'
 - id: ocd-person/34327797-bfdc-4085-9c2b-75ba38ca19bd
   name: Larry Brown
   role: vice chair

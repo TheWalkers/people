@@ -9,17 +9,13 @@ roles:
 contact_details:
 - email: Chris.Herbert@leg.state.nh.us
   note: Capitol Office
-- address: 85 Watts Street;Manchester, NH 03104-4512
-  note: District Office
-  voice: 603-669-2838
-- address: '"207 Eastern Ave, Apt 26";Manchester, NH 03104-4686'
+- address: 207 Eastern Ave, Apt 26;Manchester, NH 03104-4686
   note: District Office
   voice: 603-867-4711
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377303
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/377303.jpg
 extras:
   first_name: Christopher

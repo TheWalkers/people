@@ -10,12 +10,11 @@ contact_details:
 - address: 217 Old Keene Road;Walpole, NH 03608-4845
   email: lwmcv@comcast.net
   note: District Office
-  voice: 603-756-4338
+  voice: 603-499-0282
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376668
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/376668.jpg
 extras:
   first_name: Lucy

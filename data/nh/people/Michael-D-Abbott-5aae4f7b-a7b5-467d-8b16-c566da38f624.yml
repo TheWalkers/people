@@ -12,14 +12,10 @@ contact_details:
 - address: P.O. Box 174;Hinsdale, NH 03451-0174
   note: District Office
   voice: 603-336-7090
-- address: P.O. Box 174;6 Riely Road;Hinsdale, NH 03451-0174
-  note: District Office
-  voice: 603-336-7090
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=377279
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/377279.jpg
 extras:
   first_name: Michael

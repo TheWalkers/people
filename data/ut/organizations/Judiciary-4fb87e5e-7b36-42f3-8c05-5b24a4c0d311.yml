@@ -25,6 +25,7 @@ memberships:
   role: vice chair
 - id: ocd-person/dc7ed9be-2389-4da0-af91-5123770111e6
   name: Ken Ivory
+  end_date: '2019-11-12'
 - id: ocd-person/d8b28732-496f-44bf-b753-7f9ff6ea632b
   name: Bruce R. Cutler
   end_date: '2018-12-31'

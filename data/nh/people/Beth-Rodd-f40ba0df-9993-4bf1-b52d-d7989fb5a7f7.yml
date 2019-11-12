@@ -9,17 +9,13 @@ roles:
 contact_details:
 - email: Beth.Rodd@leg.state.nh.us
   note: Capitol Office
-- address: PO 337;Bradford, NH 03221-0337
-  note: District Office
-  voice: 603-938-2692
 - address: PO Box 337;Bradford, NH 03221-0337
   note: District Office
   voice: 603-938-2692
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=376270
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/376270.jpg
 extras:
   first_name: Beth

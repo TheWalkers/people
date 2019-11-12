@@ -10,17 +10,13 @@ contact_details:
 - email: peter.torosian@leg.state.nh.us
   note: Capitol Office
 - address: PO Box 373;Atkinson, NH 03811-0373
-  note: District Office
-  voice: 603-362-5202
-- address: PO Box 373;Atkinson, NH 03811-0373
   email: flybirdair@aol.com
   note: District Office
   voice: 603-362-5202
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408418
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408418.jpg
 extras:
   first_name: Peter

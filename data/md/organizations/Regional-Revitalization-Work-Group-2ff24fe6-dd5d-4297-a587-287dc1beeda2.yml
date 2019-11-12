@@ -10,6 +10,7 @@ memberships:
 - id: ocd-person/a61f9662-6988-4bef-ac5f-dd09814a9772
   name: Stephen W. Lafferty
   role: chair
+  end_date: '2019-11-12'
 - id: ocd-person/e20d321d-a656-4792-834b-ab102630ca82
   name: Ned Carey
 - id: ocd-person/94ddfbc5-a635-4257-8fb6-ba34b825f0b1

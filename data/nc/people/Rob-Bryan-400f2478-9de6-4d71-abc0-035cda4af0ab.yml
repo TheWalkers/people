@@ -1,0 +1,21 @@
+id: ocd-person/400f2478-9de6-4d71-abc0-035cda4af0ab
+name: Rob Bryan
+party:
+- name: Republican
+roles:
+- district: '39'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: upper
+contact_details:
+- address: 16 West Jones Street, 2108;Raleigh, NC 27601
+  email: Rob.Bryan@ncleg.net
+  note: Capitol Office
+  voice: 919-733-5655
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/420
+sources:
+- url: https://www.ncleg.gov/Members/Biography/S/420
+image: https://www.ncleg.gov/Members/MemberImage/S/420/High
+extras:
+  counties:
+  - Mecklenburg

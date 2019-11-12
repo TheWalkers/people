@@ -11,15 +11,10 @@ contact_details:
   email: joday603@gmail.com
   note: District Office
   voice: 603-593-2085
-- address: 65 Kimball Road;Rindge, NH 03461-5008
-  email: joday603@gmail.com
-  note: District Office
-  voice: 603-899-5527
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408284
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/downloads/Members.csv
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408284.jpg
 extras:
   first_name: John

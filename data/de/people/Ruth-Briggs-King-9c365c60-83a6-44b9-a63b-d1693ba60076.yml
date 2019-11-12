@@ -18,7 +18,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/House
-image: https://legis.delaware.gov/images/default-source/Legislators/RuthBriggsKing.jpg?sfvrsn=2
+image: https://legis.delaware.gov/images/default-source/Legislators/RuthBriggsKing.jpg?sfvrsn=7c81b038_2
 other_identifiers:
 - identifier: DEL000028
   scheme: legacy_openstates

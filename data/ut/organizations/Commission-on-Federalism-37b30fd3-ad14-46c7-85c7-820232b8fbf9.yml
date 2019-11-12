@@ -20,6 +20,7 @@ memberships:
 - id: ocd-person/dc7ed9be-2389-4da0-af91-5123770111e6
   name: Ken Ivory
   role: chair
+  end_date: '2019-11-12'
 - id: ocd-person/74f25c67-1e6f-48f1-b3e3-49bbdf85539a
   name: Lincoln Fillmore
   role: chair

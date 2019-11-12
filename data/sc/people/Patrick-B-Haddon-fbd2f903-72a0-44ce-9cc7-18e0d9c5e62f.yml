@@ -1,0 +1,21 @@
+id: ocd-person/fbd2f903-72a0-44ce-9cc7-18e0d9c5e62f
+name: Patrick B. Haddon
+party:
+- name: Republican
+roles:
+- district: '19'
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  type: lower
+contact_details:
+- address: 320A Blatt Bldg.Columbia, 29201
+  note: Capitol Office
+  voice: 803-212-6962
+- address: PO Box 14884Greenville, 29610
+  note: District Office
+  voice: 864-320-1946
+links:
+- url: http://www.scstatehouse.gov/member.php?code=0733806731
+sources:
+- url: http://www.scstatehouse.gov/member.php?chamber=H
+- url: http://www.scstatehouse.gov/member.php?code=0733806731
+image: http://www.scstatehouse.gov/images/members/0733806731.jpg

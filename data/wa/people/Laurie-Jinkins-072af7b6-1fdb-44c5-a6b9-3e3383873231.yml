@@ -7,11 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wa/government
   type: lower
 contact_details:
-- address: 320 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
+- address: 339C Legislative Building;PO Box 40600;Olympia, WA 98504
   email: Laurie.Jinkins@leg.wa.gov
   note: Capitol Office
   voice: 360-786-7930
-- address: '1901 S Jefferson Ave, #103;Tacoma, WA 98402'
+- address: '1901 Jefferson Ave, #103;Tacoma, WA 98402'
   note: District Office
   voice: 253-593-2033
 links:

@@ -8,7 +8,7 @@ roles:
   type: lower
 contact_details:
 - address: 604-E Coverdell Legislative Office Building;Atlanta, GA 30334
-  email: mmo@mmolaw.com
+  email: mary.oliver@house.ga.gov
   fax: 404-463-2634
   note: Capitol Address
   voice: 404-656-0265
@@ -16,7 +16,7 @@ contact_details:
   fax: 404-377-0486
   note: District Address
   voice: 404-377-0485
-  email: mmo@mmolaw.com
+  email: mary.oliver@house.ga.gov
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=181&Session=27
 sources:

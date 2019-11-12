@@ -18,7 +18,7 @@ links:
 sources:
 - note: legislator list page
   url: https://legis.delaware.gov/Senate
-image: https://legis.delaware.gov/images/default-source/Legislators/CatherineCloutier.jpg?sfvrsn=2
+image: https://legis.delaware.gov/images/default-source/Legislators/CatherineCloutier.jpg?sfvrsn=6a8db038_2
 other_identifiers:
 - identifier: DEL000006
   scheme: legacy_openstates

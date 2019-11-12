@@ -1,0 +1,17 @@
+id: ocd-person/19d1042b-f71e-4da0-bcbf-5da8fcf7fea1
+name: Patrick J. Joyce
+party:
+- name: Democratic
+roles:
+- district: '40'
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  type: upper
+contact_details:
+- address: Springfield, IL 62706
+  note: capitol
+links:
+- url: http://ilga.gov/senate/Senator.asp?GA=101&MemberID=2774
+sources:
+- url: http://ilga.gov/senate/default.asp?GA=101
+- url: http://ilga.gov/senate/Senator.asp?GA=101&MemberID=2774
+image: http://ilga.gov/images/members/{39D6F100-DAEC-4C4B-A4F5-F20299B79152}.jpg
