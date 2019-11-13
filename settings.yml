@@ -354,7 +354,19 @@ mo:
   upper_seats: 34
   vacancies:
     - chamber: lower
+      district: 22
+      vacant_until: 2021-01-01
+    - chamber: lower
+      district: 34
+      vacant_until: 2021-01-01
+    - chamber: lower
       district: 36
+      vacant_until: 2021-01-01
+    - chamber: lower
+      district: 74
+      vacant_until: 2021-01-01
+    - chamber: lower
+      district: 78
       vacant_until: 2021-01-01
     - chamber: lower
       district: 99

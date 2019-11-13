@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-4039
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=152
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=152
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=152
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=152
 extras:
   first_name: Hardy
   last_name: Billington

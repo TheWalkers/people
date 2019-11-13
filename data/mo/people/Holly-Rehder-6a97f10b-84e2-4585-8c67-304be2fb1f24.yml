@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-5471
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=148
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=148
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=148
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=148
 extras:
   first_name: Holly
   last_name: Rehder

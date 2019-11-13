@@ -11,10 +11,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-0220
 links:
-- url: http://www.senate.mo.gov/mem01
+- url: https://www.senate.mo.gov/mem01
 sources:
-- url: http://www.senate.mo.gov/senators-listing/
-- url: http://www.senate.mo.gov/mem01
+- url: https://www.senate.mo.gov/senators-listing/
+- url: https://www.senate.mo.gov/mem01
 image: https://www.senate.mo.gov/19web/wp-content/uploads/2019/01/Sifton-200x300.jpg
 other_identifiers:
 - identifier: MOL000168

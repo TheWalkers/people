@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-2205
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=141
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=141
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=141
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=141
 extras:
   first_name: Hannah
   last_name: Kelly

@@ -29,6 +29,7 @@ memberships:
   name: Richard Brown
 - id: ocd-person/0c652230-8f79-4df6-adb6-fb796f1bf328
   name: Cora Faith Walker
+  end_date: '2019-11-13'
 - id: ocd-person/c245e9d5-8d05-49e7-9c09-af7e3cedf122
   name: Steve Helms
   role: vice-chair

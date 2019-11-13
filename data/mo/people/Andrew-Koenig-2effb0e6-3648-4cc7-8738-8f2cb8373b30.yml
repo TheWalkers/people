@@ -11,10 +11,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-5568
 links:
-- url: http://www.senate.mo.gov/mem15
+- url: https://www.senate.mo.gov/mem15
 sources:
-- url: http://www.senate.mo.gov/senators-listing/
-- url: http://www.senate.mo.gov/mem15
+- url: https://www.senate.mo.gov/senators-listing/
+- url: https://www.senate.mo.gov/mem15
 image: https://www.senate.mo.gov/18web/wp-content/uploads/2017/01/Koenig-Andrew-2017w-200x300.jpg
 other_identifiers:
 - identifier: MOL000473

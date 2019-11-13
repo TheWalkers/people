@@ -12,11 +12,11 @@ contact_details:
   note: Capitol Office
   voice: 573-751-1882
 links:
-- url: http://www.senate.mo.gov/mem33
+- url: https://www.senate.mo.gov/mem33
 sources:
-- url: http://www.senate.mo.gov/senators-listing/
-- url: http://www.senate.mo.gov/mem33
-image: https://www.senate.mo.gov/18web/wp-content/uploads/2015/11/Cunningham-200x300.jpg
+- url: https://www.senate.mo.gov/senators-listing/
+- url: https://www.senate.mo.gov/mem33
+image: https://www.senate.mo.gov/19web/wp-content/uploads/2019/09/Cunningham2019-W-200x300.jpg
 other_identifiers:
 - identifier: MOL000198
   scheme: legacy_openstates

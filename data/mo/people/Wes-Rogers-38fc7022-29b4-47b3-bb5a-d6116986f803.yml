@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-2199
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=18
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=18
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=18
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=18
 extras:
   first_name: Wes
   last_name: Rogers

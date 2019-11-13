@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-5912
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=145
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=145
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=145
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=145
 extras:
   first_name: Rick
   last_name: Francis

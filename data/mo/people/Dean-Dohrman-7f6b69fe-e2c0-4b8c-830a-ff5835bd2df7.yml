@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-2204
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=51
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=51
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=51
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=51
 extras:
   first_name: Dean
   last_name: Dohrman

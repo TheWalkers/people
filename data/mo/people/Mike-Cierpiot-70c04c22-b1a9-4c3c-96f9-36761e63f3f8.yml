@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-1464
 links:
-- url: http://www.senate.mo.gov/mem08
+- url: https://www.senate.mo.gov/mem08
 sources:
-- url: http://www.senate.mo.gov/senators-listing/
-- url: http://www.senate.mo.gov/mem08
+- url: https://www.senate.mo.gov/senators-listing/
+- url: https://www.senate.mo.gov/mem08
 image: https://www.senate.mo.gov/19web/wp-content/uploads/2019/02/Cierpiot2019W-200x300.jpg
 other_identifiers:
 - identifier: MOL000055

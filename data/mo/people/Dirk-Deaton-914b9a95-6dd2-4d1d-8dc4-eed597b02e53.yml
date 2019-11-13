@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-9801
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=159
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=159
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=159
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=159
 extras:
   first_name: Dirk
   last_name: Deaton

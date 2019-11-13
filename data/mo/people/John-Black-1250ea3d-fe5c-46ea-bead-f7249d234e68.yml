@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 573-751-3819
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=137
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=137
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=137
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=137
 extras:
   first_name: John
   last_name: Black
