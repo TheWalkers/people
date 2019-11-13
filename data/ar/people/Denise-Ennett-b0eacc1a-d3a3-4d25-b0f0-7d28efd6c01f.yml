@@ -1,0 +1,17 @@
+id: ocd-person/b0eacc1a-d3a3-4d25-b0f0-7d28efd6c01f
+name: Denise Ennett
+party:
+- name: Democratic
+roles:
+- district: '36'
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  type: lower
+contact_details:
+- address: 621 East 16th Street, Little Rock, 72202
+  email: denise.ennett@arkansashouse.org
+  note: District Office
+  voice: 501-690-4211
+links:
+- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Ennett
+sources:
+- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Ennett
