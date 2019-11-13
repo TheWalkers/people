@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:mt/government
   type: upper
 contact_details:
-- email: Edie.McClafferty@mtleg.gov
+- email: Edie.McClafferty@gmail.com
   note: Capitol Office
   voice: 406-490-5873
 links:
