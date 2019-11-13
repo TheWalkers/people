@@ -20,6 +20,7 @@ roles:
 - district: '42'
   jurisdiction: ocd-jurisdiction/country:us/state:nd/government
   type: lower
+  end_date: '2019-10-04'
 sources:
 - url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-jake-g-blum
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-jake-g-blum

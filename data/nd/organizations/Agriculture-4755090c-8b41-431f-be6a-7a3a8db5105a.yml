@@ -14,6 +14,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/0904283b-ed81-4212-a520-f2b8114733e1
   name: Jake G. Blum
+  end_date: '2019-10-04'
 - id: ocd-person/9c20611f-bea1-4176-b98f-3b20537e6818
   name: Jeffery J. Magrum
 - id: ocd-person/d9bd764d-f08a-4056-ba7d-82bad9e9d17b

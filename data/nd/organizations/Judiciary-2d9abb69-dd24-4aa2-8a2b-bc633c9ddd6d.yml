@@ -27,6 +27,7 @@ memberships:
   name: Gary Paur
 - id: ocd-person/0904283b-ed81-4212-a520-f2b8114733e1
   name: Jake G. Blum
+  end_date: '2019-10-04'
 - id: ocd-person/9d903288-c374-46e7-8665-d9ba4ba377b5
   name: Steve Vetter
 - id: ocd-person/47075318-11ad-425e-a390-a0a4248c73d7
