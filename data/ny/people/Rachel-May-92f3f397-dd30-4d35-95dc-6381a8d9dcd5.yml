@@ -11,7 +11,7 @@ contact_details:
   note: Capitol Office
   address: 198 State Street, Legislative Office Building;Albany, NY 12247
   voice: 518-455-2838
-- address: 172 State Street, Capitol Building;Albany,, NY 12247
+- address: 100 Eaton Street;Morrisville, NY 13408
   note: District Office
   voice: 518-455-2838
 links:
@@ -19,5 +19,5 @@ links:
 - url: http://www.nysenate.gov/senators/rachel-may/contact
 sources:
 - url: http://www.nysenate.gov/senators/rachel-may/contact
-image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sd53-rachel-may-cover-headshot.jpg?itok=cPhqFcv1
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/may-2019portrait.jpg?itok=4i_QKFvz
 gender: Female
