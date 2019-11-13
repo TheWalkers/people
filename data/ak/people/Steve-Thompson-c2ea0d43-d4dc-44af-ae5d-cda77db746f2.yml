@@ -7,14 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=thp
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=thp
 contact_details:
-- address: State Capitol Room 3004; Juneau AK, 99801
+- address: State Capitol Room 204; Juneau AK, 99801
   email: Representative.Steve.Thompson@akleg.gov
   note: Capitol Office
+  voice: 907-465-3004
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=thp
 - url: http://w3.akleg.gov/
 image: http://akleg.gov/images/legislators/thp.jpg
 other_identifiers:

@@ -7,15 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=pru
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=pru
 contact_details:
-- address: State Capitol Room 415; Juneau AK, 99801
+- address: State Capitol Room 404; Juneau AK, 99801
   email: Representative.Lance.Pruitt@akleg.gov
   note: Capitol Office
   voice: 907-465-3438
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=pru
 - url: http://w3.akleg.gov/
 image: http://akleg.gov/images/legislators/pru.jpg
 other_identifiers:

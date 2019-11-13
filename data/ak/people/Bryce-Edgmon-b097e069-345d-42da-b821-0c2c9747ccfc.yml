@@ -1,13 +1,12 @@
 id: ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc
 name: Bryce Edgmon
 party:
-- name: Democratic
+- name: Independent
 roles:
 - district: '37'
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=edg
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=edg
 contact_details:
 - address: State Capitol Room 208; Juneau AK, 99801
@@ -15,7 +14,6 @@ contact_details:
   note: Capitol Office
   voice: 907-465-4451
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=edg
 - url: http://w3.akleg.gov/
 image: http://akleg.gov/images/legislators/edg.jpg
 other_identifiers:

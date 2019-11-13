@@ -1,21 +1,19 @@
 id: ocd-person/0bcd7a66-ac7c-4179-b0d9-ea587a97d82e
 name: John Lincoln
 party:
-- name: Democratic
+- name: Independent
 roles:
 - district: '40'
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=lic
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=lic
 contact_details:
-- address: State Capitol Room 432; Juneau AK, 99801
+- address: State Capitol Room 102; Juneau AK, 99801
   email: Representative.John.Lincoln@akleg.gov
   note: Capitol Office
   voice: 907-465-3473
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=lic
 - url: http://w3.akleg.gov/
 image: http://akleg.gov/images/legislators/lic.jpg
 other_identifiers:

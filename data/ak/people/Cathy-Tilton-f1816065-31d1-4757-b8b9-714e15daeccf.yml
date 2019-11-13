@@ -7,15 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=tlt
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=tlt
 contact_details:
-- address: State Capitol Room 400; Juneau AK, 99801
+- address: State Capitol Room 415; Juneau AK, 99801
   email: Representative.Cathy.Tilton@akleg.gov
   note: Capitol Office
   voice: 907-465-2199
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=tlt
 - url: http://w3.akleg.gov/
 image: http://akleg.gov/images/legislators/tlt.jpg
 other_identifiers:

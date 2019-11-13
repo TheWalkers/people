@@ -7,15 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=wlt
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=wlt
 contact_details:
-- address: State Capitol Room 422; Juneau AK, 99801
+- address: State Capitol Room 511; Juneau AK, 99801
   email: Representative.Tammie.Wilson@akleg.gov
   note: Capitol Office
   voice: 907-465-4797
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=wlt
 - url: http://w3.akleg.gov/
 image: http://akleg.gov/images/legislators/wlt.jpg
 other_identifiers:

@@ -7,15 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=kno
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=kno
 contact_details:
-- address: State Capitol Room 424; Juneau AK, 99801
+- address: State Capitol Room 410; Juneau AK, 99801
   email: Representative.Gary.Knopp@akleg.gov
   note: Capitol Office
   voice: 907-465-2693
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=kno
 - url: http://w3.akleg.gov/
 image: http://akleg.gov/images/legislators/kno.jpg
 other_identifiers:

@@ -7,15 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=eas
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=eas
 contact_details:
-- address: State Capitol Room 114; Juneau AK, 99801
+- address: State Capitol Room 422; Juneau AK, 99801
   email: Representative.David.Eastman@akleg.gov
   note: Capitol Office
   voice: 907-465-2186
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=eas
 - url: http://w3.akleg.gov/
 image: http://akleg.gov/images/legislators/eas.jpg
 other_identifiers:
