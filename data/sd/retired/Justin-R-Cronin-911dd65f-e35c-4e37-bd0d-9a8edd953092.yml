@@ -23,6 +23,7 @@ roles:
 - district: '23'
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
+  end_date: '2019-08-28'
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1562&Session=2019
 gender: Male
