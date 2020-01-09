@@ -10,6 +10,8 @@ roles:
 - district: M
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: upper
+  end_date: '2019-08-07'
+  end_reason: Deceased
 links:
 - url: http://www.akleg.gov/basis/Member/Detail/30?code=bir
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=bir
@@ -27,3 +29,4 @@ other_identifiers:
 given_name: Chris
 family_name: Birch
 gender: Male
+death_date: '2019-08-07'
