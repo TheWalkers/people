@@ -6,6 +6,7 @@ roles:
 - district: Chittenden-6-7
   jurisdiction: ocd-jurisdiction/country:us/state:vt/government
   type: lower
+  end_date: '2020-01-09'
 contact_details:
 - address: Vermont State House;115 State Street;Montpelier, VT 05633
   email: cbissonnette@leg.state.vt.us
