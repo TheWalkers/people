@@ -50,6 +50,7 @@ memberships:
   name: Caroline Simmons
 - id: ocd-person/7a5474af-535a-42e5-8653-0edf8311cdfb
   name: Fred Camillo
+  end_date: '2020-01-09'
 - id: ocd-person/e6953ec1-9931-41fa-8db0-ea4ed56c42b9
   name: Beth Bye
   role: chair
