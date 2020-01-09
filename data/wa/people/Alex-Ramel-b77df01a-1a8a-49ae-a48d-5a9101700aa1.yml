@@ -1,0 +1,18 @@
+id: ocd-person/b77df01a-1a8a-49ae-a48d-5a9101700aa1
+name: Alex Ramel
+party:
+- name: Democratic
+roles:
+- district: '40'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- address: 132D Legislative Building;PO Box 40600;Olympia, WA 98504
+  note: Capitol Office
+  voice: 360-786-7970
+links:
+- url: https://housedemocrats.wa.gov/Ramel/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/ramel.jpg
