@@ -12,7 +12,7 @@ given_name: Sue
 id: ocd-person/10c3de09-4e65-4885-bbbb-78b2903a36e2
 image: https://sdlegislature.gov/inc/img/Legislators/Peterson_Sue_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1431&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1733&Session=2020
 name: Sue Peterson
 other_identifiers:
 - identifier: SDL000313
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1431&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1733&Session=2020
 gender: Female

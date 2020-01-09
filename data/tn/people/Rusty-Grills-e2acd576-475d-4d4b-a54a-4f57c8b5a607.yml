@@ -1,0 +1,20 @@
+id: ocd-person/e2acd576-475d-4d4b-a54a-4f57c8b5a607
+name: Rusty Grills
+party:
+- name: Republican
+roles:
+- district: '77'
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  type: lower
+contact_details:
+- address: 425 5th Avenue North;Suite 400 Cordell Hull Bldg.;Nashville, TN 37243
+  email: rep.rusty.grills@capitol.tn.gov
+  fax: 615-253-0214
+  note: Capitol Office
+  voice: 615-741-0718
+links:
+- url: http://www.capitol.tn.gov/house/members/h77.html
+sources:
+- url: http://www.capitol.tn.gov/house/members/
+- url: http://www.capitol.tn.gov/house/members/h77.html
+image: http://www.capitol.tn.gov/house/members/images/h77.jpg

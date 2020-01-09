@@ -11,11 +11,11 @@ contact_details:
   note: capitol
   voice: 651-296-1253
 links:
-- url: http://www.senate.mn/members/member_bio.php?member_id=1187
+- url: https://www.senate.mn/members/member_bio.php?member_id=1187
 sources:
-- url: http://www.senate.mn/members/member_list_ascii.php?ls=
-- url: http://www.senate.mn/members/index.php
-image: http://www.senate.mn/graphics/member_thumbnails/38Chamberlain.jpg
+- url: https://www.senate.mn/members/member_list_ascii.php?ls=
+- url: https://www.senate.mn/members/index.php
+image: https://www.senate.mn/graphics/member_thumbnails/38Chamberlain.jpg
 other_identifiers:
 - identifier: MNL000205
   scheme: legacy_openstates

@@ -11,6 +11,7 @@ memberships:
 - id: ocd-person/c3762f0c-6f6b-46bd-b92b-cfeb2978d16e
   name: Greg Kirk
   role: Chairman
+  end_date: '2020-01-09'
 - id: ocd-person/90751b67-4684-4528-a9a2-9d10b884ab78
   name: P. K. Martin IV
   role: Vice Chairman

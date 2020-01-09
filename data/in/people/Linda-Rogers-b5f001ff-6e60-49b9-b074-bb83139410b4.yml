@@ -13,11 +13,11 @@ contact_details:
   voice: 800-382-9467
   email: Senator.Rogers@iga.in.gov
 links:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_linda_rogers_1
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_linda_rogers_1
 sources:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_linda_rogers_1
-- url: https://api.iga.in.gov/2019/legislators/linda_rogers_1
-image: http://iga.in.gov/legislative/2019/portraits/legislator_linda_rogers_1
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_linda_rogers_1
+- url: https://api.iga.in.gov/2020/legislators/linda_rogers_1
+image: http://iga.in.gov/legislative/2020/portraits/legislator_linda_rogers_1
 given_name: Linda
 family_name: Rogers
 gender: Female

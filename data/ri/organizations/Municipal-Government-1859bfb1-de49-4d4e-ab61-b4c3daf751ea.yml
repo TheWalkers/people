@@ -49,6 +49,7 @@ memberships:
 - id: ocd-person/ad0bfbd3-e1f6-484c-a5ea-76f12c024e95
   name: Shelby Maldonado
   role: Second Vice-Chairwoman
+  end_date: '2020-01-09'
 - id: ocd-person/c29d86a2-30fb-46ba-b7f7-be77ed90818e
   name: Joseph S. Almeida
   role: Member

@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/98ce9311-8f46-4572-9866-80a7eceeb746
   name: Sheldon Neeley
+  end_date: '2020-01-09'
 - id: ocd-person/545e01d2-8b3e-4a8f-a32b-80f8e2430fc6
   name: Diana Farrington
 - id: ocd-person/ccea0a1d-a98c-4a76-8f4c-4e61f351238a

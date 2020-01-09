@@ -38,5 +38,6 @@ memberships:
   name: Bronna Kahle
 - id: ocd-person/98ce9311-8f46-4572-9866-80a7eceeb746
   name: Sheldon Neeley
+  end_date: '2020-01-09'
 - id: ocd-person/35637c8f-8990-4da7-a354-4a093500b79e
   name: Steven Johnson

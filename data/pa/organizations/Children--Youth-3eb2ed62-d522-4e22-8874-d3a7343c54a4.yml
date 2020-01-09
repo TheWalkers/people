@@ -24,6 +24,7 @@ memberships:
 - name: Jr. Jack Rader
 - id: ocd-person/bb1091f7-b794-4d1c-898e-2c9c0ddfe2b8
   name: Tedd C. Nesbit
+  end_date: '2020-01-09'
 - id: ocd-person/8379190d-5e7a-4507-8531-fa2489bc9ae3
   name: Brian Kirkland
 - id: ocd-person/1a6e36d3-ff44-4e21-bb9d-397a56482b34

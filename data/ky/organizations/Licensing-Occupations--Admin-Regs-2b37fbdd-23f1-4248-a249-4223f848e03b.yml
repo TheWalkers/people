@@ -20,6 +20,7 @@ memberships:
   name: Al Gentry
 - id: ocd-person/5d8b296d-ee49-4958-ba3d-43c35b97fe71
   name: Dennis Keene
+  end_date: '2020-01-09'
 - id: ocd-person/ddf30bed-6cd2-43be-88c6-a252410bf4d0
   name: Jerry T. Miller
 - id: ocd-person/76a01b95-6251-4e4e-9c76-93b662eba3f2

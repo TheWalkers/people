@@ -40,6 +40,7 @@ memberships:
   name: Angie Hatton
 - id: ocd-person/5d8b296d-ee49-4958-ba3d-43c35b97fe71
   name: Dennis Keene
+  end_date: '2020-01-09'
 - id: ocd-person/749ed8e9-9998-4012-924f-93813ee757f8
   name: Brian Linder
   end_date: '2018-12-31'

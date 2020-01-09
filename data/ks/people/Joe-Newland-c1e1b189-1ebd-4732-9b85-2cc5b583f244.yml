@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ks/government
   type: lower
 contact_details:
-- address: Room 512-N;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612
+- address: Room 352-S;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612
   email: Joe.Newland@house.ks.gov
   note: Capitol Office
   voice: 785-296-7380
@@ -17,3 +17,5 @@ sources:
 - url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_newland_joe_1
 image: http://www.kslegislature.org/li/m/images/pics/rep_newland_joe_1.jpg
 gender: Male
+extras:
+  occupation: Farmer-Rancher

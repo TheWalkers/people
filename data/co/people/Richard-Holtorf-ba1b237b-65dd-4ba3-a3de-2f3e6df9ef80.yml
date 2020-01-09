@@ -1,0 +1,18 @@
+id: ocd-person/ba1b237b-65dd-4ba3-a3de-2f3e6df9ef80
+name: Richard Holtorf
+party:
+- name: Republican
+roles:
+- district: '64'
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  type: lower
+contact_details:
+- address: 200 E. Colfax;RM 307;Denver, CO 80203
+  note: Capitol Office
+  voice: 303-866-2398
+links:
+- url: http://leg.colorado.gov/legislators/richard-holtorf
+sources:
+- url: http://leg.colorado.gov/legislators/richard-holtorf
+- url: http://leg.colorado.gov/legislators
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2020a_rep.%20holtorf.jpg?itok=hUujSsJg

@@ -31,6 +31,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/bb1091f7-b794-4d1c-898e-2c9c0ddfe2b8
   name: Tedd C. Nesbit
+  end_date: '2020-01-09'
 - id: ocd-person/9b9857aa-5fad-4678-a4f9-7e40bc642f64
   name: Bud Cook
 - name: III Thomas L. Mehaffie

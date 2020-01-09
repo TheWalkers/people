@@ -1,0 +1,18 @@
+id: ocd-person/56cb0e20-bb30-418c-ad00-e4573284b4a3
+name: Jessica Castleberry
+party:
+- name: Republican
+roles:
+- district: '35'
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  type: upper
+contact_details:
+- address: 1576 Sharp Lane;Rapid City, SD 57703
+  note: District Office
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1764&Session=2020
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1764&Session=2020
+image: https://sdlegislature.gov/inc/img/Legislators/Castleberry_2020.jpg
+extras:
+  occupation: ''

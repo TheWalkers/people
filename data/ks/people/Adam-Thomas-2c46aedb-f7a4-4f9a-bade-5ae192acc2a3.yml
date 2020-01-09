@@ -18,7 +18,7 @@ sources:
 - url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_thomas_adam_1
 image: http://www.kslegislature.org/li/m/images/pics/rep_thomas_adam_1.jpg
 extras:
-  occupation: ''
+  occupation: Restaurant Owner
 given_name: Adam
 family_name: Thomas
 gender: Male

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ne/government
   type: legislature
 contact_details:
-- address: 'Room #1308;P.O. Box 94604;Lincoln, NE 68509'
+- address: 'Room #1110;P.O. Box 94604;Lincoln, NE 68509'
   email: cfriesen@leg.ne.gov
   note: Capitol Office
   voice: 402-471-2630

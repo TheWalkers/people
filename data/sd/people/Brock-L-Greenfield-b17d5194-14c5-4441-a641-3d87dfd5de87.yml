@@ -12,7 +12,7 @@ given_name: Brock L
 id: ocd-person/b17d5194-14c5-4441-a641-3d87dfd5de87
 image: https://sdlegislature.gov/inc/img/Legislators/Greenfield_BROCK_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1588&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1720&Session=2020
 name: Brock L Greenfield
 other_identifiers:
 - identifier: SDL000057
@@ -28,5 +28,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1588&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1720&Session=2020
 gender: Male

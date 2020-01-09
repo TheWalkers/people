@@ -25,6 +25,7 @@ memberships:
 - id: ocd-person/de5a48e7-d091-474f-885a-40e20b9e4625
   name: Robert M. "Bob" Thomas, Jr.
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/ddba8b1b-8a1d-42c2-aba5-adc1331ee6f1
   name: Kathy K.L. Tran
   start_date: '2019-09-01'
@@ -46,6 +47,7 @@ memberships:
 - id: ocd-person/f0f146e5-3b1f-473b-aec1-5c48c6e6969b
   name: Christopher K. Peace
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/3a8cbf64-e1b7-43b6-ade9-57808519405a
   name: Christopher T. Head
   start_date: '2019-09-01'

@@ -17,3 +17,5 @@ sources:
 - url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_straub_alicia_1
 image: http://www.kslegislature.org/li/m/images/pics/rep_straub_alicia_1.jpg
 gender: Female
+extras:
+  occupation: Merchandising Contractor

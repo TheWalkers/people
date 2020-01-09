@@ -31,6 +31,7 @@ memberships:
   name: Stephen D. Hambley
 - id: ocd-person/9acbd0d3-aaa5-465f-a506-4b2ce467e413
   name: Scott Ryan
+  end_date: '2020-01-09'
 - id: ocd-person/01a80305-a667-4dda-9676-1e678bddde12
   name: Tim Schaffer
 - id: ocd-person/ce20bc95-5ed9-4465-ae6d-790ffe78b3d3

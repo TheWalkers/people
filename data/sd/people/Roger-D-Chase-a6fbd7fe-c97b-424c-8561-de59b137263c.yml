@@ -12,7 +12,7 @@ given_name: Roger D
 id: ocd-person/a6fbd7fe-c97b-424c-8561-de59b137263c
 image: https://sdlegislature.gov/inc/img/Legislators/Chase_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1560&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1751&Session=2020
 name: Roger D Chase
 other_identifiers:
 - identifier: SDL000280
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1560&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1751&Session=2020
 gender: Male

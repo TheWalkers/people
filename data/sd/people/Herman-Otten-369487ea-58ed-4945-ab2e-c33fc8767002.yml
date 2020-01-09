@@ -12,7 +12,7 @@ given_name: Herman
 id: ocd-person/369487ea-58ed-4945-ab2e-c33fc8767002
 image: https://sdlegislature.gov/inc/img/Legislators/Otten_Herman_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1575&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1729&Session=2020
 name: Herman Otten
 other_identifiers:
 - identifier: SDL000187
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1575&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1729&Session=2020
 gender: Male

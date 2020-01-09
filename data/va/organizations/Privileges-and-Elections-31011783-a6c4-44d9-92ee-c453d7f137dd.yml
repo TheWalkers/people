@@ -25,9 +25,11 @@ memberships:
 - id: ocd-person/a58ba6a7-d6d0-4c28-933e-1c88ec2981fe
   name: Cheryl B. Turpin
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/4b6154c7-a3da-4ea7-b603-6b550de3c24b
   name: Timothy D. Hugo
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/aec7ee58-7da0-41e1-88d0-5c9e68737a0f
   name: Schuyler T. VanValkenburg
   start_date: '2019-09-01'
@@ -37,6 +39,7 @@ memberships:
 - id: ocd-person/fc888921-a709-4869-98e5-ea55e3b59518
   name: R. Steven Landes
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/7be71d7d-bcf2-4f2d-b386-8a9d53e9be25
   name: Mark L. Cole
   start_date: '2019-09-01'
@@ -52,6 +55,7 @@ memberships:
 - id: ocd-person/cb714e04-63fc-4c18-8c4b-b8fcd7283c95
   name: S. Chris Jones
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/e2ce02ec-6a92-435d-8ae2-bead5abe5ace
   name: Hyland F. "Buddy" Fowler, Jr.
   start_date: '2019-09-01'
@@ -73,3 +77,4 @@ memberships:
 - id: ocd-person/04f50c5a-99b2-471e-9dae-55388faa5d21
   name: Riley E. Ingram
   start_date: '2019-09-01'
+  end_date: '2020-01-09'

@@ -8,11 +8,11 @@ roles:
   type: lower
   start_date: '2018-12-01'
 contact_details:
-- address: Room 150R, Building 1;State Capitol Complex;Charleston, WV 25305
+- address: Room 229E, Building 1;State Capitol Complex;Charleston, WV 25305
   email: cody.thompson@wvhouse.gov
   note: Capitol Office
   voice: 304-340-3145
-- address: 311 Graham Street;Elkins, WV, 26241
+- address: 311 Graham Street;Elkins, WV 26241
   note: District Office
   voice: 304-904-1620
 links:

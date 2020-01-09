@@ -12,7 +12,7 @@ given_name: Margaret A
 id: ocd-person/9acbadee-a6a1-4931-b807-ad6af446a286
 image: https://sdlegislature.gov/inc/img/Legislators/Sutton_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1598&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1706&Session=2020
 name: Margaret A Sutton
 other_identifiers:
 - identifier: SDL000331
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1598&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1706&Session=2020
 gender: Female

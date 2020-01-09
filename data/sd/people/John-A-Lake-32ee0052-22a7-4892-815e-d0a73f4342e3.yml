@@ -12,7 +12,7 @@ given_name: John A
 id: ocd-person/32ee0052-22a7-4892-815e-d0a73f4342e3
 image: https://sdlegislature.gov/inc/img/Legislators/Lake_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1756&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1721&Session=2020
 name: John  A Lake
 other_identifiers:
 - identifier: SDL000276
@@ -28,5 +28,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1756&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1721&Session=2020
 gender: Male

@@ -7,11 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 611-B South 5th St.;Leesville, LA 71446
+- address: No Address Found
   email: smithj@legis.la.gov
-  fax: 337-238-6444
+  fax: 225-342-5636
   note: District Office
-  voice: 337-238-2709
+  voice: 800-259-2709
 links:
 - url: http://senate.la.gov/senators/senpage.asp?SenID=30
 sources:

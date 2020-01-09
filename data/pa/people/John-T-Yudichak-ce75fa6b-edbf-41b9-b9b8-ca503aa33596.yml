@@ -1,5 +1,5 @@
 contact_details:
-- address: Senate Box 203014;Harrisburg, PA 17120-3014;Room:;458 Main Capitol
+- address: Senate Box 203014;Harrisburg, PA 17120-3014;Room:;337 Main Capitol
   email: yudichak@pasenate.com
   fax: 717-783-4141
   note: Capitol Office
@@ -25,7 +25,7 @@ other_identifiers:
 - identifier: PAL000269
   scheme: legacy_openstates
 party:
-- name: Democratic
+- name: Independent
 roles:
 - district: '14'
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government

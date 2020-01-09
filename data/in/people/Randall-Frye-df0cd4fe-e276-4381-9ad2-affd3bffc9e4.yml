@@ -12,11 +12,11 @@ contact_details:
   voice: 800-382-9841
   email: h67@iga.in.gov
 links:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_randall_frye_1039
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_randall_frye_1039
 sources:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_randall_frye_1039
-- url: https://api.iga.in.gov/2019/legislators/randall_frye_1039
-image: http://iga.in.gov/legislative/2019/portraits/legislator_randall_frye_1039
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_randall_frye_1039
+- url: https://api.iga.in.gov/2020/legislators/randall_frye_1039
+image: http://iga.in.gov/legislative/2020/portraits/legislator_randall_frye_1039
 other_identifiers:
 - identifier: INL000087
   scheme: legacy_openstates

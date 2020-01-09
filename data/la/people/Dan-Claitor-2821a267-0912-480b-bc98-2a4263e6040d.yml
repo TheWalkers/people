@@ -7,11 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 8550 United Plaza Boulevard;Suite 702;Baton Rouge, LA 70809
+- address: No Address Found
   email: claitord@legis.la.gov
-  fax: 225-925-7640
+  fax: 225-342-0617
   note: District Office
-  voice: 225-925-7630
+  voice: 225-342-2040
 links:
 - url: http://senate.la.gov/senators/senpage.asp?SenID=16
 sources:

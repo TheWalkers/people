@@ -1,5 +1,5 @@
 id: ocd-person/971dbd16-363f-4151-a75c-306746aec18e
-name: Jeff Howe
+name: Jeff R. Howe
 party:
 - name: Republican
 roles:
@@ -17,11 +17,11 @@ contact_details:
   voice: 651-296-2084
   email: sen.jeff.howe@senate.mn
 links:
-- url: http://www.senate.mn/members/member_bio.php?member_id=1239
+- url: https://www.senate.mn/members/member_bio.php?member_id=1239
 sources:
-- url: http://www.senate.mn/members/member_list_ascii.php?ls=
-- url: http://www.senate.mn/members/index.php
-image: http://www.senate.mn/graphics/member_thumbnails/13Howe.jpg
+- url: https://www.senate.mn/members/member_list_ascii.php?ls=
+- url: https://www.senate.mn/members/index.php
+image: https://www.senate.mn/graphics/member_thumbnails/13Howe.jpg
 other_identifiers:
 - identifier: MNL000422
   scheme: legacy_openstates

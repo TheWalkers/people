@@ -13,6 +13,7 @@ memberships:
 - id: ocd-person/b535a98c-616c-49c0-bbd1-93bc1b620e0b
   name: T. Scott Garrett
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/f3e15ab0-8419-43c2-ab7a-f3984419d1eb
   name: Jeion A. Ward
   start_date: '2019-09-01'
@@ -46,6 +47,7 @@ memberships:
 - id: ocd-person/4b6154c7-a3da-4ea7-b603-6b550de3c24b
   name: Timothy D. Hugo
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/4ae07d5d-1da3-4370-b796-7698013ca994
   name: Delores L. McQuinn
   start_date: '2019-09-01'
@@ -61,6 +63,7 @@ memberships:
 - id: ocd-person/de5a48e7-d091-474f-885a-40e20b9e4625
   name: Robert M. "Bob" Thomas, Jr.
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/a6f78488-1c78-4409-8c4a-bf0d0920e852
   name: Betsy B. Carr
   start_date: '2019-09-01'
@@ -73,3 +76,4 @@ memberships:
 - id: ocd-person/807d5302-2dfe-478b-8f64-d633e3cde795
   name: David E. Yancey
   start_date: '2019-09-01'
+  end_date: '2020-01-09'

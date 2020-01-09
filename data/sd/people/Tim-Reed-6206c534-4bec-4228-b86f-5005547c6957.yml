@@ -12,7 +12,7 @@ given_name: Tim
 id: ocd-person/6206c534-4bec-4228-b86f-5005547c6957
 image: https://sdlegislature.gov/inc/img/Legislators/Reed_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1572&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1727&Session=2020
 name: Tim Reed
 other_identifiers:
 - identifier: SDL000318
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1572&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1727&Session=2020
 gender: Male

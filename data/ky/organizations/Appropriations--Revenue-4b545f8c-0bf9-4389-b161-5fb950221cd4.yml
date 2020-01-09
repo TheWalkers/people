@@ -17,6 +17,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/64986d88-7010-478c-92c4-dc7b44ee0675
   name: Rocky Adkins
+  end_date: '2020-01-09'
 - id: ocd-person/49e35e02-51af-40b7-96c0-031bcc2040de
   name: Matt Castlen
 - id: ocd-person/9bc85025-5ec8-49b8-9c9c-9c0fa0a82ba2

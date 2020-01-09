@@ -7,12 +7,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ga/government
   type: lower
 contact_details:
-- address: 220-A State Capitol;Atlanta, GA 30334
+- address: HM-1 State Capitol;Atlanta, GA 30334
   email: richard.smith@house.ga.gov
   fax: 404-463-4221
   note: Capitol Address
-  voice: 404-656-6831
-- address: PO Box 2122;Columbus, GA 31902-2122
+  voice: 404-656-5141
+- address: PO Box 2122;Columbus, GA 319022122
   note: District Address
   email: richard.smith@house.ga.gov
 links:

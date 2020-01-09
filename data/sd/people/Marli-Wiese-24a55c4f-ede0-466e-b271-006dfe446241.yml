@@ -12,7 +12,7 @@ given_name: Marli
 id: ocd-person/24a55c4f-ede0-466e-b271-006dfe446241
 image: https://sdlegislature.gov/inc/img/Legislators/Wiese_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1564&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1755&Session=2020
 name: Marli Wiese
 other_identifiers:
 - identifier: SDL000324
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1564&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1755&Session=2020
 gender: Female

@@ -1,0 +1,18 @@
+id: ocd-person/b0f96061-f96c-47d5-9c02-be66919e469d
+name: Trish Gunby
+party:
+- name: Democratic
+roles:
+- district: '99'
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  type: lower
+contact_details:
+- address: 201 West Capitol Avenue 103 BB, Jefferson City, MO 65101
+  email: Trish.Gunby@house.mo.gov
+  note: Capitol Office
+  voice: 573-751-3859
+links:
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=99
+sources:
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=99

@@ -7,8 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   type: lower
 contact_details:
-- address: 3rd Monday of each month Ambler Sr. Adult Activities Center 45 Forest Ave.
-    Ambler, PA 19002
+- address: 815 Fayette Street Suite 200 Conshohocken, PA 19428
   fax: 610-832-1684
   note: District Office
   voice: 610-832-1679

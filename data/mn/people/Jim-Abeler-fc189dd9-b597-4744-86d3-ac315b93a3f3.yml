@@ -12,11 +12,11 @@ contact_details:
   note: capitol
   voice: 651-296-3733
 links:
-- url: http://www.senate.mn/members/member_bio.php?member_id=1216
+- url: https://www.senate.mn/members/member_bio.php?member_id=1216
 sources:
-- url: http://www.senate.mn/members/member_list_ascii.php?ls=
-- url: http://www.senate.mn/members/index.php
-image: http://www.senate.mn/graphics/member_thumbnails/35Abeler.jpg
+- url: https://www.senate.mn/members/member_list_ascii.php?ls=
+- url: https://www.senate.mn/members/index.php
+image: https://www.senate.mn/graphics/member_thumbnails/35Abeler.jpg
 other_identifiers:
 - identifier: MNL000729
   scheme: legacy_openstates

@@ -12,7 +12,7 @@ given_name: Steve
 id: ocd-person/2cfee42a-a62c-430b-8c49-0ec5573c8ad4
 image: https://sdlegislature.gov/inc/img/Legislators/Livermont_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1639&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1667&Session=2020
 name: Steve Livermont
 other_identifiers:
 - identifier: SDL000287
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1639&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1667&Session=2020
 gender: Male

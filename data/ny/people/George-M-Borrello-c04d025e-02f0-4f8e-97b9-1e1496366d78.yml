@@ -1,0 +1,20 @@
+id: ocd-person/c04d025e-02f0-4f8e-97b9-1e1496366d78
+name: George M. Borrello
+party:
+- name: Republican
+roles:
+- district: '57'
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  type: upper
+contact_details:
+- address: 188 State Street, Legislative Office Building;Albany, NY 12247
+  email: Borrello@nysenate.gov
+  note: Capitol Office
+- address: 700 W. State Street;Olean, NY 14760
+  note: District Office
+links:
+- url: http://www.nysenate.gov/senators-committees
+- url: http://www.nysenate.gov/senators/george-m-borrello/contact
+sources:
+- url: http://www.nysenate.gov/senators/george-m-borrello/contact
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/12-11-19_hs_cropped_for_web0004m.jpg?itok=rraEgSVs

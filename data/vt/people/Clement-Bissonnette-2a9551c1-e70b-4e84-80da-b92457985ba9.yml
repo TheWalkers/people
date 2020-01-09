@@ -1,0 +1,22 @@
+id: ocd-person/2a9551c1-e70b-4e84-80da-b92457985ba9
+name: Clement Bissonnette
+party:
+- name: Democratic
+roles:
+- district: Chittenden-6-7
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  type: lower
+contact_details:
+- address: Vermont State House;115 State Street;Montpelier, VT 05633
+  email: cbissonnette@leg.state.vt.us
+  note: Capitol Office
+- address: 11 Dufresne Dr.;Winooski, VT 05404
+  email: clembi@comcast.net
+  note: District Office
+  voice: 802-655-9527
+links:
+- url: http://legislature.vermont.gov/people/single/2020/14587
+sources:
+- url: http://legislature.vermont.gov/people/loadAll/2020
+- url: http://legislature.vermont.gov/people/single/2020/14587
+image: https://legislature.vermont.gov/Documents/Legislators/CBissonnette.jpg

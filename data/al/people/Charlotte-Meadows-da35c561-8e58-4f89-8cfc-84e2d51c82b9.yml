@@ -1,0 +1,19 @@
+id: ocd-person/da35c561-8e58-4f89-8cfc-84e2d51c82b9
+name: Charlotte Meadows
+party:
+- name: Republican
+roles:
+- district: '74'
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  type: lower
+contact_details:
+- address: ;11 S. Union Street;Montgomery, AL 36130
+  email: charlotte.meadows@alhouse.gov
+  note: Capitol Office
+  voice: 334-261-0500
+links:
+- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=105219&OID_PERSON=8818
+sources:
+- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=105219&OID_PERSON=8818
+- url: http://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+image: http://www.legislature.state.al.us/ALISWWW/House/Representative%20Pictures/Meadows_74.jpeg

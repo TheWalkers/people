@@ -1,0 +1,19 @@
+id: ocd-person/1d1148ca-c56e-4c20-915f-84a18a1b455d
+name: Ghazala F. Hashmi
+party:
+- name: Democratic
+roles:
+- district: '10'
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  type: upper
+contact_details:
+- address: ;,
+  email: district10@senate.virginia.gov
+  note: District Office
+  voice: 804-698-7400
+links:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S108
+sources:
+- url: http://lis.virginia.gov/201/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S108
+image: https://apps.lis.virginia.gov/senatepics/newbiopics/Hashmi10.jpg

@@ -71,6 +71,7 @@ sources:
 memberships:
 - id: ocd-person/9acbd0d3-aaa5-465f-a506-4b2ce467e413
   name: Scott Ryan
+  end_date: '2020-01-09'
 - id: ocd-person/59e1bc8f-e52e-4efe-ade0-c6be5e8b16aa
   name: Rick Perales
 - id: ocd-person/59e1bc8f-e52e-4efe-ade0-c6be5e8b16aa

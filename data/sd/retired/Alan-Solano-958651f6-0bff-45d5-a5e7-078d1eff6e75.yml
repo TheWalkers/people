@@ -1,0 +1,29 @@
+contact_details:
+- email: Alan.Solano@sdlegislature.gov
+  note: Capitol Office
+  voice: 605-773-3821
+- address: 3410 Wisconsin Ave.;Rapid City, SD 57701
+  note: District Office
+  voice: 605-342-8974
+extras:
+  occupation: Chief Executive Officer
+family_name: Solano
+given_name: Alan
+id: ocd-person/958651f6-0bff-45d5-a5e7-078d1eff6e75
+image: https://sdlegislature.gov/inc/img/Legislators/Solano_2019.jpg
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1607&Session=2019
+name: Alan Solano
+other_identifiers:
+- identifier: SDL000230
+  scheme: legacy_openstates
+party:
+- name: Republican
+roles:
+- district: '32'
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  type: upper
+  end_date: '2020-01-09'
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1607&Session=2019
+gender: Male

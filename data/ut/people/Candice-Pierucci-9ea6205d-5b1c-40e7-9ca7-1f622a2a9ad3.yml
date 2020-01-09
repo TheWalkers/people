@@ -1,12 +1,16 @@
 id: ocd-person/9ea6205d-5b1c-40e7-9ca7-1f622a2a9ad3
-name: Candice Pierucci
+name: Candice B. Pierucci
 party:
 - name: Republican
 roles:
 - district: '52'
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   type: lower
-contact_details: []
+contact_details:
+- address: 350 N STATE ST STE 350, SALT LAKE CITY, UT, 84114
+  email: cpierucci@le.utah.gov
+  note: District Office
+  voice: 385-414-1488
 links:
 - url: http://house.utah.gov/rep/PIERUC/
 sources:

@@ -1,0 +1,18 @@
+id: ocd-person/c5ee10bf-c394-4fb2-88ab-1c5e16f96b85
+name: Mel Gillis
+party:
+- name: Republican
+roles:
+- district: '25'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=gil
+sources:
+- url: http://w3.akleg.gov/
+given_name: Mel
+family_name: Gillis
+image: http://akleg.gov/images/legislators/gil.jpg
+contact_details:
+- email: Representative.Mel.Gillis@akleg.gov
+  note: Capitol Office

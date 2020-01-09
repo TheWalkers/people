@@ -12,7 +12,7 @@ given_name: Bob
 id: ocd-person/2ce92430-3b03-417d-8381-558a62215b56
 image: https://sdlegislature.gov/inc/img/Legislators/Glanzer_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1634&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1681&Session=2020
 name: Bob Glanzer
 other_identifiers:
 - identifier: SDL000294
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1634&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1681&Session=2020
 gender: Male

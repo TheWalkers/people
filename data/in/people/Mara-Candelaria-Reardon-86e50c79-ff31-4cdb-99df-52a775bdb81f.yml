@@ -12,11 +12,11 @@ contact_details:
   voice: 800-382-9842
   email: h12@iga.in.gov
 links:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_mara_candelaria_reardon_870
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_mara_candelaria_reardon_870
 sources:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_mara_candelaria_reardon_870
-- url: https://api.iga.in.gov/2019/legislators/mara_candelaria_reardon_870
-image: http://iga.in.gov/legislative/2019/portraits/legislator_mara_candelaria_reardon_870
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_mara_candelaria_reardon_870
+- url: https://api.iga.in.gov/2020/legislators/mara_candelaria_reardon_870
+image: http://iga.in.gov/legislative/2020/portraits/legislator_mara_candelaria_reardon_870
 other_identifiers:
 - identifier: INL000282
   scheme: legacy_openstates

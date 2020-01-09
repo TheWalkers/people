@@ -8,7 +8,7 @@ roles:
   type: upper
 contact_details:
 - address: 4600 Binsfeld Bldg
-  email: SenJ Bumstead@senate.michigan.gov
+  email: SenJBumstead@senate.michigan.gov
   fax: 517-373-3300
   note: Capitol Office
   voice: 517-373-1635
@@ -17,3 +17,4 @@ links:
 sources:
 - url: https://www.senatorjonbumstead.com/
 gender: Male
+image: http://www.senate.michigan.gov/_images/Bumstead.png

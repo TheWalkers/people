@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   type: upper
 contact_details:
-- address: Senate Box 203037;Harrisburg, PA 17120-3037;Room:;352 Main Capitol
+- address: Senate Box 203037;Harrisburg, PA 17120-3037;Room:;458 Main Capitol
   note: Capitol Office
   voice: 717-787-5839
 - address: 5996 Steubenville Pike Robinson Township, PA 15136

@@ -1,0 +1,19 @@
+id: ocd-person/ba94156f-7a47-4ddc-bf62-e7b1592f0939
+name: Ivan Smith
+party:
+- name: Republican
+roles:
+- district: '42'
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  type: lower
+contact_details:
+- address: Suite 531;11 S. Union Street;Montgomery, AL 36130
+  email: van.smith@alhouse.gov
+  note: Capitol Office
+  voice: 334-261-0459
+links:
+- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=105207&OID_PERSON=8811
+sources:
+- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=105207&OID_PERSON=8811
+- url: http://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+image: http://www.legislature.state.al.us/ALISWWW/House/Representative%20Pictures/Smith_42.jpeg

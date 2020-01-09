@@ -37,6 +37,7 @@ memberships:
 - id: ocd-person/75e95331-9f8b-4f33-9a0d-7a0c75f34971
   name: Rosalyn R. Dance
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/adb58f21-f2fd-4830-85b6-f490b0867d14
   name: Bryce E. Reeves
   start_date: '2019-09-01'

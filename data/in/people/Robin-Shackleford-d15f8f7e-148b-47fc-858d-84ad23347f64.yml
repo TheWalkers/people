@@ -12,11 +12,11 @@ contact_details:
   voice: 800-382-9842
   email: h98@iga.in.gov
 links:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_robin_shackleford_1128
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_robin_shackleford_1128
 sources:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_robin_shackleford_1128
-- url: https://api.iga.in.gov/2019/legislators/robin_shackleford_1128
-image: http://iga.in.gov/legislative/2019/portraits/legislator_robin_shackleford_1128
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_robin_shackleford_1128
+- url: https://api.iga.in.gov/2020/legislators/robin_shackleford_1128
+image: http://iga.in.gov/legislative/2020/portraits/legislator_robin_shackleford_1128
 other_identifiers:
 - identifier: INL000177
   scheme: legacy_openstates

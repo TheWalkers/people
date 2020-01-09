@@ -12,7 +12,7 @@ given_name: Kent
 id: ocd-person/92e3aaf4-6f63-42e7-ac4f-413edc651198
 image: https://sdlegislature.gov/inc/img/Legislators/Peterson_kent_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1630&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1677&Session=2020
 name: Kent Peterson
 other_identifiers:
 - identifier: SDL000305
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1630&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1677&Session=2020
 gender: Male

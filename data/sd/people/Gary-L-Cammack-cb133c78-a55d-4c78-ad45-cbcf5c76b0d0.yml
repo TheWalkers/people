@@ -6,13 +6,13 @@ contact_details:
   note: District Office
   voice: 605-985-5591
 extras:
-  occupation: Rancher/Businessman
+  occupation: Rancher & Businessman
 family_name: Cammack
 given_name: Gary L
 id: ocd-person/cb133c78-a55d-4c78-ad45-cbcf5c76b0d0
 image: https://sdlegislature.gov/inc/img/Legislators/Cammack_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1582&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1714&Session=2020
 name: Gary L Cammack
 other_identifiers:
 - identifier: SDL000268
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1582&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1714&Session=2020
 gender: Male

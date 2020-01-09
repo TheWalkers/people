@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: lower
 contact_details:
-- address: 101 E Hempstead Ave, Fairfield, IA 52556
+- address: 12245 Jasmine Ave, Birmingham, IA 52535
   note: District Office
 - email: Jeff.Shipley@legis.iowa.gov
   note: Capitol Office

@@ -1,0 +1,19 @@
+id: ocd-person/e475ebfc-3ea8-4c34-9a5f-6483ee9ce998
+name: Joseph D. Morrissey
+party:
+- name: Democratic
+roles:
+- district: '16'
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  type: upper
+contact_details:
+- address: 701 German School Road;Richmond, Virginia 23225
+  email: district16@senate.virginia.gov
+  note: District Office
+  voice: 804-737-1626
+links:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S110
+sources:
+- url: http://lis.virginia.gov/201/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S110
+image: https://apps.lis.virginia.gov/senatepics/newbiopics/Morrissey16.jpg

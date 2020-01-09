@@ -12,11 +12,11 @@ contact_details:
   voice: 800-382-9841
   email: h81@iga.in.gov
 links:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_martin_carbaugh_1125
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_martin_carbaugh_1125
 sources:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_martin_carbaugh_1125
-- url: https://api.iga.in.gov/2019/legislators/martin_carbaugh_1125
-image: http://iga.in.gov/legislative/2019/portraits/legislator_martin_carbaugh_1125
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_martin_carbaugh_1125
+- url: https://api.iga.in.gov/2020/legislators/martin_carbaugh_1125
+image: http://iga.in.gov/legislative/2020/portraits/legislator_martin_carbaugh_1125
 other_identifiers:
 - identifier: INL000159
   scheme: legacy_openstates

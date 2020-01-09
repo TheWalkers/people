@@ -12,7 +12,7 @@ given_name: Jean M
 id: ocd-person/487bbd05-7baf-40bf-81a5-cc9c9a4d8b8a
 image: https://sdlegislature.gov/inc/img/Legislators/Hunhoff_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1628&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1684&Session=2020
 name: Jean M Hunhoff
 other_identifiers:
 - identifier: SDL000263
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1628&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1684&Session=2020
 gender: Female

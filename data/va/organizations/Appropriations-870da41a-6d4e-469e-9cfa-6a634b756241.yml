@@ -43,12 +43,15 @@ memberships:
 - id: ocd-person/cb714e04-63fc-4c18-8c4b-b8fcd7283c95
   name: S. Chris Jones
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/04f50c5a-99b2-471e-9dae-55388faa5d21
   name: Riley E. Ingram
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/fc888921-a709-4869-98e5-ea55e3b59518
   name: R. Steven Landes
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/44ebbeab-055c-402b-a56e-bb7487d0da62
   name: Luke E. Torian
   start_date: '2019-09-01'
@@ -61,12 +64,14 @@ memberships:
 - id: ocd-person/22d64c46-91c7-4ab6-b242-cce49d3b89e5
   name: Christopher P. Stolle
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/86918ce8-0991-4328-b4e1-84ef258768f9
   name: Charles D. Poindexter
   start_date: '2019-09-01'
 - id: ocd-person/f0f146e5-3b1f-473b-aec1-5c48c6e6969b
   name: Christopher K. Peace
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/0589dd4d-e2e2-4a9d-b2fb-de9a76fe2882
   name: Matthew James
   start_date: '2019-09-01'
@@ -74,3 +79,4 @@ memberships:
 - id: ocd-person/b535a98c-616c-49c0-bbd1-93bc1b620e0b
   name: T. Scott Garrett
   start_date: '2019-09-01'
+  end_date: '2020-01-09'

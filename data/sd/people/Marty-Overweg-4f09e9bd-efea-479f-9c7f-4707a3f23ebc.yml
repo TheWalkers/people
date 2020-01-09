@@ -1,0 +1,18 @@
+id: ocd-person/4f09e9bd-efea-479f-9c7f-4707a3f23ebc
+name: Marty Overweg
+party:
+- name: Republican
+roles:
+- district: '19'
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  type: lower
+contact_details:
+- address: PO Box 24;New Holland, SD 57364
+  note: District Office
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1765&Session=2020
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1765&Session=2020
+image: https://sdlegislature.gov/inc/img/Legislators/overweg_2020.jpg
+extras:
+  occupation: ''

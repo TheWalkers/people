@@ -12,7 +12,7 @@ given_name: Phil
 id: ocd-person/cc4fe32a-b912-4876-96e5-32341ccdd06d
 image: https://sdlegislature.gov/inc/img/Legislators/Jensen_Phil_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1442&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1742&Session=2020
 name: Phil Jensen
 other_identifiers:
 - identifier: SDL000063
@@ -26,5 +26,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1442&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1742&Session=2020
 gender: Male

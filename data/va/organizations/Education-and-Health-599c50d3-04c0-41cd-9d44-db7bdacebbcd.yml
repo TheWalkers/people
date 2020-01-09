@@ -10,6 +10,7 @@ memberships:
 - id: ocd-person/c6c80a23-ec72-4807-b51e-bfffa1b829df
   name: Richard H. Black
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/19de2a54-1202-42ea-8292-2ebace918fa3
   name: John A. Cosgrove, Jr.
   start_date: '2019-09-01'
@@ -25,6 +26,7 @@ memberships:
 - id: ocd-person/23226580-5ba1-44dd-b9bd-cc06f827fcdf
   name: Charles W. Carrico, Sr.
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/e4396bfa-d22d-457e-b79a-f4bc36046a08
   name: Mark J. Peake
   start_date: '2019-09-01'

@@ -7,16 +7,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:hi/government
   type: lower
 contact_details:
-- address: Hawaii State Capitol, Room 433
+- address: Hawaii State Capitol, Room 418
   email: repsay@Capitol.hawaii.gov
   fax: 808-586-6910
   note: Capitol Office
   voice: 808-586-6900
 links:
-- url: http://capitol.hawaii.gov/memberpage.aspx?member=say&year=2019
+- url: http://capitol.hawaii.gov/memberpage.aspx?member=say&year=2020
 sources:
 - url: http://capitol.hawaii.gov/members/legislators.aspx?chamber=H
-- url: http://capitol.hawaii.gov/memberpage.aspx?member=say&year=2019
+- url: http://capitol.hawaii.gov/memberpage.aspx?member=say&year=2020
 image: http://capitol.hawaii.gov/Members/Images/RepSenPhotos/say.jpg
 other_identifiers:
 - identifier: HIL000066

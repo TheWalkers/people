@@ -1,7 +1,7 @@
 id: ocd-person/7dec7fbb-1b22-4335-af9e-ce153c4ba6d1
 name: S. Marshall Wilson
 party:
-- name: Republican
+- name: Independent
 roles:
 - district: '60'
   jurisdiction: ocd-jurisdiction/country:us/state:wv/government
@@ -11,7 +11,7 @@ contact_details:
   email: marshall.wilson@wvhouse.gov
   note: Capitol Office
   voice: 304-340-3147
-- address: P.O. Box 29;Gerrardstown, WV, 25420
+- address: P.O. Box 29;Gerrardstown, WV 25420
   note: District Office
   voice: 304-620-4446
 links:

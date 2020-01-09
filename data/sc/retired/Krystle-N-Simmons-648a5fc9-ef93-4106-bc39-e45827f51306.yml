@@ -1,0 +1,26 @@
+id: ocd-person/648a5fc9-ef93-4106-bc39-e45827f51306
+name: Krystle N. Simmons
+party:
+- name: Democratic
+roles:
+- district: '117'
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  type: lower
+  start_date: '2018-11-12'
+  end_date: '2020-01-09'
+contact_details:
+- address: P.O. Box 555Ladson 29456
+  note: District Office
+  voice: 843-310-8755
+- address: 414A Blatt Bldg.Columbia 29201
+  note: Capitol Office
+  voice: 803-212-6879
+links:
+- url: http://www.scstatehouse.gov/member.php?code=1694886161
+sources:
+- url: http://www.scstatehouse.gov/member.php?chamber=H
+- url: http://www.scstatehouse.gov/member.php?code=1694886161
+image: http://www.scstatehouse.gov/images/members/1694886161.jpg
+given_name: Krystle N.
+family_name: Simmons
+gender: Female

@@ -22,6 +22,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/98ce9311-8f46-4572-9866-80a7eceeb746
   name: Sheldon Neeley
+  end_date: '2020-01-09'
 - id: ocd-person/ddad7b1a-5f06-422b-8052-a24ea6d99b00
   name: Bettie Scott
   end_date: '2018-12-31'

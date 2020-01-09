@@ -1,0 +1,20 @@
+id: ocd-person/c462dd1b-1994-4868-a907-afcc942a09bc
+name: Joshua Aldrich
+party:
+- name: Republican
+roles:
+- district: Franklin-5
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  type: lower
+contact_details:
+- address: Vermont State House;115 State Street;Montpelier, VT 05633
+  note: Capitol Office
+- address: 1323 Berry Rd.;Richford, VT 05476
+  note: District Office
+  voice: 802-370-0066
+links:
+- url: http://legislature.vermont.gov/people/single/2020/30956
+sources:
+- url: http://legislature.vermont.gov/people/loadAll/2020
+- url: http://legislature.vermont.gov/people/single/2020/30956
+image: https://legislature.vermont.gov/images/profile.png

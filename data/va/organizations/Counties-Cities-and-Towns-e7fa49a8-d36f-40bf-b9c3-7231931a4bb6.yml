@@ -22,6 +22,7 @@ memberships:
 - id: ocd-person/04f50c5a-99b2-471e-9dae-55388faa5d21
   name: Riley E. Ingram
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/4196f814-742f-4f2c-9514-5d8f8448e530
   name: Jeffrey L. Campbell
   start_date: '2019-09-01'
@@ -49,12 +50,14 @@ memberships:
 - id: ocd-person/de5a48e7-d091-474f-885a-40e20b9e4625
   name: Robert M. "Bob" Thomas, Jr.
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/34c31079-0077-4ce5-9985-d0f2a95a12a7
   name: Elizabeth R. Guzman
   start_date: '2019-09-01'
 - id: ocd-person/22d64c46-91c7-4ab6-b242-cce49d3b89e5
   name: Christopher P. Stolle
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/a0b9b444-ee25-48a1-ab61-cf0be462e89d
   name: Charniele L. Herring
   start_date: '2019-09-01'

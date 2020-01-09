@@ -1,0 +1,23 @@
+id: ocd-person/e0342443-ff5e-47cb-b5f2-f6ab39a1ca28
+name: Michele Titus
+party:
+- name: Democratic
+roles:
+- district: '31'
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  type: lower
+  end_date: '2020-01-09'
+contact_details:
+- email: TitusM@nyassembly.gov
+  note: Capitol Office
+links:
+- url: http://assembly.state.ny.us/mem/?sh=email
+sources:
+- url: http://assembly.state.ny.us/mem/Michele-R-Titus
+image: http://assembly.state.ny.us/mem/pic/031.jpg
+other_identifiers:
+- identifier: NYL000204
+  scheme: legacy_openstates
+given_name: Michele
+family_name: Titus
+gender: Female

@@ -12,11 +12,11 @@ contact_details:
   voice: 800-382-9841
   email: h69@iga.in.gov
 links:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_jim_lucas_1123
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_jim_lucas_1123
 sources:
-- url: http://iga.in.gov/legislative/2019/legislators/legislator_jim_lucas_1123
-- url: https://api.iga.in.gov/2019/legislators/jim_lucas_1123
-image: http://iga.in.gov/legislative/2019/portraits/legislator_jim_lucas_1123
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_jim_lucas_1123
+- url: https://api.iga.in.gov/2020/legislators/jim_lucas_1123
+image: http://iga.in.gov/legislative/2020/portraits/legislator_jim_lucas_1123
 other_identifiers:
 - identifier: INL000168
   scheme: legacy_openstates

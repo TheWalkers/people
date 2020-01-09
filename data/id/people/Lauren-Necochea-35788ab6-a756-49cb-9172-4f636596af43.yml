@@ -1,0 +1,19 @@
+id: ocd-person/35788ab6-a756-49cb-9172-4f636596af43
+name: Lauren Necochea
+party:
+- name: Democratic
+roles:
+- district: '19'
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  type: lower
+contact_details:
+- address: P.O. Box 1634, Boise, ID, 83701
+  email: LNecochea@house.idaho.gov
+  note: District Office
+- note: Capitol Office
+  voice: 208-332-1078
+links:
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2020&district=19
+sources:
+- url: https://legislature.idaho.gov/house/membership/
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Necochea6315.jpg

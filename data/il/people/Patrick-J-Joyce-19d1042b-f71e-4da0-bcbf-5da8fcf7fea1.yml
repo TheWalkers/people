@@ -7,8 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:il/government
   type: upper
 contact_details:
-- address: Springfield, IL 62706
+- address: 108A Capitol Building;Springfield, IL 62706
   note: capitol
+  voice: 217-782-7419
+- address: 270 Main St.;Park Forest, IL 60466
+  fax: 708-756-0885
+  note: district
+  voice: 708-756-0882
 links:
 - url: http://ilga.gov/senate/Senator.asp?GA=101&MemberID=2774
 sources:

@@ -51,6 +51,7 @@ memberships:
   name: Tina M. Davis
 - id: ocd-person/0cd3ff01-0b7b-46db-b43d-d1c29f3bbe88
   name: Gene DiGirolamo
+  end_date: '2020-01-09'
 - id: ocd-person/999d1ffd-b893-4aac-9fbb-ae43b3039038
   name: Anita Astorino Kulik
 - id: ocd-person/3d3d4070-dadd-4382-9d40-be2892745773

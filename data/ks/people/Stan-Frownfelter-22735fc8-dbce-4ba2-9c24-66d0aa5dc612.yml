@@ -17,7 +17,7 @@ sources:
 - url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_frownfelter_stan_1
 image: http://www.kslegislature.org/li/m/images/pics/rep_frownfelter_stan_1.jpg
 extras:
-  occupation: Sales
+  occupation: Small Business Owner
 other_identifiers:
 - identifier: KSL000070
   scheme: legacy_openstates

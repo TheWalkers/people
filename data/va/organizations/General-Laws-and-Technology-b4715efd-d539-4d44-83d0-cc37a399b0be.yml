@@ -23,6 +23,7 @@ memberships:
 - id: ocd-person/c6c80a23-ec72-4807-b51e-bfffa1b829df
   name: Richard H. Black
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/48911708-f8c9-4fa5-bf7c-7d035b08874e
   name: Mamie E. Locke
   start_date: '2019-09-01'
@@ -50,6 +51,7 @@ memberships:
 - id: ocd-person/e1257f92-4694-4db0-8c21-3f04e6317e61
   name: Glen H. Sturtevant, Jr.
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/500ff29f-8ae7-4886-93ec-eec1ad91d299
   name: Jeremy S. McPike
   start_date: '2019-09-01'

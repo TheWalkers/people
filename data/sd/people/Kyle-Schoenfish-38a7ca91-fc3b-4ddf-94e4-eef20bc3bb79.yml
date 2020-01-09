@@ -12,7 +12,7 @@ given_name: Kyle
 id: ocd-person/38a7ca91-fc3b-4ddf-94e4-eef20bc3bb79
 image: https://sdlegislature.gov/inc/img/Legislators/Schoenfish_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1581&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1713&Session=2020
 name: Kyle Schoenfish
 other_identifiers:
 - identifier: SDL000195
@@ -23,6 +23,10 @@ roles:
 - district: '19'
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
+  end_date: '2020-01-09'
+- district: '19'
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1581&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1713&Session=2020
 gender: Male

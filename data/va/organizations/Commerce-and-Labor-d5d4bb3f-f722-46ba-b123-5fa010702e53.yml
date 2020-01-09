@@ -19,12 +19,14 @@ memberships:
 - id: ocd-person/4b6154c7-a3da-4ea7-b603-6b550de3c24b
   name: Timothy D. Hugo
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/fa49c701-d235-4f56-b9af-b772dec36d02
   name: Lamont Bagby
   start_date: '2019-09-01'
 - id: ocd-person/807d5302-2dfe-478b-8f64-d633e3cde795
   name: David E. Yancey
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/68256a03-ac6c-48a7-8184-bdc136ab038a
   name: Benjamin L. Cline
   start_date: '2019-09-01'
@@ -32,6 +34,7 @@ memberships:
 - id: ocd-person/4717d55f-dbe7-468a-a27c-8169d13248a1
   name: David J. Toscano
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/499a6c0f-5721-42f0-b335-81cac6379bbe
   name: Michael P. Mullin
   start_date: '2019-09-01'

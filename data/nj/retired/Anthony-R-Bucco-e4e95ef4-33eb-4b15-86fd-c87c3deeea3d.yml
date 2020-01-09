@@ -1,5 +1,5 @@
 id: ocd-person/e4e95ef4-33eb-4b15-86fd-c87c3deeea3d
-name: Anthony R. Bucco
+name: Anthony M. Bucco
 party:
 - name: Republican
 roles:
@@ -13,11 +13,11 @@ contact_details:
   note: District Office
   voice: 973-627-9700
 links:
-- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=148
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=419
 sources:
-- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=148
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=419
 - url: http://www.njleg.state.nj.us/downloads.asp
-image: http://www.njleg.state.nj.us/members/memberphotos/bucco_a_r_color.jpg
+image: http://www.njleg.state.nj.us/members/memberphotos/bucco_a_m_color.jpg
 gender: Male
 other_identifiers:
 - identifier: NJL000174

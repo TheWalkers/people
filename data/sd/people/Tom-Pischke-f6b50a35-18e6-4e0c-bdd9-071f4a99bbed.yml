@@ -12,7 +12,7 @@ given_name: Tom
 id: ocd-person/f6b50a35-18e6-4e0c-bdd9-071f4a99bbed
 image: https://sdlegislature.gov/inc/img/Legislators/Pischke_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1446&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1745&Session=2020
 name: Tom Pischke
 other_identifiers:
 - identifier: SDL000316
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1446&Session=2019
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1745&Session=2020
 gender: Male

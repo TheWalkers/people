@@ -25,6 +25,7 @@ memberships:
 - id: ocd-person/f0f146e5-3b1f-473b-aec1-5c48c6e6969b
   name: Christopher K. Peace
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/0f77b7d1-a89e-41cd-ae83-28d267dab0e2
   name: James W. Morefield
   start_date: '2019-09-01'
@@ -52,6 +53,7 @@ memberships:
 - id: ocd-person/89534015-7e7b-49f6-baf0-a159c70f4a1b
   name: Gordon C. Helsel, Jr.
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/4ae07d5d-1da3-4370-b796-7698013ca994
   name: Delores L. McQuinn
   start_date: '2019-09-01'
@@ -64,6 +66,7 @@ memberships:
 - id: ocd-person/c5df254a-dd6f-47fe-8248-8bef35035ff9
   name: Richard P. Bell
   start_date: '2019-09-01'
+  end_date: '2020-01-09'
 - id: ocd-person/4b9475ab-9d86-4e70-8dbc-720aef129410
   name: Kathleen Murphy
   start_date: '2019-09-01'
