@@ -6,13 +6,6 @@ al:
   legislature_name: Alabama Legislature
   lower_seats: 105
   upper_seats: 35
-  vacancies:
-    - chamber: lower
-      district: 42
-      vacant_until: 2019-12-01
-    - chamber: lower
-      district: 74
-      vacant_until: 2019-12-01
 ar:
   legislature_name: Arkansas General Assembly
   lower_seats: 100
@@ -28,12 +21,9 @@ ca:
   lower_chamber_name: Assembly
   upper_seats: 40
   vacancies:
-    - chamber: lower
-      district: 1
-      vacant_until: 2019-12-01
-    - chamber: lower
+    - chamber: upper
       district: 28
-      vacant_until: 2019-12-01
+      vacant_until: 2020-05-19
 co:
   legislature_name: Colorado General Assembly
   lower_seats: 65
@@ -42,6 +32,16 @@ ct:
   legislature_name: Connecticut General Assembly
   lower_seats: 151
   upper_seats: 36
+  vacancies:
+    - chamber: lower
+      district: 48
+      vacant_until: 2020-04-01
+    - chamber: lower
+      district: 132
+      vacant_until: 2020-04-01
+    - chamber: lower
+      district: 151
+      vacant_until: 2020-04-01
 dc:
   legislature_name: Council of the District of Columbia
   legislature_seats: {'Ward 1': 1, 'Ward 2': 1, 'Ward 3': 1, 'Ward 4': 1, 'Ward 5': 1, 'Ward 6': 1, 'Ward 7': 1, 'Ward 8': 1, 'Chairman': 1, 'At-Large': 4}
@@ -71,11 +71,11 @@ ga:
   upper_seats: 56
   vacancies:
     - chamber: lower
-      district: 28
-      vacant_until: 2019-12-01
-    - chamber: lower
-      district: 152
-      vacant_until: 2019-12-01
+      district: 171
+      vacant_until: 2020-05-01
+    - chamber: upper
+      district: 13
+      vacant_until: 2020-05-01
 hi:
   legislature_name: Hawaii State Legislature
   lower_seats: 51
@@ -93,9 +93,9 @@ il:
   lower_seats: 118
   upper_seats: 59
   vacancies:
-    - chamber: lower
-      district: 3
-      vacant_until: 2020-01-01
+    - chamber: upper
+      district: 11
+      vacant_until: 2020-11-10
 in:
   legislature_name: Indiana General Assembly
   lower_seats: 100
@@ -109,12 +109,15 @@ ky:
   lower_seats: 100
   upper_seats: 38
   vacancies:
+    - chamber: upper
+      district: 38
+      vacant_until: 2020-05-01
     - chamber: lower
-      district: 18
-      vacant_until: 2020-02-01
+      district: 67
+      vacant_until: 2020-05-01
     - chamber: lower
-      district: 63
-      vacant_until: 2020-02-01
+      district: 99
+      vacant_until: 2020-05-01
 la:
   legislature_name: Louisiana Legislature
   lower_seats: 105
@@ -122,7 +125,7 @@ la:
   vacancies:
     - chamber: lower
       district: 31
-      vacant_until: 2019-12-01
+      vacant_until: 2020-03-01
 ma:
   legislature_name: Massachusetts General Court
   lower_seats: ["Tenth Bristol", "Tenth Essex", "Tenth Hampden", "Tenth Middlesex", "Tenth Norfolk", "Tenth Plymouth", "Tenth Suffolk", "Tenth Worcester", "Eleventh Bristol", "Eleventh Essex", "Eleventh Hampden", "Eleventh Middlesex", "Eleventh Norfolk", "Eleventh Plymouth", "Eleventh Suffolk", "Eleventh Worcester", "Twelfth Bristol", "Twelfth Essex", "Twelfth Hampden", "Twelfth Middlesex", "Twelfth Norfolk", "Twelfth Plymouth", "Twelfth Suffolk", "Twelfth Worcester", "Thirteenth Bristol", "Thirteenth Essex", "Thirteenth Middlesex", "Thirteenth Norfolk", "Thirteenth Suffolk", "Thirteenth Worcester", "Fourteenth Bristol", "Fourteenth Essex", "Fourteenth Middlesex", "Fourteenth Norfolk", "Fourteenth Suffolk", "Fourteenth Worcester", "Fifteenth Essex", "Fifteenth Middlesex", "Fifteenth Norfolk", "Fifteenth Suffolk", "Fifteenth Worcester", "Sixteenth Essex", "Sixteenth Middlesex", "Sixteenth Suffolk", "Sixteenth Worcester", "Seventeenth Essex", "Seventeenth Middlesex", "Seventeenth Suffolk", "Seventeenth Worcester", "Eighteenth Essex", "Eighteenth Middlesex", "Eighteenth Suffolk", "Eighteenth Worcester", "Nineteenth Middlesex", "Nineteenth Suffolk", "First Barnstable", "First Berkshire", "First Bristol", "First Essex", "First Franklin", "First Hampden", "First Hampshire", "First Middlesex", "First Norfolk", "First Plymouth", "First Suffolk", "First Worcester", "Twentieth Middlesex", "Twenty-First Middlesex", "Twenty-Second Middlesex", "Twenty-Third Middlesex", "Twenty-Fourth Middlesex", "Twenty-Fifth Middlesex", "Twenty-Sixth Middlesex", "Twenty-Seventh Middlesex", "Twenty-Eighth Middlesex", "Twenty-Ninth Middlesex", "Second Barnstable", "Second Berkshire", "Second Bristol", "Second Essex", "Second Franklin", "Second Hampden", "Second Hampshire", "Second Middlesex", "Second Norfolk", "Second Plymouth", "Second Suffolk", "Second Worcester", "Thirtieth Middlesex", "Thirty-First Middlesex", "Thirty-Second Middlesex", "Thirty-Third Middlesex", "Thirty-Fourth Middlesex", "Thirty-Fifth Middlesex", "Thirty-Sixth Middlesex", "Thirty-Seventh Middlesex", "Third Barnstable", "Third Berkshire", "Third Bristol", "Third Essex", "Third Hampden", "Third Hampshire", "Third Middlesex", "Third Norfolk", "Third Plymouth", "Third Suffolk", "Third Worcester", "Fourth Barnstable", "Fourth Berkshire", "Fourth Bristol", "Fourth Essex", "Fourth Hampden", "Fourth Middlesex", "Fourth Norfolk", "Fourth Plymouth", "Fourth Suffolk", "Fourth Worcester", "Fifth Barnstable", "Fifth Bristol", "Fifth Essex", "Fifth Hampden", "Fifth Middlesex", "Fifth Norfolk", "Fifth Plymouth", "Fifth Suffolk", "Fifth Worcester", "Sixth Bristol", "Sixth Essex", "Sixth Hampden", "Sixth Middlesex", "Sixth Norfolk", "Sixth Plymouth", "Sixth Suffolk", "Sixth Worcester", "Seventh Bristol", "Seventh Essex", "Seventh Hampden", "Seventh Middlesex", "Seventh Norfolk", "Seventh Plymouth", "Seventh Suffolk", "Seventh Worcester", "Eighth Bristol", "Eighth Essex", "Eighth Hampden", "Eighth Middlesex", "Eighth Norfolk", "Eighth Plymouth", "Eighth Suffolk", "Eighth Worcester", "Ninth Bristol", "Ninth Essex", "Ninth Hampden", "Ninth Middlesex", "Ninth Norfolk", "Ninth Plymouth", "Ninth Suffolk", "Ninth Worcester", "Barnstable, Dukes and Nantucket"]
@@ -329,6 +332,22 @@ ma:
     "Ninth Suffolk": "ocd-division/country:us/state:ma/sldl:9th_suffolk"
     "Ninth Worcester": "ocd-division/country:us/state:ma/sldl:9th_worcester"
     "Barnstable, Dukes and Nantucket": "ocd-division/country:us/state:ma/sldl:barnstable_dukes_and_nantucket"
+  vacancies:
+    - chamber: upper
+      district: Plymouth and Barnstable
+      vacant_until: 2020-04-07
+    - chamber: upper
+      district: Second Hampden and Hampshire
+      vacant_until: 2020-04-07
+    - chamber: lower
+      district: Third Bristol
+      vacant_until: 2020-04-07
+    - chamber: lower
+      district: Thirty-Second Middlesex
+      vacant_until: 2020-04-07
+    - chamber: lower
+      district: Thirty-Seventh Middlesex
+      vacant_until: 2020-04-07
 md:
   legislature_name: Maryland General Assembly
   lower_seats: {'1A': 1, '1B': 1, '1C': 1, '2A': 2, '2B': 1, '3A': 2, '3B': 1, '4': 3, '5': 3, '6': 3, '7': 3, '8': 3, '9A': 2, '9B': 1, '10': 3, '11': 3, '12': 3, '13': 3, '14': 3, '15': 3, '16': 3, '17': 3, '18': 3, '19': 3, '20': 3, '21': 3, '22': 3, '23A': 1, '23B': 2, '24': 3, '25': 3, '26': 3, '27A': 1, '27B': 1, '27C': 1, '28': 3, '29A': 1, '29B': 1, '29C': 1, '30A': 2, '30B': 1, '31A': 1, '31B': 2, '32': 3, '33': 3, '34A': 2, '34B': 1, '35A': 1, '35B': 2, '36': 3, '37A': 1, '37B': 2, '38A': 1, '38B': 1, '38C': 1, '39': 3, '40': 3, '41': 3, '42A': 1, '42B': 2, '43': 3, '44A': 1, '44B': 2, '45': 3, '46': 3, '47A': 2, '47B': 1}
@@ -337,15 +356,26 @@ md:
   vacancies:
     - chamber: lower
       district: 22
-      vacant_until: 2020-01-01
+      vacant_until: 2020-03-01
 me:
   legislature_name: Maine Legislature
   lower_seats: 151
   upper_seats: 35
+  vacancies:
+    - chamber: lower
+      district: 35
+      vacant_until: 2020-03-01
+    - chamber: lower
+      district: 128
+      vacant_until: 2020-03-01
 mi:
   legislature_name: Michigan Legislature
   lower_seats: 110
   upper_seats: 38
+  vacancies:
+    - chamber: lower
+      district: 34
+      vacant_until: 2020-03-17
 mn:
   lower_seats: ['1A', '1B', '2A', '2B', '3A', '3B', '4A', '4B', '5A', '5B', '6A', '6B', '7A', '7B', '8A', '8B', '9A', '9B', '10A', '10B', '11A', '11B', '12A', '12B', '13A', '13B', '14A', '14B', '15A', '15B', '16A', '16B', '17A', '17B', '18A', '18B', '19A', '19B', '20A', '20B', '21A', '21B', '22A', '22B', '23A', '23B', '24A', '24B', '25A', '25B', '26A', '26B', '27A', '27B', '28A', '28B', '29A', '29B', '30A', '30B', '31A', '31B', '32A', '32B', '33A', '33B', '34A', '34B', '35A', '35B', '36A', '36B', '37A', '37B', '38A', '38B', '39A', '39B', '40A', '40B', '41A', '41B', '42A', '42B', '43A', '43B', '44A', '44B', '45A', '45B', '46A', '46B', '47A', '47B', '48A', '48B', '49A', '49B', '50A', '50B', '51A', '51B', '52A', '52B', '53A', '53B', '54A', '54B', '55A', '55B', '56A', '56B', '57A', '57B', '58A', '58B', '59A', '59B', '60A', '60B', '61A', '61B', '62A', '62B', '63A', '63B', '64A', '64B', '65A', '65B', '66A', '66B', '67A', '67B']
   legslature_name: Minnesota State Legislature
@@ -360,25 +390,7 @@ mo:
   upper_seats: 34
   vacancies:
     - chamber: lower
-      district: 22
-      vacant_until: 2021-01-01
-    - chamber: lower
       district: 34
-      vacant_until: 2021-01-01
-    - chamber: lower
-      district: 36
-      vacant_until: 2021-01-01
-    - chamber: lower
-      district: 74
-      vacant_until: 2021-01-01
-    - chamber: lower
-      district: 78
-      vacant_until: 2021-01-01
-    - chamber: lower
-      district: 99
-      vacant_until: 2021-01-01
-    - chamber: lower
-      district: 158
       vacant_until: 2021-01-01
 ms:
   legislature_name: Mississippi Legislature
@@ -420,18 +432,17 @@ nj:
   lower_title: Assembly Member
   lower_chamber_name: Assembly
   upper_seats: 40
-  vacancies:
-    - chamber: lower
-      district: 25
-      vacant_until: 2020-03-01
 nm:
   legislature_name: New Mexico Legislature
   lower_seats: 70
   upper_seats: 42
   vacancies:
-    - chamber: upper
-      district: 6
-      vacant_until: 2020-03-01
+    - chamber: lower
+      district: 27
+      vacant_until: 2020-06-01
+    - chamber: lower
+      district: 42
+      vacant_until: 2020-06-01
 nv:
   legislature_name: Nevada Legislature
   lower_seats: 42
@@ -449,8 +460,14 @@ ny:
   lower_title: Assembly Member
   upper_seats: 63
   vacancies:
+    - chamber: lower
+      district: 12
+      vacant_until: 2021-01-01
+    - chamber: lower
+      district: 31
+      vacant_until: 2021-01-01
     - chamber: upper
-      district: 57
+      district: 50
       vacant_until: 2021-01-01
 oh:
   legislature_name: Ohio General Assembly
@@ -460,22 +477,39 @@ ok:
   legislature_name: Oklahoma Legislature
   lower_seats: 101
   upper_seats: 48
+  vacancies:
+    - chamber: lower
+      district: 89
+      vacant_until: 2021-01-21
 or:
   legislature_name: Oregon Legislative Assembly
   lower_seats: 60
   upper_seats: 30
   vacancies:
+      # not actually vacant, but data for new sesssion legislators not yet available
     - chamber: lower
       district: 19
-      vacant_until: 2019-12-01
+      vacant_until: 2020-01-21
 pa:
   legislature_name: Pennsylvania General Assembly
   lower_seats: 203
   upper_seats: 50
   vacancies:
+    - chamber: lower
+      district: 8
+      vacant_until: 2021-01-01
+    - chamber: lower
+      district: 18
+      vacant_until: 2021-01-01
+    - chamber: lower
+      district: 58
+      vacant_until: 2021-01-01
+    - chamber: lower
+      district: 190
+      vacant_until: 2021-01-01
     - chamber: upper
       district: 48
-      vacant_until: 2020-01-21
+      vacant_until: 2021-01-01
 pr:
   legislature_name: Legislative Assembly of Puerto Rico
   lower_seats: {'1': 1, '2': 1, '3': 1, '4': 1, '5': 1, '6': 1, '7': 1, '8': 1, '9': 1, '10': 1, '11': 1, '12': 1, '13': 1, '14': 1, '15': 1, '16': 1, '17': 1, '18': 1, '19': 1, '20': 1, '21': 1, '22': 1, '23': 1, '24': 1, '25': 1, '26': 1, '27': 1, '28': 1, '29': 1, '30': 1, '31': 1, '32': 1, '33': 1, '34': 1, '35': 1, '36': 1, '37': 1, '38': 1, '39': 1, '40': 1, 'At-Large': 11}
@@ -495,6 +529,10 @@ ri:
   legislature_name: Rhode Island General Assembly
   lower_seats: 75
   upper_seats: 38
+  vacancies:
+    - chamber: lower
+      district: 56
+      vacant_until: 2020-03-10
 sc:
   legislature_name: South Carolina Legislature
   lower_seats: 124
@@ -530,25 +568,18 @@ va:
   lower_seats: 100
   lower_title: Delegate
   upper_seats: 40
-  vacancies:
-    - chamber: lower
-      district: 80
-      vacant_until: 2020-03-01
-    - chamber: upper
-      district: 7
-      vacant_until: 2020-03-01
 vt:
   legislature_name: Vermont General Assembly
   lower_seats: {'Addison-1': 2, 'Addison-2': 1, 'Addison-3': 2, 'Addison-4': 2, 'Addison-5': 1, 'Addison-Rutland': 1, 'Bennington-1': 1, 'Bennington-2-1': 2, 'Bennington-2-2': 2, 'Bennington-3': 1, 'Bennington-4': 2, 'Bennington-Rutland': 1, 'Caledonia-1': 1, 'Caledonia-2': 1, 'Caledonia-3': 2, 'Caledonia-4': 2, 'Caledonia-Washington': 1, 'Chittenden-10': 2, 'Chittenden-1': 1, 'Chittenden-2': 2, 'Chittenden-3': 2, 'Chittenden-4-1': 1, 'Chittenden-4-2': 1, 'Chittenden-5-1': 1, 'Chittenden-5-2': 1, 'Chittenden-6-1': 2, 'Chittenden-6-2': 1, 'Chittenden-6-3': 2, 'Chittenden-6-4': 2, 'Chittenden-6-5': 2, 'Chittenden-6-6': 1, 'Chittenden-6-7': 2, 'Chittenden-7-1': 1, 'Chittenden-7-2': 1, 'Chittenden-7-3': 1, 'Chittenden-7-4': 1, 'Chittenden-8-1': 2, 'Chittenden-8-2': 2, 'Chittenden-8-3': 1, 'Chittenden-9-1': 2, 'Chittenden-9-2': 2, 'Essex-Caledonia': 1, 'Essex-Caledonia-Orleans': 1, 'Franklin-1': 1, 'Franklin-2': 1, 'Franklin-3-1': 2, 'Franklin-3-2': 1, 'Franklin-4': 2, 'Franklin-5': 2, 'Franklin-6': 1, 'Franklin-7': 1, 'Grand Isle-Chittenden': 2, 'Lamoille-1': 1, 'Lamoille-2': 2, 'Lamoille-3': 1, 'Lamoille-Washington': 2, 'Orange-1': 2, 'Orange-2': 1, 'Orange-Caledonia': 1, 'Orange-Washington-Addison': 2, 'Orleans-1': 2, 'Orleans-2': 2, 'Orleans-Caledonia': 2, 'Orleans-Lamoille': 1, 'Rutland-1': 1, 'Rutland-2': 2, 'Rutland-3': 2, 'Rutland-4': 1, 'Rutland-5-1': 1, 'Rutland-5-2': 1, 'Rutland-5-3': 1, 'Rutland-5-4': 1, 'Rutland-6': 2, 'Rutland-Bennington': 1, 'Rutland-Windsor-1': 1, 'Rutland-Windsor-2': 1, 'Washington-1': 2, 'Washington-2': 2, 'Washington-3': 2, 'Washington-4': 2, 'Washington-5': 1, 'Washington-6': 1, 'Washington-7': 2, 'Washington-Chittenden': 2, 'Windham-1': 1, 'Windham-2-1': 1, 'Windham-2-2': 1, 'Windham-2-3': 1, 'Windham-3': 2, 'Windham-4': 2, 'Windham-5': 1, 'Windham-6': 1, 'Windham-Bennington': 1, 'Windham-Bennington-Windsor': 1, 'Windsor-1': 2, 'Windsor-2': 1, 'Windsor-3-1': 1, 'Windsor-3-2': 2, 'Windsor-4-1': 1, 'Windsor-4-2': 2, 'Windsor-5': 1, 'Windsor-Orange-1': 1, 'Windsor-Orange-2': 2, 'Windsor-Rutland': 1}
   upper_seats: {'Addison': 2, 'Bennington': 2, 'Caledonia': 2, 'Chittenden': 6, 'Essex-Orleans': 2, 'Franklin': 2, 'Grand Isle': 1, 'Lamoille': 1, 'Orange': 1, 'Rutland': 3, 'Washington': 3, 'Windham': 2, 'Windsor': 3}
-  vacancies:
-    - chamber: lower
-      district: Orange-Washington-Addison
-      vacant_until: 2020-03-01
 wa:
   legislature_name: Washington State Legislature
   lower_seats: {'1': 2, '2': 2, '3': 2, '4': 2, '5': 2, '6': 2, '7': 2, '8': 2, '9': 2, '10': 2, '11': 2, '12': 2, '13': 2, '14': 2, '15': 2, '16': 2, '17': 2, '18': 2, '19': 2, '20': 2, '21': 2, '22': 2, '23': 2, '24': 2, '25': 2, '26': 2, '27': 2, '28': 2, '29': 2, '30': 2, '31': 2, '32': 2, '33': 2, '34': 2, '35': 2, '36': 2, '37': 2, '38': 2, '39': 2, '40': 2, '41': 2, '42': 2, '43': 2, '44': 2, '45': 2, '46': 2, '47': 2, '48': 2, '49': 2}
   upper_seats: 49
+  vacancies:
+    - chamber: lower
+      district: 30
+      vacant_until: 2020-04-01
 wi:
   legislature_name: Wisconsin State Legislature
   lower_seats: 99
