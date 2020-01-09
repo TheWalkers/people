@@ -6,6 +6,10 @@ roles:
 - district: '42'
   jurisdiction: ocd-jurisdiction/country:us/state:nm/government
   type: lower
+  end_date: 2019-12-13
+- district: '6'
+  jurisdiction: ocd-jurisdiction/country:us/state:nm/government
+  type: upper
 contact_details:
 - address: 26 Lavender Lane;Ranchos De Taos, NM 87557
   note: District Office
@@ -15,10 +19,10 @@ contact_details:
   note: Capitol Office
   voice: 505-986-4319
 links:
-- url: http://www.nmlegis.gov/Members/Legislator?SponCode=HGONZ
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ
 sources:
-- url: http://www.nmlegis.gov/Members/Legislator?SponCode=HGONZ
-image: http://www.nmlegis.gov/Images/Legislators/House/HGONZ.jpg
+- url: http://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ
+image: http://www.nmlegis.gov/Images/Legislators/Senate/SGONZ.jpg
 other_identifiers:
 - identifier: NML000376
   scheme: legacy_openstates
