@@ -44,6 +44,7 @@ memberships:
   name: Douglas J. J. Peters
 - id: ocd-person/c5bd7f19-2903-4371-838e-d06dbdafcc6f
   name: Bobby A. Zirkin
+  end_date: '2020-01-10'
 - id: ocd-person/b7119231-82fe-4bf6-8045-280f784308d9
   name: Kumar P. Barve
 - id: ocd-person/5038b5f5-d963-4269-8b17-9f513469797c

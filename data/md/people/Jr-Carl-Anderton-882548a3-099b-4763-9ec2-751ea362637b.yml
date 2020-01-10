@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 410-841-3431
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=anderton01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/anderton01
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=anderton01&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/anderton01.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/anderton01
+image: http://mgaleg.maryland.gov/2020RS/images/anderton01.jpg
 other_identifiers:
 - identifier: MDL000684
   scheme: legacy_openstates

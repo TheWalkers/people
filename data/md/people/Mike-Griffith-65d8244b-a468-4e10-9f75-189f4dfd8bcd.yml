@@ -1,0 +1,18 @@
+id: ocd-person/65d8244b-a468-4e10-9f75-189f4dfd8bcd
+name: Mike Griffith
+party:
+- name: Republican
+roles:
+- district: 35B
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  type: lower
+contact_details:
+- address: 319 House Office Building;6 Bladen St;Annapolis, MD 21401
+  email: mike.griffith@house.state.md.us
+  note: Capitol Office
+  voice: 410-841-3444
+links:
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/griffith02
+sources:
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/griffith02
+image: http://mgaleg.maryland.gov/2020RS/images/griffith02.jpg

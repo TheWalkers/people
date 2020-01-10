@@ -7,16 +7,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:md/government
   type: upper
 contact_details:
-- address: 3 West Miller Senate Office Building;11 Bladen Street;Annapolis, MD 21401
+- address: 121 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401
   email: nancy.king@senate.state.md.us
   fax: 410-841-6370
   note: Capitol Office
   voice: 410-841-3686
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=king&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/king
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=king&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/king.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/king
+image: http://mgaleg.maryland.gov/2020RS/images/king.jpg
 other_identifiers:
 - identifier: MDL000213
   scheme: legacy_openstates

@@ -13,10 +13,10 @@ contact_details:
   voice: 410-841-3258
   email: nino.mangione@house.state.md.us
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mangione01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/mangione01
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mangione01&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/mangione01.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/mangione01
+image: http://mgaleg.maryland.gov/2020RS/images/mangione01.jpg
 given_name: Nino
 family_name: Mangione
 gender: Male

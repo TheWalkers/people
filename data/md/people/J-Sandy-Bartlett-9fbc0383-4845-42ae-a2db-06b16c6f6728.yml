@@ -14,10 +14,10 @@ contact_details:
   voice: 410-841-3370
   fax: 410-841-3437
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=bartlett02&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/bartlett02
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=bartlett02&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/bartlett02.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/bartlett02
+image: http://mgaleg.maryland.gov/2020RS/images/bartlett02.jpg
 given_name: Sandy
 family_name: Bartlett
 gender: Female

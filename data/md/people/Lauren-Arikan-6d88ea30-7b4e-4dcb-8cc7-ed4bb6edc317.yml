@@ -14,10 +14,10 @@ contact_details:
   voice: 410-841-3334
   fax: 410-841-3336
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=arikan01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/arikan01
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=arikan01&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/arikan01.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/arikan01
+image: http://mgaleg.maryland.gov/2020RS/images/arikan01.jpg
 given_name: Lauren
 family_name: Arikan
 gender: Female

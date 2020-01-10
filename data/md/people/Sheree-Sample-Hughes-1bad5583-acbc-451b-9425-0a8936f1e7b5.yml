@@ -7,16 +7,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:md/government
   type: lower
 contact_details:
-- address: 427 House Office Building;6 Bladen Street;Annapolis, MD 21401
+- address: 311 House Office Building;6 Bladen Street;Annapolis, MD 21401
   email: Sheree.Sample.Hughes@house.state.md.us
   note: Capitol Office
   voice: 410-841-3427
   fax: 410-841-3780
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=sample01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/sample01
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=sample01&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/sample01.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/sample01
+image: http://mgaleg.maryland.gov/2020RS/images/sample01.jpg
 other_identifiers:
 - identifier: MDL000683
   scheme: legacy_openstates

@@ -14,10 +14,10 @@ contact_details:
   voice: 410-841-3283
   fax: 410-841-3267
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=bridges01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/bridges01
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=bridges01&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/bridges01.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/bridges01
+image: http://mgaleg.maryland.gov/2020RS/images/bridges01.jpg
 given_name: Tony
 family_name: Bridges
 gender: Male

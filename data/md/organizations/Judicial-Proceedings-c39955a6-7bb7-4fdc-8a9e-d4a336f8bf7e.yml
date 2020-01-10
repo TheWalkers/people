@@ -10,6 +10,7 @@ memberships:
 - id: ocd-person/c5bd7f19-2903-4371-838e-d06dbdafcc6f
   name: Bobby A. Zirkin
   role: chair
+  end_date: '2020-01-10'
 - id: ocd-person/ac5223df-8477-4cd7-90d7-7b150975fa89
   name: Delores G. Kelley
   role: vice chair

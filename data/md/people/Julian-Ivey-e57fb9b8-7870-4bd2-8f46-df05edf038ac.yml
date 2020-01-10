@@ -13,10 +13,10 @@ contact_details:
   note: Capitol Office
   voice: 410-841-3326
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=ivey01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/ivey01
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=ivey01&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/ivey01.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/ivey01
+image: http://mgaleg.maryland.gov/2020RS/images/ivey01.jpg
 given_name: Julian
 family_name: Ivey
 gender: Male

@@ -14,10 +14,10 @@ contact_details:
   voice: 410-841-3240
   fax: 410-841-3308
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kerr01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/kerr01
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kerr01&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/kerr01.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/kerr01
+image: http://mgaleg.maryland.gov/2020RS/images/kerr01.jpg
 given_name: Ken
 family_name: Kerr
 gender: Male

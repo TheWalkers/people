@@ -14,10 +14,10 @@ contact_details:
   voice: 410-841-3603
   fax: 410-841-3395
 links:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=gallion01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/gallion01
 sources:
-- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=gallion01&stab=01
-image: http://mgaleg.maryland.gov/2019RS/images/gallion01.jpg
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/gallion01
+image: http://mgaleg.maryland.gov/2020RS/images/gallion01.jpg
 given_name: Jason
 family_name: Gallion
 gender: Male
