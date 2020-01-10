@@ -11,6 +11,8 @@ contact_details:
   email: David.Parks@sen.state.nv.us
   note: District Office
   voice: 702-736-6929
+- note: Capitol Office
+  voice: 775-684-6504
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=34
 sources:

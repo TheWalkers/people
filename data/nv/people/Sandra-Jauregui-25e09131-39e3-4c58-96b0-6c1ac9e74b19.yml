@@ -10,6 +10,8 @@ contact_details:
 - address: 7582 Las Vegas Boulevard South, No. 118;Las Vegas, NV 89123-1009
   note: District Office
   email: Sandra.Jauregui@asm.state.nv.us
+- note: Capitol Office
+  voice: 775-684-8821
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=344
 sources:

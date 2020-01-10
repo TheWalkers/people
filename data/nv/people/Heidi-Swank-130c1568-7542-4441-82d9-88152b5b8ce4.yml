@@ -11,6 +11,8 @@ contact_details:
   email: Heidi.Swank@asm.state.nv.us
   note: District Office
   voice: 702-371-6217
+- note: Capitol Office
+  voice: 775-684-8595
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=235
 sources:

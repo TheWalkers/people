@@ -11,6 +11,8 @@ contact_details:
   email: Nicole.Cannizzaro@sen.state.nv.us
   note: District Office
   voice: 775-684-1475
+- note: Capitol Office
+  voice: 775-684-1475
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=347
 sources:

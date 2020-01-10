@@ -11,6 +11,8 @@ contact_details:
   email: Joe.Hardy@sen.state.nv.us
   note: District Office
   voice: 702-293-7506
+- note: Capitol Office
+  voice: 775-684-1462
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=17
 sources:

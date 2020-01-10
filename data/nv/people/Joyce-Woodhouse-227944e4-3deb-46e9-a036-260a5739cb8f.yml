@@ -11,6 +11,8 @@ contact_details:
   email: Joyce.Woodhouse@sen.state.nv.us
   note: District Office
   voice: 702-896-1453
+- note: Capitol Office
+  voice: 775-684-1457
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=64
 sources:

@@ -11,6 +11,8 @@ contact_details:
   email: Dina.Neal@asm.state.nv.us
   note: District Office
   voice: 702-738-5870
+- note: Capitol Office
+  voice: 775-684-8587
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=129
 sources:

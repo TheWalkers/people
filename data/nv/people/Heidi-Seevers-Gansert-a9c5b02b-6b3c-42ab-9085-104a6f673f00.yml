@@ -11,6 +11,8 @@ contact_details:
 - address: '316 California Avenue, #519;Reno, NV 89509'
   note: District Office
   email: Heidi.Gansert@sen.state.nv.us
+- note: Capitol Office
+  voice: 775-684-1419
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=12
 sources:

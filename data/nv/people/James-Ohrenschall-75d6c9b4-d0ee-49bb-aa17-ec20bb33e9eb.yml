@@ -16,6 +16,8 @@ contact_details:
   email: James.Ohrenschall@sen.state.nv.us
   note: District Office
   voice: 702-432-6999
+- note: Capitol Office
+  voice: 775-684-6503
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=67
 sources:

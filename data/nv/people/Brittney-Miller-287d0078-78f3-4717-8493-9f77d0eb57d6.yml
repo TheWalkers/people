@@ -11,6 +11,8 @@ contact_details:
   email: Brittney.Miller@asm.state.nv.us
   note: District Office
   voice: 702-518-0599
+- note: Capitol Office
+  voice: 775-684-8833
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=304
 sources:

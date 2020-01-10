@@ -11,6 +11,8 @@ contact_details:
   email: Robin.Titus@asm.state.nv.us
   note: District Office
   voice: 775-901-3844
+- note: Capitol Office
+  voice: 775-684-8507
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=281
 sources:

@@ -12,6 +12,8 @@ contact_details:
   email: Alexis.Hansen@asm.state.nv.us
   note: District Office
   voice: 775-626-1122
+- note: Capitol Office
+  voice: 775-684-8851
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=366
 sources:

@@ -11,6 +11,8 @@ contact_details:
   email: Ozzie.Fumo@asm.state.nv.us
   note: District Office
   voice: 702-683-4806
+- note: Capitol Office
+  voice: 775-684-8839
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=320
 sources:

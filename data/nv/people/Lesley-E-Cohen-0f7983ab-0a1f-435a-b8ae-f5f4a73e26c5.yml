@@ -11,6 +11,8 @@ contact_details:
   email: Lesley.Cohen@asm.state.nv.us
   note: District Office
   voice: 702-715-0772
+- note: Capitol Office
+  voice: 775-684-8855
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=268
 sources:

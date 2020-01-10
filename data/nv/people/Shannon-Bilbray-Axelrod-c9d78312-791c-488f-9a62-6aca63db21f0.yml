@@ -10,6 +10,8 @@ contact_details:
 - address: 7500 West Lake Mead Boulevard, Suite 9-486;Las Vegas, NV 89128-0298
   note: District Office
   email: Shannon.BilbrayAxelrod@asm.state.nv.us
+- note: Capitol Office
+  voice: 775-684-8847
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=332
 sources:

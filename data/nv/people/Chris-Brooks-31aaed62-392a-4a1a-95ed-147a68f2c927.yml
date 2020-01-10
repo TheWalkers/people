@@ -16,6 +16,8 @@ contact_details:
   email: Chris.Brooks@sen.state.nv.us
   note: District Office
   voice: 702-682-1294
+- note: Capitol Office
+  voice: 775-684-1422
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=311
 sources:

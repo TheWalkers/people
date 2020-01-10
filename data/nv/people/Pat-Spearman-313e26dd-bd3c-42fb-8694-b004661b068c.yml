@@ -11,6 +11,8 @@ contact_details:
   email: Pat.Spearman@sen.state.nv.us
   note: District Office
   voice: 702-706-5785
+- note: Capitol Office
+  voice: 775-684-1424
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=204
 sources:

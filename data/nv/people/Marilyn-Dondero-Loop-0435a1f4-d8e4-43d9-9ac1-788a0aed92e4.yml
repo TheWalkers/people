@@ -11,6 +11,8 @@ contact_details:
 - address: 9811 W. Charleston Boulevard, Suite 2-420;Las Vegas, NV 89117-7528
   note: District Office
   email: Marilyn.DonderoLoop@sen.state.nv.us
+- note: Capitol Office
+  voice: 775-684-1445
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=92
 sources:

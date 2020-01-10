@@ -11,6 +11,8 @@ contact_details:
   email: Jill.Tolles@asm.state.nv.us
   note: District Office
   voice: 775-815-4237
+- note: Capitol Office
+  voice: 775-684-8837
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=326
 sources:

@@ -11,6 +11,8 @@ contact_details:
 - address: 8545 West Warm Springs Road, Suite A-4, Box 107;Las Vegas, NV 89113-3677
   note: District Office
   email: Michelle.Gorelow@asm.state.nv.us
+- note: Capitol Office
+  voice: 775-684-8573
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=367
 sources:

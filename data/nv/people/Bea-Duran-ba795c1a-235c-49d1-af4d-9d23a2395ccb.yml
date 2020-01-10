@@ -11,6 +11,8 @@ contact_details:
 - address: P.O. Box 999;Las Vegas, NV 89125-0999
   note: District Office
   email: beatrice.duran@asm.state.nv.us
+- note: Capitol Office
+  voice: 775-684-8553
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=373
 sources:

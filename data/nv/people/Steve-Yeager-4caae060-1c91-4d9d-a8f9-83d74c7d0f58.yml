@@ -11,6 +11,8 @@ contact_details:
   email: Steve.Yeager@asm.state.nv.us
   note: District Office
   voice: 702-281-5938
+- note: Capitol Office
+  voice: 775-684-8549
 links:
 - url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=310
 sources:
