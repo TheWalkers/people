@@ -1,0 +1,15 @@
+id: ocd-person/fde9fd52-e86e-4857-b567-1997641ac5fc
+name: Heather Miley Cloud
+party:
+- name: Republican
+roles:
+- district: '28'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: upper
+contact_details:
+- address: 13988 Veteran Memorial Highway;Turkey Creek, LA 70585
+  note: District Office
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=28
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=28

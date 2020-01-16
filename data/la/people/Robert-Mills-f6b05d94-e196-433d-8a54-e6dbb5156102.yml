@@ -1,0 +1,15 @@
+id: ocd-person/f6b05d94-e196-433d-8a54-e6dbb5156102
+name: Robert Mills
+party:
+- name: Republican
+roles:
+- district: '36'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: upper
+contact_details:
+- address: 105 Harvey's Way;Minden, LA 71055
+  note: District Office
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=36
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=36

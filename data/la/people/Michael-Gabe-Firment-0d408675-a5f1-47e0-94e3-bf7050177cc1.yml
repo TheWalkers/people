@@ -1,0 +1,17 @@
+id: ocd-person/0d408675-a5f1-47e0-94e3-bf7050177cc1
+name: Michael "Gabe" Firment
+party:
+- name: Republican
+roles:
+- district: '22'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 181 Barron Road;Pollock, LA 71467-3643
+  email: hse022@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=22
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=22
+image: http://house.louisiana.gov/h_reps/RepPics09/rep22.jpg

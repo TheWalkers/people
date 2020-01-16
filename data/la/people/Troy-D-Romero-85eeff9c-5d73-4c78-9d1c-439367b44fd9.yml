@@ -1,0 +1,16 @@
+id: ocd-person/85eeff9c-5d73-4c78-9d1c-439367b44fd9
+name: Troy D. Romero
+party:
+- name: Republican
+roles:
+- district: '37'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse037@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=37
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=37
+image: http://house.louisiana.gov/h_reps/RepPics09/rep37.jpg

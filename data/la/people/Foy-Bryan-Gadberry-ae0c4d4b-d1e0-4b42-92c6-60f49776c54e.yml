@@ -1,0 +1,17 @@
+id: ocd-person/ae0c4d4b-d1e0-4b42-92c6-60f49776c54e
+name: Foy Bryan Gadberry
+party:
+- name: Republican
+roles:
+- district: '15'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 4920 Cypress St. Ste 3C;West Monroe, La 71291
+  email: hse015@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=15
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=15
+image: http://house.louisiana.gov/h_reps/RepPics09/rep15.jpg

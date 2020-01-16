@@ -1,0 +1,16 @@
+id: ocd-person/8364223a-8b4d-4134-93f9-9d1b1abae4da
+name: Frederick Douglass Jones
+party:
+- name: Democratic
+roles:
+- district: '16'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse016@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=16
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=16
+image: http://house.louisiana.gov/h_reps/RepPics09/rep16.jpg

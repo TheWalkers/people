@@ -10,13 +10,16 @@ memberships:
 - name: Daniel "Danny" Martiny
 - id: ocd-person/1228298a-0322-423a-962b-cba38f96f51a
   name: Jack Donahue
+  end_date: '2020-01-16'
 - name: Jay Luneau
   role: Vice-Chairman
 - id: ocd-person/3156ebe8-d027-4670-bbad-3b411c11af78
   name: John Milkovich
+  end_date: '2020-01-16'
 - id: ocd-person/a41963ab-5fed-4dff-b8b6-bd218094d90a
   name: Rick Ward, III
   role: Chairman
 - id: ocd-person/e350fc72-5408-42cd-95e4-70f3af016c9f
   name: Ryan Gatti
+  end_date: '2020-01-16'
 - name: Wesley Bishop

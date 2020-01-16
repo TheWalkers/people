@@ -1,0 +1,16 @@
+id: ocd-person/16094ef3-d488-4178-a75e-050e3382c78c
+name: Matthew Willard
+party:
+- name: Democratic
+roles:
+- district: '97'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse097@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=97
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=97
+image: http://house.louisiana.gov/h_reps/RepPics09/rep97.jpg

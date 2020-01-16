@@ -11,6 +11,7 @@ memberships:
 - id: ocd-person/9f8bd409-1f37-41d4-8c82-4e6f70adc105
   name: Dale M. Erdey
   role: Vice-Chairman
+  end_date: '2020-01-16'
 - id: ocd-person/58e5c3fe-6972-4711-8898-740675959441
   name: Karen Carter Peterson
 - name: John R. Smith
@@ -26,3 +27,4 @@ memberships:
   name: Troy Carter
 - id: ocd-person/5b254a86-d624-47c0-bf64-1a56595befe6
   name: Yvonne Colomb
+  end_date: '2020-01-16'

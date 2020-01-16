@@ -14,10 +14,14 @@ memberships:
 - id: ocd-person/d6a2d12d-52d3-44cd-a6d9-cce566f48edc
   name: Conrad Appel
   role: Chairman
+  end_date: '2020-01-16'
 - id: ocd-person/1228298a-0322-423a-962b-cba38f96f51a
   name: Jack Donahue
+  end_date: '2020-01-16'
 - id: ocd-person/85a84516-1194-442e-8df2-dd992c2e0dcf
   name: "Norb\xE8rt N. \"Norby\" Chabert"
   role: Vice-Chairman
+  end_date: '2020-01-16'
 - id: ocd-person/9f8bd409-1f37-41d4-8c82-4e6f70adc105
   name: Dale M. Erdey
+  end_date: '2020-01-16'

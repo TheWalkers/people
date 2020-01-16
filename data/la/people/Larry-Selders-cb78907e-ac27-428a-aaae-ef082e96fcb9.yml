@@ -1,0 +1,16 @@
+id: ocd-person/cb78907e-ac27-428a-aaae-ef082e96fcb9
+name: Larry Selders
+party:
+- name: Democratic
+roles:
+- district: '67'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse067@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=67
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=67
+image: http://house.louisiana.gov/h_reps/RepPics09/rep67.jpg

@@ -1,0 +1,16 @@
+id: ocd-person/5b7c1934-49cc-4666-b820-99d6f123e0d5
+name: Daryl Andrew Deshotel
+party:
+- name: Republican
+roles:
+- district: '28'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse028@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=28
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=28
+image: http://house.louisiana.gov/h_reps/RepPics09/rep28.jpg

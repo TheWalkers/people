@@ -1,0 +1,16 @@
+id: ocd-person/7177e807-f8d1-4ab6-8a6c-529fad588852
+name: Mack Marcel Cormier
+party:
+- name: Democratic
+roles:
+- district: '105'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse105@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=105
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=105
+image: http://house.louisiana.gov/h_reps/RepPics09/rep105.jpg

@@ -1,0 +1,17 @@
+id: ocd-person/9ebee27a-f009-439a-8ba3-b8f483e64b61
+name: Charles Anthony Owen
+party:
+- name: Republican
+roles:
+- district: '30'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: P.O. Box 55;Rosepine, LA 70659
+  email: hse030@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=30
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=30
+image: http://house.louisiana.gov/h_reps/RepPics09/rep30.jpg

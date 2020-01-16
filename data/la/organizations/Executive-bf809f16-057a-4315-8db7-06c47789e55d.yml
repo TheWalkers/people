@@ -15,9 +15,12 @@ memberships:
   role: Chairman
 - id: ocd-person/e46f897b-04ed-41c2-bdbe-b419dc328203
   name: Eric LaFleur
+  end_date: '2020-01-16'
 - id: ocd-person/f9efc91e-2357-4eed-ae2d-30960501eb20
   name: Gerald Long
+  end_date: '2020-01-16'
 - id: ocd-person/257c82c4-816d-4f11-990b-35443af32272
   name: John A. Alario, Jr.
+  end_date: '2020-01-16'
 - id: ocd-person/58e5c3fe-6972-4711-8898-740675959441
   name: Karen Carter Peterson

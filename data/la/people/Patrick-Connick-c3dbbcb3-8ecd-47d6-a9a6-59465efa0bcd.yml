@@ -6,15 +6,20 @@ roles:
 - district: '84'
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
+  end_date: '2020-01-16'
+- district: '8'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: upper
 contact_details:
 - address: 5201 Westbank Expressway;Suite 100;Marrero, LA 70072
   email: connickp@legis.la.gov
   note: District Office
   voice: 504-371-0240
+  fax: 504-371-0242
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=84
+- url: http://senate.la.gov/senators/senpage.asp?SenID=8
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=84
+- url: http://senate.la.gov/senators/senpage.asp?SenID=8
 image: http://house.louisiana.gov/h_reps/RepPics09/rep84.jpg
 other_identifiers:
 - identifier: LAL000193

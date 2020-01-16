@@ -6,15 +6,20 @@ roles:
 - district: '99'
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
+  end_date: '2020-01-16'
+- district: '4'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: upper
 contact_details:
 - address: 7240 Crowder Blvd.;Suite 406;New Orleans, LA 70126
   email: harrisj@legis.la.gov
   note: District Office
   voice: 504-243-1960
+  fax: 504-243-1961
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=99
+- url: http://senate.la.gov/senators/senpage.asp?SenID=4
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=99
+- url: http://senate.la.gov/senators/senpage.asp?SenID=4
 image: http://house.louisiana.gov/h_reps/RepPics09/rep99.jpg
 other_identifiers:
 - identifier: LAL000826

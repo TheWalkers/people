@@ -1,0 +1,16 @@
+id: ocd-person/7bbc6d1d-5908-486b-920a-efaff8a9fe35
+name: Caxerrick Travis Johnson
+party:
+- name: Democratic
+roles:
+- district: '21'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse021@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=21
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=21
+image: http://house.louisiana.gov/h_reps/RepPics09/rep21.jpg

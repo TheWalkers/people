@@ -10,6 +10,7 @@ memberships:
 - name: Gregory Tarver
 - id: ocd-person/47f23ef3-bfb8-43e7-b31f-8eda09e8d71c
   name: James R. "Jim" Fannin
+  end_date: '2020-01-16'
 - id: ocd-person/58e5c3fe-6972-4711-8898-740675959441
   name: Karen Carter Peterson
   role: Chairman
@@ -19,6 +20,7 @@ memberships:
   name: Neil Riser
 - id: ocd-person/1228298a-0322-423a-962b-cba38f96f51a
   name: Jack Donahue
+  end_date: '2020-01-16'
 - name: Wesley Bishop
   role: Vice-Chairman
 - id: ocd-person/083e62fd-0c27-4ca6-9621-20bfd7e24e73

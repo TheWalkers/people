@@ -1,0 +1,15 @@
+id: ocd-person/63a0c848-c817-469c-9050-58d85888ab18
+name: Michael "Big Mike" Fesi
+party:
+- name: Republican
+roles:
+- district: '20'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: upper
+contact_details:
+- address: 1950 South Van Avenue;Houma, LA 70363
+  note: District Office
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=20
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=20

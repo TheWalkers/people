@@ -1,0 +1,16 @@
+id: ocd-person/fe5bd3f5-b567-4612-b3a2-addd173c78c9
+name: Thomas Alexander Pressly, IV
+party:
+- name: Republican
+roles:
+- district: '6'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse006@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=6
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=6
+image: http://house.louisiana.gov/h_reps/RepPics09/rep6.jpg

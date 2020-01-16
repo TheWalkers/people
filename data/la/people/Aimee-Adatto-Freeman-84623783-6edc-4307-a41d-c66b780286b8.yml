@@ -1,0 +1,17 @@
+id: ocd-person/84623783-6edc-4307-a41d-c66b780286b8
+name: Aimee Adatto Freeman
+party:
+- name: Democratic
+roles:
+- district: '98'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 8600 Oak Street;New Orleans, La70118-1222
+  email: hse098@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=98
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=98
+image: http://house.louisiana.gov/h_reps/RepPics09/rep98.jpg

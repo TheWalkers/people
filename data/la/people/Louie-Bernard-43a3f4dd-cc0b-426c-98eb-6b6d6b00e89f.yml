@@ -1,0 +1,15 @@
+id: ocd-person/43a3f4dd-cc0b-426c-98eb-6b6d6b00e89f
+name: Louie Bernard
+party:
+- name: Republican
+roles:
+- district: '31'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: upper
+contact_details:
+- address: 431 Jefferson Street;Natchitoches, LA 71457
+  note: District Office
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=31
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=31

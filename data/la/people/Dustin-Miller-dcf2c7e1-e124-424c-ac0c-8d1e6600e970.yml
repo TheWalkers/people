@@ -7,7 +7,8 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 1115 S. Union St.;Opelousas, LA 70570
+- address: Representative Dustin Miller;1310 South Union Street;Suite 2;Opelousas,
+    LA 70570
   email: millerd@legis.la.gov
   note: District Office
   voice: 337-943-2900

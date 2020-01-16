@@ -1,0 +1,17 @@
+id: ocd-person/c46ea70a-15ac-47cf-b7a8-054d52861623
+name: Debbie Villio
+party:
+- name: Republican
+roles:
+- district: '79'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 420 Williams Blvd Ste 200 Kenner, LA 70065
+  email: hse079@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=79
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=79
+image: http://house.louisiana.gov/h_reps/RepPics09/rep79.jpg

@@ -1,0 +1,16 @@
+id: ocd-person/a5b01a53-2784-4167-b348-7c582efaa7a2
+name: Barbara Reich Freiberg
+party:
+- name: Republican
+roles:
+- district: '70'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse070@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=70
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=70
+image: http://house.louisiana.gov/h_reps/RepPics09/rep70.jpg

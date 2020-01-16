@@ -1,0 +1,17 @@
+id: ocd-person/4ed75e43-c708-49d6-aafb-8075f6315c54
+name: Rodney Wayne Schamerhorn
+party:
+- name: Republican
+roles:
+- district: '24'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 1083 Hammond Street;Horbeck , LA 71439
+  email: hse024@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=24
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=24
+image: http://house.louisiana.gov/h_reps/RepPics09/rep24.jpg

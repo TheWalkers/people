@@ -1,0 +1,16 @@
+id: ocd-person/c2780c99-9275-4abe-93da-afeb8d849c1e
+name: Charles Alexander Henry
+party:
+- name: Republican
+roles:
+- district: '82'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse082@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=82
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=82
+image: http://house.louisiana.gov/h_reps/RepPics09/rep82.jpg

@@ -17,6 +17,8 @@ memberships:
   name: Beth Mizell
 - id: ocd-person/d6a2d12d-52d3-44cd-a6d9-cce566f48edc
   name: Conrad Appel
+  end_date: '2020-01-16'
 - id: ocd-person/3156ebe8-d027-4670-bbad-3b411c11af78
   name: John Milkovich
   role: Vice-Chairman
+  end_date: '2020-01-16'

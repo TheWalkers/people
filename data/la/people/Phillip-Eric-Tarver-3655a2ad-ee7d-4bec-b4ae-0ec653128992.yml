@@ -1,0 +1,17 @@
+id: ocd-person/3655a2ad-ee7d-4bec-b4ae-0ec653128992
+name: Phillip Eric Tarver
+party:
+- name: Republican
+roles:
+- district: '36'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 132 Jamestown;Lake Charles, LA 70605
+  email: hse036@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=36
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=36
+image: http://house.louisiana.gov/h_reps/RepPics09/rep36.jpg

@@ -1,0 +1,16 @@
+id: ocd-person/c2878753-7ca2-415d-8664-87ae4a48f38f
+name: John R. Illg, Jr.
+party:
+- name: Republican
+roles:
+- district: '78'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse078@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=78
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=78
+image: http://house.louisiana.gov/h_reps/RepPics09/rep78.jpg

@@ -1,0 +1,16 @@
+id: ocd-person/6503c419-90fa-474c-8c53-4453609a5e4a
+name: Wilford Dan Carter, Sr.
+party:
+- name: Democratic
+roles:
+- district: '34'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse034@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=34
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=34
+image: http://house.louisiana.gov/h_reps/RepPics09/rep34.jpg

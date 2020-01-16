@@ -13,6 +13,7 @@ memberships:
 - name: Gary Smith
 - id: ocd-person/e46f897b-04ed-41c2-bdbe-b419dc328203
   name: Eric LaFleur
+  end_date: '2020-01-16'
 - name: John R. Smith
   role: Chairman
 - id: ocd-person/a41963ab-5fed-4dff-b8b6-bd218094d90a
@@ -20,6 +21,8 @@ memberships:
 - id: ocd-person/e350fc72-5408-42cd-95e4-70f3af016c9f
   name: Ryan Gatti
   role: Vice-Chairman
+  end_date: '2020-01-16'
 - name: Eddie Lambert
 - id: ocd-person/f9efc91e-2357-4eed-ae2d-30960501eb20
   name: Gerald Long
+  end_date: '2020-01-16'

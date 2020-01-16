@@ -10,6 +10,7 @@ memberships:
 - id: ocd-person/d6a2d12d-52d3-44cd-a6d9-cce566f48edc
   name: Conrad Appel
   role: Vice-Chairman
+  end_date: '2020-01-16'
 - name: Eddie Lambert
 - name: Edward j Price
 - name: Mike Walsworth
@@ -18,4 +19,5 @@ memberships:
   name: Sharon Hewitt
 - id: ocd-person/9f8bd409-1f37-41d4-8c82-4e6f70adc105
   name: Dale M. Erdey
+  end_date: '2020-01-16'
 - name: Dan "Blade" Morrish

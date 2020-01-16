@@ -1,0 +1,15 @@
+id: ocd-person/4fe42ba8-f5ca-43cb-a6d6-28fc72542013
+name: Stewart Cathey , Jr.
+party:
+- name: Republican
+roles:
+- district: '33'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: upper
+contact_details:
+- address: 209 North Park Drive;Monroe, LA 71203
+  note: District Office
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=33
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=33

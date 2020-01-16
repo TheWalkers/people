@@ -1,0 +1,16 @@
+id: ocd-person/9e66576e-60c2-4105-8093-2672b75e6de0
+name: William "Bill" Wheat, Jr.
+party:
+- name: Republican
+roles:
+- district: '73'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse073@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=73
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=73
+image: http://house.louisiana.gov/h_reps/RepPics09/rep73.jpg

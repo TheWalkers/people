@@ -10,6 +10,7 @@ memberships:
 - id: ocd-person/e46f897b-04ed-41c2-bdbe-b419dc328203
   name: Eric LaFleur
   role: Chairman
+  end_date: '2020-01-16'
 - name: R.L. "Bret" Allain, II
   role: Vice-Chairman
 - name: Mike Walsworth
@@ -19,14 +20,18 @@ memberships:
 - name: Mack "Bodi" White
 - id: ocd-person/1228298a-0322-423a-962b-cba38f96f51a
   name: Jack Donahue
+  end_date: '2020-01-16'
 - id: ocd-person/33f8b98a-fb55-4b02-bf90-7254466f969f
   name: Sharon Hewitt
 - id: ocd-person/85a84516-1194-442e-8df2-dd992c2e0dcf
   name: "Norb\xE8rt N. \"Norby\" Chabert"
+  end_date: '2020-01-16'
 - id: ocd-person/47f23ef3-bfb8-43e7-b31f-8eda09e8d71c
   name: James R. "Jim" Fannin
+  end_date: '2020-01-16'
 - id: ocd-person/d6a2d12d-52d3-44cd-a6d9-cce566f48edc
   name: Conrad Appel
+  end_date: '2020-01-16'
 - name: Francis Thompson
 - name: Wesley Bishop
 - name: Dan "Blade" Morrish

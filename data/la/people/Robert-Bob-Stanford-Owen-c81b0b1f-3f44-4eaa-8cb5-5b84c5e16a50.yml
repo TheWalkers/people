@@ -1,0 +1,17 @@
+id: ocd-person/c81b0b1f-3f44-4eaa-8cb5-5b84c5e16a50
+name: Robert "Bob" Stanford Owen
+party:
+- name: Republican
+roles:
+- district: '76'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 1925 Corporate Sq, Ste C;Slidell, La 70458
+  email: hse076@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=76
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=76
+image: http://house.louisiana.gov/h_reps/RepPics09/rep76.jpg

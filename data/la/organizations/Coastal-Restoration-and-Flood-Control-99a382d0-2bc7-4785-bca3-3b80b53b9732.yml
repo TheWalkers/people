@@ -17,6 +17,7 @@ memberships:
   name: Fred H. Mills, Jr.
 - id: ocd-person/85a84516-1194-442e-8df2-dd992c2e0dcf
   name: "Norb\xE8rt N. \"Norby\" Chabert"
+  end_date: '2020-01-16'
 - id: ocd-person/083e62fd-0c27-4ca6-9621-20bfd7e24e73
   name: Troy Carter
 - name: John R. Smith

@@ -9,12 +9,14 @@ sources:
 memberships:
 - id: ocd-person/e350fc72-5408-42cd-95e4-70f3af016c9f
   name: Ryan Gatti
+  end_date: '2020-01-16'
 - name: Gregory Tarver
 - id: ocd-person/a41963ab-5fed-4dff-b8b6-bd218094d90a
   name: Rick Ward, III
 - id: ocd-person/85a84516-1194-442e-8df2-dd992c2e0dcf
   name: "Norb\xE8rt N. \"Norby\" Chabert"
   role: Chairman
+  end_date: '2020-01-16'
 - name: R.L. "Bret" Allain, II
 - name: Eddie Lambert
   role: Vice-Chairman

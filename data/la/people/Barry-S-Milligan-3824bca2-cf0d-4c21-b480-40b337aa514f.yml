@@ -1,0 +1,15 @@
+id: ocd-person/3824bca2-cf0d-4c21-b480-40b337aa514f
+name: Barry S. Milligan
+party:
+- name: Republican
+roles:
+- district: '38'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: upper
+contact_details:
+- address: 531 West 61st Street;Shreveport, LA 71106
+  note: District Office
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=38
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=38

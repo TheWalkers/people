@@ -1,0 +1,17 @@
+id: ocd-person/7b4e88f6-483c-47d6-991d-7741eb7ffc3f
+name: Kyle M. Green, Jr.
+party:
+- name: Democratic
+roles:
+- district: '83'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 6641 Westbank Expwy. Suite D, Marrero, LA 70072
+  email: hse083@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=83
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=83
+image: http://house.louisiana.gov/h_reps/RepPics09/rep83.jpg

@@ -1,0 +1,16 @@
+id: ocd-person/406c511f-aabc-4c81-a190-643acb1a1ade
+name: Vincent "Vinney" J. St. Blanc III
+party:
+- name: Republican
+roles:
+- district: '50'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse050@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=50
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=50
+image: http://house.louisiana.gov/h_reps/RepPics09/rep50.jpg

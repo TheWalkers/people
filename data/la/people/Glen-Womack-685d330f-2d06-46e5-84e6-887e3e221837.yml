@@ -1,0 +1,15 @@
+id: ocd-person/685d330f-2d06-46e5-84e6-887e3e221837
+name: Glen Womack
+party:
+- name: Republican
+roles:
+- district: '32'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: upper
+contact_details:
+- address: 119 Pine Street;Suite B;Harrisonburg, LA 70123
+  note: District Office
+links:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=32
+sources:
+- url: http://senate.la.gov/senators/senpage.asp?SenID=32

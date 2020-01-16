@@ -11,12 +11,15 @@ memberships:
   role: Chairman
 - id: ocd-person/9f8bd409-1f37-41d4-8c82-4e6f70adc105
   name: Dale M. Erdey
+  end_date: '2020-01-16'
 - id: ocd-person/33f8b98a-fb55-4b02-bf90-7254466f969f
   name: Sharon Hewitt
   role: Vice-Chairman
 - id: ocd-person/f9efc91e-2357-4eed-ae2d-30960501eb20
   name: Gerald Long
+  end_date: '2020-01-16'
 - name: Gary Smith
 - id: ocd-person/47f23ef3-bfb8-43e7-b31f-8eda09e8d71c
   name: James R. "Jim" Fannin
+  end_date: '2020-01-16'
 - name: Edward j Price

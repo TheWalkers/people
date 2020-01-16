@@ -9,8 +9,10 @@ sources:
 memberships:
 - id: ocd-person/e46f897b-04ed-41c2-bdbe-b419dc328203
   name: Eric LaFleur
+  end_date: '2020-01-16'
 - id: ocd-person/85a84516-1194-442e-8df2-dd992c2e0dcf
   name: "Norb\xE8rt N. \"Norby\" Chabert"
+  end_date: '2020-01-16'
 - name: Gregory Tarver
 - id: ocd-person/a3fe89b9-cc16-4419-a43a-78639370d0fc
   name: Ronnie Johns

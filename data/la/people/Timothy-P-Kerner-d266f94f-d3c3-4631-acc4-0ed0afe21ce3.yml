@@ -1,0 +1,16 @@
+id: ocd-person/d266f94f-d3c3-4631-acc4-0ed0afe21ce3
+name: Timothy P. Kerner
+party:
+- name: Republican
+roles:
+- district: '84'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- email: hse084@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=84
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=84
+image: http://house.louisiana.gov/h_reps/RepPics09/rep84.jpg
