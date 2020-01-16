@@ -1,0 +1,19 @@
+id: ocd-person/5c45af2d-18bb-4097-8811-dd1df12cbea4
+name: John Catalano
+party:
+- name: Republican
+roles:
+- district: '10'
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  type: lower
+contact_details:
+- address: ';, '
+  email: AsmCatalano@njleg.org
+  note: District Office
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=421
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=421
+- url: http://www.njleg.state.nj.us/downloads.asp
+image: http://www.njleg.state.nj.us/members/memberphotos/catalano_john_2020.jpg
+gender: Male

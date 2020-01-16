@@ -7,14 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nj/government
   type: upper
 contact_details:
-- address: ';, '
+- address: School House Office Park, 211 S. Main Street, Suite 104;Cape May Court
+    House, NJ 08210
   email: SenTesta@njleg.org
   note: District Office
-  voice: 609-284-9076
+  voice: 609-778-2012
 links:
-- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=421
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=424
 sources:
-- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=421
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=424
 - url: http://www.njleg.state.nj.us/downloads.asp
 image: http://www.njleg.state.nj.us/members/memberphotos/testa_michael_2019.jpg
 gender: Male

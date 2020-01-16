@@ -1,20 +1,19 @@
-id: ocd-person/d6f8a8da-1917-4b66-ae0c-dcc004cf0083
-name: Aura Dunn
+id: ocd-person/825a6786-a376-4ef6-a4ab-e187280048e9
+name: William F. Moen Jr
 party:
-- name: Republican
+- name: Democratic
 roles:
-- district: '25'
+- district: '5'
   jurisdiction: ocd-jurisdiction/country:us/state:nj/government
   type: lower
 contact_details:
-- address: 1040 Route 10 West, 1st Floor;Randolph, NJ 07869
-  email: AswDunn@njleg.org
+- address: ';, '
+  email: AsmMoen@njleg.org
   note: District Office
-  voice: 973-927-2526
 links:
 - url: http://www.njleg.state.nj.us/members/bio.asp?Leg=420
 sources:
 - url: http://www.njleg.state.nj.us/members/bio.asp?Leg=420
 - url: http://www.njleg.state.nj.us/downloads.asp
-image: http://www.njleg.state.nj.us/members/memberphotos/dunn_aura_2019.jpg
-gender: Female
+image: http://www.njleg.state.nj.us/members/memberphotos/moen_william_2019.jpg
+gender: Male

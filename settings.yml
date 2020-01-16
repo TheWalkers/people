@@ -438,6 +438,10 @@ nj:
   lower_title: Assembly Member
   lower_chamber_name: Assembly
   upper_seats: 40
+  vacancies:
+    - chamber: lower
+      district: 25
+      vacant_until: 2020-04-01
 nm:
   legislature_name: New Mexico Legislature
   lower_seats: 70

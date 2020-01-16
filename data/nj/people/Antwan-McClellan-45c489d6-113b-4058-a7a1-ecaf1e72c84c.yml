@@ -1,0 +1,21 @@
+id: ocd-person/45c489d6-113b-4058-a7a1-ecaf1e72c84c
+name: Antwan McClellan
+party:
+- name: Republican
+roles:
+- district: '1'
+  jurisdiction: ocd-jurisdiction/country:us/state:nj/government
+  type: lower
+contact_details:
+- address: School House Office Park, 211 S. Main Street, Suite 104;Cape May Coury
+    House, NJ 08210
+  email: AsmMcClellan@njleg.org
+  note: District Office
+  voice: 609-778-2012
+links:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=425
+sources:
+- url: http://www.njleg.state.nj.us/members/bio.asp?Leg=425
+- url: http://www.njleg.state.nj.us/downloads.asp
+image: http://www.njleg.state.nj.us/members/memberphotos/mcclellan_antwan_2020.jpg
+gender: Male
