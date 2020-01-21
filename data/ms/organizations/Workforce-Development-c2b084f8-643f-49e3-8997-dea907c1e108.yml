@@ -13,20 +13,25 @@ memberships:
   role: Vice-Chairman
 - id: ocd-person/8c4d38fb-1809-4989-bf0b-1936dcf2ade8
   name: Robert Foster
+  end_date: '2020-01-21'
 - id: ocd-person/74ef0a3e-35c9-4729-b6fd-2c07c165864d
   name: Cheikh Taylor
 - id: ocd-person/394ffb4f-8110-44a9-8ae6-a5d528b44faa
   name: John Glen Corley
+  end_date: '2020-01-21'
 - id: ocd-person/c82f017d-2ac8-45d9-a91e-cd8e88b14d76
   name: Roun McNeal
+  end_date: '2020-01-21'
 - id: ocd-person/abfa015f-301e-4e17-9917-535bb9079768
   name: Steve Massengill
 - id: ocd-person/c38f3e52-9594-4580-a280-bdaa11a33b66
   name: Greg Haney
 - id: ocd-person/361719d4-9e60-4ae5-9902-297e9eb92206
   name: Kathy Sykes
+  end_date: '2020-01-21'
 - id: ocd-person/cecf6170-4ff8-451b-ad04-d135cdd9263e
   name: Ashley Henley
+  end_date: '2020-01-21'
 - id: ocd-person/6e50b530-8c0e-485a-a568-6d40ba83127d
   name: Carl Mickens
 - id: ocd-person/5fb7e1d6-24ab-41e1-b0b2-d1445bf6abd3

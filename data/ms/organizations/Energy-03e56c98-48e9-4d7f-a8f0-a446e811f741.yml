@@ -20,6 +20,7 @@ memberships:
 - id: ocd-person/17534797-d164-4739-90a9-5767c27d2e90
   name: Gary V. Staples
   role: Vice-Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/184a7a1f-940c-4b69-aee6-68f4eec9c84a
   name: Abe Hudson
 - id: ocd-person/9b8df60b-26ba-4cdc-b862-87b15f81fdc1
@@ -36,6 +37,7 @@ memberships:
   name: Lataisha Jackson
 - id: ocd-person/7a31d190-84ac-4ba9-88f4-577f8c4c2412
   name: Preston E. Sullivan
+  end_date: '2020-01-21'
 - id: ocd-person/5aa9d603-5bb2-4c1d-9a0b-1baaf91c425d
   name: Christopher M. Bell
 - id: ocd-person/ffba30ff-86d3-42db-ab94-0028df181da1
@@ -49,6 +51,7 @@ memberships:
   name: Michael T. Evans
 - id: ocd-person/597ef837-e314-4a66-9f57-d2b5248a7ad2
   name: William Shirley
+  end_date: '2020-01-21'
 - id: ocd-person/fd1a4542-8537-4af3-90c8-4052be561c66
   name: Donnie Bell
 - id: ocd-person/d46b6cb0-655d-4c9e-96d9-62c0412a6589
@@ -60,6 +63,7 @@ memberships:
   end_date: '2019-02-22'
 - id: ocd-person/d4017949-ce4d-42d0-8b22-c3cae7505860
   name: Margaret Rogers
+  end_date: '2020-01-21'
 - id: ocd-person/a5143ca1-ead2-4a7d-aeb1-d1ea3e912f2f
   name: America Chuck Middleton
   end_date: '2018-08-31'

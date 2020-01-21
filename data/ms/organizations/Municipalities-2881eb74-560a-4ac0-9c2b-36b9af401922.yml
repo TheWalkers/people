@@ -20,16 +20,20 @@ memberships:
   name: Mark Tullos
 - id: ocd-person/0a230df0-d881-4628-bdb5-32171eb14186
   name: Bill Denny
+  end_date: '2020-01-21'
 - id: ocd-person/162c9460-3639-4f02-9334-32e058894b88
   name: Debra Gibbs
 - id: ocd-person/da5160a3-da97-4aa0-8368-5e98503d638f
   name: Joel Bomgar
 - id: ocd-person/cf1415f8-10ac-4582-b7d1-93fc111fbf3b
   name: David W. Myers
+  end_date: '2020-01-21'
 - id: ocd-person/8c4d38fb-1809-4989-bf0b-1936dcf2ade8
   name: Robert Foster
+  end_date: '2020-01-21'
 - id: ocd-person/c82f017d-2ac8-45d9-a91e-cd8e88b14d76
   name: Roun McNeal
+  end_date: '2020-01-21'
 - name: Andy Gipson
 - id: ocd-person/af2a8aef-177c-49d2-9b77-f1f19f7b8eaa
   name: Randy Rushing

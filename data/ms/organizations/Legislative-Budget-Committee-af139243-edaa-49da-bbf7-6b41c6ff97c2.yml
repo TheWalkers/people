@@ -13,10 +13,13 @@ memberships:
   name: Angela Cockerham
 - id: ocd-person/30439641-ace1-4f3e-b939-5fdeef6685d0
   name: Greg Snowden
+  end_date: '2020-01-21'
 - id: ocd-person/bf4aa2c2-816f-4c8b-8225-2cb7e2a51d2b
   name: Credell Calhoun
+  end_date: '2020-01-21'
 - id: ocd-person/902d3f14-bd0d-4599-8e56-b28e893d9afb
   name: Jeffrey C. Smith
+  end_date: '2020-01-21'
 - id: ocd-person/163e3bbe-33ca-4397-b9a8-8ea22d26f7de
   name: Philip Gunn
   role: Vice-Chairman

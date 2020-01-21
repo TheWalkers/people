@@ -15,6 +15,7 @@ memberships:
   name: Angela Turner-Ford
 - id: ocd-person/b1c39dad-eeaf-4239-88af-66adde496441
   name: Eugene S. Clarke
+  end_date: '2020-01-21'
 - id: ocd-person/b58c7115-6f1d-4de3-9327-eef3b6f0c83c
   name: Kevin Blackwell
 - id: ocd-person/3594f477-2f29-4875-8352-eb8d01775a88
@@ -22,8 +23,10 @@ memberships:
   role: Chairman
 - id: ocd-person/ed6075da-4f97-4ebb-af9f-b57fb3b37813
   name: Terry C. Burton
+  end_date: '2020-01-21'
 - id: ocd-person/b251de31-b740-4bfa-91ca-486c69b03c2d
   name: J. P. Wilemon, Jr.
   role: Vice-Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/d618a68e-ed3a-47a5-be24-852af75d9ab3
   name: Rita Potts Parks

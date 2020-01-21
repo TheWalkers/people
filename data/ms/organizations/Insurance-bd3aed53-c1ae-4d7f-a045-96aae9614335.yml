@@ -37,8 +37,10 @@ memberships:
   name: Percy W. Watson
 - id: ocd-person/bf4aa2c2-816f-4c8b-8225-2cb7e2a51d2b
   name: Credell Calhoun
+  end_date: '2020-01-21'
 - id: ocd-person/597ef837-e314-4a66-9f57-d2b5248a7ad2
   name: William Shirley
+  end_date: '2020-01-21'
 - name: Andy Gipson
 - id: ocd-person/4fa41145-35bf-442b-bdfe-cf54ea53da69
   name: Earle S. Banks

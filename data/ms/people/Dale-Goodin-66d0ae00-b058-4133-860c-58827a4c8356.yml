@@ -1,0 +1,20 @@
+id: ocd-person/66d0ae00-b058-4133-860c-58827a4c8356
+name: Dale Goodin
+party:
+- name: Republican
+roles:
+- district: '105'
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  type: lower
+contact_details:
+- address: P. O. Box 1018;Jackson, MS 39215
+  email: dgoodin@house.ms.gov
+  note: Capitol Office
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/goodin.xml
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/goodin.xml
+image: http://billstatus.ls.state.ms.us/members/house/goodin.jpg
+extras:
+  org_info: ''
+gender: Male

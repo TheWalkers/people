@@ -13,6 +13,7 @@ memberships:
   name: Kevin Horan
 - id: ocd-person/c82f017d-2ac8-45d9-a91e-cd8e88b14d76
   name: Roun McNeal
+  end_date: '2020-01-21'
 - id: ocd-person/20510bb3-edcd-4cb8-a41a-e0114e6215c9
   name: Chris Johnson
 - id: ocd-person/af2a8aef-177c-49d2-9b77-f1f19f7b8eaa
@@ -25,10 +26,12 @@ memberships:
   name: Doug McLeod
 - id: ocd-person/c2aea7c7-c220-43b0-b9c2-69cea827ccda
   name: Patricia H. Willis
+  end_date: '2020-01-21'
 - id: ocd-person/74ef0a3e-35c9-4729-b6fd-2c07c165864d
   name: Cheikh Taylor
 - id: ocd-person/30a5b671-a450-4228-b9ca-ef336790a102
   name: Deborah Butler Dixon
+  end_date: '2020-01-21'
 - id: ocd-person/af66e7a0-2b1a-4fa0-a66c-e6e7a2541cb1
   name: Bill Kinkade
   role: Chairman
@@ -41,4 +44,5 @@ memberships:
   role: Vice-Chairman
 - id: ocd-person/cecf6170-4ff8-451b-ad04-d135cdd9263e
   name: Ashley Henley
+  end_date: '2020-01-21'
 - name: Robert E. Huddleston

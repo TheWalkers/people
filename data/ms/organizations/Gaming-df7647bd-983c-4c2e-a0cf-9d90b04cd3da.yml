@@ -12,6 +12,7 @@ memberships:
   end_date: '2018-08-31'
 - id: ocd-person/30a5b671-a450-4228-b9ca-ef336790a102
   name: Deborah Butler Dixon
+  end_date: '2020-01-21'
 - id: ocd-person/0de22359-9403-4bec-917a-985b26fd45ff
   name: Robert L. Johnson III
 - id: ocd-person/7f1357e0-62b5-412c-b121-6cb5a5aced0e
@@ -23,6 +24,7 @@ memberships:
   name: John W. Hines, Sr.
 - id: ocd-person/c2aea7c7-c220-43b0-b9c2-69cea827ccda
   name: Patricia H. Willis
+  end_date: '2020-01-21'
 - id: ocd-person/4b4c6bbd-fcbb-4c7e-9746-83acffe80898
   name: Richard Bennett
 - id: ocd-person/379b9fd9-2da7-4e20-b0ed-4319ead3a1db

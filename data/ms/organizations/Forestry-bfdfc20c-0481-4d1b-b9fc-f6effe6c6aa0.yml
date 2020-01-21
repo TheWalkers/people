@@ -11,6 +11,7 @@ memberships:
   name: Karl Oliver
 - id: ocd-person/c82f017d-2ac8-45d9-a91e-cd8e88b14d76
   name: Roun McNeal
+  end_date: '2020-01-21'
 - id: ocd-person/af66e7a0-2b1a-4fa0-a66c-e6e7a2541cb1
   name: Bill Kinkade
 - id: ocd-person/a5143ca1-ead2-4a7d-aeb1-d1ea3e912f2f
@@ -19,6 +20,7 @@ memberships:
   end_date: '2018-08-31'
 - id: ocd-person/7a31d190-84ac-4ba9-88f4-577f8c4c2412
   name: Preston E. Sullivan
+  end_date: '2020-01-21'
 - id: ocd-person/2fed984f-0f51-40d2-9881-ec16131a6a2f
   name: Bill Pigott
 - id: ocd-person/c0d8a1af-3036-4aee-89e7-f98cc40203cd

@@ -12,8 +12,10 @@ memberships:
   role: Vice-Chairman
 - id: ocd-person/021b0a1a-ccf2-45a1-8fc2-d2cf4a730e9a
   name: Nickey Browning
+  end_date: '2020-01-21'
 - id: ocd-person/475b3f37-6c63-4535-99bb-fb0b3fc4372e
   name: Bob M. Dearing
+  end_date: '2020-01-21'
 - id: ocd-person/4004cf9a-6d23-4323-b158-00f22078d2b4
   name: Angela Burks Hill
 - id: ocd-person/61c65e25-07c9-445c-8cef-1e6d53cbbfb3
@@ -29,9 +31,11 @@ memberships:
 - id: ocd-person/cd6cc226-c404-481d-9cad-e824d8e101de
   name: Videt Carmichael
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631
   name: Barbara Blackmon
 - id: ocd-person/b1c39dad-eeaf-4239-88af-66adde496441
   name: Eugene S. Clarke
+  end_date: '2020-01-21'
 - id: ocd-person/3ea1bab4-64f2-4ff3-b0a9-e04a8caa3e9f
   name: Derrick T. Simmons

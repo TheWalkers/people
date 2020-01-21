@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/d80024e7-656f-4a3a-9bff-af66f18bda7a
   name: D. Stephen Holland
+  end_date: '2020-01-21'
 - id: ocd-person/5df27ca6-2588-4b60-b373-420cb71bc023
   name: Kenneth Walker
 - id: ocd-person/2fed984f-0f51-40d2-9881-ec16131a6a2f
@@ -18,6 +19,7 @@ memberships:
   end_date: '2019-02-22'
 - id: ocd-person/7a31d190-84ac-4ba9-88f4-577f8c4c2412
   name: Preston E. Sullivan
+  end_date: '2020-01-21'
 - id: ocd-person/0d191683-0d9c-408f-812b-5d986a3030a6
   name: Bryant W. Clark
   role: Vice-Chairman
@@ -43,6 +45,7 @@ memberships:
   name: Larry Byrd
 - id: ocd-person/394ffb4f-8110-44a9-8ae6-a5d528b44faa
   name: John Glen Corley
+  end_date: '2020-01-21'
 - id: ocd-person/622761e7-fba1-4a35-879b-45a6dd021ab0
   name: Joey Hood
   role: Chairman

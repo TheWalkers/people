@@ -15,6 +15,7 @@ memberships:
   name: Mac Huddleston
 - id: ocd-person/b451df76-af3e-4c9c-be78-8c8e6c3c1cf6
   name: Ray Rogers
+  end_date: '2020-01-21'
 - name: Andy Gipson
   role: Chairman
 - id: ocd-person/83f9f72e-ec2d-4351-a227-d8a6aec18eed

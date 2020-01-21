@@ -11,6 +11,7 @@ memberships:
   name: Robert L. Jackson
 - id: ocd-person/657391f4-faa7-4968-8558-56d56d89b9c5
   name: Russell Jolly
+  end_date: '2020-01-21'
 - id: ocd-person/45977d8d-7ee5-4f72-b531-baeb4b071987
   name: Sally Doty
   role: Chairman
@@ -18,17 +19,20 @@ memberships:
   name: John A. Polk
 - id: ocd-person/ed6075da-4f97-4ebb-af9f-b57fb3b37813
   name: Terry C. Burton
+  end_date: '2020-01-21'
 - id: ocd-person/13163ae5-a55d-4eff-8b23-b9f7df9e354a
   name: Josh Harkins
   role: Vice-Chairman
 - id: ocd-person/021b0a1a-ccf2-45a1-8fc2-d2cf4a730e9a
   name: Nickey Browning
+  end_date: '2020-01-21'
 - id: ocd-person/7c8428fb-7cb4-4653-9629-f41037af9669
   name: Philip Moran
 - id: ocd-person/8c139a04-43ed-48c5-98cc-e2d308efa65b
   name: Dennis DeBar, Jr.
 - id: ocd-person/475b3f37-6c63-4535-99bb-fb0b3fc4372e
   name: Bob M. Dearing
+  end_date: '2020-01-21'
 - id: ocd-person/f275881b-1096-4a6a-a607-b417eae41f2e
   name: W. Briggs Hopson III
 - id: ocd-person/cc55837a-0a3e-4bcf-8255-b8786fc2b43f
@@ -39,3 +43,4 @@ memberships:
   name: Gary Jackson
 - id: ocd-person/cd6cc226-c404-481d-9cad-e824d8e101de
   name: Videt Carmichael
+  end_date: '2020-01-21'

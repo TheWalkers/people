@@ -10,6 +10,7 @@ memberships:
 - name: Andy Gipson
 - id: ocd-person/30439641-ace1-4f3e-b939-5fdeef6685d0
   name: Greg Snowden
+  end_date: '2020-01-21'
 - id: ocd-person/83f9f72e-ec2d-4351-a227-d8a6aec18eed
   name: Angela Cockerham
 - id: ocd-person/5116339d-1c09-4c60-a3a9-82e580da3403

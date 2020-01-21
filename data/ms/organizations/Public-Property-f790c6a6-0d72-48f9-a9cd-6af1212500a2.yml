@@ -17,6 +17,7 @@ memberships:
 - id: ocd-person/475b3f37-6c63-4535-99bb-fb0b3fc4372e
   name: Bob M. Dearing
   role: Vice-Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/0fde8bcf-e43a-4b39-a9a5-b7869424e2d9
   name: Robert L. Jackson
 - id: ocd-person/70b45762-64ee-4a16-b15a-194e4e3c9bf6

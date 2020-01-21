@@ -15,6 +15,7 @@ memberships:
 - id: ocd-person/f6e50cdc-c438-412a-b6df-8603575802d1
   name: Gray Tollison
   role: Vice-Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631
   name: Barbara Blackmon
 - id: ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67

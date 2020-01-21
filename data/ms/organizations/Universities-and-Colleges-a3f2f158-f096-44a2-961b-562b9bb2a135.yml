@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/f6e50cdc-c438-412a-b6df-8603575802d1
   name: Gray Tollison
+  end_date: '2020-01-21'
 - id: ocd-person/18630d08-6afc-4892-ac2f-e13f0d9932f6
   name: David Parker
 - id: ocd-person/92659a52-eda2-41a1-9300-40ca7fc3a46b
@@ -16,8 +17,10 @@ memberships:
   role: Vice-Chairman
 - id: ocd-person/b251de31-b740-4bfa-91ca-486c69b03c2d
   name: J. P. Wilemon, Jr.
+  end_date: '2020-01-21'
 - id: ocd-person/ed6075da-4f97-4ebb-af9f-b57fb3b37813
   name: Terry C. Burton
+  end_date: '2020-01-21'
 - id: ocd-person/13163ae5-a55d-4eff-8b23-b9f7df9e354a
   name: Josh Harkins
   role: Chairman

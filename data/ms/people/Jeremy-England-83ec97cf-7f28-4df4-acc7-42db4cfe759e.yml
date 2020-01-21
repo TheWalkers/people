@@ -1,0 +1,20 @@
+id: ocd-person/83ec97cf-7f28-4df4-acc7-42db4cfe759e
+name: Jeremy England
+party:
+- name: Republican
+roles:
+- district: '51'
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  type: upper
+contact_details:
+- address: P. O. Box 1018;Jackson, MS 39215
+  email: JEngland@senate.ms.gov
+  note: Capitol Office
+links:
+- url: http://billstatus.ls.state.ms.us/members/senate/england.xml
+sources:
+- url: http://billstatus.ls.state.ms.us/members/senate/england.xml
+image: http://billstatus.ls.state.ms.us/members/senate/england.jpg
+extras:
+  org_info: ''
+gender: Male

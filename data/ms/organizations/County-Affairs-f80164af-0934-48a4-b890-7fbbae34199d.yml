@@ -25,14 +25,17 @@ memberships:
 - id: ocd-person/c82f017d-2ac8-45d9-a91e-cd8e88b14d76
   name: Roun McNeal
   role: Vice-Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/74ef0a3e-35c9-4729-b6fd-2c07c165864d
   name: Cheikh Taylor
 - id: ocd-person/af2a8aef-177c-49d2-9b77-f1f19f7b8eaa
   name: Randy Rushing
 - id: ocd-person/b451df76-af3e-4c9c-be78-8c8e6c3c1cf6
   name: Ray Rogers
+  end_date: '2020-01-21'
 - id: ocd-person/7a31d190-84ac-4ba9-88f4-577f8c4c2412
   name: Preston E. Sullivan
+  end_date: '2020-01-21'
 - id: ocd-person/bec0f8f6-7f4c-442b-be25-14e2a2c1f5cb
   name: Willie Bailey
 - id: ocd-person/57419404-003c-4a1d-93c0-dce987b11c00

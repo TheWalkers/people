@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/8c4d38fb-1809-4989-bf0b-1936dcf2ade8
   name: Robert Foster
+  end_date: '2020-01-21'
 - id: ocd-person/c3ea3d93-cd2d-48f4-babd-a47bbd951108
   name: Manly Barton
   role: Chairman

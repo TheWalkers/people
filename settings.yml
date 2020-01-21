@@ -399,9 +399,10 @@ ms:
   lower_seats: 122
   upper_seats: 52
   vacancies:
+      # 40 is not really vacant but state site is 404 for it
     - chamber: lower
-      district: 73
-      vacant_until: 2021-01-01
+      district: 40
+      vacant_until: 2021-03-01
 nc:
   legislature_name: North Carolina General Assembly
   lower_seats: 120

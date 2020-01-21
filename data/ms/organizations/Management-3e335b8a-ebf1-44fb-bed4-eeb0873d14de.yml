@@ -12,6 +12,7 @@ memberships:
 - id: ocd-person/30439641-ace1-4f3e-b939-5fdeef6685d0
   name: Greg Snowden
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/4b4c6bbd-fcbb-4c7e-9746-83acffe80898
   name: Richard Bennett
 - id: ocd-person/57419404-003c-4a1d-93c0-dce987b11c00
@@ -25,6 +26,7 @@ memberships:
   name: C. Scott Bounds
 - id: ocd-person/b451df76-af3e-4c9c-be78-8c8e6c3c1cf6
   name: Ray Rogers
+  end_date: '2020-01-21'
 - id: ocd-person/83f9f72e-ec2d-4351-a227-d8a6aec18eed
   name: Angela Cockerham
   role: Vice-Chairman

@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/b1c39dad-eeaf-4239-88af-66adde496441
   name: Eugene S. Clarke
+  end_date: '2020-01-21'
 - id: ocd-person/8c139a04-43ed-48c5-98cc-e2d308efa65b
   name: Dennis DeBar, Jr.
 - id: ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631

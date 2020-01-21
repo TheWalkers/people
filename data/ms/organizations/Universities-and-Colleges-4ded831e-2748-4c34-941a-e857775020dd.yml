@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/afd120b7-359a-4185-9942-b184b8595f5e
   name: David Baria
+  end_date: '2020-01-21'
 - id: ocd-person/35d58782-c84b-4238-8f49-db7e33ebd3c9
   name: Steve Hopkins
 - id: ocd-person/310c4392-eb6a-4cb0-9baa-72cc03153f22
@@ -21,6 +22,7 @@ memberships:
   name: Charles Jim Beckett
 - id: ocd-person/bf4aa2c2-816f-4c8b-8225-2cb7e2a51d2b
   name: Credell Calhoun
+  end_date: '2020-01-21'
 - id: ocd-person/2084a7c9-fcc2-40ea-922f-883833a31c2e
   name: Rufus Straughter
 - id: ocd-person/7fe0478b-3777-490c-93cb-20f83baf3d3f
@@ -33,6 +35,7 @@ memberships:
 - id: ocd-person/c2e8e47e-3b18-4afa-b560-29bc6ede2db1
   name: Nolan Mettetal
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/29c08356-5e03-4aed-8518-28da6090a14b
   name: Jeramey Anderson
 - id: ocd-person/fd1a4542-8537-4af3-90c8-4052be561c66
@@ -61,6 +64,7 @@ memberships:
   name: Alyce G. Clarke
 - id: ocd-person/c82f017d-2ac8-45d9-a91e-cd8e88b14d76
   name: Roun McNeal
+  end_date: '2020-01-21'
 - id: ocd-person/4a73b9e6-c66b-4022-b380-6caea6b48265
   name: Shane Aguirre
 - id: ocd-person/b6553553-bd9a-4bd4-92da-27018b5914fe

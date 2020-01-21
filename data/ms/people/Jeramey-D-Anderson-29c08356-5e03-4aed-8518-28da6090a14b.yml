@@ -15,10 +15,10 @@ contact_details:
   note: District Office
   voice: 228-206-2129
 links:
-- url: http://billstatus.ls.state.ms.us/members/house/anderson.xml
+- url: http://billstatus.ls.state.ms.us/members/house/anderson_(110th).xml
 sources:
-- url: http://billstatus.ls.state.ms.us/members/house/anderson.xml
-image: http://billstatus.ls.state.ms.us/members/house/anderson.jpg
+- url: http://billstatus.ls.state.ms.us/members/house/anderson_(110th).xml
+image: http://billstatus.ls.state.ms.us/members/house/Anderson_(110th).jpg
 extras:
   org_info: Representative Anderson is a member of the Boys and Girls Club of Jackson
     County Alumni, Foundation For a Brighter America (ED), Real South United FC (CEO),

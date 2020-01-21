@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/30439641-ace1-4f3e-b939-5fdeef6685d0
   name: Greg Snowden
+  end_date: '2020-01-21'
 - id: ocd-person/843ed177-0a3d-4f96-9df2-28ad7333c5a6
   name: Lataisha Jackson
 - id: ocd-person/48567f29-ec70-4ff5-bda5-873f2e42933b

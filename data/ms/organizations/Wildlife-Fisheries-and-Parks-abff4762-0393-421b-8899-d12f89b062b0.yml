@@ -22,6 +22,7 @@ memberships:
   name: Bob Evans
 - id: ocd-person/394ffb4f-8110-44a9-8ae6-a5d528b44faa
   name: John Glen Corley
+  end_date: '2020-01-21'
 - id: ocd-person/c0d8a1af-3036-4aee-89e7-f98cc40203cd
   name: Vince Mangold
 - id: ocd-person/af66e7a0-2b1a-4fa0-a66c-e6e7a2541cb1

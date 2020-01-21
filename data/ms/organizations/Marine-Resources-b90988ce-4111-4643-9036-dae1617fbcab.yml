@@ -12,6 +12,7 @@ memberships:
   role: Chairman
 - id: ocd-person/c2aea7c7-c220-43b0-b9c2-69cea827ccda
   name: Patricia H. Willis
+  end_date: '2020-01-21'
 - id: ocd-person/eeb3ed44-e65e-4220-a842-e8ec84a23c03
   name: Randall Patterson
 - id: ocd-person/7f1357e0-62b5-412c-b121-6cb5a5aced0e

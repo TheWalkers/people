@@ -39,6 +39,7 @@ memberships:
   name: Jarvis Dortch
 - id: ocd-person/cecf6170-4ff8-451b-ad04-d135cdd9263e
   name: Ashley Henley
+  end_date: '2020-01-21'
 - name: Sara R. Thomas
 - id: ocd-person/b6553553-bd9a-4bd4-92da-27018b5914fe
   name: Orlando Paden
@@ -58,6 +59,7 @@ memberships:
   name: Angela Cockerham
 - id: ocd-person/bf4aa2c2-816f-4c8b-8225-2cb7e2a51d2b
   name: Credell Calhoun
+  end_date: '2020-01-21'
 - id: ocd-person/4b4c6bbd-fcbb-4c7e-9746-83acffe80898
   name: Richard Bennett
   role: Chairman

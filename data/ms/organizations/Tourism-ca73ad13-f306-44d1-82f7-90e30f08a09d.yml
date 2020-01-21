@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/cecf6170-4ff8-451b-ad04-d135cdd9263e
   name: Ashley Henley
+  end_date: '2020-01-21'
 - id: ocd-person/4b4c6bbd-fcbb-4c7e-9746-83acffe80898
   name: Richard Bennett
 - id: ocd-person/ee6c2cb7-6d0f-4b45-9e06-2ba1dfae8ecb
@@ -45,6 +46,7 @@ memberships:
   name: Lester Carpenter
 - id: ocd-person/c2aea7c7-c220-43b0-b9c2-69cea827ccda
   name: Patricia H. Willis
+  end_date: '2020-01-21'
 - id: ocd-person/bec0f8f6-7f4c-442b-be25-14e2a2c1f5cb
   name: Willie Bailey
 - id: ocd-person/c5ec6885-a7dc-48f4-a2e4-7aa85397f337

@@ -24,5 +24,6 @@ memberships:
 - id: ocd-person/361719d4-9e60-4ae5-9902-297e9eb92206
   name: Kathy Sykes
   role: Vice-Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/35d58782-c84b-4238-8f49-db7e33ebd3c9
   name: Steve Hopkins

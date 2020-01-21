@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/7a31d190-84ac-4ba9-88f4-577f8c4c2412
   name: Preston E. Sullivan
+  end_date: '2020-01-21'
 - id: ocd-person/ffba30ff-86d3-42db-ab94-0028df181da1
   name: Jeff Hale
   role: Vice-Chairman
@@ -18,6 +19,7 @@ memberships:
   name: Gregory Holloway, Sr.
 - id: ocd-person/c2e8e47e-3b18-4afa-b560-29bc6ede2db1
   name: Nolan Mettetal
+  end_date: '2020-01-21'
 - id: ocd-person/310c4392-eb6a-4cb0-9baa-72cc03153f22
   name: Charles Young, Jr.
 - id: ocd-person/761527db-bbe0-43e5-90e0-2a06528ebfa4
@@ -34,6 +36,7 @@ memberships:
 - name: Sara R. Thomas
 - id: ocd-person/b451df76-af3e-4c9c-be78-8c8e6c3c1cf6
   name: Ray Rogers
+  end_date: '2020-01-21'
 - id: ocd-person/da5160a3-da97-4aa0-8368-5e98503d638f
   name: Joel Bomgar
 - id: ocd-person/6c7089b2-5e2d-4049-9aee-5fd76004af16

@@ -23,8 +23,10 @@ memberships:
   name: Robert L. Johnson III
 - id: ocd-person/0a230df0-d881-4628-bdb5-32171eb14186
   name: Bill Denny
+  end_date: '2020-01-21'
 - id: ocd-person/902d3f14-bd0d-4599-8e56-b28e893d9afb
   name: Jeffrey C. Smith
+  end_date: '2020-01-21'
 - id: ocd-person/4a73b9e6-c66b-4022-b380-6caea6b48265
   name: Shane Aguirre
 - id: ocd-person/4b4c6bbd-fcbb-4c7e-9746-83acffe80898

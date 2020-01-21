@@ -20,7 +20,7 @@ sources:
 image: http://billstatus.ls.state.ms.us/members/house/scoggin.jpg
 extras:
   org_info: Rep. Scoggin is affiliated with Jones County E.D.A., Jones County Republican,
-    and Member Mississippi Nurse Practitioner's Assoc.
+    Member Mississippi Nurse Practitioner's Assoc. and Mississippi Nurses Association.
 other_identifiers:
 - identifier: MSL000291
   scheme: legacy_openstates

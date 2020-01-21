@@ -16,8 +16,10 @@ memberships:
   name: William Tracy Arnold
 - id: ocd-person/d4017949-ce4d-42d0-8b22-c3cae7505860
   name: Margaret Rogers
+  end_date: '2020-01-21'
 - id: ocd-person/33eb9a43-da23-421b-b4f8-b6bf5fa9c187
   name: Jay Hughes
+  end_date: '2020-01-21'
 - id: ocd-person/86dbc7dc-6cd5-4005-b076-9b1bb674e331
   name: Noah Sanford
   role: Vice-Chairman

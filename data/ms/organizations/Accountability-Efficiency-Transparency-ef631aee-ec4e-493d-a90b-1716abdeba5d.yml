@@ -11,6 +11,7 @@ memberships:
   name: Doug McLeod
 - id: ocd-person/33eb9a43-da23-421b-b4f8-b6bf5fa9c187
   name: Jay Hughes
+  end_date: '2020-01-21'
 - id: ocd-person/52d3da6f-c397-4795-9bd8-5a3f17657129
   name: Jerry R. Turner
   role: Chairman
@@ -32,3 +33,4 @@ memberships:
 - id: ocd-person/8c4d38fb-1809-4989-bf0b-1936dcf2ade8
   name: Robert Foster
   role: Vice-Chairman
+  end_date: '2020-01-21'

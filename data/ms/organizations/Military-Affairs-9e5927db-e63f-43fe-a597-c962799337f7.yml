@@ -9,20 +9,24 @@ sources:
 memberships:
 - id: ocd-person/bf4aa2c2-816f-4c8b-8225-2cb7e2a51d2b
   name: Credell Calhoun
+  end_date: '2020-01-21'
 - id: ocd-person/3439bb59-6632-4653-83e1-031422ad832f
   name: Mark Tullos
 - id: ocd-person/b451df76-af3e-4c9c-be78-8c8e6c3c1cf6
   name: Ray Rogers
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/a1fef221-e3ca-4598-a7f9-cf6862b3007a
   name: Kabir Karriem
 - id: ocd-person/c2aea7c7-c220-43b0-b9c2-69cea827ccda
   name: Patricia H. Willis
+  end_date: '2020-01-21'
 - id: ocd-person/af2a8aef-177c-49d2-9b77-f1f19f7b8eaa
   name: Randy Rushing
 - id: ocd-person/cecf6170-4ff8-451b-ad04-d135cdd9263e
   name: Ashley Henley
   role: Vice-Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/c3ea3d93-cd2d-48f4-babd-a47bbd951108
   name: Manly Barton
 - id: ocd-person/c0d8a1af-3036-4aee-89e7-f98cc40203cd
@@ -37,5 +41,6 @@ memberships:
   name: Steve Hopkins
 - id: ocd-person/cf1415f8-10ac-4582-b7d1-93fc111fbf3b
   name: David W. Myers
+  end_date: '2020-01-21'
 - id: ocd-person/761527db-bbe0-43e5-90e0-2a06528ebfa4
   name: Karl Oliver

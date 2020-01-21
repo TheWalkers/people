@@ -17,5 +17,7 @@ memberships:
 - id: ocd-person/b3d2201d-45b3-4425-b7f9-9acf827ff3e1
   name: Deborah Jeanne Dawkins
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/17c5e858-8061-4347-a7b8-ff5552829fcf
   name: Willie Simmons
+  end_date: '2020-01-21'

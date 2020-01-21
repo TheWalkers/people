@@ -13,6 +13,7 @@ memberships:
 - id: ocd-person/597ef837-e314-4a66-9f57-d2b5248a7ad2
   name: William Shirley
   role: Vice-Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/b6553553-bd9a-4bd4-92da-27018b5914fe
   name: Orlando Paden
 - id: ocd-person/eeb3ed44-e65e-4220-a842-e8ec84a23c03

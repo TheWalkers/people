@@ -26,8 +26,10 @@ memberships:
   name: Gary Chism
 - id: ocd-person/bf4aa2c2-816f-4c8b-8225-2cb7e2a51d2b
   name: Credell Calhoun
+  end_date: '2020-01-21'
 - id: ocd-person/b451df76-af3e-4c9c-be78-8c8e6c3c1cf6
   name: Ray Rogers
+  end_date: '2020-01-21'
 - id: ocd-person/d46b6cb0-655d-4c9e-96d9-62c0412a6589
   name: Tom Weathersby
 - id: ocd-person/7e340127-bea2-48af-95a8-368b99160880
@@ -52,6 +54,7 @@ memberships:
   name: Stephen A. Horne
 - id: ocd-person/d4017949-ce4d-42d0-8b22-c3cae7505860
   name: Margaret Rogers
+  end_date: '2020-01-21'
 - id: ocd-person/bec0f8f6-7f4c-442b-be25-14e2a2c1f5cb
   name: Willie Bailey
 - id: ocd-person/c5ec6885-a7dc-48f4-a2e4-7aa85397f337
@@ -61,6 +64,7 @@ memberships:
 - id: ocd-person/902d3f14-bd0d-4599-8e56-b28e893d9afb
   name: Jeffrey C. Smith
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/e36cdae5-3437-48fc-93b4-280b09af661b
   name: Rob Roberson
 - id: ocd-person/dcc9906b-9a0a-4503-9128-006317d5ff3f

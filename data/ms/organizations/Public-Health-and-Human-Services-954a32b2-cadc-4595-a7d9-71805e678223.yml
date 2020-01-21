@@ -29,6 +29,7 @@ memberships:
   name: Mac Huddleston
 - id: ocd-person/361719d4-9e60-4ae5-9902-297e9eb92206
   name: Kathy Sykes
+  end_date: '2020-01-21'
 - id: ocd-person/5aa9d603-5bb2-4c1d-9a0b-1baaf91c425d
   name: Christopher M. Bell
 - id: ocd-person/e645db95-2862-40dd-b548-b84b6f0b5f3f
@@ -42,6 +43,7 @@ memberships:
   role: Vice-Chairman
 - id: ocd-person/30a5b671-a450-4228-b9ca-ef336790a102
   name: Deborah Butler Dixon
+  end_date: '2020-01-21'
 - id: ocd-person/2295ae6d-30a5-4316-83dd-72f19a5fd421
   name: Adrienne Wooten
   end_date: '2018-12-31'
@@ -63,6 +65,7 @@ memberships:
   name: Noah Sanford
 - id: ocd-person/c2e8e47e-3b18-4afa-b560-29bc6ede2db1
   name: Nolan Mettetal
+  end_date: '2020-01-21'
 - id: ocd-person/162c9460-3639-4f02-9334-32e058894b88
   name: Debra Gibbs
 - id: ocd-person/e8d21f92-a17f-4bdc-ae8e-ebb0f2af563d

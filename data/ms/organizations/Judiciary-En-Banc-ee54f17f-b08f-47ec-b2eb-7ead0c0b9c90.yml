@@ -21,11 +21,13 @@ memberships:
   name: Bob Evans
 - id: ocd-person/597ef837-e314-4a66-9f57-d2b5248a7ad2
   name: William Shirley
+  end_date: '2020-01-21'
 - id: ocd-person/3439bb59-6632-4653-83e1-031422ad832f
   name: Mark Tullos
 - id: ocd-person/473010c0-c433-4186-a9ad-f3da1ce2d0a8
   name: Mark Baker
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/ea446f2d-78e7-4faf-8313-8987f9ae896f
   name: Charles Jim Beckett
 - id: ocd-person/e36cdae5-3437-48fc-93b4-280b09af661b
@@ -38,8 +40,10 @@ memberships:
   name: Kevin Ford
 - id: ocd-person/c82f017d-2ac8-45d9-a91e-cd8e88b14d76
   name: Roun McNeal
+  end_date: '2020-01-21'
 - id: ocd-person/902d3f14-bd0d-4599-8e56-b28e893d9afb
   name: Jeffrey C. Smith
+  end_date: '2020-01-21'
 - id: ocd-person/622761e7-fba1-4a35-879b-45a6dd021ab0
   name: Joey Hood
 - id: ocd-person/c655558e-dfac-468a-a633-85f380c538b6
@@ -54,6 +58,7 @@ memberships:
   name: Joel Bomgar
 - id: ocd-person/33eb9a43-da23-421b-b4f8-b6bf5fa9c187
   name: Jay Hughes
+  end_date: '2020-01-21'
 - id: ocd-person/379b9fd9-2da7-4e20-b0ed-4319ead3a1db
   name: Cedric Burnett
 - id: ocd-person/0d191683-0d9c-408f-812b-5d986a3030a6
@@ -66,6 +71,7 @@ memberships:
   name: Kevin Horan
 - id: ocd-person/afd120b7-359a-4185-9942-b184b8595f5e
   name: David Baria
+  end_date: '2020-01-21'
 - id: ocd-person/56754d9a-55ff-454d-8ea6-60aeedef0496
   name: Gary Chism
 - id: ocd-person/2118023c-ed1d-455f-b3a6-faeefd0e87b5
@@ -78,16 +84,19 @@ memberships:
   name: Sam C. Mims, V
 - id: ocd-person/0a230df0-d881-4628-bdb5-32171eb14186
   name: Bill Denny
+  end_date: '2020-01-21'
 - id: ocd-person/83f9f72e-ec2d-4351-a227-d8a6aec18eed
   name: Angela Cockerham
 - id: ocd-person/30439641-ace1-4f3e-b939-5fdeef6685d0
   name: Greg Snowden
+  end_date: '2020-01-21'
 - id: ocd-person/4fa41145-35bf-442b-bdfe-cf54ea53da69
   name: Earle S. Banks
 - id: ocd-person/e07e8b9a-05ff-4b22-9bcb-2f8796dc533e
   name: Dana Criswell
 - id: ocd-person/30a5b671-a450-4228-b9ca-ef336790a102
   name: Deborah Butler Dixon
+  end_date: '2020-01-21'
 - id: ocd-person/6504a75a-5562-4d4e-bb6a-351c9af765ea
   name: Brad Touchstone
   end_date: '2018-12-31'
@@ -97,6 +106,7 @@ memberships:
   name: Willie Bailey
 - id: ocd-person/c2aea7c7-c220-43b0-b9c2-69cea827ccda
   name: Patricia H. Willis
+  end_date: '2020-01-21'
 - id: ocd-person/86dbc7dc-6cd5-4005-b076-9b1bb674e331
   name: Noah Sanford
 - id: ocd-person/7dcb0b5b-3eb3-4db2-8666-0eb83589289f

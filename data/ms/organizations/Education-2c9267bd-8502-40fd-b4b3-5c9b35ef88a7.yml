@@ -13,13 +13,16 @@ memberships:
   name: Brice Wiggins
 - id: ocd-person/bd702ebd-f4af-4a74-bbad-d413b5760bd8
   name: Billy Hudson
+  end_date: '2020-01-21'
 - id: ocd-person/f6e50cdc-c438-412a-b6df-8603575802d1
   name: Gray Tollison
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/b58c7115-6f1d-4de3-9327-eef3b6f0c83c
   name: Kevin Blackwell
 - id: ocd-person/ed6075da-4f97-4ebb-af9f-b57fb3b37813
   name: Terry C. Burton
+  end_date: '2020-01-21'
 - id: ocd-person/f2f61e1d-8d34-40c7-95ff-fb08cd2a4f75
   name: David Jordan
 - id: ocd-person/ac7730d2-cf3b-44e4-aa6c-5f4dfd0d32e1
@@ -29,6 +32,7 @@ memberships:
   name: Angela Burks Hill
 - id: ocd-person/b1c39dad-eeaf-4239-88af-66adde496441
   name: Eugene S. Clarke
+  end_date: '2020-01-21'
 - id: ocd-person/c8e4b4c1-6c8f-4b95-9b48-c73997b3f518
   name: David Blount
 - id: ocd-person/f275881b-1096-4a6a-a607-b417eae41f2e
@@ -37,5 +41,7 @@ memberships:
   name: Sollie B. Norwood
 - id: ocd-person/b251de31-b740-4bfa-91ca-486c69b03c2d
   name: J. P. Wilemon, Jr.
+  end_date: '2020-01-21'
 - id: ocd-person/2e4422d4-f390-4daf-9f75-088915897c0b
   name: Chris Massey
+  end_date: '2020-01-21'

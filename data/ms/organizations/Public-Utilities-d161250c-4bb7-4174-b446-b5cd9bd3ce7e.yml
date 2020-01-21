@@ -11,6 +11,7 @@ memberships:
   name: Tom Miles
 - id: ocd-person/cf1415f8-10ac-4582-b7d1-93fc111fbf3b
   name: David W. Myers
+  end_date: '2020-01-21'
 - id: ocd-person/d247f852-5545-40b2-b974-757b73b1e807
   name: Michael T. Evans
 - id: ocd-person/56754d9a-55ff-454d-8ea6-60aeedef0496
@@ -37,6 +38,7 @@ memberships:
   role: Vice-Chairman
 - id: ocd-person/361719d4-9e60-4ae5-9902-297e9eb92206
   name: Kathy Sykes
+  end_date: '2020-01-21'
 - id: ocd-person/ea446f2d-78e7-4faf-8313-8987f9ae896f
   name: Charles Jim Beckett
   role: Chairman
@@ -48,11 +50,14 @@ memberships:
   name: Joey Hood
 - id: ocd-person/17534797-d164-4739-90a9-5767c27d2e90
   name: Gary V. Staples
+  end_date: '2020-01-21'
 - id: ocd-person/394ffb4f-8110-44a9-8ae6-a5d528b44faa
   name: John Glen Corley
+  end_date: '2020-01-21'
 - id: ocd-person/fa44d12a-cb19-426b-94d3-6fb68b4095c8
   name: Stacey Wilkes
 - id: ocd-person/4fa41145-35bf-442b-bdfe-cf54ea53da69
   name: Earle S. Banks
 - id: ocd-person/d4017949-ce4d-42d0-8b22-c3cae7505860
   name: Margaret Rogers
+  end_date: '2020-01-21'

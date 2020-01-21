@@ -16,6 +16,7 @@ memberships:
   name: Sally Doty
 - id: ocd-person/021b0a1a-ccf2-45a1-8fc2-d2cf4a730e9a
   name: Nickey Browning
+  end_date: '2020-01-21'
 - id: ocd-person/ac7730d2-cf3b-44e4-aa6c-5f4dfd0d32e1
   name: Chris Caughman
 - id: ocd-person/13163ae5-a55d-4eff-8b23-b9f7df9e354a
@@ -33,5 +34,7 @@ memberships:
   name: Robert L. Jackson
 - id: ocd-person/b251de31-b740-4bfa-91ca-486c69b03c2d
   name: J. P. Wilemon, Jr.
+  end_date: '2020-01-21'
 - id: ocd-person/cd6cc226-c404-481d-9cad-e824d8e101de
   name: Videt Carmichael
+  end_date: '2020-01-21'

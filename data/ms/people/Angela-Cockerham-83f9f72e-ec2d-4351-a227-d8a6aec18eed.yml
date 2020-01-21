@@ -1,7 +1,7 @@
 id: ocd-person/83f9f72e-ec2d-4351-a227-d8a6aec18eed
 name: Angela Cockerham
 party:
-- name: Democratic
+- name: Independent
 roles:
 - district: '96'
   jurisdiction: ocd-jurisdiction/country:us/state:ms/government

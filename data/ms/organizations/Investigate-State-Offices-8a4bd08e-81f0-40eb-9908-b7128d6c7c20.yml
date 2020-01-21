@@ -16,8 +16,10 @@ memberships:
   end_date: '2018-08-31'
 - id: ocd-person/b451df76-af3e-4c9c-be78-8c8e6c3c1cf6
   name: Ray Rogers
+  end_date: '2020-01-21'
 - id: ocd-person/473010c0-c433-4186-a9ad-f3da1ce2d0a8
   name: Mark Baker
+  end_date: '2020-01-21'
 - id: ocd-person/defa75f7-917e-42da-9d2c-403ad80d1995
   name: Randy P. Boyd
 - id: ocd-person/29c08356-5e03-4aed-8518-28da6090a14b

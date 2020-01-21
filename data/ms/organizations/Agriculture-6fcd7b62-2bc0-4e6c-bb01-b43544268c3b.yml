@@ -19,6 +19,7 @@ memberships:
   name: Manly Barton
 - id: ocd-person/30a5b671-a450-4228-b9ca-ef336790a102
   name: Deborah Butler Dixon
+  end_date: '2020-01-21'
 - id: ocd-person/20510bb3-edcd-4cb8-a41a-e0114e6215c9
   name: Chris Johnson
 - id: ocd-person/da8a0173-20dc-4979-949d-57d902e744e0
@@ -46,6 +47,7 @@ memberships:
   name: Donnie Scoggin
 - id: ocd-person/7a31d190-84ac-4ba9-88f4-577f8c4c2412
   name: Preston E. Sullivan
+  end_date: '2020-01-21'
 - id: ocd-person/11a7e2b0-b65a-4d8c-b1b3-aac8fe895e63
   name: Jarvis Dortch
 - id: ocd-person/c0d8a1af-3036-4aee-89e7-f98cc40203cd
@@ -55,8 +57,10 @@ memberships:
   name: Kenneth Walker
 - id: ocd-person/8c4d38fb-1809-4989-bf0b-1936dcf2ade8
   name: Robert Foster
+  end_date: '2020-01-21'
 - id: ocd-person/17534797-d164-4739-90a9-5767c27d2e90
   name: Gary V. Staples
+  end_date: '2020-01-21'
 - name: Robert E. Huddleston
 - name: Sara R. Thomas
 - id: ocd-person/86dbc7dc-6cd5-4005-b076-9b1bb674e331
@@ -69,6 +73,7 @@ memberships:
   name: Steve Massengill
 - id: ocd-person/394ffb4f-8110-44a9-8ae6-a5d528b44faa
   name: John Glen Corley
+  end_date: '2020-01-21'
 - id: ocd-person/184a7a1f-940c-4b69-aee6-68f4eec9c84a
   name: Abe Hudson
 - id: ocd-person/9510ffea-ad50-40da-8634-30d92edc6d68

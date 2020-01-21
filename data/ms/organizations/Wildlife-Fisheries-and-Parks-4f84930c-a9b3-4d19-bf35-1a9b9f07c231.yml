@@ -13,10 +13,12 @@ memberships:
   name: Chris Caughman
 - id: ocd-person/d7615aed-6496-4efd-91db-d25ca1c9d965
   name: Michael Watson
+  end_date: '2020-01-21'
 - id: ocd-person/3ea1bab4-64f2-4ff3-b0a9-e04a8caa3e9f
   name: Derrick T. Simmons
 - id: ocd-person/f6e50cdc-c438-412a-b6df-8603575802d1
   name: Gray Tollison
+  end_date: '2020-01-21'
 - id: ocd-person/f92bf8e7-5cad-4916-a1bc-4f5f0c10ff81
   name: Sampson Jackson II
 - id: ocd-person/7c8428fb-7cb4-4653-9629-f41037af9669
@@ -24,6 +26,7 @@ memberships:
   role: Chairman
 - id: ocd-person/2e4422d4-f390-4daf-9f75-088915897c0b
   name: Chris Massey
+  end_date: '2020-01-21'
 - id: ocd-person/4004cf9a-6d23-4323-b158-00f22078d2b4
   name: Angela Burks Hill
   role: Vice-Chairman

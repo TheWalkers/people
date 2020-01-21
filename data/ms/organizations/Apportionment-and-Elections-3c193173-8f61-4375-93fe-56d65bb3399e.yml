@@ -14,6 +14,7 @@ memberships:
 - id: ocd-person/0a230df0-d881-4628-bdb5-32171eb14186
   name: Bill Denny
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/8d911038-c5a1-4bcd-b84e-586f58f7d96a
   name: Cory Wilson
   end_date: '2019-02-22'
@@ -29,6 +30,7 @@ memberships:
   role: Vice-Chairman
 - id: ocd-person/cecf6170-4ff8-451b-ad04-d135cdd9263e
   name: Ashley Henley
+  end_date: '2020-01-21'
 - id: ocd-person/6504a75a-5562-4d4e-bb6a-351c9af765ea
   name: Brad Touchstone
   end_date: '2018-12-31'

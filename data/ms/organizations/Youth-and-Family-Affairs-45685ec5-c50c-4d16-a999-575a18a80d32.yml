@@ -11,6 +11,7 @@ memberships:
   name: John G. Faulkner
 - id: ocd-person/afd120b7-359a-4185-9942-b184b8595f5e
   name: David Baria
+  end_date: '2020-01-21'
 - id: ocd-person/da5160a3-da97-4aa0-8368-5e98503d638f
   name: Joel Bomgar
 - name: Sara R. Thomas
@@ -22,6 +23,7 @@ memberships:
 - id: ocd-person/30a5b671-a450-4228-b9ca-ef336790a102
   name: Deborah Butler Dixon
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/48567f29-ec70-4ff5-bda5-873f2e42933b
   name: Dan Eubanks
 - id: ocd-person/38d590c5-20ff-42d5-b9dd-af77664213cf
@@ -31,3 +33,4 @@ memberships:
   name: Mark Tullos
 - id: ocd-person/cecf6170-4ff8-451b-ad04-d135cdd9263e
   name: Ashley Henley
+  end_date: '2020-01-21'

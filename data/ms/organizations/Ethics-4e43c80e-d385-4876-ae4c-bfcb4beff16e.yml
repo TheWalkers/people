@@ -12,6 +12,7 @@ memberships:
 - id: ocd-person/2e4422d4-f390-4daf-9f75-088915897c0b
   name: Chris Massey
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/86aae10c-e4aa-41da-b9e0-029e75b06a77
   name: Gary Jackson
   role: Vice-Chairman
@@ -23,6 +24,7 @@ memberships:
   name: David Blount
 - id: ocd-person/657391f4-faa7-4968-8558-56d56d89b9c5
   name: Russell Jolly
+  end_date: '2020-01-21'
 - id: ocd-person/17a5d5bb-d52b-4d53-a6a0-bcaa7c5538d7
   name: Chad McMahan
 - id: ocd-person/094c0731-4932-4400-ad96-84c83ba1dd59

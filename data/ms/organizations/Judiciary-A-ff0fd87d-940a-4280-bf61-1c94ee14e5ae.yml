@@ -12,12 +12,14 @@ memberships:
 - id: ocd-person/473010c0-c433-4186-a9ad-f3da1ce2d0a8
   name: Mark Baker
   role: Chairman
+  end_date: '2020-01-21'
 - id: ocd-person/5116339d-1c09-4c60-a3a9-82e580da3403
   name: Thomas U. Reynolds
 - id: ocd-person/56754d9a-55ff-454d-8ea6-60aeedef0496
   name: Gary Chism
 - id: ocd-person/0a230df0-d881-4628-bdb5-32171eb14186
   name: Bill Denny
+  end_date: '2020-01-21'
 - id: ocd-person/0de22359-9403-4bec-917a-985b26fd45ff
   name: Robert L. Johnson III
 - id: ocd-person/e07e8b9a-05ff-4b22-9bcb-2f8796dc533e
@@ -28,12 +30,15 @@ memberships:
   name: Earle S. Banks
 - id: ocd-person/33eb9a43-da23-421b-b4f8-b6bf5fa9c187
   name: Jay Hughes
+  end_date: '2020-01-21'
 - id: ocd-person/7fe0478b-3777-490c-93cb-20f83baf3d3f
   name: Bob Evans
 - id: ocd-person/902d3f14-bd0d-4599-8e56-b28e893d9afb
   name: Jeffrey C. Smith
+  end_date: '2020-01-21'
 - id: ocd-person/30439641-ace1-4f3e-b939-5fdeef6685d0
   name: Greg Snowden
+  end_date: '2020-01-21'
 - id: ocd-person/0d191683-0d9c-408f-812b-5d986a3030a6
   name: Bryant W. Clark
 - id: ocd-person/71f2e84c-f30b-437f-b48f-9ae93ac3aa4f

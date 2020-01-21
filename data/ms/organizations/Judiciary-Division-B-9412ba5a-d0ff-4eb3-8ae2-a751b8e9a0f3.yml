@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/f6e50cdc-c438-412a-b6df-8603575802d1
   name: Gray Tollison
+  end_date: '2020-01-21'
 - id: ocd-person/bc0bd61c-da9a-40db-bf66-a0108b01275e
   name: Joey Fillingane
 - id: ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67
@@ -17,6 +18,7 @@ memberships:
   name: Derrick T. Simmons
 - id: ocd-person/d7615aed-6496-4efd-91db-d25ca1c9d965
   name: Michael Watson
+  end_date: '2020-01-21'
 - id: ocd-person/4871dab1-570b-48ac-be4f-fd523c5c24fd
   name: Chris McDaniel
   role: Vice-Chairman
