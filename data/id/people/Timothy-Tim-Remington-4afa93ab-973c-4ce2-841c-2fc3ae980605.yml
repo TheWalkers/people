@@ -1,5 +1,5 @@
 id: ocd-person/4afa93ab-973c-4ce2-841c-2fc3ae980605
-name: "Timothy Remington"
+name: Timothy Remington
 party:
 - name: Republican
 roles:
@@ -17,3 +17,4 @@ links:
 sources:
 - url: https://legislature.idaho.gov/house/membership/
 image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Remington6405.jpg
+gender: Male
