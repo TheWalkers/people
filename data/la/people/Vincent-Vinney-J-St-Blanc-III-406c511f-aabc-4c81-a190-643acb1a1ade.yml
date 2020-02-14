@@ -9,6 +9,8 @@ roles:
 contact_details:
 - email: hse050@legis.la.gov
   note: District Office
+  address: 733 Main Street;Franklin, LA 70538
+  voice: 337-828-7778
 links:
 - url: http://house.louisiana.gov/H_Reps/members.aspx?ID=50
 sources:

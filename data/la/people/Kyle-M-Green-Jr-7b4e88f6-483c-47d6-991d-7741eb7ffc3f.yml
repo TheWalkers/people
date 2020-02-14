@@ -7,9 +7,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 6641 Westbank Expwy. Suite D, Marrero, LA 70072
+- address: 6641 Westbank Expwy.;Suite D;Marrero, LA 70072
   email: hse083@legis.la.gov
   note: District Office
+  voice: 504-349-8788
 links:
 - url: http://house.louisiana.gov/H_Reps/members.aspx?ID=83
 sources:

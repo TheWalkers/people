@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
 contact_details:
-- email: john.o'connor@leg.state.nh.us
+- email: john.oconnor@leg.state.nh.us
   note: Capitol Office
 - address: 13 Arrowhead Road;Derry, NH 03038-3715
   note: District Office

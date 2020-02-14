@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 9727 Norris Ferry Road;Shreveport, LA 71106-7721
+- address: 401 Market Street;Suite 1150;Shreveport, LA 71101
   email: seabaugha@legis.la.gov
   note: District Office
   voice: 318-676-7990

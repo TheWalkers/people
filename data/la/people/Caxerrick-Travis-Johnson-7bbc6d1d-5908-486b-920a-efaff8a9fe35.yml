@@ -1,5 +1,5 @@
 id: ocd-person/7bbc6d1d-5908-486b-920a-efaff8a9fe35
-name: Caxerrick Travis Johnson
+name: C. Travis Johnson
 party:
 - name: Democratic
 roles:
@@ -9,6 +9,8 @@ roles:
 contact_details:
 - email: hse021@legis.la.gov
   note: District Office
+  address: P.O. Box 1342;Ferriday, LA 71334
+  voice: 318-336-5865
 links:
 - url: http://house.louisiana.gov/H_Reps/members.aspx?ID=21
 sources:

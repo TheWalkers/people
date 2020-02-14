@@ -1,0 +1,18 @@
+id: ocd-person/f81b48f5-77d1-47e2-a702-137457e4047b
+name: Leslie "Les" Farnum
+party:
+- name: Republican
+roles:
+- district: '33'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+  end_date: '2020-02-14'
+contact_details:
+- email: hse033@legis.la.gov
+  note: District Office
+links:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=33
+sources:
+- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=33
+image: http://house.louisiana.gov/h_reps/RepPics09/rep33.jpg
+gender: Male

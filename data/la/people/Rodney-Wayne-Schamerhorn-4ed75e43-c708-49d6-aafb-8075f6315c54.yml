@@ -7,9 +7,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 1083 Hammond Street;Horbeck , LA 71439
+- address: P.O. Box 83;Hornbeck, LA 71439
   email: hse024@legis.la.gov
   note: District Office
+  voice: 318-565-4959
 links:
 - url: http://house.louisiana.gov/H_Reps/members.aspx?ID=24
 sources:

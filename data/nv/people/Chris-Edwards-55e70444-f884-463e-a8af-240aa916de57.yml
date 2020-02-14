@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nv/government
   type: lower
 contact_details:
-- address: 6088 Riflecrest Avenue;Las Vegas, NV 89156-4778
+- address: 139 La Mirada Drive;Henderson, NV 89015-2761
   email: Chris.Edwards@asm.state.nv.us
   note: District Office
   voice: 702-715-4308

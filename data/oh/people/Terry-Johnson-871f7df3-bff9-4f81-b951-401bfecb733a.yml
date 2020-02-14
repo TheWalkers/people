@@ -11,7 +11,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:oh/government
   type: upper
 contact_details:
-- address: Statehouse;1 Capitol Square;2nd Floor
+- address: Statehouse;1 Capitol Square;2nd Floor;Columbus, OH 43215
   email: sd14@ohiosenate.gov
   fax: 614-719-6989
   note: Capitol Office

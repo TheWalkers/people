@@ -36,6 +36,7 @@ memberships:
   name: Erica D. Smith
 - id: ocd-person/74b59014-cfdc-44ef-a6e7-c9ab4c4ffbb3
   name: Floyd B. McKissick, Jr.
+  end_date: '2020-02-14'
 - id: ocd-person/e983a190-24f9-4a99-90cc-712e6e172630
   name: Rick Gunn
   role: Co-Chairman

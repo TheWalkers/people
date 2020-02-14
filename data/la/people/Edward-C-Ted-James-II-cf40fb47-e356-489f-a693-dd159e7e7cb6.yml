@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 445 N. 12th St.;Baton Rouge, LA 70802
+- address: 445 N. 12th Street;Baton Rouge, LA 70802
   email: james.ted@legis.la.gov
   note: District Office
   voice: 225-343-3633

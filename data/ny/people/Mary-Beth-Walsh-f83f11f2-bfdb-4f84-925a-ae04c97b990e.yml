@@ -7,10 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: LOB 725;Albany, NY 12248
+- address: LOB 635;Albany, NY 12248
   email: walshm@nyassembly.gov
   note: Capitol Office
   voice: 518-455-5772
+  fax: 518-455-4650
 - address: 199 Milton Avenue;Suite 3-4;Ballston Spa, NY 12020
   note: District Office
   voice: 518-884-8010

@@ -1,0 +1,17 @@
+id: ocd-person/acae24ed-761d-4ce3-bd61-31870984d15c
+name: Jonathan Pizer
+party:
+- name: Democratic
+roles:
+- district: '12'
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  type: lower
+contact_details:
+- address: Springfield, IL 62706
+  note: capitol
+links:
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2779
+sources:
+- url: http://ilga.gov/house/default.asp?GA=101
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2779
+image: http://ilga.gov/images/members/{AEA13B8E-BC14-4BAE-99C1-804503A2D405}.jpg

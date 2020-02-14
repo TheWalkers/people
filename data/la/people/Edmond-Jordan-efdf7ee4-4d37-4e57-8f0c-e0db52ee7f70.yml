@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 5763 Hooper Rd., Ste. B;Baton Rouge, LA 70811-2420
+- address: 5763 Hooper Road;Suite B;Baton Rouge, LA 70811-2420
   email: jordane@legis.la.gov
   note: District Office
   voice: 225-359-9480

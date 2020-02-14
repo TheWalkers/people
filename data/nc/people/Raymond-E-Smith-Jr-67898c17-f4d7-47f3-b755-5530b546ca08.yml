@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 16 West Jones Street, Rm. 2223;Raleigh, NC 27601-1096
+- address: PO Box 10772;Goldsboro, NC 27532
   note: District Office
   voice: 919-733-5863
 - address: 16 West Jones Street, Rm. 2223;Raleigh, NC 27601-1096

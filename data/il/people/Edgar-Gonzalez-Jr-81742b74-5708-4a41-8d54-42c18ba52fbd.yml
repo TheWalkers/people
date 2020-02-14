@@ -1,0 +1,19 @@
+id: ocd-person/81742b74-5708-4a41-8d54-42c18ba52fbd
+name: Edgar Gonzalez, Jr.
+party:
+- name: Democratic
+roles:
+- district: '21'
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  type: lower
+contact_details:
+- address: 260-W Stratton Office Building;Springfield, IL 62706
+  email: repgonzalez21@gmail.com
+  note: capitol
+  voice: 217-782-7752
+links:
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2776
+sources:
+- url: http://ilga.gov/house/default.asp?GA=101
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2776
+image: http://ilga.gov/images/members/{370B1494-7F8F-48BC-BD66-4756E15442E1}.jpg

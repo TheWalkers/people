@@ -7,10 +7,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ms/government
   type: upper
 contact_details:
-- address: Room 212 C;P. O. Box 1018;Jackson, MS 39215
+- address: Room 307;P. O. Box 1018;Jackson, MS 39215
   email: gjackson@senate.ms.gov
   note: Capitol Office
-  voice: 601-359-3234
+  voice: 601-359-4089
 - address: P. O. Box 40;French Camp, MS 39745
   note: District Office
   voice: 662-547-6684

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 504 N. Main St.;Homer, LA 71040
+- address: 504 N. Main Street;Homer, LA 71040
   email: jeffersonpo@legis.la.gov
   note: District Office
   voice: 318-927-2519

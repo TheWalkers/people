@@ -1,8 +1,8 @@
 contact_details:
-- address: 200 E. Colfax;RM 307;Denver, CO 80203
-  email: chris.hansen.house@state.co.us
+- address: 200 E. Colfax;RM 346;Denver, CO 80203
+  email: chris.hansen.senate@state.co.us
   note: Capitol Office
-  voice: 303-866-2967
+  voice: 303-866-4861
 family_name: Hansen
 given_name: Chris
 id: ocd-person/38bd0587-d043-4341-bad9-1bfa903d9dcd
@@ -19,6 +19,10 @@ roles:
 - district: '6'
   jurisdiction: ocd-jurisdiction/country:us/state:co/government
   type: lower
+  end_date: '2020-02-14'
+- district: '31'
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  type: upper
 sources:
 - url: http://leg.colorado.gov/legislators/chris-hansen
 - url: http://leg.colorado.gov/legislators

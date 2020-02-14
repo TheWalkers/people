@@ -1,0 +1,21 @@
+id: ocd-person/95bf16a9-5a3a-474f-bead-af3ec1febe71
+name: Harry Arora
+party:
+- name: Republican
+roles:
+- district: '151'
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  type: lower
+contact_details:
+- address: 300 Capitol Ave., LOB;Room 1002;Hartford, CT 06106
+  note: Capitol Office
+  voice: 860-240-8700
+- email: harry.arora@housegop.ct.gov
+  note: ''
+- address: 300 Capitol Ave., LOB;Hartford, CT 06106
+  note: District Office
+  voice: 860-240-8700
+links:
+- url: http://www.cthousegop.com/arora
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

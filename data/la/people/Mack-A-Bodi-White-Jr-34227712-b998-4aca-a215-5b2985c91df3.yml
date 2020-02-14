@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 808 O'Neal Lane;Baton Rouge, LA 70816
+- address: 11103 Park Place;Baton Rouge, LA 70818
   email: whitem@legis.la.gov
   fax: 225-272-1382
   note: District Office

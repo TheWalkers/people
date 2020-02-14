@@ -7,20 +7,22 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
   end_date: '2018-12-31'
+- district: '20'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: upper
 contact_details:
 - address: PO Box 2152, Durham, NC 27702-2152
   note: District Office
   voice: 919-596-8181
-- address: N.C. House of Representatives;16 W Jones Street, Room 1227;Raleigh, NC
-    27601-1096
+- address: 16 West Jones Street, Rm. 2115;Raleigh, NC 27601
   email: Mickey.Michaux@ncleg.net
   note: Capitol Office
-  voice: 919-715-2528
+  voice: 919-733-4599
 links:
-- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=House&nUserID=71
+- url: https://www.ncleg.gov/Members/Biography/S/421
 sources:
-- url: http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=House&nUserID=71
-image: http://www.ncleg.net/House/pictures/hiRes/71.jpg
+- url: https://www.ncleg.gov/Members/Biography/S/421
+image: https://www.ncleg.gov/Members/MemberImage/S/421/High
 extras:
   counties:
   - Durham

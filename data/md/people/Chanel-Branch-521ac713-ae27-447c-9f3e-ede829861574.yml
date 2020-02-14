@@ -1,0 +1,18 @@
+id: ocd-person/521ac713-ae27-447c-9f3e-ede829861574
+name: Chanel Branch
+party:
+- name: Democratic
+roles:
+- district: '45'
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  type: lower
+contact_details:
+- address: 225 House Office Bldg.;6 Bladen Street;Annapolis, MD 21401
+  email: chanel.branch@house.state.md.us
+  note: Capitol Office
+  voice: 410-841-3257
+links:
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/branch01
+sources:
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/branch01
+image: http://mgaleg.maryland.gov/2020RS/images/branch01.jpg

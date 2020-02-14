@@ -11,14 +11,14 @@ contact_details:
   email: patrick.martin@wvhouse.gov
   note: Capitol Office
   voice: 304-340-3123
-- address: 6236 Main Street;Jane Lew, WV 26378
+- address: P.O. Box 910;Weston , WV 26451
   note: District Office
   voice: 304-613-2327
 links:
 - url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Martin%2C+P.
 sources:
 - url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Martin%2C+P.
-image: http://www.legis.state.wv.us/images/members/2019/house/martin_patrick.jpg
+image: http://www.legis.state.wv.us/images/members/2020/house/martin_patrick.jpg
 other_identifiers:
 - identifier: WVL000354
   scheme: legacy_openstates

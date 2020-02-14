@@ -8,9 +8,9 @@ roles:
   type: upper
 contact_details:
 - address: 188 State Street, Legislative Office Building;Albany, NY 12247
-  email: Borrello@nysenate.gov
+  email: borrello@nysenate.gov
   note: Capitol Office
-- address: 700 W. State Street;Olean, NY 14760
+- address: 2-6 E. Second Street;Jamestown, NY 14701
   note: District Office
 links:
 - url: http://www.nysenate.gov/senators-committees

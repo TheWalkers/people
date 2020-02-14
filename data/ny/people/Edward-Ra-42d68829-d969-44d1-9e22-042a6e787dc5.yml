@@ -7,10 +7,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: LOB 546;Albany, NY 12248
+- address: 444 CAP;Albany, NY 12248
   email: rae@nyassembly.gov
   note: Capitol Office
   voice: 518-455-4627
+  fax: 518-455-4643
 - address: 825 East Gate Boulevard;Suite 207;Garden City, NY 11530
   fax: 516-535-4097
   note: District Office

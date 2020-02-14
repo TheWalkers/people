@@ -13,12 +13,14 @@ memberships:
 - id: ocd-person/f0091fb4-4207-4663-be23-7c9e77994048
   name: Mike McLane
   role: Co-Vice Chair
+  end_date: '2020-02-14'
 - id: ocd-person/72dc94e8-e5d5-4376-aab5-06f6b3a771c7
   name: Greg Smith
   role: Member
 - id: ocd-person/7f498ac8-7199-4e6d-a948-a36894addbad
   name: Jennifer Williamson
   role: Member
+  end_date: '2020-02-14'
 - id: ocd-person/42542f67-be0a-4b47-a0d3-454302e01117
   name: Phil Barnhart
   role: Member

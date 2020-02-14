@@ -9,11 +9,15 @@ roles:
 contact_details:
 - address: PO Box 24;New Holland, SD 57364
   note: District Office
+  voice: 605-243-2313
+- email: Marty.Overweg@sdlegislature.gov
+  note: Capitol Office
+  voice: 605-773-3851
 links:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1765&Session=2020
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1765&Session=2020
 image: https://sdlegislature.gov/inc/img/Legislators/overweg_2020.jpg
 extras:
-  occupation: ''
+  occupation: Ag Retail/Farmer
 gender: Male

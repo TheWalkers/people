@@ -16,6 +16,7 @@ memberships:
   role: vice-chair
 - id: ocd-person/8a101153-85fa-41f3-a839-a21e31998dce
   name: Susan Beckman
+  end_date: '2020-02-14'
 - id: ocd-person/a033ad21-bdb7-4af2-be2e-e21c3e4cfa24
   name: Adrienne Benavidez
 - id: ocd-person/830f9897-b660-44dc-bb9e-4b22e7dd1796

@@ -7,9 +7,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 8600 Oak Street;New Orleans, La70118-1222
+- address: 8600 Oak Street;New Orleans, LA 70118-1222
   email: hse098@legis.la.gov
   note: District Office
+  voice: 504-861-1614
 links:
 - url: http://house.louisiana.gov/H_Reps/members.aspx?ID=98
 sources:

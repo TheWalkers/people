@@ -1,0 +1,18 @@
+id: ocd-person/e51c9250-ba87-4ba4-87dc-1b64cecefb7c
+name: Sydney Jordan
+party:
+- name: Democratic-Farmer-Labor
+roles:
+- district: 60A
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  type: lower
+contact_details:
+- address: 553 State Office Building;St. Paul, MN 55155
+  email: rep.sydney.jordan@house.mn
+  note: capitol
+  voice: 651-296-4219
+links:
+- url: http://www.house.leg.state.mn.us/members/profile/15535
+sources:
+- url: http://www.house.leg.state.mn.us/members/hmem.asp
+image: https://www.house.leg.state.mn.us/hinfo/memberimgls91/60A.gif?v=010120

@@ -1,0 +1,17 @@
+id: ocd-person/df58201e-26d1-42ea-ae47-a15ae5112b13
+name: Raquel Moore-Green
+party:
+- name: Republican
+roles:
+- district: '19'
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  type: lower
+contact_details:
+- address: 900 Court St NE, Room H-385, Salem, OR, 97301
+  email: Rep.RaquelMooreGreen@oregonlegislature.gov
+  note: Capitol Office
+links:
+- url: https://www.oregonlegislature.gov/moore-green
+sources:
+- url: https://www.oregonlegislature.gov/moore-green
+image: https://www.oregonlegislature.gov/house/MemberPhotos/moore-green.jpg

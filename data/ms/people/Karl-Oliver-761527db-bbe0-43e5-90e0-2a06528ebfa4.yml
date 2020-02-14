@@ -19,8 +19,9 @@ sources:
 - url: http://billstatus.ls.state.ms.us/members/house/oliver.xml
 image: http://billstatus.ls.state.ms.us/members/house/oliver.jpg
 extras:
-  org_info: Representative Oliver is affiliated with the MS Funeral Directors Assoc.,
-    Nat'l Rifle Assoc., Boone and Crockett Club, and MS Farm Bureau.
+  org_info: Representative Oliver is a member of the MS Funeral Directors Assoc.,
+    the National Furneral Directors Assoc, Nat'l Rifle Assoc., and The Boone and Crockett
+    Club.
 other_identifiers:
 - identifier: MSL000244
   scheme: legacy_openstates

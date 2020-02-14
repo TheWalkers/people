@@ -11,7 +11,7 @@ contact_details:
   note: Capitol Office
   address: Legislative Office Building;Albany, NY 12247
   voice: 518-455-3240
-- address: 65 Court Street;Buffalo, NY 14202
+- address: 60 Lakefront Boulevard;Buffalo, NY 14202
   note: District Office
   voice: 716-854-8705
 links:
@@ -19,7 +19,7 @@ links:
 - url: http://www.nysenate.gov/senators/christopher-jacobs/contact
 sources:
 - url: http://www.nysenate.gov/senators/christopher-jacobs/contact
-image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/chris-jacobs.jpg?itok=urXZhku-
+image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/chris-jacobs_0.jpg?itok=fmhoC26g
 other_identifiers:
 - identifier: NYL000452
   scheme: legacy_openstates

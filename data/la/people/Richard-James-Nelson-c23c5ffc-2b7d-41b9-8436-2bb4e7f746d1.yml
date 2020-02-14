@@ -9,6 +9,8 @@ roles:
 contact_details:
 - email: hse089@legis.la.gov
   note: District Office
+  address: 2001 Lakeshore Drive;Mandeville, LA 70448
+  voice: 985-222-2638
 links:
 - url: http://house.louisiana.gov/H_Reps/members.aspx?ID=89
 sources:

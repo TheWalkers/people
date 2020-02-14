@@ -11,14 +11,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: upper
   start_date: 2019-09-02
+  end_date: '2020-02-14'
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/31?code=rvk
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=rea
 sources:
 - url: http://w3.akleg.gov/
-given_name: Joshua
+given_name: Josh
 family_name: Revak
 image: http://akleg.gov/images/legislators/rea.jpg
 contact_details:
-- email: Senator.Joshua.Revak@akleg.gov
+- email: Representative.Josh.Revak@akleg.gov
   note: Capitol Office
+  address: State Capitol Room None; Juneau AK, 99801
 gender: Male

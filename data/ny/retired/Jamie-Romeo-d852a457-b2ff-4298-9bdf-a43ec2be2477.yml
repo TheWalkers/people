@@ -1,0 +1,25 @@
+id: ocd-person/d852a457-b2ff-4298-9bdf-a43ec2be2477
+name: Jamie Romeo
+party:
+- name: Democratic
+roles:
+- district: '136'
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  type: lower
+  end_date: '2020-02-14'
+contact_details:
+- address: 1800 Hudson Ave;Suite 4;Rochester, NY 14617
+  fax: 585-467-5342
+  note: District Office
+  voice: 585-467-0410
+- note: Capitol Office
+  voice: 518-455-5373
+  address: LOB 429;Albany, NY 12248
+  email: romeoj@nyassembly.gov
+  fax: 518-455-5647
+links:
+- url: http://assembly.state.ny.us/mem/?sh=email
+sources:
+- url: http://assembly.state.ny.us/mem/Jamie-Romeo
+image: http://assembly.state.ny.us/mem/pic/136.jpg
+gender: Female

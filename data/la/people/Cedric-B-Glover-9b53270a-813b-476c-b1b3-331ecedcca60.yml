@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 1341 Russell Rd.;Shreveport, LA 71107
+- address: 1341 Russell Road;Shreveport, LA 71107
   email: gloverc@legis.la.gov
   note: District Office
   voice: 318-221-7775

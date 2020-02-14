@@ -1,0 +1,17 @@
+id: ocd-person/bc89dce5-9e36-41be-9ff0-0e3a703e8d5a
+name: Gary Gates
+party:
+- name: Republican
+roles:
+- district: '28'
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  type: lower
+contact_details:
+- address: Room CAP GW.11;P.O. Box 2910;Austin, TX 78768
+  note: Capitol Address
+  voice: 512-463-0657
+links:
+- url: https://house.texas.gov/members/member-page/?district=28
+sources:
+- url: https://house.texas.gov/members/member-page/?district=28
+image: https://house.texas.gov/photos/members/3920.jpg

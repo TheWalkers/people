@@ -1,0 +1,20 @@
+id: ocd-person/4c1500e4-6631-4d3e-b047-a569ba246abb
+name: Brian Farnen
+party:
+- name: Republican
+roles:
+- district: '132'
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  type: lower
+contact_details:
+- address: 300 Capitol Avenue;Room 4200;Hartford, CT 06106
+  note: Capitol Office
+  voice: 860-240-8700
+- email: brian.farnen@housegop.ct.gov
+  note: ''
+- address: 394 Rowland Road;Fairfield, CT 06824
+  note: District Office
+links:
+- url: http://cthousegop.com/farnen
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

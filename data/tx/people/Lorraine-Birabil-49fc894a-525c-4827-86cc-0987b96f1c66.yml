@@ -1,0 +1,17 @@
+id: ocd-person/49fc894a-525c-4827-86cc-0987b96f1c66
+name: Lorraine Birabil
+party:
+- name: Democratic
+roles:
+- district: '100'
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/government
+  type: lower
+contact_details:
+- address: Room 1N.7;P.O. Box 2910;Austin, TX 78768
+  note: Capitol Address
+  voice: 512-463-0586
+links:
+- url: https://house.texas.gov/members/member-page/?district=100
+sources:
+- url: https://house.texas.gov/members/member-page/?district=100
+image: https://house.texas.gov/photos/members/3925.jpg

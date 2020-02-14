@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 2757 Hwy 28 East;Pineville, La 71360
+- address: 2757 Hwy 28 East;Pineville, LA 71360
   note: District Office
   voice: 318-487-5377
   email: hse027@legis.la.gov

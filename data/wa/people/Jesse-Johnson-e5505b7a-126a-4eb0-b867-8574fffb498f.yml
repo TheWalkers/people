@@ -1,0 +1,17 @@
+id: ocd-person/e5505b7a-126a-4eb0-b867-8574fffb498f
+name: Jesse Johnson
+party:
+- name: Democratic
+roles:
+- district: '30'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- email: Jesse.Johnson@leg.wa.gov
+  note: Capitol Office
+links:
+- url: https://housedemocrats.wa.gov/Johnson/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/johnsonj.jpg

@@ -1,0 +1,20 @@
+id: ocd-person/fdd9a20a-68db-492e-aecc-a6c0d9f83dce
+name: Stephanie Yeager
+party:
+- name: Democratic
+roles:
+- district: '96'
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  type: lower
+contact_details:
+- address: Room 452-S;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612
+  email: stephanie.yeager@house.ks.gov
+  note: Capitol Office
+  voice: 785-296-8610
+links:
+- url: http://www.kslegislature.org/li/b2019_20/members/rep_yeager_stephanie_1/
+sources:
+- url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_yeager_stephanie_1
+image: http://www.kslegislature.org/li/m/images/pics/rep_yeager_stephanie_1.jpg
+extras:
+  occupation: Digital Twist, Owner

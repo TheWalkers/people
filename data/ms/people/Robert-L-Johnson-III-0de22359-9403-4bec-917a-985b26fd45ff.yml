@@ -15,10 +15,10 @@ contact_details:
   note: District Office
   voice: 601-445-5690
 links:
-- url: http://billstatus.ls.state.ms.us/members/house/johnson_(94th).xml
+- url: http://billstatus.ls.state.ms.us/members/house/johnson.xml
 sources:
-- url: http://billstatus.ls.state.ms.us/members/house/johnson_(94th).xml
-image: http://billstatus.ls.state.ms.us/members/house/johnson_(94th).jpg
+- url: http://billstatus.ls.state.ms.us/members/house/johnson.xml
+image: http://billstatus.ls.state.ms.us/members/house/johnson.jpg
 extras:
   org_info: Representative Johnson is a member of the Mississippi Bar Association
     and the Mississippi Trial Lawyers Association. He is President of the Adams County

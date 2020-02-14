@@ -9,11 +9,13 @@ roles:
 contact_details:
 - address: 1576 Sharp Lane;Rapid City, SD 57703
   note: District Office
+- email: Jessica.Castleberry@sdlegislature.gov
+  note: Capitol Office
 links:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1764&Session=2020
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1764&Session=2020
 image: https://sdlegislature.gov/inc/img/Legislators/Castleberry_2020.jpg
 extras:
-  occupation: ''
+  occupation: Business Owner
 gender: Female

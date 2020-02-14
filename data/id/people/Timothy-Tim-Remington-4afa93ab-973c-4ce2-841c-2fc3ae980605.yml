@@ -1,0 +1,19 @@
+id: ocd-person/4afa93ab-973c-4ce2-841c-2fc3ae980605
+name: "Timothy \u201CTim\u201D Remington"
+party:
+- name: Republican
+roles:
+- district: '2'
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  type: lower
+contact_details:
+- address: "5590 S. Blue Creek Road, Coeur d\u2019Alene, ID, 83814"
+  email: TRemington@house.idaho.gov
+  note: District Office
+- note: Capitol Office
+  voice: 208-332-1070
+links:
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2020&district=2
+sources:
+- url: https://legislature.idaho.gov/house/membership/
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2020/directory/Remington6405.jpg

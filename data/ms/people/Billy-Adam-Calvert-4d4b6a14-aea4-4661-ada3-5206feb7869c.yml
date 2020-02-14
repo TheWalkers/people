@@ -10,11 +10,14 @@ contact_details:
 - address: P. O. Box 1018;Jackson, MS 39215
   email: bcalvert@house.ms.gov
   note: Capitol Office
+- address: P.O. Box 5774;Meridan, MS 39302
+  note: District Office
 links:
 - url: http://billstatus.ls.state.ms.us/members/house/calvert.xml
 sources:
 - url: http://billstatus.ls.state.ms.us/members/house/calvert.xml
 image: http://billstatus.ls.state.ms.us/members/house/calvert.jpg
 extras:
-  org_info: ''
+  org_info: Representative Calvert is a member of the NRA; Gun owners of America;
+    U of M (Mclub)
 gender: Male

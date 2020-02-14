@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/a1fe8908-857b-430f-b3fb-36293790d75c
   name: Jason Smalley
+  end_date: '2020-02-14'
 - id: ocd-person/c98205ed-1cb0-4dac-8acb-0102a61ee8a4
   name: Kay Floyd
 - id: ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef

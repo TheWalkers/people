@@ -11,14 +11,14 @@ contact_details:
   email: buck.jennings@wvhouse.gov
   note: Capitol Office
   voice: 304-340-3396
-- address: 1526 George Washington Highway;Thorton, WV 26440
+- address: 1526 George Washington Highway;Thornton, WV 26440
   note: District Office
   voice: 304-892-3891
 links:
 - url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jennings
 sources:
 - url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Jennings
-image: http://www.legis.state.wv.us/images/members/2019/house/jennings_d.jpg
+image: http://www.legis.state.wv.us/images/members/2020/house/jennings_d.jpg
 other_identifiers:
 - identifier: WVL000391
   scheme: legacy_openstates

@@ -11,7 +11,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 102 Sidney Lane;Columbus, LA 71418
+- address: P.O. Box 117;Columbia, LA 71418
   email: risern@legis.la.gov
   fax: 318-649-0979
   note: District Office

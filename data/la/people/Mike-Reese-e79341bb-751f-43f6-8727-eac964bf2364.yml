@@ -9,6 +9,8 @@ roles:
 contact_details:
 - address: 1111 South 5th Street;Suite E;Leesville, LA 71446
   note: District Office
+  email: sen30@legis.la.gov
+  voice: 337-238-6435
 links:
 - url: http://senate.la.gov/senators/senpage.asp?SenID=30
 sources:

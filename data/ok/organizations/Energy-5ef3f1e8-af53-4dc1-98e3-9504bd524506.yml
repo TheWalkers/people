@@ -27,6 +27,7 @@ memberships:
   name: Kevin Matthews
 - id: ocd-person/a1fe8908-857b-430f-b3fb-36293790d75c
   name: Jason Smalley
+  end_date: '2020-02-14'
 - id: ocd-person/1985c048-831a-4634-9a7a-b626ad9fc1b4
   name: Rob Standridge
 - id: ocd-person/9d2cbf19-f83b-451a-b744-c631355db9b2

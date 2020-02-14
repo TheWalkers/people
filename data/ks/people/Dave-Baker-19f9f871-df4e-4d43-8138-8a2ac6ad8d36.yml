@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ks/government
   type: lower
 contact_details:
-- address: Room 167-W;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612
+- address: Room 512-N;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612
   email: dave.baker@house.ks.gov
   note: Capitol Office
   voice: 785-296-6997

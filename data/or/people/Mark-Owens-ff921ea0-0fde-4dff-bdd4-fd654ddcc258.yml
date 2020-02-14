@@ -1,0 +1,17 @@
+id: ocd-person/ff921ea0-0fde-4dff-bdd4-fd654ddcc258
+name: Mark Owens
+party:
+- name: Republican
+roles:
+- district: '60'
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  type: lower
+contact_details:
+- address: 900 Court St NE, Room H-475, Salem, OR, 97301
+  email: Rep.MarkOwens@oregonlegislature.gov
+  note: Capitol Office
+links:
+- url: https://www.oregonlegislature.gov/owens
+sources:
+- url: https://www.oregonlegislature.gov/owens
+image: https://www.oregonlegislature.gov/house/MemberPhotos/owens.jpg

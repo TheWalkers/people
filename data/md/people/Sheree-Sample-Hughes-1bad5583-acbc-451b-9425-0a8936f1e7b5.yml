@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:md/government
   type: lower
 contact_details:
-- address: 311 House Office Building;6 Bladen Street;Annapolis, MD 21401
+- address: 313 House Office Building;6 Bladen Street;Annapolis, MD 21401
   email: Sheree.Sample.Hughes@house.state.md.us
   note: Capitol Office
   voice: 410-841-3427

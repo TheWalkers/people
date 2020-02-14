@@ -11,8 +11,8 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: Box 68;Delhi, LA 71232
-  email: fthompson@legis.la.gov
+- address: P.O. Box 68;Delhi, LA 71232
+  email: thompsof@legis.la.gov
   fax: 318-878-5650
   note: District Office
   voice: 318-878-9408

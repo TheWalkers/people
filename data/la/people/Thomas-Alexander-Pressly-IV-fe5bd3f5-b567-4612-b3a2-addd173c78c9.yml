@@ -9,6 +9,8 @@ roles:
 contact_details:
 - email: hse006@legis.la.gov
   note: District Office
+  address: 900 Pierremont Road;Suite 119;Shreveport, LA 71106
+  voice: 318-862-9920
 links:
 - url: http://house.louisiana.gov/H_Reps/members.aspx?ID=6
 sources:

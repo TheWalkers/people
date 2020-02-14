@@ -7,15 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: lower
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=woo
 - url: http://www.akleg.gov/basis/Member/Detail/31?code=woo
 contact_details:
-- address: State Capitol Room 412; Juneau AK, 99801
+- address: State Capitol Room 501; Juneau AK, 99801
   email: Representative.Adam.Wool@akleg.gov
   note: Capitol Office
   voice: 907-465-4976
 sources:
-- url: http://www.akleg.gov/basis/Member/Detail/30?code=woo
 - url: http://w3.akleg.gov/
 image: http://akleg.gov/images/legislators/woo.jpg
 other_identifiers:
