@@ -1,5 +1,5 @@
 id: ocd-person/8499f8bb-be96-4d1b-9c27-f8ac9abbe06d
-name: Josh Revak
+name: Joshua Revak
 party:
 - name: Republican
 roles:
@@ -11,16 +11,16 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ak/government
   type: upper
   start_date: 2019-09-02
-  end_date: '2020-02-14'
 links:
-- url: http://www.akleg.gov/basis/Member/Detail/31?code=rea
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=rvk
 sources:
 - url: http://w3.akleg.gov/
-given_name: Josh
+given_name: Joshua
 family_name: Revak
-image: http://akleg.gov/images/legislators/rea.jpg
+image: http://akleg.gov/images/legislators/rvk.jpg
 contact_details:
-- email: Representative.Josh.Revak@akleg.gov
+- address: State Capitol Room 125; Juneau AK, 99801
+  email: Senator.Joshua.Revak@akleg.gov
   note: Capitol Office
-  address: State Capitol Room None; Juneau AK, 99801
+  voice: 907-465-3879
 gender: Male
