@@ -32,16 +32,6 @@ ct:
   legislature_name: Connecticut General Assembly
   lower_seats: 151
   upper_seats: 36
-  vacancies:
-    - chamber: lower
-      district: 48
-      vacant_until: 2020-04-01
-    - chamber: lower
-      district: 132
-      vacant_until: 2020-04-01
-    - chamber: lower
-      district: 151
-      vacant_until: 2020-04-01
 dc:
   legislature_name: Council of the District of Columbia
   legislature_seats: {'Ward 1': 1, 'Ward 2': 1, 'Ward 3': 1, 'Ward 4': 1, 'Ward 5': 1, 'Ward 6': 1, 'Ward 7': 1, 'Ward 8': 1, 'Chairman': 1, 'At-Large': 4}
@@ -70,9 +60,6 @@ ga:
   lower_seats: 180
   upper_seats: 56
   vacancies:
-    - chamber: lower
-      district: 171
-      vacant_until: 2020-05-01
     - chamber: upper
       district: 13
       vacant_until: 2020-05-01
@@ -92,10 +79,6 @@ il:
   legislature_name: Illinois General Assembly
   lower_seats: 118
   upper_seats: 59
-  vacancies:
-    - chamber: upper
-      district: 11
-      vacant_until: 2020-11-10
 in:
   legislature_name: Indiana General Assembly
   lower_seats: 100
@@ -109,9 +92,6 @@ ky:
   lower_seats: 100
   upper_seats: 38
   vacancies:
-    - chamber: upper
-      district: 38
-      vacant_until: 2020-05-01
     - chamber: lower
       district: 67
       vacant_until: 2020-05-01
@@ -351,12 +331,6 @@ md:
   upper_seats: 47
   vacancies:
     - chamber: lower
-      district: 44B
-      vacant_until: 2020-06-01
-    - chamber: lower
-      district: 45
-      vacant_until: 2020-06-01
-    - chamber: upper
       district: 11
       vacant_until: 2020-06-01
 me:
@@ -393,16 +367,24 @@ mo:
   vacancies:
     - chamber: lower
       district: 34
-      vacant_until: 2021-01-01
+      vacant_until: 2020-06-01
+    - chamber: upper
+      district: 3
+      vacant_until: 2020-06-01
+    - chamber: upper
+      district: 7
+      vacant_until: 2020-06-01
+    - chamber: upper
+      district: 9
+      vacant_until: 2020-06-01
 ms:
   legislature_name: Mississippi Legislature
   lower_seats: 122
   upper_seats: 52
   vacancies:
-      # 40 is not really vacant but state site is 404 for it
     - chamber: lower
-      district: 40
-      vacant_until: 2021-03-01
+      district: 88
+      vacant_until: 2020-06-01
 nc:
   legislature_name: North Carolina General Assembly
   lower_seats: 120
@@ -427,7 +409,14 @@ nh:
       district: Hillsborough 7
       vacant_until: 2020-03-01
     - chamber: lower
+      district: Merrimack 24
+      vacant_until: 2020-06-01
+    - chamber: lower
       district: Rockingham 9
+      vacant_until: 2020-03-01
+    # this person went missing from the state site, not sure when or why
+    - chamber: lower
+      district: Strafford 10
       vacant_until: 2020-03-01
 nj:
   legislature_name: New jersey Legislature
@@ -443,13 +432,6 @@ nm:
   legislature_name: New Mexico Legislature
   lower_seats: 70
   upper_seats: 42
-  vacancies:
-    - chamber: lower
-      district: 27
-      vacant_until: 2020-06-01
-    - chamber: lower
-      district: 42
-      vacant_until: 2020-06-01
 nv:
   legislature_name: Nevada Legislature
   lower_seats: 42
@@ -473,6 +455,9 @@ ny:
     - chamber: lower
       district: 31
       vacant_until: 2021-01-01
+    - chamber: lower
+      district: 136
+      vacant_until: 2021-01-01
     - chamber: upper
       district: 50
       vacant_until: 2021-01-01
@@ -488,15 +473,13 @@ ok:
     - chamber: lower
       district: 89
       vacant_until: 2021-01-21
+    - chamber: upper
+      district: 28
+      vacant_until: 2021-01-21
 or:
   legislature_name: Oregon Legislative Assembly
   lower_seats: 60
   upper_seats: 30
-  vacancies:
-      # not actually vacant, but data for new sesssion legislators not yet available
-    - chamber: lower
-      district: 19
-      vacant_until: 2020-01-21
 pa:
   legislature_name: Pennsylvania General Assembly
   lower_seats: 203
@@ -513,9 +496,6 @@ pa:
       vacant_until: 2021-01-01
     - chamber: lower
       district: 190
-      vacant_until: 2021-01-01
-    - chamber: upper
-      district: 48
       vacant_until: 2021-01-01
 pr:
   legislature_name: Legislative Assembly of Puerto Rico
@@ -556,16 +536,6 @@ tx:
   legislature_name: Texas Legislature
   lower_seats: 150
   upper_seats: 31
-  vacancies:
-    - chamber: lower
-      district: 28
-      vacant_until: 2020-01-21
-    - chamber: lower
-      district: 100
-      vacant_until: 2020-01-21
-    - chamber: lower
-      district: 148
-      vacant_until: 2020-01-21
 ut:
   legislature_name: Utah State Legislature
   lower_seats: 75
@@ -583,10 +553,6 @@ wa:
   legislature_name: Washington State Legislature
   lower_seats: {'1': 2, '2': 2, '3': 2, '4': 2, '5': 2, '6': 2, '7': 2, '8': 2, '9': 2, '10': 2, '11': 2, '12': 2, '13': 2, '14': 2, '15': 2, '16': 2, '17': 2, '18': 2, '19': 2, '20': 2, '21': 2, '22': 2, '23': 2, '24': 2, '25': 2, '26': 2, '27': 2, '28': 2, '29': 2, '30': 2, '31': 2, '32': 2, '33': 2, '34': 2, '35': 2, '36': 2, '37': 2, '38': 2, '39': 2, '40': 2, '41': 2, '42': 2, '43': 2, '44': 2, '45': 2, '46': 2, '47': 2, '48': 2, '49': 2}
   upper_seats: 49
-  vacancies:
-    - chamber: lower
-      district: 30
-      vacant_until: 2020-04-01
 wi:
   legislature_name: Wisconsin State Legislature
   lower_seats: 99
