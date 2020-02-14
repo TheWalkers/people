@@ -1,15 +1,15 @@
 id: ocd-person/f81b48f5-77d1-47e2-a702-137457e4047b
-name: Leslie "Les" Farnum
+name: Les Farnum
 party:
 - name: Republican
 roles:
 - district: '33'
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
-  end_date: '2020-02-14'
 contact_details:
 - email: hse033@legis.la.gov
   note: District Office
+  address: P.O. Box 558;Sulphur, LA 70664
 links:
 - url: http://house.louisiana.gov/H_Reps/members.aspx?ID=33
 sources:
