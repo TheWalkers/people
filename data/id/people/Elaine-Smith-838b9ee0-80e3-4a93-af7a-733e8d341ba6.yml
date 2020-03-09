@@ -8,7 +8,7 @@ roles:
   type: lower
 contact_details:
 - address: 3759 Heron Avenue, Pocatello, ID, 83201
-  email: esmith@house.idaho.gov
+  email: ESmith@house.idaho.gov
   note: District Office
 - note: Capitol Office
   voice: 208-332-1031

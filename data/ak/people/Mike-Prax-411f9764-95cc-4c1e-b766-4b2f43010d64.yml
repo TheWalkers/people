@@ -1,0 +1,20 @@
+id: ocd-person/411f9764-95cc-4c1e-b766-4b2f43010d64
+name: Mike Prax
+party:
+- name: Republican
+roles:
+- district: '3'
+  jurisdiction: ocd-jurisdiction/country:us/state:ak/government
+  type: lower
+links:
+- url: http://www.akleg.gov/basis/Member/Detail/31?code=pra
+sources:
+- url: http://w3.akleg.gov/
+given_name: Mike
+family_name: Prax
+image: http://akleg.gov/images/legislators/pra.jpg
+contact_details:
+- address: State Capitol Room 114; Juneau AK, 99801
+  email: Representative.Mike.Prax@akleg.gov
+  note: Capitol Office
+  voice: 907-465-4797

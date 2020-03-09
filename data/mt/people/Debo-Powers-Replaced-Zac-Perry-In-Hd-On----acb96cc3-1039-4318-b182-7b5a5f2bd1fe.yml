@@ -1,0 +1,16 @@
+id: ocd-person/acb96cc3-1039-4318-b182-7b5a5f2bd1fe
+name: Debo Powers Replaced Zac Perry In Hd3 On 2019-11-05
+party:
+- name: Democratic
+roles:
+- district: '3'
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  type: lower
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/6334
+sources:
+- url: https://leg.mt.gov/legislator-information/roster/individual/6334
+contact_details:
+- email: Debo.Powers@mtleg.gov
+  note: Capitol Office
+  voice: 406-407-0787

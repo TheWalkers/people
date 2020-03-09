@@ -10,6 +10,7 @@ memberships:
 - id: ocd-person/045c76e9-246f-4d61-b1a0-5c4a36003d00
   name: Matthew Trieber
   role: Clerk
+  end_date: '2020-03-09'
 - id: ocd-person/e80e92df-7a9c-44ee-b0be-6b3bedc1f35d
   name: Peter J. Fagan
   role: Vice Chair

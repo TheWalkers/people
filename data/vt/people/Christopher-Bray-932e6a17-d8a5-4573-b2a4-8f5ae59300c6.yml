@@ -10,10 +10,10 @@ contact_details:
 - address: Vermont State House;115 State Street;Montpelier, VT 05633
   email: cbray@leg.state.vt.us
   note: Capitol Office
-- address: 54 West Pleasant St.;Bristol, VT 05443
+- address: ';, '
   email: cbray@leg.state.vt.us
   note: District Office
-  voice: 802-371-8183
+  voice: 802-453-3444
 links:
 - url: http://legislature.vermont.gov/people/single/2020/20396
 sources:

@@ -20,14 +20,12 @@ sources:
 - url: http://billstatus.ls.state.ms.us/members/house/mims.xml
 image: http://billstatus.ls.state.ms.us/members/house/mims.jpg
 extras:
-  org_info: "In 2007, Representative Mims was elected by the Mississippi House Republican\
-    \ Conference as Assistant Floor Leader, the fifth ranking officer of the organization.\
-    \  In 2008, the Mississippi Legislative Conservative Coalition, a bi-partisan\
-    \ group of fifty-six legislators, presented Mims with the \x93Spirit of the Coalition\x94\
-    \ award in recognition of his dedication in promoting conservative legislation.\n\
-    Representative Mims is a member of the National Rifle \nAssociation, the McComb\
-    \ Rotary Club, former member of the Pike County Republican Executive Committee,\
-    \ and former Chairman of the City of McComb Republican Executive Committee."
+  org_info: Representative Mims was elected to the legislature in 2003 and re-elected
+    in 2007, 2011, 2015, and 2019.  At the beginning of the 2012 legislative session,
+    he was appointed Chairman of the Public Health and Human Services Committee.  He
+    also serves on the Appropriations, Judiciary A and Medicaid committees, and he
+    has been instrumental in the passage of various laws to improve the healthcare
+    of all Mississippians.
 other_identifiers:
 - identifier: MSL000070
   scheme: legacy_openstates

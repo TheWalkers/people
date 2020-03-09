@@ -1,0 +1,16 @@
+id: ocd-person/d5459ea7-de9f-4dfc-bab3-999864161fd3
+name: Alex Kasser
+party:
+- name: Democratic
+roles:
+- district: '36'
+  jurisdiction: ocd-jurisdiction/country:us/state:ct/government
+  type: upper
+contact_details:
+- address: Legislative Office Building;Room 2402;Hartford, CT 06106
+  note: Capitol Office
+  voice: 860-240-0393
+links:
+- url: http://www.senatedems.ct.gov/kasser
+sources:
+- url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv

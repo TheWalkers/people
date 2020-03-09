@@ -14,6 +14,9 @@ contact_details:
 - address: 280 Hemsted Drive, Suite 110;Redding, CA 96002
   note: 'District Office #1'
   voice: 530-223-6300
+- address: 356 Providence Mine Road, Office 6;Nevada City, CA 95959
+  note: 'District Office #2'
+  voice: 530-265-0601
 links:
 - url: https://ad01.asmrc.org/
 sources:

@@ -6,6 +6,7 @@ roles:
 - district: Windham-3
   jurisdiction: ocd-jurisdiction/country:us/state:vt/government
   type: lower
+  end_date: '2020-03-09'
 contact_details:
 - address: Vermont State House;115 State Street;Montpelier, VT 05633
   note: Capitol Office

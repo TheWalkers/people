@@ -1,0 +1,19 @@
+id: ocd-person/b3e22111-2271-40d9-ad37-428c3c1cee09
+name: Carden Summers
+party:
+- name: Republican
+roles:
+- district: '13'
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  type: upper
+contact_details: []
+links:
+- url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4971&Session=27
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4971&Session=27
+image: http://www.senate.ga.gov/SiteCollectionImages/SummersCarden4971.jpg
+family_name: Summers
+given_name: Carden
+extras:
+  guid: 4971

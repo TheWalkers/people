@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 contact_details:
-- address: 604 Prospect Avenue, Rumford, ME 04276
+- address: 6 Hemingway Road, Milton Township, ME 04219
   email: Josanne.Dolloff@legislature.maine.gov
   note: District Office
 links:

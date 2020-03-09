@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:va/government
   type: upper
 contact_details:
-- address: ;,
+- address: P.O. Box 396;Richmond, Virginia 23218
   email: district10@senate.virginia.gov
   note: District Office
   voice: 804-698-7510

@@ -1,5 +1,5 @@
 id: ocd-person/acae24ed-761d-4ce3-bd61-31870984d15c
-name: Jonathan Pizer
+name: Jonathan "Yoni" Pizer
 party:
 - name: Democratic
 roles:
@@ -7,8 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:il/government
   type: lower
 contact_details:
-- address: Springfield, IL 62706
+- address: 261-S Stratton Office Building;Springfield, IL 62706
   note: capitol
+  email: staterepyoni@gmail.com
+  voice: 217-782-8062
+- address: 3223 N. Sheffield Ave.;Suite A;Chicago, IL 60657
+  note: district
+  voice: 773-348-8974
 links:
 - url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2779
 sources:

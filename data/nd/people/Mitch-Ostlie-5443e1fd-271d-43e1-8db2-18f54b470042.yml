@@ -1,0 +1,21 @@
+id: ocd-person/5443e1fd-271d-43e1-8db2-18f54b470042
+name: Mitch Ostlie
+party:
+- name: Republican
+roles:
+- district: '12'
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  type: lower
+contact_details:
+- email: mostlie@nd.gov
+  fax: 701-952-8822
+  note: Capitol Office
+  voice: 701-952-8821
+- address: 905 Fourth Avenue SE;Jamestown, ND;58401-5510
+  note: District Office
+  voice: 701-320-8822
+links:
+- url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-mitch-ostlie
+sources:
+- url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-mitch-ostlie
+image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/mostlie.jpg?itok=EQC7hszY

@@ -1,5 +1,5 @@
 id: ocd-person/b656905a-de58-4d36-b433-276788233b1f
-name: Nilsa Cruz-Perez
+name: Nilsa I. Cruz-Perez
 party:
 - name: Democratic
 roles:
@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nj/government
   type: upper
 contact_details:
-- address: 231 Market Street;Camden, NJ 08102
+- address: 231-L Market Street;Camden, NJ 08102
   email: SenCruzPerez@njleg.org
   note: District Office
   voice: 856-541-1251

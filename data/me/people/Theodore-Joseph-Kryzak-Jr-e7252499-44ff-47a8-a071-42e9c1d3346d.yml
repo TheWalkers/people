@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 contact_details:
-- address: P.O. Box 291, Milton Mills, NH 03858
+- address: 87 French Street, Acton, ME 04001
   email: Theodore.Kryzak@legislature.maine.gov
   note: District Office
 links:
