@@ -17,6 +17,7 @@ memberships:
 - name: Robert C. White, Jr.
 - id: ocd-person/b8df69c7-ee72-41a3-9398-7dd3341acb36
   name: Jack Evans
+  end_date: '2020-01-17'
 - id: ocd-person/ab8e39c8-583e-4e9d-b481-0f43c21318ba
   name: Charles Allen
 - id: ocd-person/68a4ad6c-47e2-4559-8cd6-d28cf598af6e

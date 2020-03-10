@@ -47,6 +47,10 @@ dc:
     'Ward 8': 'ocd-division/country:us/district:dc/ward:8'
     'Chairman': 'ocd-division/country:us/district:dc'
     'At-Large': 'ocd-division/country:us/district:dc'
+  vacancies:
+    - chamber: legislature
+      district: 'Ward 2'
+      vacant_until: 2020-07-01
 de:
   legislature_name: Delaware General Assembly
   lower_seats: 41

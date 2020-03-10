@@ -18,4 +18,5 @@ memberships:
   name: Anita Bonds
 - id: ocd-person/b8df69c7-ee72-41a3-9398-7dd3341acb36
   name: Jack Evans
+  end_date: '2020-01-17'
 - name: Vincent C. Gray

@@ -6,6 +6,7 @@ roles:
 - district: Ward 2
   jurisdiction: ocd-jurisdiction/country:us/district:dc/government
   type: legislature
+  end_date: '2020-01-27'
 contact_details:
 - email: jevans@dccouncil.us
   fax: 202-724-8023
