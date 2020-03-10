@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 736 Main Street;Minden, LA 71055
+- address: 736 Main St.;Minden, LA 71055
   email: mcmahenw@legis.la.gov
   note: District Office
   voice: 318-371-3092

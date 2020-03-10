@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 1810 Florida Ave, SW;Suite B;Denham Springs, LA 70726
+- address: 1810 Florida Ave SW;Ste B;Denham Springs, LA 70726
   email: hse071@legis.la.gov
   note: District Office
   voice: 225-667-6088

@@ -7,8 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: Physical Address:;181 Barron Road;Pollock, LA 71467-3643;Mailing:;P. O.
-    Box 640;Pollock, LA 71467
+- address: 181 Barron Road;Pollock, LA 71467-3643
   email: hse022@legis.la.gov
   note: District Office
   voice: 318-765-9606

@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: P. O. Box 80993;Lafayette, LA 70508
+- address: P.O. Box 80993;Lafayette, LA 70508
   email: bishops@legis.la.gov
   note: District Office
   voice: 337-981-7409

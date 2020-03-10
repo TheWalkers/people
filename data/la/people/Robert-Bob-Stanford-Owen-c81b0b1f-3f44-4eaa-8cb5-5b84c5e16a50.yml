@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 1925 Corporate Square;Suite C;Slidell, LA 70458
+- address: 1925 Corporate Sq, Ste C;Slidell, La 70458
   email: hse076@legis.la.gov
   note: District Office
   voice: 985-639-0400
