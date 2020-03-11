@@ -1,12 +1,11 @@
 id: ocd-person/4d30d22f-4e3f-46b1-802f-cb689cac7fb5
-name: Alexandra Bergstein
+name: Alex Kasser
 party:
 - name: Democratic
 roles:
 - district: '36'
   jurisdiction: ocd-jurisdiction/country:us/state:ct/government
   type: upper
-  end_date: '2020-03-09'
 contact_details:
 - address: Legislative Office Building;Room 2402;Hartford, CT 06106
   note: Capitol Office
