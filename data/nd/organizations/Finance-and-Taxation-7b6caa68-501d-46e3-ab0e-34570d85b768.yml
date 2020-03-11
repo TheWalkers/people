@@ -27,6 +27,7 @@ memberships:
   name: Michael Howe
 - id: ocd-person/d9517a29-cf58-4538-953f-715eee39db16
   name: Jim Grueneich
+  end_date: '2020-02-11'
 - id: ocd-person/74e50305-a021-46bd-9d0d-dcd872645cfd
   name: Craig Headland
   role: chair
