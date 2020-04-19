@@ -18,6 +18,7 @@ memberships:
 - id: ocd-person/4e4fe1a3-1b60-46ea-9f92-82c9afece68c
   name: Logan Wilde
   role: vice chair
+  end_date: '2020-04-19'
 - id: ocd-person/8d1908b7-b4f6-4892-941a-1ba7a5feb930
   name: Lynn N. Hemingway
   end_date: '2018-12-31'

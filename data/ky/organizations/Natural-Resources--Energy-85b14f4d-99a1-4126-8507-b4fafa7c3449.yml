@@ -18,6 +18,7 @@ memberships:
   name: C.B. Embry Jr.
 - id: ocd-person/dac2e4da-be62-43ad-9c95-215920b4d585
   name: Ernie Harris
+  end_date: '2020-04-19'
 - id: ocd-person/811a7e14-a322-4a51-90a5-8abf21e21e19
   name: Paul Hornback
 - id: ocd-person/a6366782-145a-433a-ac96-d20ed09c0050

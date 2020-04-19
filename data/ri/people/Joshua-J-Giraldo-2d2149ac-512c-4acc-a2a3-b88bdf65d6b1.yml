@@ -1,0 +1,21 @@
+id: ocd-person/2d2149ac-512c-4acc-a2a3-b88bdf65d6b1
+name: Joshua J. Giraldo
+party:
+- name: Democratic
+roles:
+- district: '56'
+  jurisdiction: ocd-jurisdiction/country:us/state:ri/government
+  type: lower
+contact_details:
+- address: 535 Roosevelt Ave, Unit 1001B, Central Falls, RI 02863
+  email: rep-giraldo@rilegislature.gov
+  note: District Office
+  voice: 401-390-1899
+links:
+- url: http://www.rilin.state.ri.us/representatives/carson/
+sources:
+- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: http://www.rilin.state.ri.us/representatives/Giraldo/default.aspx
+image: http://www.rilin.state.ri.us/representatives/Pictures/Giraldo.jpg
+extras:
+  town_represented: Central Falls

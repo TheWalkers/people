@@ -1,0 +1,23 @@
+id: ocd-person/ec5a78e8-d0d1-4171-bba0-3c1b373c9030
+name: Timothy R. Bonner
+party:
+- name: Republican
+roles:
+- district: '8'
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  type: lower
+contact_details:
+- address: 234 West Pine Street Unit 1 Grove City, PA 6127
+  fax: 724-450-4104
+  note: District Office
+  voice: 724-458-4911
+- address: 150A East Wing PO Box 202008 Harrisburg, PA 17120-2008
+  fax: 717-782-2943
+  note: Capitol Office
+  voice: 717-783-6438
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1877
+image: https://www.legis.state.pa.us/images/members/200/1877.jpg

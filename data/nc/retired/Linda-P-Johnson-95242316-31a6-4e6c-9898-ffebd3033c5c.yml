@@ -10,6 +10,7 @@ roles:
 - district: '82'
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
+  end_date: '2020-04-19'
 contact_details:
 - address: 1205 Berkshire Dr;Kannapolis, NC 28081
   note: District Office

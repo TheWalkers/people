@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: upper
 contact_details:
-- address: 2670 Wisconsin Ave, Des Moines, IA 50317
+- address: 3127 Thompson Ave, Des Moines, IA 50317
   note: District Office
   voice: 515-265-1389
 - email: nate.boulton@legis.iowa.gov

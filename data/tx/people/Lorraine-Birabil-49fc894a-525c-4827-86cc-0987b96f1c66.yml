@@ -10,6 +10,9 @@ contact_details:
 - address: Room 1N.7;P.O. Box 2910;Austin, TX 78768
   note: Capitol Address
   voice: 512-463-0586
+- address: 8035 East R. L. Thornton Freeway Ste. 200;Dallas, TX 75228
+  note: District Address
+  voice: 214-565-5663
 links:
 - url: https://house.texas.gov/members/member-page/?district=100
 sources:

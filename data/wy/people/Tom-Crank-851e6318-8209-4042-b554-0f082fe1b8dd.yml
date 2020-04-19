@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wy/government
   type: lower
 contact_details:
-- address: 119 Wood Tick Court, Kemmerer WY 83101
+- address: P.O. Box 307, Diamondville WY 83116
   email: Thomas.Crank@wyoleg.gov
   note: ''
   voice: 307-727-6810

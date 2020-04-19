@@ -11,6 +11,7 @@ memberships:
 - id: ocd-person/dac2e4da-be62-43ad-9c95-215920b4d585
   name: Ernie Harris
   role: co-chair
+  end_date: '2020-04-19'
 - id: ocd-person/ebd5f90d-e3cc-45ef-97ff-d51ff1685bcc
   name: David Hale
   role: co-chair

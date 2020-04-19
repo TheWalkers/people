@@ -1,0 +1,19 @@
+id: ocd-person/d5156388-885b-4f9b-b67e-e10d92aeb6f3
+name: Lisa Belcastro
+party:
+- name: Democratic
+roles:
+- district: '11'
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  type: lower
+contact_details:
+- address: 306 House Office Building;6 Bladen Street;Annapolis, MD 21401
+  email: lisa.belcastro@house.state.md.us
+  fax: 410-841-3373
+  note: Capitol Office
+  voice: 410-841-3833
+links:
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/belcastro01
+sources:
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/belcastro01
+image: http://mgaleg.maryland.gov/2020RS/images/belcastro01.jpg

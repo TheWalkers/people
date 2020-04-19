@@ -1,5 +1,5 @@
 id: ocd-person/8f3c17d6-b893-460d-9cf1-859144d4c7c7
-name: Kristin Diane Jacobs
+name: Kristin Diane * Jacobs
 party:
 - name: Democratic
 roles:
@@ -20,7 +20,6 @@ links:
 sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4613&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
-- url: http://www.myfloridahouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/HouseDirectory.pdf
 image: https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4613.jpg
 other_identifiers:
 - identifier: FLL000649

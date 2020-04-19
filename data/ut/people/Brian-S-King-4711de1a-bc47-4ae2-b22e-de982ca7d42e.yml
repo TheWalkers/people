@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   type: lower
 contact_details:
-- address: '875 S DONNER WAY #1409, SALT LAKE CITY, UT, 84108'
+- address: '875 S DONNER WAY #901, SALT LAKE CITY, UT, 84108'
   email: briansking@le.utah.gov
   fax: 801-532-1936
   note: District Office

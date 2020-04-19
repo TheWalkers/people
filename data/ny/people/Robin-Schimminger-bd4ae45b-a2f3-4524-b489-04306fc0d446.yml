@@ -11,9 +11,10 @@ contact_details:
   email: schimmingerr@nyassembly.gov
   note: Capitol Office
   voice: 518-455-4767
-- address: 3514 Delaware Avenue;Kenmore, NY 14217
+- address: 34 Peuquet Parkway;Tonawanda, NY 14150
   note: District Office
   voice: 716-873-2540
+  fax: 716-744-2644
 links:
 - url: http://assembly.state.ny.us/mem/?sh=email
 sources:

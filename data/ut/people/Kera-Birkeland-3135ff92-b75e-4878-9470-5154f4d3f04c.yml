@@ -1,0 +1,20 @@
+id: ocd-person/3135ff92-b75e-4878-9470-5154f4d3f04c
+name: Kera Birkeland
+party:
+- name: Republican
+roles:
+- district: '53'
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  type: lower
+contact_details:
+- address: ', UT'
+  email: kbirkeland@le.utah.gov
+  note: District Office
+links:
+- url: http://house.utah.gov/rep/BIRKEK/
+sources:
+- url: http://le.utah.gov/data/legislators.json
+image: https://le.utah.gov/images/legislator/BIRKEK.jpg
+extras:
+  links:
+  - http://www.disclosures.utah.gov/Search/PublicSearch

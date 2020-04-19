@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: upper
 contact_details:
-- address: 16 West Jones Street, 2108;Raleigh, NC 27601
+- address: 16 West Jones Street, Rm. 2108;Raleigh, NC 27601
   email: Rob.Bryan@ncleg.net
   note: Capitol Office
   voice: 919-733-5655

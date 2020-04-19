@@ -6,6 +6,7 @@ roles:
 - district: '53'
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   type: lower
+  end_date: '2020-04-19'
 contact_details:
 - address: 2250 N 7000 E, CROYDON, UT, 84018
   email: loganwilde@le.utah.gov

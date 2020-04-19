@@ -6,6 +6,7 @@ roles:
 - district: '26'
   jurisdiction: ocd-jurisdiction/country:us/state:ky/government
   type: upper
+  end_date: '2020-04-19'
 contact_details:
 - address: 702 Capital Ave;Annex Room 204;Frankfort, KY 40601
   note: Capitol Office

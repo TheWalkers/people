@@ -11,7 +11,7 @@ contact_details:
   note: Capitol Office
   voice: 860-240-0393
 links:
-- url: http://www.senatedems.ct.gov/bergstein
+- url: http://www.senatedems.ct.gov/kasser
 sources:
 - url: ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv
 gender: Female

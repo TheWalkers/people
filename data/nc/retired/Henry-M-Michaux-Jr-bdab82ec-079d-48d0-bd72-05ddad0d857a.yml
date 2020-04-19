@@ -10,6 +10,7 @@ roles:
 - district: '20'
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: upper
+  end_date: '2020-04-19'
 contact_details:
 - address: PO Box 2152, Durham, NC 27702-2152
   note: District Office

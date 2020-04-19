@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: upper
 contact_details:
-- email: persaud@nysenate.gov
+- email: senatorpersaud@gmail.com
   note: Capitol Office
   address: 181 State Street;Albany, NY 12247
   voice: 518-455-2788

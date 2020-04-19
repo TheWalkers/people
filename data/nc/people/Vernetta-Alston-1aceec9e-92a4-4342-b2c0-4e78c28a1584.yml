@@ -1,0 +1,24 @@
+id: ocd-person/1aceec9e-92a4-4342-b2c0-4e78c28a1584
+name: Vernetta Alston
+party:
+- name: Democratic
+roles:
+- district: '29'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: lower
+contact_details:
+- address: 300 N. Salisbury Street, Rm. 501;Raleigh, NC 27603-5925
+  note: District Office
+  voice: 919-733-5872
+- address: 300 N. Salisbury Street, Rm. 501;Raleigh, NC 27603-5925
+  email: Vernetta.Alston@ncleg.net
+  note: Capitol Office
+  voice: 919-733-5872
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/765
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/765
+image: https://www.ncleg.gov/Members/MemberImage/H/765/High
+extras:
+  counties:
+  - Durham

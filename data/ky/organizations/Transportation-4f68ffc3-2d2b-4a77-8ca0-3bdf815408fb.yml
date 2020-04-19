@@ -11,6 +11,7 @@ memberships:
 - id: ocd-person/dac2e4da-be62-43ad-9c95-215920b4d585
   name: Ernie Harris
   role: chair
+  end_date: '2020-04-19'
 - id: ocd-person/209d5334-d4a2-45f3-b910-0cd52f96dd4e
   name: Brandon Smith
   role: vice chair

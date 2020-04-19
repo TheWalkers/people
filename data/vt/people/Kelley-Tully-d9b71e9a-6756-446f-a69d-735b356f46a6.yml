@@ -1,0 +1,19 @@
+id: ocd-person/d9b71e9a-6756-446f-a69d-735b356f46a6
+name: Kelley Tully
+party:
+- name: Democratic
+roles:
+- district: Windham-3
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  type: lower
+contact_details:
+- address: Vermont State House;115 State Street;Montpelier, VT 05633
+  note: Capitol Office
+- address: ';, '
+  note: District Office
+links:
+- url: http://legislature.vermont.gov/people/single/2020/34329
+sources:
+- url: http://legislature.vermont.gov/people/loadAll/2020
+- url: http://legislature.vermont.gov/people/single/2020/34329
+image: https://legislature.vermont.gov/images/profile.png

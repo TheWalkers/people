@@ -11,6 +11,7 @@ sources:
 memberships:
 - id: ocd-person/4e4fe1a3-1b60-46ea-9f92-82c9afece68c
   name: Logan Wilde
+  end_date: '2020-04-19'
 - id: ocd-person/c351d354-5397-4f6e-b67d-98c41cea0d2c
   name: Wayne A. Harper
   role: chair
