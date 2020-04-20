@@ -329,8 +329,8 @@ md:
   upper_seats: 47
   vacancies:
     - chamber: lower
-      district: 11
-      vacant_until: 2020-06-01
+      district: 30A
+      vacant_until: 2020-08-01
 me:
   legislature_name: Maine Legislature
   lower_seats: 151
