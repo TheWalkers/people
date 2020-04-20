@@ -339,9 +339,6 @@ me:
     - chamber: lower
       district: 35
       vacant_until: 2020-06-01
-    - chamber: lower
-      district: 128
-      vacant_until: 2020-06-01
 mi:
   legislature_name: Michigan Legislature
   lower_seats: 110
