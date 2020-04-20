@@ -95,6 +95,10 @@ ky:
   legislature_name: Kentucky General Assembly
   lower_seats: 100
   upper_seats: 38
+  vacancies:
+      - chamber: upper
+        district: 26
+        vacant_until: 2020-07-01
 la:
   legislature_name: Louisiana Legislature
   lower_seats: 105
