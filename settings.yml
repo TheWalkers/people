@@ -59,6 +59,10 @@ fl:
   legislature_name: Florida Legislature
   lower_seats: 120
   upper_seats: 40
+  vacancies:
+      - chamber: lower
+        district: 96
+        vacant_until: 2020-07-01
 ga:
   legislature_name: Georgia General Assembly
   lower_seats: 180

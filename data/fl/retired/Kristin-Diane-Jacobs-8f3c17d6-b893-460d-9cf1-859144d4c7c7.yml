@@ -1,11 +1,12 @@
 id: ocd-person/8f3c17d6-b893-460d-9cf1-859144d4c7c7
-name: Kristin Diane * Jacobs
+name: Kristin Diane Jacobs
 party:
 - name: Democratic
 roles:
 - district: '96'
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   type: lower
+  end_date: '2020-04-20'
 contact_details:
 - address: 200 House Office Building;402 South Monroe Street;Tallahassee, FL 32399-1300
   note: capitol
