@@ -40,6 +40,8 @@ class AlaskaScraper(scrapelib.Scraper):
         xml = scrapelib.Scraper().get(url).content
         for line in lxml.etree.fromstring(xml).xpath("//Member/MemberDetails"):
             person = self.handle_list_item(line, session_num)
+            if not person:
+                continue
             yield person
 
     def handle_list_item(self, item, session_num):
@@ -78,6 +80,10 @@ class AlaskaScraper(scrapelib.Scraper):
             person.capitol_office.address = "State Capitol Room {}; Juneau AK, 99801".format(
                 item_dict["Room"]
             )
+
+        if person.given_name == "Josh" and person.family_name == "Revak" and person.chamber == "lower":
+            # Skip a duplicate from a Rep who moved to the Senate
+            return None
 
         return person
 
