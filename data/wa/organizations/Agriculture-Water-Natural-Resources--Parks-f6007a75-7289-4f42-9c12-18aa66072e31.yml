@@ -22,3 +22,4 @@ memberships:
 - id: ocd-person/4aed54d2-9653-441e-a63c-b2ac8f016b77
   name: John McCoy
   role: vice chair
+  end_date: '2020-05-10'

@@ -6,6 +6,7 @@ roles:
 - district: '38'
   jurisdiction: ocd-jurisdiction/country:us/state:wa/government
   type: upper
+  end_date: '2020-05-10'
 contact_details:
 - address: 305 Legislative Building;PO Box 40438;Olympia, WA 98504
   email: John.McCoy@leg.wa.gov

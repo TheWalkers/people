@@ -24,6 +24,7 @@ memberships:
   end_date: '2019-01-13'
 - id: ocd-person/4aed54d2-9653-441e-a63c-b2ac8f016b77
   name: John McCoy
+  end_date: '2020-05-10'
 - id: ocd-person/a8e7617c-7cbb-45ed-a577-3dd7341a3bd7
   name: Curtis King
 - id: ocd-person/3aa56ec5-a087-40b1-960a-acb9426ccb2a

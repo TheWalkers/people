@@ -1,7 +1,7 @@
 id: ocd-person/a2248bc0-9253-48d8-9ee2-d9c0b6fbc800
 name: Max Abramson
 party:
-- name: Libertarian
+- name: Independent
 roles:
 - district: Rockingham 20
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government

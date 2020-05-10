@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   type: lower
 contact_details:
-- address: 234 West Pine Street Unit 1 Grove City, PA 6127
+- address: 234 West Pine Street Unit 1 Grove City, PA 16127
   fax: 724-450-4104
   note: District Office
   voice: 724-458-4911

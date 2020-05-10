@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
 contact_details:
-- email: john.Fothergill@leg.state.nh.us
+- email: John.Fothergill@leg.state.nh.us
   note: Capitol Office
 - address: 37 Colby St;Colebrook, NH 03576-3045
   note: District Office

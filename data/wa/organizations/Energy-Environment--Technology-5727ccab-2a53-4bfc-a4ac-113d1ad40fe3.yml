@@ -24,6 +24,7 @@ memberships:
   name: Tim Sheldon
 - id: ocd-person/4aed54d2-9653-441e-a63c-b2ac8f016b77
   name: John McCoy
+  end_date: '2020-05-10'
 - id: ocd-person/0838de1c-f304-4e40-9984-2831e456bfcd
   name: Guy Palumbo
   role: vice chair

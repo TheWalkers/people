@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 105 Freds Dr;Boone, NC 28607
+- address: 16 West Jones Street, Rm. 1421;Raleigh, NC 27601-1096
   note: District Office
   voice: 919-733-7727
 - address: 16 West Jones Street, Rm. 1421;Raleigh, NC 27601-1096
