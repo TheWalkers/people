@@ -6,7 +6,7 @@ roles:
 - district: Hillsborough 43
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
-  end_date: '2020-05-10'
+  end_date: '2020-05-02'
 contact_details:
 - address: 639 Green Street;Manchester, NH 03103-4315
   email: richardkomi.komi@gmail.com
