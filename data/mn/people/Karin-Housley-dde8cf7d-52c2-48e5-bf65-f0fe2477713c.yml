@@ -11,12 +11,11 @@ contact_details:
   email: sen.karin.housley@senate.mn
   note: capitol
   voice: 651-296-4351
-links:
-- url: https://www.senate.mn/members/member_bio.php?member_id=1214
+links: []
 sources:
 - url: https://www.senate.mn/members/member_list_ascii.php?ls=
-- url: https://www.senate.mn/members/index.php
-image: https://www.senate.mn/graphics/member_thumbnails/39Housley.jpg
+- url: https://www.senate.mn/members/index.html
+image: https://www.senate.mn/img/member_thumbnails/39Housley.jpg
 other_identifiers:
 - identifier: MNL000517
   scheme: legacy_openstates

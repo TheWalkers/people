@@ -10,12 +10,12 @@ contact_details:
 - address: 2227 Minnesota Senate Bldg.;95 University Avenue W.;St. Paul, MN 55155
   note: capitol
   voice: 651-296-4166
-links:
-- url: https://www.senate.mn/members/member_bio.php?member_id=1215
+  email: sd53iq@mnsenate.lmhostediq.com
+links: []
 sources:
 - url: https://www.senate.mn/members/member_list_ascii.php?ls=
-- url: https://www.senate.mn/members/index.php
-image: https://www.senate.mn/graphics/member_thumbnails/53Kent.jpg
+- url: https://www.senate.mn/members/index.html
+image: https://www.senate.mn/img/member_thumbnails/53Kent.jpg
 other_identifiers:
 - identifier: MNL000521
   scheme: legacy_openstates

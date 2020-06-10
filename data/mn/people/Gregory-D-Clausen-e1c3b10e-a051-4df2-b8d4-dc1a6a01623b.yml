@@ -10,12 +10,12 @@ contact_details:
 - address: 13277 Huntington Terrace;Apple Valley, MN 55124
   note: capitol
   voice: 651-296-4120
-links:
-- url: https://www.senate.mn/members/member_bio.php?member_id=1211
+  email: sd57iq@mnsenate.lmhostediq.com
+links: []
 sources:
 - url: https://www.senate.mn/members/member_list_ascii.php?ls=
-- url: https://www.senate.mn/members/index.php
-image: https://www.senate.mn/graphics/member_thumbnails/57Clausen.jpg
+- url: https://www.senate.mn/members/index.html
+image: https://www.senate.mn/img/member_thumbnails/57Clausen.jpg
 other_identifiers:
 - identifier: MNL000500
   scheme: legacy_openstates

@@ -10,12 +10,12 @@ contact_details:
 - address: 9375 Pierson Lake Drive;Chaska, MN 55318
   note: capitol
   voice: 651-296-4837
-links:
-- url: https://www.senate.mn/members/member_bio.php?member_id=1233
+  email: sd47iq@mnsenate.lmhostediq.com
+links: []
 sources:
 - url: https://www.senate.mn/members/member_list_ascii.php?ls=
-- url: https://www.senate.mn/members/index.php
-image: https://www.senate.mn/graphics/member_thumbnails/47Jensen.jpg
+- url: https://www.senate.mn/members/index.html
+image: https://www.senate.mn/img/member_thumbnails/47Jensen.jpg
 other_identifiers:
 - identifier: MNL000746
   scheme: legacy_openstates

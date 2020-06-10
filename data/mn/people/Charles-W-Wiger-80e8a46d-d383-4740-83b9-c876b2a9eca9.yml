@@ -10,12 +10,12 @@ contact_details:
 - address: '1577 Legacy Parkway, Unit #2;Maplewood, MN 55109'
   note: capitol
   voice: 651-296-6820
-links:
-- url: https://www.senate.mn/members/member_bio.php?member_id=1067
+  email: sd43iq@mnsenate.lmhostediq.com
+links: []
 sources:
 - url: https://www.senate.mn/members/member_list_ascii.php?ls=
-- url: https://www.senate.mn/members/index.php
-image: https://www.senate.mn/graphics/member_thumbnails/43Wiger.jpg
+- url: https://www.senate.mn/members/index.html
+image: https://www.senate.mn/img/member_thumbnails/43Wiger.jpg
 other_identifiers:
 - identifier: MNL000067
   scheme: legacy_openstates
