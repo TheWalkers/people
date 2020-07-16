@@ -21,9 +21,9 @@ ca:
   lower_chamber_name: Assembly
   upper_seats: 40
   vacancies:
-    - chamber: upper
-      district: 28
-      vacant_until: 2020-05-19
+    - chamber: lower
+      district: 67
+      vacant_until: 2020-11-11
 co:
   legislature_name: Colorado General Assembly
   lower_seats: 65
