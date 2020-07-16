@@ -8,7 +8,7 @@ roles:
   type: upper
 contact_details:
 - address: State Capitol, Room 5050, Sacramento, CA 95814-4900
-  email: senator.mitchell@sen.ca.gov
+  email: senator.mitchell@senate.ca.gov
   note: Senate Office
   voice: 916-651-4030
 - address: 700 Exposition Park Drive, Los Angeles, CA 90037
