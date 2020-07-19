@@ -29,6 +29,7 @@ memberships:
 - id: ocd-person/30bb72b4-d6c1-48d4-b85a-c8bd21c228a1
   name: April Weaver
   role: Member
+  end_date: '2020-07-19'
 - id: ocd-person/6144ffa0-24f3-4594-87ab-938fd8fb1d68
   name: Ed Henry
   role: Member

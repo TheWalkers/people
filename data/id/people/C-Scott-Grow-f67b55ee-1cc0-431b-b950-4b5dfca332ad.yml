@@ -1,5 +1,5 @@
 id: ocd-person/f67b55ee-1cc0-431b-b950-4b5dfca332ad
-name: "C. Scott \u201CScott\u201D Grow"
+name: C. Scott Grow
 party:
 - name: Republican
 roles:
@@ -8,7 +8,7 @@ roles:
   type: upper
 contact_details:
 - address: 4699 W. Temple Drive, Eagle, ID, 83646
-  email: sgrow@senate.idaho.gov
+  email: SGrow@senate.idaho.gov
   note: District Office
 - note: Capitol Office
   voice: 208-332-1334

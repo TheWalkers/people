@@ -16,6 +16,7 @@ memberships:
   role: vice chair
 - id: ocd-person/4f2eab03-086b-4201-a97c-d011e9b97e27
   name: Breene Harimoto
+  end_date: '2020-07-19'
 - id: ocd-person/5ef4a0ba-e9b0-4a62-9ac7-42d88308f3df
   name: Glenn Wakai
 - id: ocd-person/d87c604b-6fb5-413c-b4ce-48fc36b3ca9f

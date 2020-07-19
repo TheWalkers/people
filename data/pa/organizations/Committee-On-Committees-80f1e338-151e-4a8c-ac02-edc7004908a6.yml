@@ -25,6 +25,7 @@ memberships:
   name: Margo L. Davidson
 - id: ocd-person/6999f0e9-d396-45aa-af34-78ebf9d81178
   name: Mike Turzai
+  end_date: '2020-07-19'
 - id: ocd-person/2608882d-9ae2-4522-b8b2-83d905913d3f
   name: Daniel J. Deasy
   role: democratic chair

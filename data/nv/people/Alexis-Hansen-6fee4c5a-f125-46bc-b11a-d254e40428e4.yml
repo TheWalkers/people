@@ -15,8 +15,8 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-8851
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=366
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=366
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=366
-image: https://leg.state.nv.us/Session/80th2019/legislators/Assembly/Images/Hansen.Alexis.366.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=366
+image: https://leg.state.nv.us/Session/31st2020Special/legislators/Assembly/Images/Hansen.Alexis.366.jpg
 gender: Female

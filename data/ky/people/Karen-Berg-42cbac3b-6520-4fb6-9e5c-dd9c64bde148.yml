@@ -1,0 +1,18 @@
+id: ocd-person/42cbac3b-6520-4fb6-9e5c-dd9c64bde148
+name: Karen Berg
+party:
+- name: Democratic
+roles:
+- district: '26'
+  jurisdiction: ocd-jurisdiction/country:us/state:ky/government
+  type: upper
+contact_details:
+- address: 702 Capital Ave;Annex Room 255;Frankfort, KY 40601
+  email: Karen.Berg@lrc.ky.gov
+  note: Capitol Office
+  voice: 502-564-8100
+links:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=126
+sources:
+- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=126
+image: https://legislature.ky.gov/Legislators%20Full%20Res%20Images/senate126.jpg

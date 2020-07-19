@@ -6,6 +6,7 @@ roles:
 - district: '4'
   jurisdiction: ocd-jurisdiction/country:us/state:mi/government
   type: lower
+  end_date: '2020-07-19'
 contact_details:
 - address: S0588 Anderson House Office Building;124 North Capitol Avenue;Lansing,
     MI 48933

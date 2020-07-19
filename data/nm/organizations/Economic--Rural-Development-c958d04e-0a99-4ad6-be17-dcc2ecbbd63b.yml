@@ -110,6 +110,7 @@ memberships:
 - id: ocd-person/4cbcf352-3f7a-412d-afc6-568dc4b94400
   name: Linda M. Trujillo
   role: interim advisory
+  end_date: '2020-07-19'
 - id: ocd-person/7a7be318-78b1-49c6-bd98-f2b9b7476372
   name: William E. Sharer
   role: interim advisory

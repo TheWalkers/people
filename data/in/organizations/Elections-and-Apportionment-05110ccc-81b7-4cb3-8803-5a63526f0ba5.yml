@@ -58,6 +58,7 @@ memberships:
 - id: ocd-person/3758fe74-9190-4daf-9a3e-790b01e3d2d4
   name: Dan Forestal
   start_date: '2018-11-07'
+  end_date: '2020-07-19'
 - id: ocd-person/0f97a586-0089-4eb8-86c1-40f42bc1f594
   name: Tonya Pfaff
   start_date: '2018-11-07'

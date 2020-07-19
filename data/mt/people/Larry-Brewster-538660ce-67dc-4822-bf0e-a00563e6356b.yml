@@ -1,0 +1,15 @@
+id: ocd-person/538660ce-67dc-4822-bf0e-a00563e6356b
+name: Larry Brewster
+party:
+- name: Republican
+roles:
+- district: '44'
+  jurisdiction: ocd-jurisdiction/country:us/state:mt/government
+  type: lower
+links:
+- url: https://leg.mt.gov/legislator-information/roster/individual/6336
+sources:
+- url: https://leg.mt.gov/legislator-information/roster/individual/6336
+contact_details:
+- note: Capitol Office
+  voice: 406-670-0929

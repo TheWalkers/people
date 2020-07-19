@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   type: upper
 contact_details:
-- address: 10689 N. Kendall Drive, Suite 212;Miami, FL 33176
+- address: 9100 South Dadeland Boulevard;Suite 1500;Miami, FL 33156
   note: district
   voice: 305-596-3003
 - address: 210 Senate Building;404 South Monroe Street;Tallahassee, FL 32399-1100

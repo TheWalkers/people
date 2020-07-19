@@ -6,6 +6,7 @@ roles:
 - district: Grafton 9
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
+  end_date: '2020-07-19'
 contact_details:
 - email: vpmigliore@leg.state.nh.us
   note: Capitol Office

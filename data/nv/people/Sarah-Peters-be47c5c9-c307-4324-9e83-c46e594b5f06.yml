@@ -14,8 +14,8 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-8559
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=356
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=356
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=356
-image: https://leg.state.nv.us/Session/80th2019/legislators/Assembly/Images/Peters.Sarah.356.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=356
+image: https://leg.state.nv.us/Session/31st2020Special/legislators/Assembly/Images/Peters.Sarah.356.jpg
 gender: Female

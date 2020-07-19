@@ -6,6 +6,7 @@ roles:
 - district: '48'
   jurisdiction: ocd-jurisdiction/country:us/state:nm/government
   type: lower
+  end_date: '2020-07-19'
 contact_details:
 - address: 1157 Vuelta de las Acequias;Santa Fe, NM 87507
   note: District Office

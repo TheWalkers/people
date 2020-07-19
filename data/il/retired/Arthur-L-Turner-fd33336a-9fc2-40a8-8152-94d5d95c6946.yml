@@ -6,6 +6,7 @@ roles:
 - district: '9'
   jurisdiction: ocd-jurisdiction/country:us/state:il/government
   type: lower
+  end_date: '2020-07-19'
 contact_details:
 - address: 300 Capitol Building;Springfield, IL 62706
   email: arthurt@ilga.gov

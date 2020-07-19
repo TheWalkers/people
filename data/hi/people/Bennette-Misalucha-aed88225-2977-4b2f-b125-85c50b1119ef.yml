@@ -1,0 +1,20 @@
+id: ocd-person/aed88225-2977-4b2f-b125-85c50b1119ef
+name: Bennette Misalucha
+party:
+- name: Democratic
+roles:
+- district: '16'
+  jurisdiction: ocd-jurisdiction/country:us/state:hi/government
+  type: upper
+contact_details:
+- address: Hawaii State Capitol, Room 215
+  email: senmisalucha@capitol.hawaii.gov
+  fax: 808-586-6231
+  note: Capitol Office
+  voice: 808-586-6230
+links:
+- url: http://capitol.hawaii.gov/memberpage.aspx?member=misalucha&year=2020
+sources:
+- url: http://capitol.hawaii.gov/members/legislators.aspx?chamber=S
+- url: http://capitol.hawaii.gov/memberpage.aspx?member=misalucha&year=2020
+image: http://capitol.hawaii.gov/Members/Images/RepSenPhotos/misalucha.jpg

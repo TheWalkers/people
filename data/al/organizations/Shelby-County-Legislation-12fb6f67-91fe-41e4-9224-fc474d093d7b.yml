@@ -13,6 +13,7 @@ memberships:
 - id: ocd-person/30bb72b4-d6c1-48d4-b85a-c8bd21c228a1
   name: April Weaver
   role: Chair
+  end_date: '2020-07-19'
 - id: ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4
   name: Corley Ellis
   role: Member

@@ -1,0 +1,17 @@
+id: ocd-person/44e36e1d-a721-4607-a5b8-d52a05038554
+name: Maxine Dexter
+party:
+- name: Democratic
+roles:
+- district: '33'
+  jurisdiction: ocd-jurisdiction/country:us/state:or/government
+  type: lower
+contact_details:
+- address: 900 Court St NE, Room H-493, Salem, OR, 97301
+  email: Rep.MaxineDexter@oregonlegislature.gov
+  note: Capitol Office
+links:
+- url: https://www.oregonlegislature.gov/dexter
+sources:
+- url: https://www.oregonlegislature.gov/dexter
+image: https://www.oregonlegislature.gov/house/MemberPhotos/dexter.jpg

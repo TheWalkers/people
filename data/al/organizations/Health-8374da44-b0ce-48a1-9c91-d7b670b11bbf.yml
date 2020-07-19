@@ -19,6 +19,7 @@ memberships:
 - id: ocd-person/30bb72b4-d6c1-48d4-b85a-c8bd21c228a1
   name: April Weaver
   role: Chair
+  end_date: '2020-07-19'
 - id: ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26
   name: Pebblin W. Warren
   role: Member
@@ -36,6 +37,7 @@ memberships:
 - id: ocd-person/fa7fcbf2-2bcd-4ead-89aa-5258d59e3202
   name: Ron Johnson
   role: Member
+  end_date: '2020-07-19'
 - id: ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e
   name: Jack W. Williams
   role: Member

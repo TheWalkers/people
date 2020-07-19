@@ -7,9 +7,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   type: lower
 contact_details:
-- address: ', UT'
+- address: P.O. BOX 497, MORGAN, UT, 84050
   email: kbirkeland@le.utah.gov
   note: District Office
+  voice: 385-266-2677
 links:
 - url: http://house.utah.gov/rep/BIRKEK/
 sources:

@@ -23,6 +23,7 @@ memberships:
 - id: ocd-person/fa7fcbf2-2bcd-4ead-89aa-5258d59e3202
   name: Ron Johnson
   role: Member
+  end_date: '2020-07-19'
 - id: ocd-person/fe873537-3868-4416-986f-adc61fe81fa7
   name: K. L. Brown
   role: Member

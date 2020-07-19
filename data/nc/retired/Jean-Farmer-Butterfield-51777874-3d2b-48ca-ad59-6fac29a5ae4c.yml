@@ -6,6 +6,7 @@ roles:
 - district: '24'
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
+  end_date: '2020-07-19'
 contact_details:
 - address: PO Box 2962;Wilson, NC 27894
   note: District Office

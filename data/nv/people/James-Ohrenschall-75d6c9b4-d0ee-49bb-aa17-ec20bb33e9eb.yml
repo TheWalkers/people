@@ -19,10 +19,10 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-6503
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=67
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=67
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=67
-image: https://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/Ohrenschall.James.67.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=67
+image: https://leg.state.nv.us/Session/31st2020Special/legislators/Senators/Images/Ohrenschall.James.67.jpg
 other_identifiers:
 - identifier: NVL000097
   scheme: legacy_openstates

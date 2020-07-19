@@ -44,6 +44,7 @@ memberships:
   name: Patrick J. Harkins
 - id: ocd-person/6999f0e9-d396-45aa-af34-78ebf9d81178
   name: Mike Turzai
+  end_date: '2020-07-19'
 - id: ocd-person/c4d4f765-8eeb-4b55-9ad4-c130e6afa697
   name: Stephen Kinsey
 - name: Jr. Jack Rader

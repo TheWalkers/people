@@ -1,0 +1,19 @@
+id: ocd-person/0c4de66d-b9cf-4f24-9b79-a94c592542e1
+name: Cynthia Neeley
+party:
+- name: Democratic
+roles:
+- district: '34'
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  type: lower
+contact_details:
+- address: N0798 Anderson House Office Building;124 North Capitol Avenue;Lansing,
+    MI 48933
+  email: CynthiaNeeley@house.mi.gov
+  note: Capitol Office
+  voice: 517-373-8808
+links:
+- url: http://001.housedems.com/neeley
+sources:
+- url: http://001.housedems.com/neeley
+image: http://001.housedems.com/sites/default/files/Images/Representative_Images/D034_Cynthia_Neeley/Neeley.png

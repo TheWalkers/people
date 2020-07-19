@@ -1,0 +1,17 @@
+id: ocd-person/573b6e42-b298-4186-afe9-ed620c58d52c
+name: Emily Wicks
+party:
+- name: Democratic
+roles:
+- district: '38'
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/government
+  type: lower
+contact_details:
+- email: Emily.Wicks@leg.wa.gov
+  note: Capitol Office
+links:
+- url: https://housedemocrats.wa.gov/Wicks/
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+sources:
+- url: http://www.leg.wa.gov/house/representatives/Pages/default.aspx
+image: http://www.leg.wa.gov/House/Representatives/PublishingImages/wicks.jpg

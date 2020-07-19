@@ -20,6 +20,7 @@ memberships:
 - id: ocd-person/30bb72b4-d6c1-48d4-b85a-c8bd21c228a1
   name: April Weaver
   role: Member
+  end_date: '2020-07-19'
 - id: ocd-person/5c628ed4-56af-4706-8c34-90a57f27409b
   name: Mark Tuggle
   role: Member

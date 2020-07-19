@@ -6,19 +6,23 @@ roles:
 - district: Fourth Hampden
   jurisdiction: ocd-jurisdiction/country:us/state:ma/government
   type: lower
+  end_date: '2020-07-19'
+- district: Second Hampden and Hampshire
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  type: upper
 contact_details:
 - address: 52 Court Street;Westfield, MA 01085
-  email: john.velis@mahouse.gov
+  email: john.velis@masenate.gov
   note: District Office
   voice: 413-572-3920
-- address: 24 Beacon St.;Room 174;Boston, MA, 02133
+- address: 24 Beacon St.;Room 70;Boston, MA, 02133
   note: Capitol office
-  voice: 617-722-2877
+  voice: 617-722-1415
 links:
-- url: https://malegislature.gov/Legislators/Profile/jcv1
+- url: https://malegislature.gov/Legislators/Profile/JCV0
 sources:
-- url: https://malegislature.gov/Legislators/Profile/jcv1
-image: https://malegislature.gov/Legislators/Profile/170/jcv1.jpg
+- url: https://malegislature.gov/Legislators/Profile/JCV0
+image: https://malegislature.gov/Legislators/Profile/170/JCV0.jpg
 other_identifiers:
 - identifier: MAL000504
   scheme: legacy_openstates

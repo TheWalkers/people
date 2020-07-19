@@ -9,12 +9,13 @@ roles:
 contact_details:
 - address: Vermont State House;115 State Street;Montpelier, VT 05633
   note: Capitol Office
-- address: ';, '
+  email: mailto:ktully@leg.state.vt.us
+- address: P.O. Box 161;Bellows Falls, VT 05101
   note: District Office
 links:
 - url: http://legislature.vermont.gov/people/single/2020/34329
 sources:
 - url: http://legislature.vermont.gov/people/loadAll/2020
 - url: http://legislature.vermont.gov/people/single/2020/34329
-image: https://legislature.vermont.gov/images/profile.png
+image: https://legislature.vermont.gov/Documents/Legislators/KTully.jpg
 gender: Female

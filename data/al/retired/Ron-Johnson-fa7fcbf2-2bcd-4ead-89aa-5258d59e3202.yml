@@ -6,6 +6,7 @@ roles:
 - district: '33'
   jurisdiction: ocd-jurisdiction/country:us/state:al/government
   type: lower
+  end_date: '2020-07-19'
 links:
 - url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100514&OID_PERSON=1090
 contact_details:

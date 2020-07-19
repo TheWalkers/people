@@ -69,6 +69,7 @@ memberships:
 - id: ocd-person/4cbcf352-3f7a-412d-afc6-568dc4b94400
   name: Linda M. Trujillo
   role: interim member
+  end_date: '2020-07-19'
 - id: ocd-person/3b21d42c-0ba5-4c02-b4bc-e1490c4ce453
   name: Jason C. Harper
   role: interim member

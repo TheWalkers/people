@@ -51,6 +51,7 @@ memberships:
 - id: ocd-person/3758fe74-9190-4daf-9a3e-790b01e3d2d4
   name: Dan Forestal
   start_date: '2018-11-07'
+  end_date: '2020-07-19'
 - id: ocd-person/be7ad6b3-da1b-4b8d-b41b-6b6e48a9bdfa
   name: Matt Hostettler
   start_date: '2018-11-07'

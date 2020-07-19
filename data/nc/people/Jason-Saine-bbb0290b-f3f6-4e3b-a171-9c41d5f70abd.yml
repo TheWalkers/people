@@ -7,9 +7,9 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 1760 Whispering Pines Dr;Lincolnton, NC 28092
+- address: 16 West Jones Street, Rm. 1326;Raleigh, NC 27601-1096
   note: District Office
-  voice: 704-479-1803
+  voice: 919-733-5782
 - address: 16 West Jones Street, Rm. 1326;Raleigh, NC 27601-1096
   email: Jason.Saine@ncleg.net
   note: Capitol Office

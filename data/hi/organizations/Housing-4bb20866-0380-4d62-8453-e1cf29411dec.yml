@@ -12,6 +12,7 @@ memberships:
 - id: ocd-person/4f2eab03-086b-4201-a97c-d011e9b97e27
   name: Breene Harimoto
   role: vice chair
+  end_date: '2020-07-19'
 - id: ocd-person/342ddd0b-d580-4790-8aa1-3ffceed3cecc
   name: Josh Green
   end_date: '2018-11-06'

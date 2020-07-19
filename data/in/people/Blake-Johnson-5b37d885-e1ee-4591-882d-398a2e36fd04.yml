@@ -1,0 +1,19 @@
+id: ocd-person/5b37d885-e1ee-4591-882d-398a2e36fd04
+name: Blake Johnson
+party:
+- name: Democratic
+roles:
+- district: '100'
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  type: lower
+contact_details:
+- address: 200 W. Washington Street;Indianapolis, IN 46204
+  email: h100@iga.in.gov
+  note: Capitol Office
+  voice: 800-382-9842
+links:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_blake_johnson_1
+sources:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_blake_johnson_1
+- url: https://api.iga.in.gov/2020/legislators/blake_johnson_1
+image: http://iga.in.gov/legislative/2020/portraits/legislator_blake_johnson_1

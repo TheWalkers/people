@@ -1,0 +1,19 @@
+id: ocd-person/32ec3dbf-fe45-4c3d-a7ed-beabd677d91c
+name: Kasina Douglass-Boone
+party:
+- name: Democratic
+roles:
+- district: '17'
+  jurisdiction: ocd-jurisdiction/country:us/state:nv/government
+  type: lower
+contact_details:
+- note: Capitol Office
+  voice: 775-684-8569
+- address: 436 W. Azure Ave.;North Las Vegas, NV 89031-1368
+  email: Kasina.DouglassBoone@asm.state.nv.us
+  note: District Office
+links:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=354
+sources:
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=354
+image: https://leg.state.nv.us/Session/31st2020Special/legislators/Assembly/Images/DouglassBoone.KasinaDiane.354.jpg

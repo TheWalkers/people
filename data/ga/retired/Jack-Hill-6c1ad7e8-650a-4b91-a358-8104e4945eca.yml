@@ -6,6 +6,7 @@ roles:
 - district: '4'
   jurisdiction: ocd-jurisdiction/country:us/state:ga/government
   type: upper
+  end_date: '2020-07-19'
 contact_details:
 - address: 234 State Capitol;Atlanta, GA 30334
   email: jack.hill@senate.ga.gov

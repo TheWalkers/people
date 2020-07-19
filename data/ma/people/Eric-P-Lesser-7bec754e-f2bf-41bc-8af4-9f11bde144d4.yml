@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ma/government
   type: upper
 contact_details:
-- address: 60 Shaker Road;Unit 3B;East Longmeadow, MA 01028
+- address: PO Box 60485;East Longmeadow, MA 01106
   email: eric.lesser@masenate.gov
   note: District Office
   voice: 413-526-6501

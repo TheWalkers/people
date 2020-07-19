@@ -33,6 +33,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/3f8dbc34-f0b9-46ad-b523-2931e1aae3aa
   name: Jerry W. Tillman
+  end_date: '2020-07-19'
 - id: ocd-person/06dca4de-5217-45fc-b78a-fc7870ae7faf
   name: Dan Blue
 - id: ocd-person/eba22231-5996-435e-b9a8-453a234d9949

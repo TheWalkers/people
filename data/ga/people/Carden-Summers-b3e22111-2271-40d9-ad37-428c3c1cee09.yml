@@ -6,7 +6,11 @@ roles:
 - district: '13'
   jurisdiction: ocd-jurisdiction/country:us/state:ga/government
   type: upper
-contact_details: []
+contact_details:
+- address: 121-J State Capitol;Atlanta, GA 30334
+  note: Capitol Address
+- address: 108 East 13th Avenue;Cordele, GA 31015
+  note: District Address
 links:
 - url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4971&Session=27
 sources:

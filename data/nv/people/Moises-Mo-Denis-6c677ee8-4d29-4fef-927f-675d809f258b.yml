@@ -14,10 +14,10 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-1431
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=11
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=11
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/80th2019/Legislator?id=11
-image: https://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/Denis.Moises.11.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=11
+image: https://leg.state.nv.us/Session/31st2020Special/legislators/Senators/Images/Denis.Moises.11.jpg
 other_identifiers:
 - identifier: NVL000075
   scheme: legacy_openstates

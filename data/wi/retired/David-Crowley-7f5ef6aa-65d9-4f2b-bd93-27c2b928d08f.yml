@@ -6,6 +6,7 @@ roles:
 - district: '17'
   jurisdiction: ocd-jurisdiction/country:us/state:wi/government
   type: lower
+  end_date: '2020-07-19'
 contact_details:
 - address: Room 5 North;State Capitol;PO Box 8952;Madison, WI 53708
   email: Rep.Crowley@legis.wisconsin.gov

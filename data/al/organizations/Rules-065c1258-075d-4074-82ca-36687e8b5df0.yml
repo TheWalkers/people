@@ -88,6 +88,7 @@ memberships:
 - id: ocd-person/fa7fcbf2-2bcd-4ead-89aa-5258d59e3202
   name: Ron Johnson
   role: Vice Chair
+  end_date: '2020-07-19'
 - id: ocd-person/eac24814-ec3a-454b-b96b-2f13d012253f
   name: Randy Davis
   role: Member

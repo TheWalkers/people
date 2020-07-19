@@ -47,6 +47,7 @@ memberships:
 - id: ocd-person/3f8dbc34-f0b9-46ad-b523-2931e1aae3aa
   name: Jerry W. Tillman
   role: Co-Chairman
+  end_date: '2020-07-19'
 - id: ocd-person/e5cd7e9f-6fad-4241-ae0f-8aff069c444d
   name: Harry Brown
 - id: ocd-person/5397305f-16ba-460d-aa16-3bee6185299b

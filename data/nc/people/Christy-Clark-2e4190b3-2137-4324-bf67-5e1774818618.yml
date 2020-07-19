@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   type: lower
 contact_details:
-- address: 3902 Conner Glenn Dr;Huntersville, NC 28078
+- address: PO Box 3323;Huntersville, NC 28070
   note: District Office
   voice: 919-733-5828
 - address: 16 West Jones Street, Rm. 1319;Raleigh, NC 27601-1096

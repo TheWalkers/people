@@ -14,6 +14,7 @@ memberships:
   name: Rick Horner
 - id: ocd-person/3f8dbc34-f0b9-46ad-b523-2931e1aae3aa
   name: Jerry W. Tillman
+  end_date: '2020-07-19'
 - id: ocd-person/3ff665a3-bf25-4613-b797-45b5c9586e75
   name: Chad Barefoot
   role: Co-Chairman

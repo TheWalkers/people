@@ -1,0 +1,22 @@
+id: ocd-person/b43cbbe5-dba5-4da3-a94e-b38e11425714
+name: Casey Crabtree
+party:
+- name: Republican
+roles:
+- district: '8'
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  type: upper
+contact_details:
+- email: casey.crabtree@sdlegislature.gov
+  note: Capitol Office
+  voice: 605-773-3821
+- address: 115 Woodland Drive;Madison, SD 57042
+  note: District Office
+  voice: 605-291-2767
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1878&Session=2020
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1878&Session=2020
+image: https://sdlegislature.gov/inc/img/Legislators/crabtree_2020.jpg
+extras:
+  occupation: Director of Economic Development

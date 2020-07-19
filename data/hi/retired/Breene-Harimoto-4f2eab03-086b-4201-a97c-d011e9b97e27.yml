@@ -6,6 +6,7 @@ roles:
 - district: '16'
   jurisdiction: ocd-jurisdiction/country:us/state:hi/government
   type: upper
+  end_date: '2020-07-19'
 contact_details:
 - address: Hawaii State Capitol, Room 215
   email: senharimoto@capitol.hawaii.gov

@@ -46,6 +46,7 @@ memberships:
 - id: ocd-person/4cbcf352-3f7a-412d-afc6-568dc4b94400
   name: Linda M. Trujillo
   role: interim member
+  end_date: '2020-07-19'
 - id: ocd-person/27f8aa3b-f739-4b79-a3a8-c060c0535895
   name: "Tom\xE1s E. Salazar"
   role: interim advisory

@@ -19,6 +19,7 @@ memberships:
   name: Warren Daniel
 - id: ocd-person/3f8dbc34-f0b9-46ad-b523-2931e1aae3aa
   name: Jerry W. Tillman
+  end_date: '2020-07-19'
 - id: ocd-person/0ed783ea-33ea-438c-b0c7-5f792d9df232
   name: Shirley B. Randleman
   end_date: '2018-12-31'

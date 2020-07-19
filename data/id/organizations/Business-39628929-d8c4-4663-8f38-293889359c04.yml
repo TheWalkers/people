@@ -30,6 +30,7 @@ memberships:
   name: Caroline Nilsson Troy
 - id: ocd-person/5a6c491f-3225-4fd3-80a1-31a7817de994
   name: Thyra Stevenson
+  end_date: '2020-07-19'
 - id: ocd-person/905a6eb9-85f0-425e-b27e-33e6f7050e22
   name: Randy Armstrong
 - id: ocd-person/3f9e922f-4dac-4995-bd78-a75cb999b3ef

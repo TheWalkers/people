@@ -34,6 +34,7 @@ memberships:
 - id: ocd-person/6c1ad7e8-650a-4b91-a358-8104e4945eca
   name: Jack Hill
   role: Ex-Officio
+  end_date: '2020-07-19'
 - name: Judson Hill
   role: Member
 - name: Lester Jackson
