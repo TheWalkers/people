@@ -1,0 +1,21 @@
+id: ocd-person/6fa35c36-8d6a-4a3e-8a6c-7d0c882788c0
+name: Alessandro Cutrona
+party:
+- name: Republican
+roles:
+- district: '59'
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  type: lower
+contact_details:
+- address: 77 S. High St;10th Floor;Columbus, OH 43215
+  email: rep59@ohiohouse.gov
+  fax: 614-719-3959
+  note: Capitol Office
+  voice: 614-466-6107
+links:
+- url: http://www.ohiohouse.gov/alessandro-cutrona
+sources:
+- url: http://www.ohiohouse.gov/members/member-directory
+image: http://www.ohiohouse.gov/Assets/Headshots/Small/59.jpg
+biography: "State Representative Alessandro \u201CAl\u201D Cutrona is currently serving\
+  \ his first term as state representative. He represents the 59"
