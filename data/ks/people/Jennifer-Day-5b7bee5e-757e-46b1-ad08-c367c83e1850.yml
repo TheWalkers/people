@@ -1,0 +1,19 @@
+id: ocd-person/5b7bee5e-757e-46b1-ad08-c367c83e1850
+name: Jennifer Day
+party:
+- name: Democratic
+roles:
+- district: '48'
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  type: lower
+contact_details:
+- address: Room;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612
+  email: jennifer.day@house.ks.gov
+  note: Capitol Office
+links:
+- url: http://www.kslegislature.org/li/b2019_20/members/rep_day_jennifer_1/
+sources:
+- url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_day_jennifer_1
+image: http://www.kslegislature.org/li/m/images/pics/rep_day_jennifer_1.jpg
+extras:
+  occupation: Real estate investor
