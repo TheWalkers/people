@@ -17,10 +17,10 @@ contact_details:
   note: District Office
   voice: 212-490-9535
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/liz-krueger/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/liz-krueger/contact
 sources:
-- url: http://www.nysenate.gov/senators/liz-krueger/contact
+- url: https://www.nysenate.gov/senators/liz-krueger/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2803-05-09%29%20Liz%20Krueger8x10HS-002.jpg?itok=Uhcv13n6
 other_identifiers:
 - identifier: NYL000028

@@ -24,6 +24,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/813364d3-af2e-4e4b-84e5-cb31cc16c7b3
   name: John J. Flanagan
+  end_date: '2020-07-22'
 - id: ocd-person/2d0c38eb-8acf-47eb-8225-772d143708d8
   name: Kemp Hannon
   end_date: '2018-12-31'
@@ -31,6 +32,7 @@ memberships:
   name: Pamela Helming
 - id: ocd-person/dd4d295c-cb17-4ff3-a097-3b3aca1a55a9
   name: Chris Jacobs
+  end_date: '2020-07-22'
 - id: ocd-person/2730aa6a-5969-4c15-8d2c-4dda7636a21a
   name: William J. Larkin, Jr.
   end_date: '2018-12-31'

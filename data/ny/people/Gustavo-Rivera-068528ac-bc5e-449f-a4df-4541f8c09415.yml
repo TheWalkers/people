@@ -17,10 +17,10 @@ contact_details:
   note: District Office
   voice: 718-933-2034
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/gustavo-rivera/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/gustavo-rivera/contact
 sources:
-- url: http://www.nysenate.gov/senators/gustavo-rivera/contact
+- url: https://www.nysenate.gov/senators/gustavo-rivera/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2801-29-14%29%20Rivera-HS-%20009.jpg?itok=Ny0U7p_x
 other_identifiers:
 - identifier: NYL000048

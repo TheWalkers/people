@@ -17,10 +17,10 @@ contact_details:
   note: District Office
   voice: 607-773-8771
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/fred-akshar/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/fred-akshar/contact
 sources:
-- url: http://www.nysenate.gov/senators/fred-akshar/contact
+- url: https://www.nysenate.gov/senators/fred-akshar/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/01-10-20_100-01_0011_edited_0.jpg?itok=k-SCUDnr
 other_identifiers:
 - identifier: NYL000419

@@ -24,6 +24,7 @@ memberships:
   name: Brad Hoylman
 - id: ocd-person/dd4d295c-cb17-4ff3-a097-3b3aca1a55a9
   name: Chris Jacobs
+  end_date: '2020-07-22'
 - id: ocd-person/1ef06373-79dc-4c90-b2ec-f0fa5218e77e
   name: Todd Kaminsky
 - id: ocd-person/2730aa6a-5969-4c15-8d2c-4dda7636a21a

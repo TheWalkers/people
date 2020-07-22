@@ -12,15 +12,15 @@ contact_details:
   address: 504 Legislative Office Building;Albany, NY 12247
   fax: 518-426-6931
   voice: 518-455-2754
-- address: 1412 Avenue J,;Brooklyn, NY 11230
+- address: 4623 16th Avenue;Brooklyn, NY 11219
   fax: 718-253-2030
   note: District Office
   voice: 718-253-2015
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/simcha-felder/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/simcha-felder/contact
 sources:
-- url: http://www.nysenate.gov/senators/simcha-felder/contact
+- url: https://www.nysenate.gov/senators/simcha-felder/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sf_headshot_2017.jpg?itok=GU9KYbc2
 other_identifiers:
 - identifier: NYL000229

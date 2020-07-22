@@ -17,10 +17,10 @@ contact_details:
   note: District Office
   voice: 716-656-8544
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/patrick-m-gallivan/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/patrick-m-gallivan/contact
 sources:
-- url: http://www.nysenate.gov/senators/patrick-m-gallivan/contact
+- url: https://www.nysenate.gov/senators/patrick-m-gallivan/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/09-15-16_gallivan-hs-012a.jpg?itok=6Ayxm7iL
 other_identifiers:
 - identifier: NYL000017

@@ -10,6 +10,7 @@ memberships:
 - id: ocd-person/813364d3-af2e-4e4b-84e5-cb31cc16c7b3
   name: John J. Flanagan
   role: Chair
+  end_date: '2020-07-22'
 - id: ocd-person/7ac5f70a-be94-48b7-9f53-1cc5c4755d61
   name: John A. DeFrancisco
   end_date: '2018-12-31'

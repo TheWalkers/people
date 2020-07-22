@@ -23,6 +23,7 @@ memberships:
   name: Brad Hoylman
 - id: ocd-person/dd4d295c-cb17-4ff3-a097-3b3aca1a55a9
   name: Chris Jacobs
+  end_date: '2020-07-22'
 - id: ocd-person/dbf73f29-d4ce-4192-b8fe-42b3ac538dda
   name: Kevin S. Parker
 - id: ocd-person/2ebaf289-7dda-4661-b335-b6e3cb1392a2

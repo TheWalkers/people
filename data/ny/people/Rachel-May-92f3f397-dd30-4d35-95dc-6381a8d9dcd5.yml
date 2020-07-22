@@ -15,9 +15,9 @@ contact_details:
   note: District Office
   voice: 518-455-2838
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/rachel-may/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/rachel-may/contact
 sources:
-- url: http://www.nysenate.gov/senators/rachel-may/contact
+- url: https://www.nysenate.gov/senators/rachel-may/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/may-2019portrait.jpg?itok=4i_QKFvz
 gender: Female

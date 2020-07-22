@@ -17,10 +17,10 @@ contact_details:
   note: District Office
   voice: 845-331-3810
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/george-amedore-jr/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/george-amedore-jr/contact
 sources:
-- url: http://www.nysenate.gov/senators/george-amedore-jr/contact
+- url: https://www.nysenate.gov/senators/george-amedore-jr/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2811-17-14%29%20Amedore-045.jpg?itok=sHHpdcCf
 other_identifiers:
 - identifier: NYL000065

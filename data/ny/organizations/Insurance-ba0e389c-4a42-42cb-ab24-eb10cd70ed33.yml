@@ -26,6 +26,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/dd4d295c-cb17-4ff3-a097-3b3aca1a55a9
   name: Chris Jacobs
+  end_date: '2020-07-22'
 - id: ocd-person/7e82f066-5704-446b-8c94-a087ec0b40ba
   name: Timothy M. Kennedy
 - id: ocd-person/8dd98240-93c9-486a-b6c6-3a794b232090

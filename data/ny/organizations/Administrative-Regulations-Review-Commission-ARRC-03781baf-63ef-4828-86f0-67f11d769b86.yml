@@ -10,6 +10,7 @@ memberships:
 - id: ocd-person/dd4d295c-cb17-4ff3-a097-3b3aca1a55a9
   name: Chris Jacobs
   role: Chair
+  end_date: '2020-07-22'
 - id: ocd-person/fd0a0836-a050-49ed-84f6-410e12d3395e
   name: Phil Boyle
 - id: ocd-person/638d1d66-ccbe-4107-b7fb-f3d22cb2ec9c

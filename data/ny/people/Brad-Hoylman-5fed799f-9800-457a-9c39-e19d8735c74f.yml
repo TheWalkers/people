@@ -17,10 +17,10 @@ contact_details:
   note: District Office
   voice: 212-633-8052
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/brad-hoylman/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/brad-hoylman/contact
 sources:
-- url: http://www.nysenate.gov/senators/brad-hoylman/contact
+- url: https://www.nysenate.gov/senators/brad-hoylman/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/bh_headshot.jpg?itok=Q44ltiNA
 other_identifiers:
 - identifier: NYL000231

@@ -10,6 +10,7 @@ memberships:
 - id: ocd-person/dd4d295c-cb17-4ff3-a097-3b3aca1a55a9
   name: Chris Jacobs
   role: Chair
+  end_date: '2020-07-22'
 - id: ocd-person/6b3f12e7-53e4-4354-9b8e-90071a302f01
   name: Marisol Alcantara
   end_date: '2018-12-31'

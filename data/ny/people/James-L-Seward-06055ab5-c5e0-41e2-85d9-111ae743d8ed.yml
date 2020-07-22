@@ -15,10 +15,10 @@ contact_details:
   note: District Office
   voice: 315-866-1632
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/james-l-seward/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/james-l-seward/contact
 sources:
-- url: http://www.nysenate.gov/senators/james-l-seward/contact
+- url: https://www.nysenate.gov/senators/james-l-seward/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2811-18-08%29%20Seward-HS-050.jpg?itok=xYWkG2LS
 other_identifiers:
 - identifier: NYL000054

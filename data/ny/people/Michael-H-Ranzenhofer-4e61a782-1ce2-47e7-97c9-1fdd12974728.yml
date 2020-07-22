@@ -17,10 +17,10 @@ contact_details:
   note: District Office
   voice: 716-631-8695
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/michael-h-ranzenhofer/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/michael-h-ranzenhofer/contact
 sources:
-- url: http://www.nysenate.gov/senators/michael-h-ranzenhofer/contact
+- url: https://www.nysenate.gov/senators/michael-h-ranzenhofer/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2801-26-09%29%20Ranzenhofer-HS-019.jpg?itok=fM_Y89JT
 other_identifiers:
 - identifier: NYL000046

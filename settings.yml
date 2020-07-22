@@ -490,7 +490,13 @@ ny:
       district: 136
       vacant_until: 2021-01-01
     - chamber: upper
+      district: 2
+      vacant_until: 2021-01-01
+    - chamber: upper
       district: 50
+      vacant_until: 2021-01-01
+    - chamber: upper
+      district: 60
       vacant_until: 2021-01-01
 oh:
   legislature_name: Ohio General Assembly

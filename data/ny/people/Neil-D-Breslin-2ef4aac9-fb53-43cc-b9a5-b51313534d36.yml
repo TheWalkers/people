@@ -17,10 +17,10 @@ contact_details:
   note: District Office
   voice: 518-455-2225
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/neil-d-breslin/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/neil-d-breslin/contact
 sources:
-- url: http://www.nysenate.gov/senators/neil-d-breslin/contact
+- url: https://www.nysenate.gov/senators/neil-d-breslin/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/07-20-11_breslin_-hs-032.jpg?itok=sNxOrDrN
 other_identifiers:
 - identifier: NYL000007

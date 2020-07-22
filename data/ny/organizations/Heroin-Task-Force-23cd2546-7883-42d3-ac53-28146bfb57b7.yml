@@ -17,6 +17,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/813364d3-af2e-4e4b-84e5-cb31cc16c7b3
   name: John J. Flanagan
+  end_date: '2020-07-22'
 - id: ocd-person/531f1b36-a809-496b-beb8-ba3cd0bc0c53
   name: Patrick M. Gallivan
 - id: ocd-person/94be6ed6-3a3b-4f24-9997-dbee85b7ec53

@@ -17,6 +17,7 @@ memberships:
   name: Pamela Helming
 - id: ocd-person/dd4d295c-cb17-4ff3-a097-3b3aca1a55a9
   name: Chris Jacobs
+  end_date: '2020-07-22'
 - id: ocd-person/2730aa6a-5969-4c15-8d2c-4dda7636a21a
   name: William J. Larkin, Jr.
   end_date: '2018-12-31'

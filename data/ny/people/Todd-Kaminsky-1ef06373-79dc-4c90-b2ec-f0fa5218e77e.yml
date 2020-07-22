@@ -17,10 +17,10 @@ contact_details:
   note: District Office
   voice: 516-766-8383
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/todd-kaminsky/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/todd-kaminsky/contact
 sources:
-- url: http://www.nysenate.gov/senators/todd-kaminsky/contact
+- url: https://www.nysenate.gov/senators/todd-kaminsky/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/tk-newheadshot.jpg?itok=7MXdLsXJ
 other_identifiers:
 - identifier: NYL000424

@@ -15,10 +15,10 @@ contact_details:
   note: District Office
   voice: 585-225-3650
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/joseph-e-robach/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/joseph-e-robach/contact
 sources:
-- url: http://www.nysenate.gov/senators/joseph-e-robach/contact
+- url: https://www.nysenate.gov/senators/joseph-e-robach/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/senate_headshot.jpg?itok=t9fu8_5E
 other_identifiers:
 - identifier: NYL000049

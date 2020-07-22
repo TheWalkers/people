@@ -17,9 +17,9 @@ contact_details:
   note: District Office
   voice: 516-922-1811
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/james-gaughran/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/james-gaughran/contact
 sources:
-- url: http://www.nysenate.gov/senators/james-gaughran/contact
+- url: https://www.nysenate.gov/senators/james-gaughran/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/gaughran_headshot_19.jpg?itok=5_s3QvRq
 gender: Male

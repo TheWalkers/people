@@ -19,6 +19,7 @@ memberships:
   name: Patrick M. Gallivan
 - id: ocd-person/dd4d295c-cb17-4ff3-a097-3b3aca1a55a9
   name: Chris Jacobs
+  end_date: '2020-07-22'
 - id: ocd-person/7e82f066-5704-446b-8c94-a087ec0b40ba
   name: Timothy M. Kennedy
 - id: ocd-person/23b09f34-e41b-46be-8478-6b877050daf9

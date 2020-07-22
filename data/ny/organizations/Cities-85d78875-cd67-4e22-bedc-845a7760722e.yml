@@ -22,5 +22,6 @@ memberships:
   name: Rich Funke
 - id: ocd-person/dd4d295c-cb17-4ff3-a097-3b3aca1a55a9
   name: Chris Jacobs
+  end_date: '2020-07-22'
 - id: ocd-person/aa80fb3b-9add-463b-bfba-fe51e3409212
   name: Roxanne J. Persaud

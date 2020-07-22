@@ -17,9 +17,9 @@ contact_details:
   note: District Office
   voice: 516-739-1700
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/kevin-thomas/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/kevin-thomas/contact
 sources:
-- url: http://www.nysenate.gov/senators/kevin-thomas/contact
+- url: https://www.nysenate.gov/senators/kevin-thomas/contact
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/senator-thomas-sd6-member-head.jpg?itok=Zea6gVWR
 gender: Male
