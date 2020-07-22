@@ -6,6 +6,7 @@ roles:
 - district: '58'
   jurisdiction: ocd-jurisdiction/country:us/state:mo/government
   type: lower
+  end_date: '2020-07-22'
 contact_details:
 - address: 201 West Capitol Avenue 112, Jefferson City, MO 65101
   email: David.Wood@house.mo.gov

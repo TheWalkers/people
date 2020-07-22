@@ -14,6 +14,7 @@ memberships:
   name: John Wiemann
 - id: ocd-person/8064928f-39b3-4187-ba3f-c10483e902c7
   name: David Wood
+  end_date: '2020-07-22'
 - id: ocd-person/30f3d7a9-e46a-45c0-b6a8-192ca4fc5345
   name: Sonya Anderson
 - id: ocd-person/68ea50c5-2508-4ab2-bfcb-9fd288c70aa8

@@ -10,6 +10,7 @@ sources:
 memberships:
 - id: ocd-person/8064928f-39b3-4187-ba3f-c10483e902c7
   name: David Wood
+  end_date: '2020-07-22'
 - id: ocd-person/26d2c9d5-8aa2-43ab-9aed-e6b3f42e3cbf
   name: Gretchen Bangert
 - id: ocd-person/d5c09f57-9a65-48b5-b35e-dff8118b6210

@@ -15,6 +15,7 @@ memberships:
 - id: ocd-person/8064928f-39b3-4187-ba3f-c10483e902c7
   name: David Wood
   role: chair
+  end_date: '2020-07-22'
 - id: ocd-person/cb8e2f4e-d808-4e2d-9b1c-71a2fa3f2740
   name: Crystal Quade
 - id: ocd-person/c92b2810-9dcd-41e9-9d3b-7c65e1e36011

@@ -21,6 +21,7 @@ memberships:
 - name: Shalonn Curls
 - id: ocd-person/8064928f-39b3-4187-ba3f-c10483e902c7
   name: David Wood
+  end_date: '2020-07-22'
 - id: ocd-person/bd2cf67d-c2d8-449e-baca-6135fa8ce0f7
   name: David Sater
 - id: ocd-person/74524c96-2b40-48e7-9406-a003bb70d3f4
