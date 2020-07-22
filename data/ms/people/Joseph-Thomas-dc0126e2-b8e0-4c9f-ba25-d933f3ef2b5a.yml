@@ -11,11 +11,21 @@ contact_details:
   email: JThomas@senate.ms.gov
   note: Capitol Office
   voice: 601-359-2395
+- address: 820 Prentiss Avenue;Yazoo City, MS 39194
+  note: District Office
+  voice: 662-746-7552
 links:
 - url: http://billstatus.ls.state.ms.us/members/senate/thomas.xml
 sources:
 - url: http://billstatus.ls.state.ms.us/members/senate/thomas.xml
 image: http://billstatus.ls.state.ms.us/members/senate/thomas.jpg
 extras:
-  org_info: ''
+  org_info: "Senator Thomas is Chairman of the board of Directors of Bountiful Blessings\
+    \ Broadcasting, Inc.; District President Mississippi Baptist Laymen\x92s Movement;\
+    \ Senior Deacon, Chapel Hill M. B. Church; Former Board member, National Development\
+    \ Foundation, Jackson State University; Former Board member, American Public Power\
+    \ Association (APPA), Washington, D.C.; Former Chairman of the Yazoo City Public\
+    \ Service Commission; Former Vice Chairman, Mississippi Real Estate Appraiser\
+    \ Licensing and Certification Board; and Former Board member Mississippi Strategic\
+    \ Economic Development and Planning Committee."
 gender: Male

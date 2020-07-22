@@ -22,6 +22,7 @@ memberships:
   name: John Horhn
 - id: ocd-person/86aae10c-e4aa-41da-b9e0-029e75b06a77
   name: Gary Jackson
+  end_date: '2020-07-22'
 - id: ocd-person/ed6075da-4f97-4ebb-af9f-b57fb3b37813
   name: Terry C. Burton
   end_date: '2020-01-21'

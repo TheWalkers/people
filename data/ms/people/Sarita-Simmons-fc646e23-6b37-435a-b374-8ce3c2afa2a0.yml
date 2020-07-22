@@ -17,5 +17,6 @@ sources:
 - url: http://billstatus.ls.state.ms.us/members/senate/simmons_(13th).xml
 image: http://billstatus.ls.state.ms.us/members/senate/simmons_(13th).jpg
 extras:
-  org_info: ''
+  org_info: Senator Simmons is a member of Delta Sigma Theta Sorority, Inc., NAACP,
+    National Council of Negro Women and Bolivar County Democratic Executive Committee.
 gender: Female

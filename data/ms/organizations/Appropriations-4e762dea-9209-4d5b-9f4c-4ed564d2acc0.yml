@@ -47,6 +47,7 @@ memberships:
   end_date: '2020-01-21'
 - id: ocd-person/86aae10c-e4aa-41da-b9e0-029e75b06a77
   name: Gary Jackson
+  end_date: '2020-07-22'
 - id: ocd-person/cd6cc226-c404-481d-9cad-e824d8e101de
   name: Videt Carmichael
   end_date: '2020-01-21'

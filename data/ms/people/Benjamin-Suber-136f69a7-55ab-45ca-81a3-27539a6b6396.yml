@@ -11,11 +11,15 @@ contact_details:
   email: BSuber@senate.ms.gov
   note: Capitol Office
   voice: 601-359-3229
+- address: P. O. Box 8;Bruce, MS 38915
+  note: District Office
 links:
 - url: http://billstatus.ls.state.ms.us/members/senate/suber.xml
 sources:
 - url: http://billstatus.ls.state.ms.us/members/senate/suber.xml
 image: http://billstatus.ls.state.ms.us/members/senate/suber.jpg
 extras:
-  org_info: ''
+  org_info: Senator Suber is a member of the Bruce Rotary Club, Mississippi Bar Association,
+    Calhoun County Farm Bureau Board of Directors, Advisory Board of Directors for
+    Calhoun Banking Center.
 gender: Male

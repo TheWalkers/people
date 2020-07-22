@@ -386,8 +386,14 @@ ms:
   upper_seats: 52
   vacancies:
     - chamber: lower
+      district: 87
+      vacant_until: 2020-11-11
+    - chamber: lower
       district: 88
-      vacant_until: 2020-06-01
+      vacant_until: 2020-11-11
+    - chamber: upper
+      district: 15
+      vacant_until: 2020-11-11
 nc:
   legislature_name: North Carolina General Assembly
   lower_seats: 120

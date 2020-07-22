@@ -17,5 +17,6 @@ sources:
 - url: http://billstatus.ls.state.ms.us/members/senate/chism.xml
 image: http://billstatus.ls.state.ms.us/members/senate/chism.jpg
 extras:
-  org_info: ''
+  org_info: Senator Chism is a member of Union County Women, National Realtors Association,
+    N. E. Board of Realtors, Republican Party Mississippi and Mississippi Auctioneer.
 gender: Female

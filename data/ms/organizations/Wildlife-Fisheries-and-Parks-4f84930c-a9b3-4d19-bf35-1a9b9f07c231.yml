@@ -32,5 +32,6 @@ memberships:
   role: Vice-Chairman
 - id: ocd-person/86aae10c-e4aa-41da-b9e0-029e75b06a77
   name: Gary Jackson
+  end_date: '2020-07-22'
 - id: ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67
   name: Neil S. Whaley

@@ -16,6 +16,7 @@ memberships:
 - id: ocd-person/86aae10c-e4aa-41da-b9e0-029e75b06a77
   name: Gary Jackson
   role: Vice-Chairman
+  end_date: '2020-07-22'
 - id: ocd-person/629badc7-5b63-4aae-b19f-d754dbe12e49
   name: Jenifer B. Branning
 - id: ocd-person/c012fed5-c753-4a01-9c3c-9924d178c24d

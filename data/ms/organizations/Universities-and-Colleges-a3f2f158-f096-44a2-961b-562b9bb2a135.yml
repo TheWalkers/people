@@ -26,6 +26,7 @@ memberships:
   role: Chairman
 - id: ocd-person/86aae10c-e4aa-41da-b9e0-029e75b06a77
   name: Gary Jackson
+  end_date: '2020-07-22'
 - id: ocd-person/ac7730d2-cf3b-44e4-aa6c-5f4dfd0d32e1
   name: Chris Caughman
 - id: ocd-person/f275881b-1096-4a6a-a607-b417eae41f2e

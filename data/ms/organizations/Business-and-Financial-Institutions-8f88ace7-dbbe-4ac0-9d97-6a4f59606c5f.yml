@@ -30,6 +30,7 @@ memberships:
   name: Kevin Blackwell
 - id: ocd-person/86aae10c-e4aa-41da-b9e0-029e75b06a77
   name: Gary Jackson
+  end_date: '2020-07-22'
 - id: ocd-person/0fde8bcf-e43a-4b39-a9a5-b7869424e2d9
   name: Robert L. Jackson
 - id: ocd-person/b251de31-b740-4bfa-91ca-486c69b03c2d

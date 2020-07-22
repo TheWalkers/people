@@ -15,6 +15,7 @@ memberships:
 - id: ocd-person/86aae10c-e4aa-41da-b9e0-029e75b06a77
   name: Gary Jackson
   role: Chairman
+  end_date: '2020-07-22'
 - id: ocd-person/b6deac6a-90eb-4afe-b15f-015c4662c2bb
   name: Tommy A. Gollott
   end_date: '2020-01-21'

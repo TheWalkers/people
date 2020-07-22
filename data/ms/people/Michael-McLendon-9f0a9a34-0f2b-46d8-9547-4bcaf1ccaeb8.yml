@@ -17,5 +17,6 @@ sources:
 - url: http://billstatus.ls.state.ms.us/members/senate/mclendon.xml
 image: http://billstatus.ls.state.ms.us/members/senate/mclendon.jpg
 extras:
-  org_info: ''
+  org_info: Senator McLendon is a member of the Hernando Chamber of Commerce, Hernando
+    Board of Alderman, Desoto Arts Council and Desoto Family Theatre.
 gender: Male

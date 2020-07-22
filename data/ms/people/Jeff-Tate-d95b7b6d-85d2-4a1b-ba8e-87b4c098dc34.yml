@@ -17,5 +17,6 @@ sources:
 - url: http://billstatus.ls.state.ms.us/members/senate/tate.xml
 image: http://billstatus.ls.state.ms.us/members/senate/tate.jpg
 extras:
-  org_info: ''
+  org_info: SenatorTate is a member of NFIB, Lauderdale County Archives and History
+    .  He is a Lifetime member of the NRA.
 gender: Male

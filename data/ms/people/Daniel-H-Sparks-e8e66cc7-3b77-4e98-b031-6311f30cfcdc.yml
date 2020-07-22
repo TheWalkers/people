@@ -11,11 +11,14 @@ contact_details:
   email: DSparks@senate.ms.gov
   note: Capitol Office
   voice: 601-359-3229
+- address: P. O. Box218;Belmont, MS 38827
+  note: District Office
 links:
 - url: http://billstatus.ls.state.ms.us/members/senate/sparks.xml
 sources:
 - url: http://billstatus.ls.state.ms.us/members/senate/sparks.xml
 image: http://billstatus.ls.state.ms.us/members/senate/sparks.jpg
 extras:
-  org_info: ''
+  org_info: Senator Sparks is a member of the NRA, Police Benevolent Association Attorney,
+    Mississippi Bar Association, Federalist Society.
 gender: Male

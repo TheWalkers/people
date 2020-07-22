@@ -17,5 +17,7 @@ sources:
 - url: http://billstatus.ls.state.ms.us/members/senate/sojourner.xml
 image: http://billstatus.ls.state.ms.us/members/senate/sojourner.jpg
 extras:
-  org_info: ''
+  org_info: "Senator Sojourner is a member of Adams County Farm Bureau (Officer),\
+    \ Mississippi Cattlemen\x92s Association, Natchez Regional Medical Center Foundation,\
+    \ Official Mississippi Women\x92s Club and NFIB."
 gender: Female
