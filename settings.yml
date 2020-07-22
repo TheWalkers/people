@@ -64,7 +64,7 @@ dc:
   vacancies:
     - chamber: legislature
       district: 'Ward 2'
-      vacant_until: 2020-07-01
+      vacant_until: 2020-11-01
 de:
   legislature_name: Delaware General Assembly
   lower_seats: 41
@@ -76,7 +76,7 @@ fl:
   vacancies:
       - chamber: lower
         district: 96
-        vacant_until: 2020-07-01
+        vacant_until: 2020-11-11
 ga:
   legislature_name: Georgia General Assembly
   lower_seats: 180
@@ -343,7 +343,7 @@ me:
   vacancies:
     - chamber: lower
       district: 35
-      vacant_until: 2020-06-01
+      vacant_until: 2020-11-11
 mi:
   legislature_name: Michigan Legislature
   lower_seats: 110
@@ -458,7 +458,7 @@ nj:
   vacancies:
     - chamber: lower
       district: 25
-      vacant_until: 2020-06-01
+      vacant_until: 2020-11-11
 nm:
   legislature_name: New Mexico Legislature
   lower_seats: 70
