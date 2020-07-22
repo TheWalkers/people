@@ -564,6 +564,10 @@ tx:
   legislature_name: Texas Legislature
   lower_seats: 150
   upper_seats: 31
+  vacancies:
+    - chamber: upper
+      district: 14
+      vacant_until: 2020-09-09
 ut:
   legislature_name: Utah State Legislature
   lower_seats: 75
