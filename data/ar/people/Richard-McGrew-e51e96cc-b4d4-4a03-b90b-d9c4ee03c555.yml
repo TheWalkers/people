@@ -1,0 +1,16 @@
+id: ocd-person/e51e96cc-b4d4-4a03-b90b-d9c4ee03c555
+name: Richard McGrew
+party:
+- name: Republican
+roles:
+- district: '22'
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  type: lower
+contact_details:
+- address: 324 Ouachita Avenue, Hot Springs, 71901
+  note: District Office
+links:
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=McGrew&ddBienniumSession=2019%2F2020F
+sources:
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=McGrew&ddBienniumSession=2019%2F2020F
+image: https://www.arkleg.state.ar.us/Content/photos/2019/House/578_sm.jpg

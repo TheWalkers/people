@@ -33,12 +33,14 @@ memberships:
   role: Vice-Chair
 - id: ocd-person/7989f76e-e782-4ee7-8df7-f290ce42bf00
   name: Chris Richey
+  end_date: '2020-07-22'
 - id: ocd-person/75b8a2ef-c463-4317-ba03-a368a2f203f2
   name: Jonathan Dismang
 - id: ocd-person/b7cc317b-1661-4b8f-a1db-40209b598efa
   name: David Fielding
 - id: ocd-person/008d32f8-9f2c-4766-9d3d-1821a7a6cc7e
   name: Mickey Gates
+  end_date: '2020-07-22'
 - id: ocd-person/1fb4497b-c1da-4142-9c84-b1a29e2d8543
   name: Brandt Smith
 - id: ocd-person/fea1d80a-0cfb-4b26-9123-2a6c2e951d60

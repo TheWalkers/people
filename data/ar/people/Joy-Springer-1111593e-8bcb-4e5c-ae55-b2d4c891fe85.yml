@@ -1,0 +1,18 @@
+id: ocd-person/1111593e-8bcb-4e5c-ae55-b2d4c891fe85
+name: Joy Springer
+party:
+- name: Democratic
+roles:
+- district: '34'
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  type: lower
+contact_details:
+- address: 2208 Rice Street, Little Rock, 72202
+  note: District Office
+links:
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer&ddBienniumSession=2019%2F2020F
+sources:
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Springer&ddBienniumSession=2019%2F2020F
+image: https://www.arkleg.state.ar.us/Content/photos/2019/House/579_sm.jpg
+extras:
+  occupation: Office manager and paralegal

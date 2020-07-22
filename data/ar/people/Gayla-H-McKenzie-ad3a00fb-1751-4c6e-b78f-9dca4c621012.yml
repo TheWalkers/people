@@ -12,10 +12,10 @@ contact_details:
   note: District Office
   voice: 479-787-6411
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=McKenzie
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=McKenzie&ddBienniumSession=2019%2F2020F
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=McKenzie
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=McKenzie&ddBienniumSession=2019%2F2020F
 extras:
   occupation: Business Owner
-image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/mckenzie.jpg
+image: https://www.arkleg.state.ar.us/Content/photos/2019/House/563_sm.jpg
 gender: Female

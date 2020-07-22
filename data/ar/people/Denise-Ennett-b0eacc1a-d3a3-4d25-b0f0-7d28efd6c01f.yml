@@ -1,5 +1,5 @@
 id: ocd-person/b0eacc1a-d3a3-4d25-b0f0-7d28efd6c01f
-name: Denise Ennett
+name: Denise Jones Ennett
 party:
 - name: Democratic
 roles:
@@ -12,7 +12,10 @@ contact_details:
   note: District Office
   voice: 501-690-4211
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Ennett
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Ennett&ddBienniumSession=2019%2F2020F
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Ennett
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Ennett&ddBienniumSession=2019%2F2020F
 gender: Female
+extras:
+  occupation: Community Advocate
+image: https://www.arkleg.state.ar.us/Content/photos/2019/House/577_sm.jpg

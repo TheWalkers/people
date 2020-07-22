@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ar/government
   type: upper
 contact_details:
-- address: 275 Community Drive, Batesville, 72501
+- address: P.O. Box 2391, Batesville, 72503
   note: District Office
   voice: 870-612-7589
   email: james.sturch@senate.ar.gov
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=J.
-    Sturch
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=J.+Sturch&ddBienniumSession=2019%2F2020F
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=J.
-    Sturch
-image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/sturch_j.jpg
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=J.+Sturch&ddBienniumSession=2019%2F2020F
+image: https://www.arkleg.state.ar.us/Content/photos/2019/Senate/575_sm.jpg
 gender: Male
+extras:
+  occupation: Former Teacher

@@ -12,12 +12,10 @@ contact_details:
   note: District Office
   voice: 501-230-5635
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=C.
-    Cooper
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=C.+Cooper&ddBienniumSession=2019%2F2020F
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=C.
-    Cooper
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=C.+Cooper&ddBienniumSession=2019%2F2020F
 extras:
   occupation: Manager for Pathfinder, Inc; Farmer
-image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/cooper_c.jpg
+image: https://www.arkleg.state.ar.us/Content/photos/2019/House/561_sm.jpg
 gender: Male

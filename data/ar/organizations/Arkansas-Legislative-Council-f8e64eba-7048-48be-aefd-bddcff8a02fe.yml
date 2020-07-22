@@ -128,6 +128,7 @@ memberships:
   name: Alan Clark
 - id: ocd-person/7989f76e-e782-4ee7-8df7-f290ce42bf00
   name: Chris Richey
+  end_date: '2020-07-22'
 - id: ocd-person/e0974602-c00a-4a98-9377-a2ed444d5acd
   name: Les Eaves
   role: ex officio

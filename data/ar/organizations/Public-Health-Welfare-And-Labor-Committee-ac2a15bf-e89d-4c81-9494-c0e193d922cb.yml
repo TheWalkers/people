@@ -44,6 +44,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/7989f76e-e782-4ee7-8df7-f290ce42bf00
   name: Chris Richey
+  end_date: '2020-07-22'
 - id: ocd-person/e91e8723-8f91-4702-8680-f40d181b52f6
   name: Deborah Ferguson
   role: Vice-Chair

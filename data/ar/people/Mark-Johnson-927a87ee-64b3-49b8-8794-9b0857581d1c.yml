@@ -12,10 +12,10 @@ contact_details:
   voice: 501-682-6107
   email: mark.johnson@senate.ar.gov
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=M.
-    Johnson
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=M.+Johnson&ddBienniumSession=2019%2F2020F
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=M.
-    Johnson
-image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/johnson_m.jpg
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=M.+Johnson&ddBienniumSession=2019%2F2020F
+image: https://www.arkleg.state.ar.us/Content/photos/2019/Senate/574_sm.jpg
 gender: Male
+extras:
+  occupation: Business Consultant, Mark D. Johnson & Associates, Inc.

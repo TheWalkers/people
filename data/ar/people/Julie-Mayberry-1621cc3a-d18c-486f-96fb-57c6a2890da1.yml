@@ -12,12 +12,10 @@ contact_details:
   note: District Office
   voice: 501-888-3522
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=J.
-    Mayberry
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=J.+Mayberry&ddBienniumSession=2019%2F2020F
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=J.
-    Mayberry
-image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/mayberry_j.jpg
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=J.+Mayberry&ddBienniumSession=2019%2F2020F
+image: https://www.arkleg.state.ar.us/Content/photos/2019/House/491_sm.jpg
 extras:
   occupation: Media/Advertising
 gender: Female

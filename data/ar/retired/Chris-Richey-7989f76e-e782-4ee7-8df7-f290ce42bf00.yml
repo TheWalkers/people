@@ -6,6 +6,7 @@ roles:
 - district: '12'
   jurisdiction: ocd-jurisdiction/country:us/state:ar/government
   type: lower
+  end_date: '2020-07-22'
 links:
 - url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Richey
 contact_details:

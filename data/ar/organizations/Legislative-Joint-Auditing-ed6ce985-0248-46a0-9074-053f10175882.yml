@@ -67,6 +67,7 @@ memberships:
   name: Lanny Fite
 - id: ocd-person/62260ac2-8904-4532-9eb8-a5c13b6eddc1
   name: Grant Hodges
+  end_date: '2020-07-22'
 - id: ocd-person/8f2faff2-4cec-44a5-9512-91d3c9355f2e
   name: Rebecca Petty
 - id: ocd-person/b4d16d03-05cb-41a4-a90c-1bbf63228f21
@@ -102,3 +103,4 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/e6af71a0-5706-4268-86eb-d938ef16db81
   name: John W. Walker
+  end_date: '2020-07-22'

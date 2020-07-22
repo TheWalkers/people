@@ -11,17 +11,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ar/government
   type: upper
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=B.
-    Ballinger
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=B.+Ballinger&ddBienniumSession=2019%2F2020F
 contact_details:
-- address: 508 Dr. Spurlin Circle, Berryville, 72616
+- address: 1047 CR 5099, Ozark, 72949
   email: bob.ballinger@senate.ar.gov
   note: District Office
   voice: 870-350-5175
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=B.
-    Ballinger
-image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/ballinger_b.jpg
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=B.+Ballinger&ddBienniumSession=2019%2F2020F
+image: https://www.arkleg.state.ar.us/Content/photos/2019/Senate/571_sm.jpg
 extras:
   occupation: Attorney
 other_identifiers:

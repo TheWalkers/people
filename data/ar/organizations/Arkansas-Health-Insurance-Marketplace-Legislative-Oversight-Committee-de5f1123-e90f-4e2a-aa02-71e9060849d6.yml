@@ -50,6 +50,7 @@ memberships:
   name: Jason Rapert
 - id: ocd-person/7989f76e-e782-4ee7-8df7-f290ce42bf00
   name: Chris Richey
+  end_date: '2020-07-22'
 - id: ocd-person/75b8a2ef-c463-4317-ba03-a368a2f203f2
   name: Jonathan Dismang
 - id: ocd-person/d6eb5613-d3b5-4cdc-80c4-22c2b5e031d0

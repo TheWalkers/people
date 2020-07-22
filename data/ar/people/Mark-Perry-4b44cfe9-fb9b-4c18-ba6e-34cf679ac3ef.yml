@@ -12,10 +12,10 @@ contact_details:
   note: District Office
   voice: 501-982-4561
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Perry
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Perry&ddBienniumSession=2019%2F2020F
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Perry
-image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/perry.jpg
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Perry&ddBienniumSession=2019%2F2020F
+image: https://www.arkleg.state.ar.us/Content/photos/2019/House/548_sm.jpg
 extras:
   occupation: Financial Representative
 gender: Male

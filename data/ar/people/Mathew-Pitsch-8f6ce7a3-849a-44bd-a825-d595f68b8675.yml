@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ar/government
   type: upper
 contact_details:
-- address: 11215 Vista Ridge Ct., Fort Smith, 72916
+- address: 9923 Glen Flora Circle, Fort Smith, 72908
   note: District Office
   voice: 479-883-2072
   email: mathew.pitsch@senate.ar.gov
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=M.
-    Pitsch
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=M.+Pitsch&ddBienniumSession=2019%2F2020F
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=M.
-    Pitsch
-image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/pitsch_m.jpg
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=M.+Pitsch&ddBienniumSession=2019%2F2020F
+image: https://www.arkleg.state.ar.us/Content/photos/2019/Senate/573_sm.jpg
 gender: Male
+extras:
+  occupation: Engineer / Business Owner

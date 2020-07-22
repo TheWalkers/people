@@ -11,10 +11,10 @@ contact_details:
   email: jay.richardson@arkansashouse.org
   note: District Office
 links:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Richardson
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Richardson&ddBienniumSession=2019%2F2020F
 sources:
-- url: http://www.arkleg.state.ar.us/assembly/2019/2019R/Pages/MemberProfile.aspx?member=Richardson
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Richardson&ddBienniumSession=2019%2F2020F
 extras:
   occupation: Business Development
-image: http://www.arkleg.state.ar.us/assembly/2019/Member%20Pictures/richardson.jpg
+image: https://www.arkleg.state.ar.us/Content/photos/2019/House/562_sm.jpg
 gender: Male

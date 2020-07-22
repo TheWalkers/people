@@ -24,6 +24,7 @@ memberships:
   name: Larry Teague
 - id: ocd-person/62260ac2-8904-4532-9eb8-a5c13b6eddc1
   name: Grant Hodges
+  end_date: '2020-07-22'
 - id: ocd-person/b9437b92-b4d8-46ad-b647-3afa508b502d
   name: George B. McGill
   end_date: '2018-12-31'

@@ -14,6 +14,7 @@ memberships:
   role: Vice-Chair
 - id: ocd-person/62260ac2-8904-4532-9eb8-a5c13b6eddc1
   name: Grant Hodges
+  end_date: '2020-07-22'
 - id: ocd-person/5e063acb-6720-4bb0-8f6e-1df169c856e7
   name: Les Warren
 - id: ocd-person/9a14b4e3-c09e-461b-8760-b69df4b9ad88
@@ -24,6 +25,7 @@ memberships:
   name: Jim Sorvillo
 - id: ocd-person/7989f76e-e782-4ee7-8df7-f290ce42bf00
   name: Chris Richey
+  end_date: '2020-07-22'
 - id: ocd-person/b165a0c6-fe5a-4505-9f6f-aaafce582b6a
   name: DeAnn Vaught
 - id: ocd-person/f148aa6d-abfe-4577-9c15-44f2ea79c707
