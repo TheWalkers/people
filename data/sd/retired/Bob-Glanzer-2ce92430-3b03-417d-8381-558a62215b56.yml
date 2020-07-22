@@ -23,6 +23,7 @@ roles:
 - district: '22'
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
+  end_date: '2020-07-22'
 sources:
 - url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1681&Session=2020
 gender: Male

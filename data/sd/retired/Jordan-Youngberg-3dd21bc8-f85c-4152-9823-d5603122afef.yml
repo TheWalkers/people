@@ -6,6 +6,7 @@ roles:
 - district: '8'
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
+  end_date: '2020-07-22'
 contact_details:
 - email: Jordan.Youngberg@sdlegislature.gov
   note: Capitol Office
