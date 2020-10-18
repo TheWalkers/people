@@ -27,6 +27,7 @@ memberships:
   name: Tracie Davis
 - id: ocd-person/4d75dad7-663f-48d0-a013-2dd6a41226ce
   name: James "J.W." Grant
+  end_date: '2020-10-18'
 - id: ocd-person/d0741023-b31c-4b82-950b-6efa3b736618
   name: Michael Grant
 - id: ocd-person/2ced5554-e963-444e-a160-4a87b7fb7854

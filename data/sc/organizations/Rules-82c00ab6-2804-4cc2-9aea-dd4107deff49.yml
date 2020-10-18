@@ -42,6 +42,7 @@ memberships:
 - id: ocd-person/b6b15eb5-8411-45d4-9a38-77e6a76fe487
   name: Alan D. Clemmons
   role: chairman
+  end_date: '2020-10-18'
 - id: ocd-person/7f17bd25-fbc5-48a1-a69a-5c9be03b66f5
   name: Dwight A. Loftis
   role: vice-chair

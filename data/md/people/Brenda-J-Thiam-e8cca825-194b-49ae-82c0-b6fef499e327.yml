@@ -1,0 +1,18 @@
+id: ocd-person/e8cca825-194b-49ae-82c0-b6fef499e327
+name: Brenda J. Thiam
+party:
+- name: Republican
+roles:
+- district: 2B
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  type: lower
+contact_details:
+- address: 213 House Office Building;6 Bladen Street;Annapolis, MD 21401
+  email: brenda.thiam@house.state.md.us
+  note: Capitol Office
+  voice: 410-841-3125
+links:
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/thiam01
+sources:
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/thiam01
+image: http://mgaleg.maryland.gov/2020RS/images/thiam01.jpg

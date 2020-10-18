@@ -23,6 +23,7 @@ memberships:
   end_date: '2020-01-21'
 - id: ocd-person/11a7e2b0-b65a-4d8c-b1b3-aac8fe895e63
   name: Jarvis Dortch
+  end_date: '2020-10-18'
 - id: ocd-person/e8d21f92-a17f-4bdc-ae8e-ebb0f2af563d
   name: Doug McLeod
 - id: ocd-person/fa29dc4f-e4cb-45dd-a450-a1911d529801

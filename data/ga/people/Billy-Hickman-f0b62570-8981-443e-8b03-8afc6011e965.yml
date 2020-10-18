@@ -1,0 +1,27 @@
+id: ocd-person/f0b62570-8981-443e-8b03-8afc6011e965
+name: Billy Hickman
+party:
+- name: Republican
+roles:
+- district: '4'
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  type: upper
+contact_details:
+- address: 314-B CLOB State Capitol;Atlanta, GA 30334
+  email: billy.hickman@senate.ga.gov
+  note: Capitol Address
+  voice: 404-463-1371
+- address: P.O. Box 25;Statesboro, GA 30459
+  email: billy.hickman@senate.ga.gov
+  note: District Address
+  voice: 912-682-5819
+links:
+- url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4972&Session=27
+sources:
+- url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
+- url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4972&Session=27
+image: http://www.senate.ga.gov/SiteCollectionImages/HickmanBilly4972.jpg
+family_name: Hickman
+given_name: Billy
+extras:
+  guid: 4972

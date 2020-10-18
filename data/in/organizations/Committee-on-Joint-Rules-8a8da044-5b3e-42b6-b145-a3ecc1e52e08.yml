@@ -11,6 +11,7 @@ memberships:
 - id: ocd-person/a52a0e0d-3abd-4181-bd89-71c79eb36fcb
   name: Brian Bosma
   role: Chair
+  end_date: '2020-10-18'
 - id: ocd-person/585e1d84-c51f-4d50-90d2-e5828a5c2d02
   name: Jerry Torr
   role: Vice Chair

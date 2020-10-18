@@ -14,10 +14,10 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-8831
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=159
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=159
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=159
-image: https://leg.state.nv.us/Session/31st2020Special/legislators/Assembly/Images/Ellison.John.159.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=159
+image: https://leg.state.nv.us/Session/32nd2020Special/legislators/Assembly/Images/Ellison.John.159.jpg
 other_identifiers:
 - identifier: NVL000124
   scheme: legacy_openstates

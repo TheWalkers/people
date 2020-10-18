@@ -40,6 +40,7 @@ memberships:
 - id: ocd-person/39d16634-1cc8-494a-9af4-fed6be6556fc
   name: Christopher E. Collins
   start_date: '2019-09-01'
+  end_date: '2020-10-18'
 - id: ocd-person/fc888921-a709-4869-98e5-ea55e3b59518
   name: R. Steven Landes
   start_date: '2019-09-01'

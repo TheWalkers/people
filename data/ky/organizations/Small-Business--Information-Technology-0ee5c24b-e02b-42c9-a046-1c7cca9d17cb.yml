@@ -34,6 +34,7 @@ memberships:
   name: Michael Meredith
 - id: ocd-person/f23a1be5-3634-4f40-990c-d4ae312557a6
   name: Russ A. Meyer
+  end_date: '2020-10-18'
 - id: ocd-person/45d2e575-8fdd-4b9b-b535-f0cbc5114cdd
   name: Charles Miller
 - id: ocd-person/74c6a507-49f7-4c78-86b8-0ff0f57c9dec

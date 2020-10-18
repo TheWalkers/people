@@ -14,10 +14,10 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-8848
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=327
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=327
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=327
-image: https://leg.state.nv.us/Session/31st2020Special/legislators/Assembly/Images/Krasner.Lisa.327.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=327
+image: https://leg.state.nv.us/Session/32nd2020Special/legislators/Assembly/Images/Krasner.Lisa.327.jpg
 other_identifiers:
 - identifier: NVL000380
   scheme: legacy_openstates

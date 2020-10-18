@@ -11,6 +11,7 @@ memberships:
   name: Wyatt Agar
 - id: ocd-person/cc20a7df-61cb-4d92-9aea-23d30f6ac2d7
   name: Bunky Loucks
+  end_date: '2020-10-18'
 - id: ocd-person/572f377f-1bb8-448c-abfc-4343fbc5f6e5
   name: Nathan Winters
   end_date: '2019-01-06'

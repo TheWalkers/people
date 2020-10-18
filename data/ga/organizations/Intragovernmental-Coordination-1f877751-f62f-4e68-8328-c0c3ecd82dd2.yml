@@ -70,6 +70,7 @@ memberships:
 - id: ocd-person/53d6aec0-12cb-4201-bf23-22ed40c4a089
   name: Pam Stephenson
   role: Member
+  end_date: '2020-10-18'
 - id: ocd-person/3a5721a0-d848-40d0-a48a-66b797e7d7d9
   name: Brian Strickland
   role: Member

@@ -10,13 +10,13 @@ contact_details:
 - address: 4925 Boonsboro Road;Box 172;Lynchburg, Virginia 24503
   email: district22@senate.virginia.gov
   note: District Office
-  voice: 434-455-3382
+  voice: 434-455-3392
 links:
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S105
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S105
 sources:
-- url: http://lis.virginia.gov/201/mbr/MBR.HTM
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S105
-image: https://apps.lis.virginia.gov/senatepics/newbiopics/Peake.jpg
+- url: http://lis.virginia.gov/202/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S105
+image: https://apps.dlas.virginia.gov/senatepics/newbiopics/Peake.jpg
 other_identifiers:
 - identifier: VAL000260
   scheme: legacy_openstates

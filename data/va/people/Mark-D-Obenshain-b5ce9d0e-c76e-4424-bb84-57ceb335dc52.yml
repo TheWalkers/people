@@ -12,11 +12,11 @@ contact_details:
   note: District Office
   voice: 540-437-1451
 links:
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S68
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S68
 sources:
-- url: http://lis.virginia.gov/201/mbr/MBR.HTM
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S68
-image: https://apps.lis.virginia.gov/senatepics/newbiopics/MDObenshainc.jpg
+- url: http://lis.virginia.gov/202/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S68
+image: https://apps.dlas.virginia.gov/senatepics/newbiopics/MDObenshainc.jpg
 other_identifiers:
 - identifier: VAL000024
   scheme: legacy_openstates

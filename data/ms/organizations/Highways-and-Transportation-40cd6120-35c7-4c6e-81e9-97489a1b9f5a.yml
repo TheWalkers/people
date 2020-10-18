@@ -20,6 +20,7 @@ memberships:
   name: John Horhn
 - id: ocd-person/45977d8d-7ee5-4f72-b531-baeb4b071987
   name: Sally Doty
+  end_date: '2020-10-18'
 - id: ocd-person/2e4422d4-f390-4daf-9f75-088915897c0b
   name: Chris Massey
   end_date: '2020-01-21'

@@ -1,0 +1,20 @@
+id: ocd-person/5db744c7-7272-4291-a13d-46cddb0938de
+name: Heather Tully
+party:
+- name: Republican
+roles:
+- district: '41'
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  type: lower
+contact_details:
+- address: Room 212E, Building 1;State Capitol Complex;Charleston, WV 25305
+  email: heather.tully@wvhouse.gov
+  note: Capitol Office
+  voice: 304-340-3352
+- address: 1829 Webster Road;Summersville, WV 26651
+  note: District Office
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Tully
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Tully
+image: http://www.legis.state.wv.us/images/members/2020/house/tully_heather.jpg

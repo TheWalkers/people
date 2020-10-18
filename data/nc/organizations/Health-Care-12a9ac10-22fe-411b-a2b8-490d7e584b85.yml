@@ -43,6 +43,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/592b61c5-fbc2-4d1a-a122-61fa13efb30a
   name: Andy Wells
+  end_date: '2020-10-18'
 - id: ocd-person/aeda3016-da15-448e-9ae4-62da790b3129
   name: Dan Bishop
   end_date: '2019-11-12'

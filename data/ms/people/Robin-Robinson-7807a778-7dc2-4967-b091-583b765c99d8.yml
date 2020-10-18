@@ -1,0 +1,25 @@
+id: ocd-person/7807a778-7dc2-4967-b091-583b765c99d8
+name: Robin Robinson
+party:
+- name: Republican
+roles:
+- district: '88'
+  jurisdiction: ocd-jurisdiction/country:us/state:ms/government
+  type: lower
+contact_details:
+- address: P. O. Box 1018;Jackson, MS 39215
+  email: rrobinson@house.ms.gov
+  note: Capitol Office
+- address: 1179 Tonwship Road;Laurel, MS 39443
+  note: District Office
+  voice: 601-649-6103
+links:
+- url: http://billstatus.ls.state.ms.us/members/house/robinson.xml
+sources:
+- url: http://billstatus.ls.state.ms.us/members/house/robinson.xml
+image: http://billstatus.ls.state.ms.us/members/house/robinson.jpg
+extras:
+  org_info: Representative Robinson is presiding President of the Institution of Higher
+    Learning Board of Trustees; Chairman of Leadership Mississippi, member of the
+    Board of Directors for the USM Foundation, Mississippi Center for Obesity Research
+    at UMMC Neuro Institute, and Girl Scouts of Greater Mississippi board member.

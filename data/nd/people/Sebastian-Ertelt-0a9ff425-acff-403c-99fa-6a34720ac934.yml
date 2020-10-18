@@ -1,18 +1,15 @@
 contact_details:
 - email: sertelt@nd.gov
   note: Capitol Office
-- address: 906 Ash Street;Lisbon, ND;58054-4316
+  voice: 701-678-6225
+- address: P.O. Box 1008;Lisbon, ND;58054-1008
   note: District Office
   voice: 701-683-2194
-- email: sertelt@nd.gov
-  note: Capitol Office
-  voice: 701-678-6225
 family_name: Ertelt
 given_name: Sebastian
 id: ocd-person/0a9ff425-acff-403c-99fa-6a34720ac934
 image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/sertelt.jpg?itok=y3gg3bo-
 links:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-sebastian-ertelt
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-sebastian-ertelt
 name: Sebastian Ertelt
 other_identifiers:
@@ -25,6 +22,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nd/government
   type: lower
 sources:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-sebastian-ertelt
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-sebastian-ertelt
 gender: Male

@@ -18,6 +18,7 @@ memberships:
 - id: ocd-person/686a1386-171b-4cbf-98a8-10f2399553e3
   name: Andrew J. McLean
   role: chair
+  end_date: '2020-10-18'
 - id: ocd-person/c7eda676-97d3-4662-9b84-2c86edfee271
   name: David R. Miramant
 - id: ocd-person/49b64122-5c6a-4dd9-9230-d5e5460f4b4d

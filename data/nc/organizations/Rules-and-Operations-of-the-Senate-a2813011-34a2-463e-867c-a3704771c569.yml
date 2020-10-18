@@ -48,6 +48,7 @@ memberships:
   name: Paul A. Lowe, Jr.
 - id: ocd-person/592b61c5-fbc2-4d1a-a122-61fa13efb30a
   name: Andy Wells
+  end_date: '2020-10-18'
 - id: ocd-person/23f1da0b-34b2-4347-adb4-f5fc26e0475d
   name: Brent Jackson
 - id: ocd-person/25828c07-8295-45af-bd01-b044b59d530a

@@ -26,6 +26,7 @@ memberships:
   name: Ben Diamond
 - id: ocd-person/4d75dad7-663f-48d0-a013-2dd6a41226ce
   name: James "J.W." Grant
+  end_date: '2020-10-18'
 - id: ocd-person/f1ddabf1-c991-4736-9259-445de23aa58b
   name: Shawn Harrison
   end_date: '2018-12-31'

@@ -112,6 +112,7 @@ memberships:
 - id: ocd-person/87bd4558-b259-475a-ad72-1f0d71d80aab
   name: Patricio Ruiloba
   role: interim member
+  end_date: '2020-10-18'
 - id: ocd-person/ce888eff-62f5-41c0-9114-651c43f77aba
   name: Michael Padilla
   role: interim member

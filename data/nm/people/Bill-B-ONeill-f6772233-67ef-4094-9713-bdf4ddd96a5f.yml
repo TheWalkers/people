@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nm/government
   type: upper
 contact_details:
-- address: 343 Sarah Lane NW;Albuquerque, NM 87114
+- address: 343 Sarah Lane NW Apt. D;Albuquerque, NM 87114
   note: District Office
   voice: 505-450-9263
 - address: Room 300D State Capitol;Santa Fe, NM 87501

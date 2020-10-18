@@ -18,10 +18,12 @@ memberships:
 - id: ocd-person/56754d9a-55ff-454d-8ea6-60aeedef0496
   name: Gary Chism
   role: Chairman
+  end_date: '2020-10-18'
 - id: ocd-person/2601640f-867f-480f-83a1-c59c332c0b82
   name: William Tracy Arnold
 - id: ocd-person/11a7e2b0-b65a-4d8c-b1b3-aac8fe895e63
   name: Jarvis Dortch
+  end_date: '2020-10-18'
 - id: ocd-person/a432eb59-5656-4869-aedc-832b2206b4a5
   name: John W. Hines, Sr.
 - id: ocd-person/5fb7e1d6-24ab-41e1-b0b2-d1445bf6abd3

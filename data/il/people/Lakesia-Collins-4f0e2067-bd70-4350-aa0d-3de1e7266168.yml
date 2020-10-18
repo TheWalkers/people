@@ -1,0 +1,20 @@
+id: ocd-person/4f0e2067-bd70-4350-aa0d-3de1e7266168
+name: Lakesia Collins
+party:
+- name: Democratic
+roles:
+- district: '9'
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  type: lower
+contact_details:
+- address: 300 Capitol Building;Springfield, IL 62706
+  email: office@lakesiacollins.com
+  note: capitol
+- note: district
+  voice: 312-298-9181
+links:
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2780
+sources:
+- url: http://ilga.gov/house/default.asp?GA=101
+- url: http://ilga.gov/house/Rep.asp?GA=101&MemberID=2780
+image: http://ilga.gov/images/members/{D61727A1-A966-43D1-990F-C5036C547763}.jpg

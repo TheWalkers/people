@@ -1,5 +1,5 @@
 id: ocd-person/240011e7-4903-4474-befe-feef95390fe5
-name: Zachariah Ralph
+name: Zachariah Ralph Watson
 party:
 - name: Progressive
 roles:
@@ -11,7 +11,7 @@ contact_details:
 - address: Vermont State House;115 State Street;Montpelier, VT 05633
   email: zralph@leg.state.vt.us
   note: Capitol Office
-- address: 59 Draper Rd.;Hartland, VT 05048
+- address: 115 State Street;Montpelier, VT 05633
   note: District Office
   voice: 802-280-5066
 links:

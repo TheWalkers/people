@@ -33,6 +33,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/f58b1018-885c-4d07-8500-95b607aa4338
   name: Dane Eagle
+  end_date: '2020-10-18'
 - id: ocd-person/a0121399-2b76-417f-8323-2023ed6e7c45
   name: Evan Jenne
 - id: ocd-person/7fd84157-9bfa-4d54-8fb4-e345cb19ada9

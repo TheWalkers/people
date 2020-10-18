@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: upper
 contact_details:
-- address: '201 E 9th St #415, Coralville, IA 52241'
+- address: 1507 Winterpark Dr, Coralville, IA 52241
   note: District Office
 - email: zach.wahls@legis.iowa.gov
   note: Capitol Office

@@ -1,0 +1,24 @@
+id: ocd-person/18a3e08a-20d7-49c6-88d5-cb49670952ab
+name: Linda Cooper-Suggs
+party:
+- name: Democratic
+roles:
+- district: '24'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: lower
+contact_details:
+- address: 16 West Jones Street, Rm. 1220;Raleigh, NC 27601-1096
+  note: District Office
+  voice: 919-733-5898
+- address: 16 West Jones Street, Rm. 1220;Raleigh, NC 27601-1096
+  email: Linda.Cooper-Suggs@ncleg.gov
+  note: Capitol Office
+  voice: 919-733-5898
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/766
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/766
+image: https://www.ncleg.gov/Members/MemberImage/H/766/High
+extras:
+  counties:
+  - Wilson

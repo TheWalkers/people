@@ -30,6 +30,7 @@ memberships:
   name: Phillip Pratt
 - id: ocd-person/5d252767-24f1-4c6c-9bd9-00fb8084e84c
   name: Rick Rand
+  end_date: '2020-10-18'
 - id: ocd-person/814b090c-4339-41fa-a869-975391d3bc82
   name: Brandon Reed
 - id: ocd-person/bbf9c478-bb34-4f51-ae0f-49dabe52c1ce

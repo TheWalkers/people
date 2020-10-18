@@ -1,0 +1,19 @@
+id: ocd-person/f36e299f-590c-4c40-beca-7a1e4913a1c5
+name: Clifford Blackmore
+party:
+- name: Republican
+roles:
+- district: '6'
+  jurisdiction: ocd-jurisdiction/country:us/state:ks/government
+  type: lower
+contact_details:
+- address: Room;Kansas State Capitol Building;300 SW 10th St.;Topeka, KS 66612
+  email: Clifford.Blackmore@house.ks.gov
+  note: Capitol Office
+links:
+- url: http://www.kslegislature.org/li/b2019_20/members/rep_blackmore_clifford_1/
+sources:
+- url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_blackmore_clifford_1
+image: http://www.kslegislature.org/li/m/images/pics/rep_blackmore_clifford_1.jpg
+extras:
+  occupation: Publisher

@@ -14,6 +14,7 @@ memberships:
   end_date: '2020-01-21'
 - id: ocd-person/45977d8d-7ee5-4f72-b531-baeb4b071987
   name: Sally Doty
+  end_date: '2020-10-18'
 - name: Tate Reeves
   role: Chairman
 - id: ocd-person/d1572354-a456-47fa-aa21-58be9884a3bb

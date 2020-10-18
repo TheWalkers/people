@@ -59,5 +59,6 @@ memberships:
 - id: ocd-person/53d6aec0-12cb-4201-bf23-22ed40c4a089
   name: Pam Stephenson
   role: Member
+  end_date: '2020-10-18'
 - name: Andrew Welch
   role: Member

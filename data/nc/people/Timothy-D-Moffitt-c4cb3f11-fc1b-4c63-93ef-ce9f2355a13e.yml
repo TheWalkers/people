@@ -1,0 +1,22 @@
+id: ocd-person/c4cb3f11-fc1b-4c63-93ef-ce9f2355a13e
+name: Timothy D. Moffitt
+party:
+- name: Republican
+roles:
+- district: '117'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: lower
+contact_details:
+- address: 3182 Sweeten Creek Rd;Asheville, NC 28803
+  note: District Office
+- email: Tim.Moffitt@ncleg.gov
+  note: Capitol Office
+  voice: 828-651-8550
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/623
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/623
+image: https://www.ncleg.gov/Members/MemberImage/H/623/High
+extras:
+  counties:
+  - Henderson

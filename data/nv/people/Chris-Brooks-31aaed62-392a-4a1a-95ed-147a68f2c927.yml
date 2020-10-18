@@ -19,10 +19,10 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-1422
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=311
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=311
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=311
-image: https://leg.state.nv.us/Session/31st2020Special/legislators/Senators/Images/Brooks.Chris.311.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=311
+image: https://leg.state.nv.us/Session/32nd2020Special/legislators/Senators/Images/Brooks.Chris.311.jpg
 other_identifiers:
 - identifier: NVL000366
   scheme: legacy_openstates

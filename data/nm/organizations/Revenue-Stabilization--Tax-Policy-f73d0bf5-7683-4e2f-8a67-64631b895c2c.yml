@@ -43,6 +43,7 @@ memberships:
 - id: ocd-person/36ef3942-78eb-48e3-9379-cffd10910451
   name: Jim R. Trujillo
   role: interim chair
+  end_date: '2020-10-18'
 - id: ocd-person/8e9e1e26-1215-422d-932c-ccd8fbd7eea8
   name: James R.J. Strickler
   role: interim member

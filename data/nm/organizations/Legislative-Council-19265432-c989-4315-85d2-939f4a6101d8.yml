@@ -80,6 +80,7 @@ memberships:
 - id: ocd-person/36ef3942-78eb-48e3-9379-cffd10910451
   name: Jim R. Trujillo
   role: interim advisory
+  end_date: '2020-10-18'
 - id: ocd-person/2875de82-4d4b-4617-b9a1-665037288e93
   name: William H. Payne
   role: interim member

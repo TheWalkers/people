@@ -7,8 +7,8 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   type: lower
 contact_details:
-- address: 1735 N. Ocean Ave.;Ste. A;Medford, NY 11763
-  fax: 631-207-2006
+- address: 3245 Route 112;Building 2, Ste. 6;Medford, NY 11763
+  fax: 631-732-1798
   note: District Office
   voice: 631-207-0073
 - address: LOB 430;Albany, NY 12248

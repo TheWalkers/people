@@ -2,18 +2,14 @@ contact_details:
 - email: tbjones@nd.gov
   fax: 701-627-3396
   note: Capitol Office
-- address: P.O. Box 1964;New Town, ND;58763-1964
+- address: 413 Eagle Drive;New Town, ND;58763-1964
   note: District Office
-  voice: 307-272-1915
-- email: tbjones@nd.gov
-  fax: 307-762-3512
-  note: Capitol Office
+  voice: 701-627-3397
 family_name: Jones
 given_name: Terry B.
 id: ocd-person/47075318-11ad-425e-a390-a0a4248c73d7
 image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/tbjones.jpg?itok=C86kXZ2-
 links:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-terry-b-jones
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-terry-b-jones
 name: Terry B. Jones
 other_identifiers:
@@ -26,6 +22,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nd/government
   type: lower
 sources:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/house/representative-terry-b-jones
 - url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-terry-b-jones
 gender: Male

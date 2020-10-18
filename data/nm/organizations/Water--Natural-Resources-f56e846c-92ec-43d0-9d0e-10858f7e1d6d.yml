@@ -48,6 +48,7 @@ memberships:
 - id: ocd-person/87bd4558-b259-475a-ad72-1f0d71d80aab
   name: Patricio Ruiloba
   role: interim advisory
+  end_date: '2020-10-18'
 - id: ocd-person/f2ef9d8b-fed9-43d3-a1e3-ac5a20d59265
   name: Gerald Ortiz y Pino
   role: interim advisory

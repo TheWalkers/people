@@ -68,6 +68,7 @@ memberships:
 - id: ocd-person/36ef3942-78eb-48e3-9379-cffd10910451
   name: Jim R. Trujillo
   role: interim advisory
+  end_date: '2020-10-18'
 - id: ocd-person/b2590499-4444-416c-aa31-89d8246ff3f2
   name: David E. Adkins
   role: interim member

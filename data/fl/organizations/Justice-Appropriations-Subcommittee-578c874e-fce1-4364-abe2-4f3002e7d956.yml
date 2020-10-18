@@ -30,6 +30,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/4d75dad7-663f-48d0-a013-2dd6a41226ce
   name: James "J.W." Grant
+  end_date: '2020-10-18'
 - id: ocd-person/24b4458a-bc61-42f8-805a-6bc43edf6acb
   name: Joe Gruters
 - id: ocd-person/95ff81fc-ea3f-4cb0-8c14-c1d1e76541a2

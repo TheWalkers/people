@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:md/government
   type: upper
 contact_details:
-- address: 416 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401
+- address: 321 James Senate Office Building;11 Bladen Street;Annapolis, MD 21401
   email: johnnyray.salling@senate.state.md.us
   fax: 410-841-3218
   note: Capitol Office

@@ -25,6 +25,7 @@ memberships:
 - id: ocd-person/87bd4558-b259-475a-ad72-1f0d71d80aab
   name: Patricio Ruiloba
   role: interim advisory
+  end_date: '2020-10-18'
 - id: ocd-person/0b3311c4-8ea1-45d3-949a-8013179c9241
   name: Debbie A. Rodella
   role: interim member

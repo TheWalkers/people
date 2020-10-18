@@ -14,10 +14,10 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-8837
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=326
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=326
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=326
-image: https://leg.state.nv.us/Session/31st2020Special/legislators/Assembly/Images/Tolles.Jill.326.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=326
+image: https://leg.state.nv.us/Session/32nd2020Special/legislators/Assembly/Images/Tolles.Jill.326.jpg
 other_identifiers:
 - identifier: NVL000367
   scheme: legacy_openstates

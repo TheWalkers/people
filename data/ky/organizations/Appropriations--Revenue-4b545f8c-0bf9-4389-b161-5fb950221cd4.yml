@@ -45,6 +45,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/f23a1be5-3634-4f40-990c-d4ae312557a6
   name: Russ A. Meyer
+  end_date: '2020-10-18'
 - id: ocd-person/92576283-508e-4613-b1a0-3d227edf4068
   name: Suzanne Miles
 - id: ocd-person/fc1a9ba3-70b9-4dff-8762-0ce2e7d15deb

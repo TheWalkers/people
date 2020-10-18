@@ -38,6 +38,7 @@ memberships:
 - id: ocd-person/36ef3942-78eb-48e3-9379-cffd10910451
   name: Jim R. Trujillo
   role: interim advisory
+  end_date: '2020-10-18'
 - id: ocd-person/aceb449f-24b6-4f2e-99b7-0e81d19fbf3d
   name: Cisco McSorley
   role: interim co-chair

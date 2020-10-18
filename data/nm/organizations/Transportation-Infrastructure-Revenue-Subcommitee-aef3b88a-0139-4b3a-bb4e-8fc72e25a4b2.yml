@@ -55,6 +55,7 @@ memberships:
 - id: ocd-person/87bd4558-b259-475a-ad72-1f0d71d80aab
   name: Patricio Ruiloba
   role: interim member
+  end_date: '2020-10-18'
 - id: ocd-person/73bfc063-cd59-49ed-8d9f-e49f94fe99d5
   name: Rick Little
   role: interim advisory

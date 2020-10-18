@@ -35,6 +35,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/592b61c5-fbc2-4d1a-a122-61fa13efb30a
   name: Andy Wells
+  end_date: '2020-10-18'
 - id: ocd-person/345af1e3-24c7-4384-a610-3f653103e1e3
   name: Don Davis
 - id: ocd-person/10ce1e75-1759-4304-9e9a-02141d852c31

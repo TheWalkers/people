@@ -1,0 +1,32 @@
+id: ocd-person/27d8b531-d693-4273-8158-326f8a2d1a6f
+name: David R. Lewis
+party:
+- name: Republican
+roles:
+- district: '53'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: lower
+  end_date: '2020-10-18'
+contact_details:
+- address: PO Box 1152;Dunn, NC 28335
+  note: District Office
+  voice: 910-897-8100
+- address: 16 West Jones Street, Rm. 2301;Raleigh, NC 27601-1096
+  email: David.Lewis@ncleg.net
+  note: Capitol Office
+  voice: 919-715-3015
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/389
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/389
+image: https://www.ncleg.gov/Members/MemberImage/H/389/High
+extras:
+  counties:
+  - Harnett
+  notice: null
+other_identifiers:
+- identifier: NCL000128
+  scheme: legacy_openstates
+given_name: David R.
+family_name: Lewis
+gender: Male

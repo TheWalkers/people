@@ -34,6 +34,7 @@ memberships:
 - id: ocd-person/592b61c5-fbc2-4d1a-a122-61fa13efb30a
   name: Andy Wells
   role: Co-Chairman
+  end_date: '2020-10-18'
 - id: ocd-person/b7c59dba-bf33-48ff-8a4e-2d3e63a25296
   name: Rick Horner
 - id: ocd-person/59ece42c-d325-427b-bd54-96b3625bc43d

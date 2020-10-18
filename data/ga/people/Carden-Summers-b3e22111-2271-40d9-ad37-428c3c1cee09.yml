@@ -9,6 +9,7 @@ roles:
 contact_details:
 - address: 121-J State Capitol;Atlanta, GA 30334
   note: Capitol Address
+  voice: 404-463-5258
 - address: 108 East 13th Avenue;Cordele, GA 31015
   note: District Address
 links:

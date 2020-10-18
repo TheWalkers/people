@@ -22,6 +22,7 @@ memberships:
 - id: ocd-person/36ef3942-78eb-48e3-9379-cffd10910451
   name: Jim R. Trujillo
   role: interim advisory
+  end_date: '2020-10-18'
 - id: ocd-person/0421351b-6a8c-4731-bf93-5029d6b4feab
   name: Derrick J. Lente
   role: interim advisory

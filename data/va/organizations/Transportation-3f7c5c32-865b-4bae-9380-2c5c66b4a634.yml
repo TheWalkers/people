@@ -32,6 +32,7 @@ memberships:
 - id: ocd-person/39d16634-1cc8-494a-9af4-fed6be6556fc
   name: Christopher E. Collins
   start_date: '2019-09-01'
+  end_date: '2020-10-18'
 - id: ocd-person/7e08f0b0-3e8d-49d9-835c-b9e2247433d0
   name: Kenneth R. Plum
   start_date: '2019-09-01'

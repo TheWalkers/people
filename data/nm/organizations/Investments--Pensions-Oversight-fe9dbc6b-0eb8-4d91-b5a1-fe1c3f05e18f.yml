@@ -66,6 +66,7 @@ memberships:
 - id: ocd-person/36ef3942-78eb-48e3-9379-cffd10910451
   name: Jim R. Trujillo
   role: interim member
+  end_date: '2020-10-18'
 - id: ocd-person/c6adbbab-1351-4ada-8136-60d12a8e4a1d
   name: Stuart Ingle
   role: interim advisory

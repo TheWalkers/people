@@ -12,9 +12,9 @@ contact_details:
   note: District Office
   voice: 804-737-1626
 links:
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S110
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S110
 sources:
-- url: http://lis.virginia.gov/201/mbr/MBR.HTM
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S110
-image: https://apps.lis.virginia.gov/senatepics/newbiopics/Morrissey16.jpg
+- url: http://lis.virginia.gov/202/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S110
+image: https://apps.dlas.virginia.gov/senatepics/newbiopics/Morrissey16.jpg
 gender: Male

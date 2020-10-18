@@ -17,6 +17,7 @@ memberships:
   name: Thomas U. Reynolds
 - id: ocd-person/56754d9a-55ff-454d-8ea6-60aeedef0496
   name: Gary Chism
+  end_date: '2020-10-18'
 - id: ocd-person/0a230df0-d881-4628-bdb5-32171eb14186
   name: Bill Denny
   end_date: '2020-01-21'

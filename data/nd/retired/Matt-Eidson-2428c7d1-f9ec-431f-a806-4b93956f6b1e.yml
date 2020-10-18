@@ -1,0 +1,21 @@
+id: ocd-person/2428c7d1-f9ec-431f-a806-4b93956f6b1e
+name: Matt Eidson
+party:
+- name: Democratic
+roles:
+- district: '43'
+  jurisdiction: ocd-jurisdiction/country:us/state:nd/government
+  type: lower
+  end_date: '2020-10-18'
+contact_details:
+- email: meidson@nd.gov
+  note: Capitol Office
+- address: P.O. Box 12703;Grand Forks, ND;58208-2703
+  note: District Office
+  voice: 816-255-4394
+links:
+- url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-matt-eidson
+sources:
+- url: http://www.legis.nd.gov/assembly/66-2019/members/house/representative-matt-eidson
+image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/meidson.jpg?itok=tHZ5XPNk
+gender: Male

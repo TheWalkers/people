@@ -9,6 +9,7 @@ sources:
 memberships:
 - id: ocd-person/cc20a7df-61cb-4d92-9aea-23d30f6ac2d7
   name: Bunky Loucks
+  end_date: '2020-10-18'
 - id: ocd-person/f40c41d5-b371-49c5-a597-db8435e613a0
   name: Jim Anderson
 - id: ocd-person/232462b1-3d3f-4131-a8ce-040c1f336528

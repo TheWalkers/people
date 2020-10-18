@@ -50,6 +50,7 @@ memberships:
   end_date: '2020-01-21'
 - id: ocd-person/11a7e2b0-b65a-4d8c-b1b3-aac8fe895e63
   name: Jarvis Dortch
+  end_date: '2020-10-18'
 - id: ocd-person/c0d8a1af-3036-4aee-89e7-f98cc40203cd
   name: Vince Mangold
   role: Vice-Chairman

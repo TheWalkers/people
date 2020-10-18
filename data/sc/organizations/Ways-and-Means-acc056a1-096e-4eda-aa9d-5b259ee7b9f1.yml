@@ -23,6 +23,7 @@ memberships:
   name: William G. "Bill" Herbkersman
 - id: ocd-person/b6b15eb5-8411-45d4-9a38-77e6a76fe487
   name: Alan D. Clemmons
+  end_date: '2020-10-18'
 - id: ocd-person/7f17bd25-fbc5-48a1-a69a-5c9be03b66f5
   name: Dwight A. Loftis
 - id: ocd-person/58d2072a-c96a-49b2-8591-a4e186dc28eb

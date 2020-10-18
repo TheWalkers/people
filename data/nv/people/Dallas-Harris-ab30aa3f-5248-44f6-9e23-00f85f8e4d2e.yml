@@ -14,8 +14,8 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-6502
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=370
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=370
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=370
-image: https://leg.state.nv.us/Session/31st2020Special/legislators/Senators/Images/Harris.Dallas.370.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=370
+image: https://leg.state.nv.us/Session/32nd2020Special/legislators/Senators/Images/Harris.Dallas.370.jpg
 gender: Male

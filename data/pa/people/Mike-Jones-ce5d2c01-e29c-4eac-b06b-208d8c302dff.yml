@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   type: lower
 contact_details:
-- address: 305 Leader Heights Road Suite 1 York, PA 17402
+- address: 1949 Security Drive York, PA 17402
   fax: 717-428-2003
   note: District Office
   voice: 717-428-9889

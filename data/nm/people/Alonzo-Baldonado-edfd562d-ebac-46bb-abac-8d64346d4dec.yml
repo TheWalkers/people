@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nm/government
   type: lower
 contact_details:
-- address: PO Box 370;Los Lunas, NM 87031
+- address: 1001 Pinzon Street NW;Los Lunas, NM 87031
   note: District Office
   voice: 505-363-6214
 - address: Room 205A State Capitol;Santa Fe, NM 87501

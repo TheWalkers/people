@@ -14,10 +14,10 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-8507
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=281
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=281
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=281
-image: https://leg.state.nv.us/Session/31st2020Special/legislators/Assembly/Images/Titus.Robin.281.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=281
+image: https://leg.state.nv.us/Session/32nd2020Special/legislators/Assembly/Images/Titus.Robin.281.jpg
 other_identifiers:
 - identifier: NVL000278
   scheme: legacy_openstates

@@ -27,6 +27,7 @@ memberships:
   name: Michael Meredith
 - id: ocd-person/f23a1be5-3634-4f40-990c-d4ae312557a6
   name: Russ A. Meyer
+  end_date: '2020-10-18'
 - id: ocd-person/91b4cf18-34dc-4ce0-8a8b-20b2bd5999e7
   name: Phil Moffett
   end_date: '2018-12-31'

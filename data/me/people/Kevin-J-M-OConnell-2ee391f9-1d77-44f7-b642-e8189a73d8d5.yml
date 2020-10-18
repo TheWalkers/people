@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   type: lower
 contact_details:
-- address: 98 Oak Grove Drive, Brewer, ME 04412
+- address: 7 Sites Lane, Brewer, ME 04412
   email: Kevin.OConnell@legislature.maine.gov
   note: District Office
 links:

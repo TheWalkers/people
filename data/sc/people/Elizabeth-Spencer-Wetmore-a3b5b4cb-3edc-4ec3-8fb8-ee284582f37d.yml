@@ -1,0 +1,18 @@
+id: ocd-person/a3b5b4cb-3edc-4ec3-8fb8-ee284582f37d
+name: Elizabeth "Spencer" Wetmore
+party:
+- name: Democratic
+roles:
+- district: '115'
+  jurisdiction: ocd-jurisdiction/country:us/state:sc/government
+  type: lower
+contact_details:
+- address: 306A Blatt Bldg.Columbia 29201
+  note: Capitol Office
+  voice: 803-212-6872
+links:
+- url: http://www.scstatehouse.gov/member.php?code=1905681590
+sources:
+- url: http://www.scstatehouse.gov/member.php?chamber=H
+- url: http://www.scstatehouse.gov/member.php?code=1905681590
+image: http://www.scstatehouse.gov/images/members/1905681590.jpg

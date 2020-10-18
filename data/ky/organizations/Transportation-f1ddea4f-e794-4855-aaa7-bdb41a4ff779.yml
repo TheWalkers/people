@@ -63,6 +63,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/5d252767-24f1-4c6c-9bd9-00fb8084e84c
   name: Rick Rand
+  end_date: '2020-10-18'
 - id: ocd-person/98a1c53e-4897-4d26-9d17-520ca3520962
   name: Steve Riggs
   end_date: '2018-12-31'

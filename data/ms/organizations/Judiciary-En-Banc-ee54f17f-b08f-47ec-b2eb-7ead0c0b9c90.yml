@@ -74,6 +74,7 @@ memberships:
   end_date: '2020-01-21'
 - id: ocd-person/56754d9a-55ff-454d-8ea6-60aeedef0496
   name: Gary Chism
+  end_date: '2020-10-18'
 - id: ocd-person/2118023c-ed1d-455f-b3a6-faeefd0e87b5
   name: Donnie Scoggin
 - name: Andy Gipson

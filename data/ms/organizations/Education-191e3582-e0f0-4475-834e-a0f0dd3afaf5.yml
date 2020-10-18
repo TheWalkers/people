@@ -21,6 +21,7 @@ memberships:
   name: Becky Currie
 - id: ocd-person/56754d9a-55ff-454d-8ea6-60aeedef0496
   name: Gary Chism
+  end_date: '2020-10-18'
 - id: ocd-person/6504a75a-5562-4d4e-bb6a-351c9af765ea
   name: Brad Touchstone
   end_date: '2018-12-31'
@@ -37,6 +38,7 @@ memberships:
   name: Charles Busby
 - id: ocd-person/11a7e2b0-b65a-4d8c-b1b3-aac8fe895e63
   name: Jarvis Dortch
+  end_date: '2020-10-18'
 - id: ocd-person/cecf6170-4ff8-451b-ad04-d135cdd9263e
   name: Ashley Henley
   end_date: '2020-01-21'

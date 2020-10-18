@@ -12,11 +12,11 @@ contact_details:
   note: District Office
   voice: 804-698-7511
 links:
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S95
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S95
 sources:
-- url: http://lis.virginia.gov/201/mbr/MBR.HTM
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S95
-image: https://apps.lis.virginia.gov/senatepics/newbiopics/Chase11.jpg
+- url: http://lis.virginia.gov/202/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S95
+image: https://apps.dlas.virginia.gov/senatepics/newbiopics/Chase11.jpg
 other_identifiers:
 - identifier: VAL000250
   scheme: legacy_openstates

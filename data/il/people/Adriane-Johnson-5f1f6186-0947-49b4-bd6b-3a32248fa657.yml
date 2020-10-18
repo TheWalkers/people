@@ -1,0 +1,17 @@
+id: ocd-person/5f1f6186-0947-49b4-bd6b-3a32248fa657
+name: Adriane Johnson
+party:
+- name: Democratic
+roles:
+- district: '30'
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  type: upper
+contact_details:
+- address: Capitol Building;Room 321;Springfield, IL 62706
+  note: capitol
+links:
+- url: http://ilga.gov/senate/Senator.asp?GA=101&MemberID=2781
+sources:
+- url: http://ilga.gov/senate/default.asp?GA=101
+- url: http://ilga.gov/senate/Senator.asp?GA=101&MemberID=2781
+image: http://ilga.gov/images/members/{991EBDF6-BC13-4260-A2B8-E10751629780}.jpg

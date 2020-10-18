@@ -1,0 +1,24 @@
+id: ocd-person/bc8e7448-28ee-461f-9680-6f412a8b8ce2
+name: Wes Schollander
+party:
+- name: Republican
+roles:
+- district: '74'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: lower
+contact_details:
+- address: 300 N. Salisbury Street, Rm. 635;Raleigh, NC 27603-5925
+  note: District Office
+  voice: 919-733-5787
+- address: 300 N. Salisbury Street, Rm. 635;Raleigh, NC 27603-5925
+  email: Wes.Schollander@ncleg.gov
+  note: Capitol Office
+  voice: 919-733-5787
+links:
+- url: https://www.ncleg.gov/Members/Biography/H/767
+sources:
+- url: https://www.ncleg.gov/Members/Biography/H/767
+image: https://www.ncleg.gov/Members/MemberImage/H/767/High
+extras:
+  counties:
+  - Forsyth

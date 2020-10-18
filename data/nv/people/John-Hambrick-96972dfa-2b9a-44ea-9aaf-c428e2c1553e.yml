@@ -14,10 +14,10 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-8827
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=90
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=90
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=90
-image: https://leg.state.nv.us/Session/31st2020Special/legislators/Assembly/Images/Hambrick.John.90.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=90
+image: https://leg.state.nv.us/Session/32nd2020Special/legislators/Assembly/Images/Hambrick.John.90.jpg
 other_identifiers:
 - identifier: NVL000082
   scheme: legacy_openstates

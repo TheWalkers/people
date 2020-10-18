@@ -14,10 +14,10 @@ contact_details:
 - note: Capitol Office
   voice: 775-684-1450
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=115
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=115
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=115
-image: https://leg.state.nv.us/Session/31st2020Special/legislators/Senators/Images/Kieckhefer.Ben.115.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=115
+image: https://leg.state.nv.us/Session/32nd2020Special/legislators/Senators/Images/Kieckhefer.Ben.115.jpg
 other_identifiers:
 - identifier: NVL000110
   scheme: legacy_openstates

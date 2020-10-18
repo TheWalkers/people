@@ -23,6 +23,7 @@ memberships:
   name: Paul Newton
 - id: ocd-person/592b61c5-fbc2-4d1a-a122-61fa13efb30a
   name: Andy Wells
+  end_date: '2020-10-18'
 - id: ocd-person/7493bee0-b1ed-4d45-b772-b7fce91be4ff
   name: Norman W. Sanderson
 - id: ocd-person/23f1da0b-34b2-4347-adb4-f5fc26e0475d

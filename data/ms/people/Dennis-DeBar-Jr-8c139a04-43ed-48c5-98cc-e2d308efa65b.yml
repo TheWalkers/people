@@ -19,8 +19,8 @@ sources:
 - url: http://billstatus.ls.state.ms.us/members/senate/debar.xml
 image: http://billstatus.ls.state.ms.us/members/senate/debar.jpg
 extras:
-  org_info: Senator DeBar is a member of the Bar Association of Mississippi, Farm
-    Bureau, National Guard Association of Mississippi and a NRA Life Member.
+  org_info: Senator DeBar is a member of the Mississippi Bar Association, National
+    Guard Association of Mississippi and a NRA Life Member.
 other_identifiers:
 - identifier: MSL000209
   scheme: legacy_openstates

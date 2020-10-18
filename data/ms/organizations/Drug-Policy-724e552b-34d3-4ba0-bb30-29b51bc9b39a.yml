@@ -22,6 +22,7 @@ memberships:
   name: Kevin Blackwell
 - id: ocd-person/45977d8d-7ee5-4f72-b531-baeb4b071987
   name: Sally Doty
+  end_date: '2020-10-18'
 - id: ocd-person/b251de31-b740-4bfa-91ca-486c69b03c2d
   name: J. P. Wilemon, Jr.
   end_date: '2020-01-21'

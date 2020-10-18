@@ -1,0 +1,22 @@
+id: ocd-person/48bff84e-877b-4ad6-853c-6f69beacf039
+name: David W. Craven, Jr.
+party:
+- name: Republican
+roles:
+- district: '26'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: upper
+contact_details:
+- address: 300 N. Salisbury Street, Rm. 309;Raleigh, NC 27603
+  email: David.Craven@ncleg.net
+  note: Capitol Office
+  voice: 919-733-5870
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/423
+sources:
+- url: https://www.ncleg.gov/Members/Biography/S/423
+image: https://www.ncleg.gov/Members/MemberImage/S/423/High
+extras:
+  counties:
+  - Guilford
+  - Randolph

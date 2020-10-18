@@ -16,6 +16,7 @@ memberships:
 - id: ocd-person/686a1386-171b-4cbf-98a8-10f2399553e3
   name: Andrew J. McLean
   role: chair
+  end_date: '2020-10-18'
 - name: Beth P. Turner
 - id: ocd-person/76e81022-edfe-41f2-9ff5-74d432d22ec1
   name: Thomas H. Skolfield

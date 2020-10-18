@@ -1,0 +1,28 @@
+id: ocd-person/1e4e76c3-82eb-4bb7-aac1-2882e571da6b
+name: Kevin O'Hearn
+party:
+- name: Republican
+roles:
+- district: '59'
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+  type: lower
+contact_details:
+- address: P.O. Box 52, Mills WY 82644
+  email: kevin.ohearn@wyoleg.gov
+  note: ''
+  voice: 307-251-8589
+links:
+- url: http://wyoleg.gov/Legislators/2020/R/2064
+sources:
+- url: http://wyoleg.gov/Legislators/2020/R/2064
+image: http://wyoleg.gov/LegislatorSummary/Photos/OHearnK59.jpg
+given_name: Kevin
+family_name: O'Hearn
+extras:
+  county: Natrona
+  number_children: ''
+  occupation: Building Official and Asst. Town Planner
+  place_of_birth: Dover, Delaware
+  religion: ''
+  spouse_given_name: null
+  wy_leg_id: 2064

@@ -1,5 +1,5 @@
 contact_details:
-- email: jkunruh@nd.gov
+- email: jessicabell@nd.gov
   note: Capitol Office
 - address: 1224 First Avenue NE;Beulah, ND;58523-6301
   note: District Office
@@ -9,9 +9,8 @@ given_name: Jessica
 id: ocd-person/e45f9536-a4a9-44cf-a98c-8d5e36a16cfe
 image: https://www.legis.nd.gov/files/styles/medium/public/person/photo/jkunruh.jpg?itok=dMYp5spE
 links:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/senate/senator-jessica-unruh
-- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-jessica-unruh
-name: Jessica Unruh
+- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-jessica-unruh-bell
+name: Jessica Unruh-Bell
 other_identifiers:
 - identifier: NDL000245
   scheme: legacy_openstates
@@ -28,6 +27,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nd/government
   type: upper
 sources:
-- url: http://www.legis.nd.gov/assembly/65-2017/members/senate/senator-jessica-unruh
-- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-jessica-unruh
+- url: http://www.legis.nd.gov/assembly/66-2019/members/senate/senator-jessica-unruh-bell
 gender: Female

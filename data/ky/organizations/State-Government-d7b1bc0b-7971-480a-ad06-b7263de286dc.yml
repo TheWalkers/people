@@ -41,6 +41,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/5d252767-24f1-4c6c-9bd9-00fb8084e84c
   name: Rick Rand
+  end_date: '2020-10-18'
 - id: ocd-person/f15e6170-7a37-4d98-a933-41fe5fac6b2e
   name: Jody Richards
   end_date: '2018-12-31'

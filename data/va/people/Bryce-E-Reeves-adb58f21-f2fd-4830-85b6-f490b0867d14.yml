@@ -12,11 +12,11 @@ contact_details:
   note: District Office
   voice: 540-645-8440
 links:
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S88
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S88
 sources:
-- url: http://lis.virginia.gov/201/mbr/MBR.HTM
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S88
-image: https://apps.lis.virginia.gov/senatepics/newbiopics/Reeves.jpg
+- url: http://lis.virginia.gov/202/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S88
+image: https://apps.dlas.virginia.gov/senatepics/newbiopics/Reeves.jpg
 other_identifiers:
 - identifier: VAL000153
   scheme: legacy_openstates

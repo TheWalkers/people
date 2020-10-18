@@ -63,6 +63,7 @@ memberships:
 - id: ocd-person/36ef3942-78eb-48e3-9379-cffd10910451
   name: Jim R. Trujillo
   role: interim advisory
+  end_date: '2020-10-18'
 - id: ocd-person/87448df9-e44d-421f-ac90-d7cb7f00df79
   name: Ron Griggs
   role: interim member

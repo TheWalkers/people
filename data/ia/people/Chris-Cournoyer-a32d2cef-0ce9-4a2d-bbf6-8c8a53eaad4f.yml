@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: upper
 contact_details:
-- address: 27633 Blackhawk Ct, LeClaire, IA 52753
+- address: P.O. Box 33, LeClaire, IA 52753
   note: District Office
 - email: chris.cournoyer@legis.iowa.gov
   note: Capitol Office

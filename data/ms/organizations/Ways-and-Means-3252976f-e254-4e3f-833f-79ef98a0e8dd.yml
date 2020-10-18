@@ -24,6 +24,7 @@ memberships:
   name: Randy Rushing
 - id: ocd-person/56754d9a-55ff-454d-8ea6-60aeedef0496
   name: Gary Chism
+  end_date: '2020-10-18'
 - id: ocd-person/bf4aa2c2-816f-4c8b-8225-2cb7e2a51d2b
   name: Credell Calhoun
   end_date: '2020-01-21'

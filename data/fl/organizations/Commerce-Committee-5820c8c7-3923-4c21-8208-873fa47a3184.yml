@@ -31,6 +31,7 @@ memberships:
   name: Nicholas X. Duran
 - id: ocd-person/f58b1018-885c-4d07-8500-95b607aa4338
   name: Dane Eagle
+  end_date: '2020-10-18'
 - id: ocd-person/0238fe8b-5b2a-4066-b383-61318365c960
   name: Katie Edwards-Walpole
   end_date: '2018-12-31'
@@ -43,6 +44,7 @@ memberships:
   end_date: '2018-12-31'
 - id: ocd-person/4d75dad7-663f-48d0-a013-2dd6a41226ce
   name: James "J.W." Grant
+  end_date: '2020-10-18'
 - id: ocd-person/24b4458a-bc61-42f8-805a-6bc43edf6acb
   name: Joe Gruters
 - id: ocd-person/6f6674e5-679f-43c5-b84b-df83882077f9

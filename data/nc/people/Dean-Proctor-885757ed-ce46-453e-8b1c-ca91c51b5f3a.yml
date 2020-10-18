@@ -1,0 +1,22 @@
+id: ocd-person/885757ed-ce46-453e-8b1c-ca91c51b5f3a
+name: Dean Proctor
+party:
+- name: Republican
+roles:
+- district: '42'
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  type: upper
+contact_details:
+- address: 16 West Jones Street, Rm. 1028;Raleigh, NC 27601
+  email: Dean.Proctor@ncleg.net
+  note: Capitol Office
+  voice: 919-733-5876
+links:
+- url: https://www.ncleg.gov/Members/Biography/S/424
+sources:
+- url: https://www.ncleg.gov/Members/Biography/S/424
+image: https://www.ncleg.gov/Members/MemberImage/S/424/High
+extras:
+  counties:
+  - Alexander
+  - Catawba

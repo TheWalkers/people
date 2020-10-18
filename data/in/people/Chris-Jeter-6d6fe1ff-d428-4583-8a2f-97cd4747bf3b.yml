@@ -1,0 +1,19 @@
+id: ocd-person/6d6fe1ff-d428-4583-8a2f-97cd4747bf3b
+name: Chris Jeter
+party:
+- name: Republican
+roles:
+- district: '88'
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  type: lower
+contact_details:
+- address: 200 W. Washington Street;Indianapolis, IN 46204
+  email: h88@iga.in.gov
+  note: Capitol Office
+  voice: 800-382-9841
+links:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_chris_jeter_1
+sources:
+- url: http://iga.in.gov/legislative/2020/legislators/legislator_chris_jeter_1
+- url: https://api.iga.in.gov/2020/legislators/chris_jeter_1
+image: http://iga.in.gov/legislative/2020/portraits/legislator_chris_jeter_1

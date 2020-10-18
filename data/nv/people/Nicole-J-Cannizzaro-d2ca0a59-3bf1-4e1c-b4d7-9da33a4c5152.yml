@@ -7,17 +7,17 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:nv/government
   type: upper
 contact_details:
-- address: 7901 Cocoa Beach Circle;Las Vegas, NV 89128
+- address: 361 Soubrette Court;Las Vegas, NV 89145
   email: Nicole.Cannizzaro@sen.state.nv.us
   note: District Office
   voice: 775-684-1475
 - note: Capitol Office
   voice: 775-684-1475
 links:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=347
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=347
 sources:
-- url: https://www.leg.state.nv.us/App/Legislator/A/api/31st2020Special/Legislator?id=347
-image: https://leg.state.nv.us/Session/31st2020Special/legislators/Senators/Images/Cannizzaro.Nicole.347.jpg
+- url: https://www.leg.state.nv.us/App/Legislator/A/api/32nd2020Special/Legislator?id=347
+image: https://leg.state.nv.us/Session/32nd2020Special/legislators/Senators/Images/Cannizzaro.Nicole.347.jpg
 other_identifiers:
 - identifier: NVL000377
   scheme: legacy_openstates

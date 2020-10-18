@@ -11,8 +11,9 @@ contact_details:
   email: burkep@nyassembly.gov
   note: Capitol Office
   voice: 518-455-4691
-- address: '1074 Union Road;West Seneca, NY 14224;716-608-6099;District Office Directions;Office
-    Hours;Monday: 11AM-5PM;Tuesday: 9AM-5PM;Wednesday: 10AM-3:30PM;Tuesday: 9AM-5PM'
+- address: 1074 Union Road;West Seneca, NY 14224;716-608-6099;District Office Directions;Office
+    Hours;Adjusted office hours (due to COVID-19);10-2, Monday-Thursday;Staff available
+    via phone or email
   note: District Office
   voice: 716-608-6099
 links:

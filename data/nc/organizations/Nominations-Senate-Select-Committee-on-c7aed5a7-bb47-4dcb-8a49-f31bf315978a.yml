@@ -34,6 +34,7 @@ memberships:
   name: Kathy Harrington
 - id: ocd-person/592b61c5-fbc2-4d1a-a122-61fa13efb30a
   name: Andy Wells
+  end_date: '2020-10-18'
 - id: ocd-person/ac7e8e60-b5cb-41c2-92f9-1bdf9204f79a
   name: Bill Rabon
   role: Co-Chairman

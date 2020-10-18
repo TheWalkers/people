@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   type: lower
 contact_details:
-- address: 1506 Abercorn Dr, Council Bluffs, IA 51503
+- address: 1113 Arbor Ridge Dr, Council Bluffs, IA 51503
   note: District Office
 - email: Jon.Jacobsen@legis.iowa.gov
   note: Capitol Office

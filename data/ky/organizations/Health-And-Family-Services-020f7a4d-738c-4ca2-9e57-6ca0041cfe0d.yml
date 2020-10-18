@@ -35,6 +35,7 @@ memberships:
   name: Chad McCoy
 - id: ocd-person/f23a1be5-3634-4f40-990c-d4ae312557a6
   name: Russ A. Meyer
+  end_date: '2020-10-18'
 - id: ocd-person/92511255-ca06-4241-bd91-0cafd92e3d5c
   name: Kimberly Poore Moser
 - id: ocd-person/9c659273-6504-46ac-a782-08018965efc0

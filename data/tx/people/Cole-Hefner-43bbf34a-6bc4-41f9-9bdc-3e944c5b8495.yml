@@ -11,8 +11,12 @@ contact_details:
   fax: 512-463-1515
   note: Capitol Address
   voice: 512-463-0271
-- address: 115 W. 1st;Mount Pleasant, Texas 75455
+- address: 115 W. 1st Street;Mount Pleasant, TX 75455
   note: District Address
+  voice: 903-717-8238
+- address: 520 North Main Street, Suite A-3;Lindale, TX 75711
+  note: District Office
+  voice: 903-882-3254
 links:
 - url: https://house.texas.gov/members/member-page/?district=5
 sources:

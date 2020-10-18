@@ -12,11 +12,11 @@ contact_details:
   note: District Office
   voice: 571-249-3037
 links:
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S80
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S80
 sources:
-- url: http://lis.virginia.gov/201/mbr/MBR.HTM
-- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S80
-image: https://apps.lis.virginia.gov/senatepics/newbiopics/Marsden37.jpg
+- url: http://lis.virginia.gov/202/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?202+mbr+S80
+image: https://apps.dlas.virginia.gov/senatepics/newbiopics/Marsden37.jpg
 other_identifiers:
 - identifier: VAL000013
   scheme: legacy_openstates
