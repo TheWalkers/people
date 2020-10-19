@@ -14,10 +14,10 @@ contact_details:
   note: Capitol Office
   voice: 603-271-4063
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
 - url: http://www.gencourt.state.nh.us/Senate/members/webpages/district17.aspx
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 image: http://www.gencourt.state.nh.us/Senate/images/senators/17.jpg
 extras:
   first_name: John

@@ -14,9 +14,9 @@ contact_details:
 - email: rick.ladd@leg.state.nh.us
   note: Capitol Office
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 image: http://www.gencourt.state.nh.us/house/images/memberpics/376832.jpg
 extras:
   first_name: Rick

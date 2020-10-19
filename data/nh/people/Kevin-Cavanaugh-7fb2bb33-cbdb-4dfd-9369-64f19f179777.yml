@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 603-271-1403
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
 - url: http://www.gencourt.state.nh.us/Senate/members/webpages/district16.aspx
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 image: http://www.gencourt.state.nh.us/Senate/images/senators/16.jpg
 extras:
   first_name: Kevin

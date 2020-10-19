@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 603-271-3207
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
 - url: http://www.gencourt.state.nh.us/Senate/members/webpages/district03.aspx
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 image: http://www.gencourt.state.nh.us/Senate/images/senators/03.jpg
 extras:
   first_name: Jeb

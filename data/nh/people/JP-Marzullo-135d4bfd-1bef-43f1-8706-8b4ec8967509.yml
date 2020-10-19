@@ -12,9 +12,9 @@ contact_details:
 - address: 17 Becca Lane;Deering, NH 03244-6547
   note: District Office
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: JP
   last_name: Marzullo

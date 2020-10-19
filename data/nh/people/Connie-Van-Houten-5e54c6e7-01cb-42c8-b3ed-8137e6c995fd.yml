@@ -15,9 +15,9 @@ contact_details:
   note: District Office
   voice: 603-622-9701
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 image: http://www.gencourt.state.nh.us/house/images/memberpics/408558.jpg
 extras:
   first_name: Connie

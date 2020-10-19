@@ -1,22 +1,22 @@
-id: ocd-person/43bd8913-e7a8-4620-b6fb-bd81851358c7
-name: Robert L. Forsythe
+id: ocd-person/cc2980d4-db55-4937-a83f-177efc97379b
+name: Gates S. Lucas
 party:
 - name: Republican
 roles:
-- district: Merrimack 8
+- district: Sullivan 2
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
+  end_date: '2020-10-19'
 contact_details:
-- address: 41 Forest Lane;Boscawen, NH 03303-2421
-  email: docrlf@yahoo.com
+- email: Gates.Lucas@leg.state.nh.us
+  note: Capitol Office
+- address: PO Box 105;Sunapee, NH 03782-0105
   note: District Office
-  voice: 805-708-2665
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.csv
 sources:
 - url: http://www.gencourt.state.nh.us/downloads/Members.csv
 extras:
-  first_name: Robert
-  last_name: Forsythe
-  middle_name: L.
-gender: Male
+  first_name: Gates
+  last_name: Lucas
+  middle_name: S.

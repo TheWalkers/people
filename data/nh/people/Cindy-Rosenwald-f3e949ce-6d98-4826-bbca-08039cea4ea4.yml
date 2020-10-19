@@ -12,10 +12,10 @@ contact_details:
   note: Capitol Office
   voice: 603-271-4980
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
 - url: http://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Cindy
   last_name: Rosenwald

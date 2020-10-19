@@ -6,6 +6,7 @@ roles:
 - district: Grafton 12
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
+  end_date: '2020-10-19'
 contact_details:
 - email: Garrett.Muscatel@leg.state.nh.us
   note: Capitol Office

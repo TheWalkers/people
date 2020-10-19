@@ -13,9 +13,9 @@ contact_details:
 - email: John.Callum@leg.state.nh.us
   note: Capitol Office
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: 'John '
   last_name: Callum

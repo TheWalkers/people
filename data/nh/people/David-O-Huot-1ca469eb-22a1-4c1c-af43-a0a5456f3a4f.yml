@@ -14,9 +14,9 @@ contact_details:
   voice: 603-524-7641
   email: dhuot03246@yahoo.com
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 image: http://www.gencourt.state.nh.us/house/images/memberpics/377125.jpg
 extras:
   first_name: David

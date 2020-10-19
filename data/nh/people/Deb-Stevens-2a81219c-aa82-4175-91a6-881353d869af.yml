@@ -12,9 +12,9 @@ contact_details:
 - address: 53 Arlington Street;Nashua, NH 03060-4030
   note: District Office
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Deb
   last_name: Stevens

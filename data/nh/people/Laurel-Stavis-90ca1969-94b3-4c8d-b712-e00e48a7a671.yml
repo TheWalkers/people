@@ -12,9 +12,9 @@ contact_details:
 - address: 19 Apple Blossom Drive;West Lebanon, NH 03784-1240
   note: District Office
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Laurel
   last_name: Stavis

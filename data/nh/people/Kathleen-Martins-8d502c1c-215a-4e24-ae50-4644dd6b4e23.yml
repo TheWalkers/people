@@ -1,21 +1,15 @@
-id: ocd-person/89f38f54-22ef-4ad2-b59e-c864da52f3ea
-name: Francesca G. Diggs
+id: ocd-person/8d502c1c-215a-4e24-ae50-4644dd6b4e23
+name: Kathleen Martins
 party:
 - name: Democratic
 roles:
-- district: Grafton 16
+- district: Merrimack 24
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
 contact_details:
-- address: PO Box 177;Rumney, NH 03266-0177
-  email: Francesca.Diggs@leg.state.nh.us
+- address: 17 Stevens Dr;Hooksett, NH 03106-1684
   note: District Office
-  voice: 434-960-9806
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
-extras:
-  first_name: Francesca
-  last_name: Diggs
-  middle_name: G.

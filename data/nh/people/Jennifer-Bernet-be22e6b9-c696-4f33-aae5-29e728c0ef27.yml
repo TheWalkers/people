@@ -9,13 +9,13 @@ roles:
 contact_details:
 - email: Jennifer.Bernet@leg.state.nh.us
   note: Capitol Office
-- address: Wilton, NH
+- address: PO Box 76;Wilton, NH 03086-0076
   note: District Office
   voice: 603-831-0947
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 sources:
-- url: http://www.gencourt.state.nh.us/downloads/Members.csv
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
 extras:
   first_name: Jennifer
   last_name: Bernet
