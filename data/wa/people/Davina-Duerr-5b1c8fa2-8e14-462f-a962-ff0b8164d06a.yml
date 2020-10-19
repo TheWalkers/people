@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wa/government
   type: lower
 contact_details:
-- email: Davina.Duerr@leg.wa.gov
+- email: davina.duerr@leg.wa.gov
   note: Capitol Office
   address: 327 John L. O'Brien Building;PO Box 40600;Olympia, WA 98504
   voice: 360-786-7928

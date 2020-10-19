@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wa/government
   type: lower
 contact_details:
-- email: Emily.Wicks@leg.wa.gov
+- email: emily.wicks@leg.wa.gov
   note: Capitol Office
 links:
 - url: https://housedemocrats.wa.gov/Wicks/

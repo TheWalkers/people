@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:wa/government
   type: lower
 contact_details:
-- email: Jesse.Johnson@leg.wa.gov
+- email: jesse.johnson@leg.wa.gov
   note: Capitol Office
 links:
 - url: https://housedemocrats.wa.gov/Johnson/

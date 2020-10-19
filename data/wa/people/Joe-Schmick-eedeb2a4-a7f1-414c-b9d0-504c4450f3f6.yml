@@ -8,7 +8,7 @@ roles:
   type: lower
 contact_details:
 - address: 426B Legislative Building;PO Box 40600;Olympia, WA 98504
-  email: Joe.Schmick@leg.wa.gov
+  email: joe.schmick@leg.wa.gov
   note: Capitol Office
   voice: 360-786-7844
 links:
