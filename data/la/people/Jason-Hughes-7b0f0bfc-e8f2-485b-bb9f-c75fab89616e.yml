@@ -9,10 +9,11 @@ roles:
 contact_details:
 - email: hse100@legis.la.gov
   note: District Office
-  address: P.O. Box 872461;New Orleans, LA 70187
+  address: P. O. Box 872461;New Orleans, LA 70187
+  voice: 504-246-9707
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=100
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=100
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=100
-image: http://house.louisiana.gov/h_reps/RepPics09/rep100.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=100
+image: https://house.louisiana.gov/h_reps/RepPics20/rep100.jpg
 gender: Male

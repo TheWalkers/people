@@ -9,11 +9,12 @@ roles:
 contact_details:
 - email: hse078@legis.la.gov
   note: District Office
-  address: 9523 Jefferson Hwy.;Suite A;River Ridge, LA 70123
+  address: 9523 Jefferson Hwy.;Suite A;River Ridge, LA 70123;*Not ADA accessible.
+    Please call to make accommodations.
   voice: 504-736-7030
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=78
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=78
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=78
-image: http://house.louisiana.gov/h_reps/RepPics09/rep78.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=78
+image: https://house.louisiana.gov/h_reps/RepPics20/rep78.jpg
 gender: Male

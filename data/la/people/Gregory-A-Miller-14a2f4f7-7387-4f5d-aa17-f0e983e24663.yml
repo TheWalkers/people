@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: P.O. Box 190;Norco, LA 70079
+- address: P. O. Box 190;Norco, LA 70079
   email: millerg@legis.la.gov
   note: District Office
   voice: 985-764-9991
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=56
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=56
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=56
-image: http://house.louisiana.gov/h_reps/RepPics09/rep56.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=56
+image: https://house.louisiana.gov/h_reps/RepPics20/rep56.jpg
 other_identifiers:
 - identifier: LAL000467
   scheme: legacy_openstates

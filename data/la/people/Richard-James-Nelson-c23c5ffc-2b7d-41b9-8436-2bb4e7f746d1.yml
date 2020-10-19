@@ -12,8 +12,8 @@ contact_details:
   address: 2001 Lakeshore Drive;Mandeville, LA 70448
   voice: 985-222-2638
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=89
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=89
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=89
-image: http://house.louisiana.gov/h_reps/RepPics09/rep89.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=89
+image: https://house.louisiana.gov/h_reps/RepPics20/rep89.jpg
 gender: Male

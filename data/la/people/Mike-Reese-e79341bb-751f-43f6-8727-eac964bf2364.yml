@@ -7,7 +7,8 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 1111 South 5th Street;Suite E;Leesville, LA 71446
+- address: 1111 South 5th Street;Suite E;Leesville, LA 71446;218 West 4th Street;DeQuincy,
+    LA 70633;401 West 1st Street;DeRidder, LA 70634
   note: District Office
   email: sen30@legis.la.gov
   voice: 337-238-6435

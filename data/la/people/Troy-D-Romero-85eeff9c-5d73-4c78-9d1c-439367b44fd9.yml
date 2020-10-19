@@ -9,11 +9,11 @@ roles:
 contact_details:
 - email: hse037@legis.la.gov
   note: District Office
-  address: P.O. Box 287;Jennings, LA 70546
+  address: P. O. Box 287;Jennings, LA 70546
   voice: 337-824-0376
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=37
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=37
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=37
-image: http://house.louisiana.gov/h_reps/RepPics09/rep37.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=37
+image: https://house.louisiana.gov/h_reps/RepPics20/rep37.jpg
 gender: Male

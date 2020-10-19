@@ -11,15 +11,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: P.O. Box 68;Delhi, LA 71232
-  email: fthompson@legis.la.gov
+- address: P. O. Box 68;Delhi, LA 71232
+  email: thompsof@legis.la.gov
   fax: 318-878-5650
   note: District Office
   voice: 318-878-9408
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=19
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=19
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=19
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=19
 other_identifiers:
 - identifier: LAL000170
   scheme: legacy_openstates
@@ -34,4 +34,4 @@ other_identifiers:
 given_name: Francis C.
 family_name: Thompson
 gender: Male
-image: http://house.louisiana.gov/h_reps/RepPics09/rep19.jpg
+image: https://house.louisiana.gov/h_reps/RepPics20/rep19.jpg

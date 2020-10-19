@@ -7,13 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: P.O. Box 55;Rosepine, LA 70659
+- address: 6673 Evans Street;Rosepine, LA 70659;Mailing Address:;P. O. Box 55;Rosepine,
+    LA 70659
   email: hse030@legis.la.gov
   note: District Office
   voice: 337-460-8726
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=30
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=30
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=30
-image: http://house.louisiana.gov/h_reps/RepPics09/rep30.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=30
+image: https://house.louisiana.gov/h_reps/RepPics20/rep30.jpg
 gender: Male

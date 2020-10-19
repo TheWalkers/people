@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 410 N. Broadway St.;Erath, LA 70533
+- address: 410 N. Broadway Street;Erath, LA 70533
   email: miguezb@legis.la.gov
   note: District Office
   voice: 337-937-8827
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=49
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=49
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=49
-image: http://house.louisiana.gov/h_reps/RepPics09/rep49.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=49
+image: https://house.louisiana.gov/h_reps/RepPics20/rep49.jpg
 other_identifiers:
 - identifier: LAL000794
   scheme: legacy_openstates

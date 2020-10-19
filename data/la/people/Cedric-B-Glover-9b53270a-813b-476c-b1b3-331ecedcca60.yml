@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 1341 Russell Rd.;Shreveport, LA 71107
+- address: 1341 Russell Road;Shreveport, LA 71107
   email: gloverc@legis.la.gov
   note: District Office
   voice: 318-221-7775
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=4
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=4
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=4
-image: http://house.louisiana.gov/h_reps/RepPics09/rep4.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=4
+image: https://house.louisiana.gov/h_reps/RepPics20/rep4.jpg
 other_identifiers:
 - identifier: LAL000802
   scheme: legacy_openstates

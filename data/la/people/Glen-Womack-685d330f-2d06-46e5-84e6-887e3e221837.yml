@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 119 Pine Street;Suite B;Harrisonburg, LA 70123
+- address: 119 Pine Street;Suite B;Harrisonburg, LA 71340
   note: District Office
   email: sen32@legis.la.gov
   fax: 318-744-0007

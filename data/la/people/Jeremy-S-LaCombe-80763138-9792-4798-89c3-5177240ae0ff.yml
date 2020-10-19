@@ -7,13 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: P.O. Box 370;Livonia, LA 70755
+- address: P. O. Box 370;Livonia, LA 70755
   email: hse018@legis.la.gov
   note: District Office
   voice: 225-637-3803
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=18
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=18
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=18
-image: http://house.louisiana.gov/h_reps/RepPics09/rep18.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=18
+image: https://house.louisiana.gov/h_reps/RepPics20/rep18.jpg
 gender: Male

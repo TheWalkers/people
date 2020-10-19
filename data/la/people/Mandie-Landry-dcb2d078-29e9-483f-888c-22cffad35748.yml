@@ -9,13 +9,12 @@ roles:
 contact_details:
 - email: hse091@legis.la.gov
   note: District Office
-  address: 2725 South Broad Street;Suite 200;New Orleans, LA 70125;*Not ADA Accessible.
-    Please call the phone number listed below and we will be happy to make accommodations
-    for any visitors.
+  address: 2725 South Broad Street;Suite 200;New Orleans, LA 70125;*Not ADA accessible.
+    Please call to make accommodations.
   voice: 504-826-2570
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=91
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=91
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=91
-image: http://house.louisiana.gov/h_reps/RepPics09/rep91.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=91
+image: https://house.louisiana.gov/h_reps/RepPics20/rep91.jpg
 gender: Female

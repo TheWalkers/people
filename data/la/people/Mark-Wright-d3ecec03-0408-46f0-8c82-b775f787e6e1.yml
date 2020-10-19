@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 522 N. New Hampshire St.;Suites 1 and 2;Covington, LA 70433
+- address: 312 South Jefferson Street;Suite A & B;Covington, LA 70433
   email: wrightm@legis.la.gov
   note: District Office
   voice: 985-893-6262
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=77
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=77
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=77
-image: http://house.louisiana.gov/h_reps/RepPics09/rep77.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=77
+image: https://house.louisiana.gov/h_reps/RepPics20/rep77.jpg
 other_identifiers:
 - identifier: LAL000957
   scheme: legacy_openstates

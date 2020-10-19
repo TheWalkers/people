@@ -10,9 +10,11 @@ contact_details:
 - email: hse016@legis.la.gov
   note: District Office
   voice: 318-556-7001
+  address: 110 South Washington Street;Bastrop, LA 71220;Mailing Address:;1605 Lamy
+    Lane;Suite D;Monroe, LA 71201
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=16
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=16
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=16
-image: http://house.louisiana.gov/h_reps/RepPics09/rep16.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=16
+image: https://house.louisiana.gov/h_reps/RepPics20/rep16.jpg
 gender: Male

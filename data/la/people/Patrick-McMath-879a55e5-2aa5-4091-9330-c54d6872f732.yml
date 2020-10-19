@@ -7,7 +7,9 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 409 East Boston Street;Covington, LA 70433
+- address: 409 East Boston Street;Covington, LA 70433;Office is not ADA Accessible.
+    Please call the phone number listed below and we will be happy to make accommodations
+    for any visitors.
   note: District Office
   email: sen11@legis.la.gov
   voice: 985-900-6278

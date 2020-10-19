@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 2573 Metairie Road;Suite C;Metairie, LA 70005
+- address: 2573 Metairie Road;Suite C;Metairie, LA 70001
   email: henryc@legis.la.gov
   fax: 504-838-5435
   note: District Office

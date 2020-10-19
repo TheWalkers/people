@@ -11,9 +11,10 @@ contact_details:
   note: District Office
   address: New Orleans Lake Front Airport Terminal Building;Suite 149;6001 Stars and
     Stripes;New Orleans, LA 70126
+  voice: 504-240-3435
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=99
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=99
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=99
-image: http://house.louisiana.gov/h_reps/RepPics09/rep99.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=99
+image: https://house.louisiana.gov/h_reps/RepPics20/rep99.jpg
 gender: Female

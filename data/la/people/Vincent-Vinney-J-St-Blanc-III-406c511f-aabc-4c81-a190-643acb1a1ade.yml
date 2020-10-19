@@ -12,8 +12,8 @@ contact_details:
   address: 733 Main Street;Franklin, LA 70538
   voice: 337-828-7778
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=50
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=50
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=50
-image: http://house.louisiana.gov/h_reps/RepPics09/rep50.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=50
+image: https://house.louisiana.gov/h_reps/RepPics20/rep50.jpg
 gender: Male

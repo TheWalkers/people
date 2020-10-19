@@ -9,9 +9,11 @@ roles:
 contact_details:
 - email: hse082@legis.la.gov
   note: District Office
+  address: P. O. Box 231474;Jefferson, LA 70183
+  voice: 504-655-6887
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=82
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=82
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=82
-image: http://house.louisiana.gov/h_reps/RepPics09/rep82.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=82
+image: https://house.louisiana.gov/h_reps/RepPics20/rep82.jpg
 gender: Male

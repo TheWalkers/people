@@ -7,13 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 420 Williams Blvd;Ste 200 Kenner, LA 70065
+- address: 4203 Williams Blvd.;Suite 200;Kenner, LA 70065
   email: hse079@legis.la.gov
   note: District Office
   voice: 504-468-8603
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=79
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=79
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=79
-image: http://house.louisiana.gov/h_reps/RepPics09/rep79.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=79
+image: https://house.louisiana.gov/h_reps/RepPics20/rep79.jpg
 gender: Female

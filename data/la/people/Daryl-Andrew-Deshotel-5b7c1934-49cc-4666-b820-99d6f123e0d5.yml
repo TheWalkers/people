@@ -12,8 +12,8 @@ contact_details:
   address: 312 North Main Street;Marksville, LA 71351
   voice: 318-253-8891
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=28
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=28
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=28
-image: http://house.louisiana.gov/h_reps/RepPics09/rep28.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=28
+image: https://house.louisiana.gov/h_reps/RepPics20/rep28.jpg
 gender: Male

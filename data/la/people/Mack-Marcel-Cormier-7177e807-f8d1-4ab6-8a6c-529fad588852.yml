@@ -10,8 +10,8 @@ contact_details:
 - email: hse105@legis.la.gov
   note: District Office
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=105
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=105
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=105
-image: http://house.louisiana.gov/h_reps/RepPics09/rep105.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=105
+image: https://house.louisiana.gov/h_reps/RepPics20/rep105.jpg
 gender: Male

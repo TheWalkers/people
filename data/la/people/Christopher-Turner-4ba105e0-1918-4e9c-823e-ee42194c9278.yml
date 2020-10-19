@@ -7,13 +7,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 207 W. Mississippi Street;Suite 306;Ruston, La 71270
+- address: 207 W. Mississippi Street;Suite 306;Ruston, LA 71270
   note: District Office
   voice: 318-251-5038
   email: hse012@legis.la.gov
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=12
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=12
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=12
-image: http://house.louisiana.gov/h_reps/RepPics09/rep12.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=12
+image: https://house.louisiana.gov/h_reps/RepPics20/rep12.jpg
 gender: Male

@@ -7,19 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 2401 Westbend Parkway;New Orleans, LA 70114
-  email: carterg@legis.la.gov
-  note: District Office
-  voice: 504-361-6600
 - address: 2401 Westbend Parkway;Suite 3071;New Orleans, LA 70114
   email: carterg@legis.la.gov
   note: District Office
   voice: 504-361-6600
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=102
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=102
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=102
-image: http://house.louisiana.gov/h_reps/RepPics09/rep102.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=102
+image: https://house.louisiana.gov/h_reps/RepPics20/rep102.jpg
 other_identifiers:
 - identifier: LAL000816
   scheme: legacy_openstates

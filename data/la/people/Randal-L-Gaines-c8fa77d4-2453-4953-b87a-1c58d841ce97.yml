@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 425 W. Airline Hwy.;Ste. K;LaPlace, LA 70068-3818
+- address: 425 W. Airline Hwy.;Suite K;LaPlace, LA 70068-3818
   email: gainesr@legis.la.gov
   note: District Office
   voice: 985-652-1228
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=57
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=57
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=57
-image: http://house.louisiana.gov/h_reps/RepPics09/rep57.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=57
+image: https://house.louisiana.gov/h_reps/RepPics20/rep57.jpg
 other_identifiers:
 - identifier: LAL000453
   scheme: legacy_openstates

@@ -1,0 +1,18 @@
+id: ocd-person/996c434d-3ba9-4bc0-8a72-8dbd6cb10e25
+name: Joseph A. Orgeron
+party:
+- name: Republican
+roles:
+- district: '54'
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  type: lower
+contact_details:
+- address: 13259 East Main Street;Larose, LA 70373
+  email: hse054@legis.la.gov
+  note: District Office
+  voice: 985-693-9000
+links:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=54
+sources:
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=54
+image: https://house.louisiana.gov/h_reps/RepPics20/rep54.jpg

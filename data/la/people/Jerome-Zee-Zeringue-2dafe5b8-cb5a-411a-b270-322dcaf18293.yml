@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 423 Goode St.;Houma, LA 70360
+- address: 423 Goode Street;Houma, LA 70360
   email: zeringuej@legis.la.gov
   note: District Office
   voice: 985-876-8823
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=52
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=52
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=52
-image: http://house.louisiana.gov/h_reps/RepPics09/rep52.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=52
+image: https://house.louisiana.gov/h_reps/RepPics20/rep52.jpg
 other_identifiers:
 - identifier: LAL000814
   scheme: legacy_openstates

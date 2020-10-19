@@ -6,6 +6,7 @@ roles:
 - district: '54'
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
+  end_date: '2020-10-19'
 contact_details:
 - email: hse054@legis.la.gov
   note: District Office

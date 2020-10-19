@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 800 W. Congress St.;Suite A;Lafayette, LA 70501
+- address: 718 S. Buchanan Street;Lafayette, LA 70501
   email: pierrev@legis.la.gov
   note: District Office
   voice: 337-262-2330
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=44
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=44
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=44
-image: http://house.louisiana.gov/h_reps/RepPics09/rep44.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=44
+image: https://house.louisiana.gov/h_reps/RepPics20/rep44.jpg
 other_identifiers:
 - identifier: LAL000470
   scheme: legacy_openstates

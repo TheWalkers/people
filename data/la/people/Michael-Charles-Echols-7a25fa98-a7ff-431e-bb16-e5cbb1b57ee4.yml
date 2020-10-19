@@ -12,8 +12,8 @@ contact_details:
   address: 8823 Highway 165 N.;Suite 1;Monroe, LA 71203
   voice: 318-598-4010
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=14
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=14
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=14
-image: http://house.louisiana.gov/h_reps/RepPics09/rep14.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=14
+image: https://house.louisiana.gov/h_reps/RepPics20/rep14.jpg
 gender: Male

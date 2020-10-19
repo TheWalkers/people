@@ -9,11 +9,11 @@ roles:
 contact_details:
 - email: hse034@legis.la.gov
   note: District Office
-  address: 1025 Mill Street;Lake Charles, LA -70601
+  address: 1025 Mill Street;Lake Charles, LA;70601
   voice: 337-491-2320
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=34
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=34
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=34
-image: http://house.louisiana.gov/h_reps/RepPics09/rep34.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=34
+image: https://house.louisiana.gov/h_reps/RepPics20/rep34.jpg
 gender: Male

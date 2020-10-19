@@ -12,10 +12,10 @@ contact_details:
   note: District Office
   voice: 225-473-6016
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=81
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=81
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=81
-image: http://house.louisiana.gov/h_reps/RepPics09/rep81.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=81
+image: https://house.louisiana.gov/h_reps/RepPics20/rep81.jpg
 other_identifiers:
 - identifier: LAL000474
   scheme: legacy_openstates

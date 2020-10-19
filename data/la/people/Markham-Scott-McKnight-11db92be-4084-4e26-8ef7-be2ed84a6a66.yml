@@ -9,9 +9,11 @@ roles:
 contact_details:
 - email: hse068@legis.la.gov
   note: District Office
+  address: 7901 Wrenwood Blvd.;Baton Rouge, LA 70809
+  voice: 225-465-5703
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=68
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=68
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=68
-image: http://house.louisiana.gov/h_reps/RepPics09/rep68.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=68
+image: https://house.louisiana.gov/h_reps/RepPics20/rep68.jpg
 gender: Male

@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 302 School St.;Houma, LA 70360
+- address: 302 School Street;Houma, LA 70360
   email: amedeeb@legis.la.gov
   note: District Office
   voice: 985-858-2967
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=51
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=51
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=51
-image: http://house.louisiana.gov/h_reps/RepPics09/rep51.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=51
+image: https://house.louisiana.gov/h_reps/RepPics20/rep51.jpg
 other_identifiers:
 - identifier: LAL000809
   scheme: legacy_openstates

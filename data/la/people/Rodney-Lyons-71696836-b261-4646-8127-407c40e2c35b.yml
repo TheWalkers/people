@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 2100 Woodmere Blvd.;Suite 160;Harvey, LA 70058
+- address: 2100 Woodmere Blvd.;Suite 130;Harvey, LA 70058
   email: lyonsr@legis.la.gov
   note: District Office
   voice: 504-510-5417
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=87
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=87
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=87
-image: http://house.louisiana.gov/h_reps/RepPics09/rep87.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=87
+image: https://house.louisiana.gov/h_reps/RepPics20/rep87.jpg
 other_identifiers:
 - identifier: LAL000821
   scheme: legacy_openstates

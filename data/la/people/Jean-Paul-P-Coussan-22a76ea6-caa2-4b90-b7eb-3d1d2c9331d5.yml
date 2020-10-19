@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 2508 -A Johnston St.;Lafayette, LA 70503
+- address: 2508-A Johnston Street;Lafayette, LA 70503
   email: coussanjp@legis.la.gov
   note: District Office
   voice: 337-262-2400
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=45
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=45
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=45
-image: http://house.louisiana.gov/h_reps/RepPics09/rep45.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=45
+image: https://house.louisiana.gov/h_reps/RepPics20/rep45.jpg
 other_identifiers:
 - identifier: LAL000833
   scheme: legacy_openstates

@@ -9,11 +9,11 @@ roles:
 contact_details:
 - email: hse073@legis.la.gov
   note: District Office
-  address: P.O. Box 2473;Ponchatoula, LA 70454
+  address: P. O. Box 2473;Ponchatoula, LA 70454
   voice: 985-386-7844
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=73
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=73
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=73
-image: http://house.louisiana.gov/h_reps/RepPics09/rep73.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=73
+image: https://house.louisiana.gov/h_reps/RepPics20/rep73.jpg
 gender: Male

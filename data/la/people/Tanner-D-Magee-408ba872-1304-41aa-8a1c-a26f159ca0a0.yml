@@ -7,15 +7,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 7833 W. Main St.;Houma, LA 70360
+- address: 7833 W. Main Street;Houma, LA 70360
   email: mageet@legis.la.gov
   note: District Office
   voice: 985-858-2970
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=53
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=53
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=53
-image: http://house.louisiana.gov/h_reps/RepPics09/rep53.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=53
+image: https://house.louisiana.gov/h_reps/RepPics20/rep53.jpg
 other_identifiers:
 - identifier: LAL000836
   scheme: legacy_openstates

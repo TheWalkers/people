@@ -7,13 +7,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: lower
 contact_details:
-- address: 181 Barron Road;Pollock, LA 71467-3643
+- address: Physical Address:;181 Barron Road;Pollock, LA 71467-3643;Mailing:;P. O.
+    Box 640;Pollock, LA 71467
   email: hse022@legis.la.gov
   note: District Office
   voice: 318-765-9606
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=22
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=22
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=22
-image: http://house.louisiana.gov/h_reps/RepPics09/rep22.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=22
+image: https://house.louisiana.gov/h_reps/RepPics20/rep22.jpg
 gender: Male

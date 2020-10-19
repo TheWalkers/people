@@ -7,7 +7,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   type: upper
 contact_details:
-- address: 2109 S. Burnside Ave.;Suite C;Gonzales, LA 70737
+- address: 2115 S. Burnside Ave.;Suite B;Gonzales, LA 70737
   email: pricee@legis.la.gov
   fax: 225-644-6750
   note: District Office

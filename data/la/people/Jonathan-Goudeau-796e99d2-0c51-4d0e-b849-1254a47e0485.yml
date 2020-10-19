@@ -9,9 +9,11 @@ roles:
 contact_details:
 - email: hse031@legis.la.gov
   note: District Office
+  address: 3639 Ambassador Caffery Pkwy.;Suite 214;Lafayette, LA 70503
+  voice: 337-347-7077
 links:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=31
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=31
 sources:
-- url: http://house.louisiana.gov/H_Reps/members.aspx?ID=31
-image: http://house.louisiana.gov/h_reps/RepPics09/rep31.jpg
+- url: https://house.louisiana.gov/H_Reps/members.aspx?ID=31
+image: https://house.louisiana.gov/h_reps/RepPics20/rep31.jpg
 gender: Male
