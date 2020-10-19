@@ -11,7 +11,7 @@ given_name: Larry P
 id: ocd-person/03967a9a-09b3-47d7-8779-af2539cc2642
 image: https://sdlegislature.gov/inc/img/Legislators/Zikmund_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1687&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3781&Session=2020s
 name: Larry P Zikmund
 other_identifiers:
 - identifier: SDL000254
@@ -23,5 +23,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1687&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3781&Session=2020s
 gender: Male

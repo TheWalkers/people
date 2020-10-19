@@ -12,8 +12,8 @@ given_name: Drew
 id: ocd-person/473ade93-039f-4b5d-b3c8-61300892a4eb
 image: https://sdlegislature.gov/inc/img/Legislators/Dennert_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1711&Session=2020
-name: Drew Dennert
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3693&Session=2020s
+name: Drew C Dennert
 other_identifiers:
 - identifier: SDL000299
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1711&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3693&Session=2020s
 gender: Male

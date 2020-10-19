@@ -11,8 +11,8 @@ given_name: Rebecca
 id: ocd-person/6ce3a563-339c-4bf4-8a70-0f5de85e5693
 image: https://sdlegislature.gov/inc/img/Legislators/Reimer_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1683&Session=2020
-name: Rebecca Reimer
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3755&Session=2020s
+name: Rebecca  L Reimer
 other_identifiers:
 - identifier: SDL000330
   scheme: legacy_openstates
@@ -23,5 +23,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1683&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3755&Session=2020s
 gender: Female

@@ -12,8 +12,8 @@ given_name: Troy
 id: ocd-person/43d6983d-919f-4f1c-99e6-4ae078b116dc
 image: https://sdlegislature.gov/inc/img/Legislators/Heinert_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1658&Session=2020
-name: Troy Heinert
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3712&Session=2020s
+name: Troy E Heinert
 other_identifiers:
 - identifier: SDL000180
   scheme: legacy_openstates
@@ -26,5 +26,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1658&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3712&Session=2020s
 gender: Male

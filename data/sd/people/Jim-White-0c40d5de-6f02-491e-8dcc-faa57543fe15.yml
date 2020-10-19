@@ -12,8 +12,8 @@ given_name: Jim
 id: ocd-person/0c40d5de-6f02-491e-8dcc-faa57543fe15
 image: https://sdlegislature.gov/inc/img/Legislators/White_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1719&Session=2020
-name: Jim White
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3775&Session=2020s
+name: Jim L White
 other_identifiers:
 - identifier: SDL000148
   scheme: legacy_openstates
@@ -26,5 +26,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1719&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3775&Session=2020s
 gender: Male

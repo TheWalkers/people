@@ -12,7 +12,7 @@ given_name: Reynold F
 id: ocd-person/20c7b82e-2a62-48b1-bcb3-d43646c460e1
 image: https://sdlegislature.gov/inc/img/Legislators/Nesiba_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1651&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3738&Session=2020s
 name: Reynold F Nesiba
 other_identifiers:
 - identifier: SDL000321
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1651&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3738&Session=2020s
 gender: Male

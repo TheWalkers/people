@@ -1,5 +1,5 @@
 id: ocd-person/530465d6-d53e-4da9-b8af-22f92ebf0e28
-name: Susan Wismer
+name: Susan M Wismer
 party:
 - name: Democratic
 roles:
@@ -18,9 +18,9 @@ contact_details:
   note: District Office
   voice: 605-448-5189
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1652&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3779&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1652&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3779&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Wismer_2019.jpg
 extras:
   occupation: CPA - Public Accounting

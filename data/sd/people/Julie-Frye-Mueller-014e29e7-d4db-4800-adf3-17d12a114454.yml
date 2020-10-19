@@ -12,8 +12,8 @@ given_name: Julie
 id: ocd-person/014e29e7-d4db-4800-adf3-17d12a114454
 image: https://sdlegislature.gov/inc/img/Legislators/Frye-Mueller_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1740&Session=2020
-name: Julie Frye-Mueller
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3702&Session=2020s
+name: Julie A Frye-Mueller
 other_identifiers:
 - identifier: SDL000267
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1740&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3702&Session=2020s
 gender: Female

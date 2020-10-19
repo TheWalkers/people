@@ -1,5 +1,5 @@
 id: ocd-person/cdfe4536-bb88-428b-b110-2b4f93023589
-name: Rocky Blare
+name: Rocky D Blare
 party:
 - name: Republican
 roles:
@@ -14,9 +14,9 @@ contact_details:
   note: District Office
   voice: 605-842-1617
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1685&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3681&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1685&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3681&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Blare_2019.jpg
 extras:
   occupation: Insurance Agent

@@ -1,5 +1,5 @@
 id: ocd-person/74bc4404-28a3-413b-b01f-3f303da1c8a9
-name: Tony Randolph
+name: Tony E Randolph
 party:
 - name: Republican
 roles:
@@ -14,9 +14,9 @@ contact_details:
   note: District Office
   voice: 605-545-6572
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1674&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3752&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1674&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3752&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Randolph_2019.jpg
 extras:
   occupation: Electrical Contractor

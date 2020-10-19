@@ -1,5 +1,5 @@
 id: ocd-person/1a282d5c-f628-45a4-8144-3c7bd189cbf4
-name: Jess Olson
+name: Jess M Olson
 party:
 - name: Republican
 roles:
@@ -14,9 +14,9 @@ contact_details:
   note: District Office
   voice: 605-388-2816
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1671&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3740&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1671&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3740&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Olson_2019.jpg
 extras:
   occupation: Nonprofit Executive

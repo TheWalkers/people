@@ -12,7 +12,7 @@ given_name: Gary L
 id: ocd-person/cb133c78-a55d-4c78-ad45-cbcf5c76b0d0
 image: https://sdlegislature.gov/inc/img/Legislators/Cammack_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1714&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3686&Session=2020s
 name: Gary L Cammack
 other_identifiers:
 - identifier: SDL000268
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1714&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3686&Session=2020s
 gender: Male

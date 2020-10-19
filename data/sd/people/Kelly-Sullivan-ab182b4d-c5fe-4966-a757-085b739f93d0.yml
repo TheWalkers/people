@@ -1,5 +1,5 @@
 id: ocd-person/ab182b4d-c5fe-4966-a757-085b739f93d0
-name: Kelly Sullivan
+name: Kelly A Sullivan
 party:
 - name: Democratic
 roles:
@@ -13,9 +13,9 @@ contact_details:
 - address: 1004 S. Dakota Ave.;Sioux Falls, SD 57105
   note: District Office
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1661&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3771&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1661&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3771&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Sullivan_2019.jpg
 extras:
   occupation: Bartender

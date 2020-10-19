@@ -1,5 +1,5 @@
 id: ocd-person/ae3c1f46-9aa0-497a-93de-f8ea74f24c91
-name: Fred Deutsch
+name: Fred E Deutsch
 party:
 - name: Republican
 roles:
@@ -14,9 +14,9 @@ contact_details:
   note: District Office
   voice: 605-882-3323
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1699&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3694&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1699&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3694&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Deutsch_2019.jpg
 extras:
   occupation: Chiropractor

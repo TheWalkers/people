@@ -12,8 +12,8 @@ given_name: Tim
 id: ocd-person/e12868fa-61b7-4ad5-9f68-bcfca817057d
 image: https://sdlegislature.gov/inc/img/Legislators/Goodwin_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1744&Session=2020
-name: Tim Goodwin
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3703&Session=2020s
+name: Tim R Goodwin
 other_identifiers:
 - identifier: SDL000264
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1744&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3703&Session=2020s
 gender: Male

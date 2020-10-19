@@ -12,8 +12,8 @@ given_name: Jim
 id: ocd-person/02a43643-ce8a-41fa-a43b-5d5cbf33f1f0
 image: https://sdlegislature.gov/inc/img/Legislators/Bolin_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1741&Session=2020
-name: Jim Bolin
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3682&Session=2020s
+name: Jim W Bolin
 other_identifiers:
 - identifier: SDL000293
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1741&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3682&Session=2020s
 gender: Male

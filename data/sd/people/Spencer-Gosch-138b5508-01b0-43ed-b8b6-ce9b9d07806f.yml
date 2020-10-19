@@ -12,8 +12,8 @@ given_name: Spencer
 id: ocd-person/138b5508-01b0-43ed-b8b6-ce9b9d07806f
 image: https://sdlegislature.gov/inc/img/Legislators/Gosch_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1736&Session=2020
-name: Spencer Gosch
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3704&Session=2020s
+name: Spencer R Gosch
 other_identifiers:
 - identifier: SDL000284
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1736&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3704&Session=2020s
 gender: Male

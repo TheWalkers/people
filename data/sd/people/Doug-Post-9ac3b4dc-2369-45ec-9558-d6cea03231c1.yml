@@ -1,5 +1,5 @@
 id: ocd-person/9ac3b4dc-2369-45ec-9558-d6cea03231c1
-name: Doug Post
+name: Doug D Post
 party:
 - name: Republican
 roles:
@@ -13,9 +13,9 @@ contact_details:
 - address: 21692 466th Ave.;Volga, SD 57071
   note: District Office
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1701&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3749&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1701&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3749&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Post_2019.jpg
 extras:
   occupation: Dairy Farmer

@@ -12,8 +12,8 @@ given_name: Lana
 id: ocd-person/7eefd193-a618-4a9b-b416-cd495239ead6
 image: https://sdlegislature.gov/inc/img/Legislators/Greenfield_Lana_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1728&Session=2020
-name: Lana Greenfield
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3706&Session=2020s
+name: Lana J Greenfield
 other_identifiers:
 - identifier: SDL000226
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1728&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3706&Session=2020s
 gender: Female

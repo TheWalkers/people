@@ -1,5 +1,5 @@
 id: ocd-person/b43cbbe5-dba5-4da3-a94e-b38e11425714
-name: Casey Crabtree
+name: Casey J Crabtree
 party:
 - name: Republican
 roles:
@@ -14,9 +14,9 @@ contact_details:
   note: District Office
   voice: 605-291-2767
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1878&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3690&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1878&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3690&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/crabtree_2020.jpg
 extras:
   occupation: Director of Economic Development

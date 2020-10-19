@@ -1,5 +1,5 @@
 id: ocd-person/a2152143-6b32-48e5-bda2-57eed76df09f
-name: Lee Schoenbeck
+name: Lee A Schoenbeck
 party:
 - name: Republican
 roles:
@@ -14,9 +14,9 @@ contact_details:
   note: District Office
   voice: 605-886-0010
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1752&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3762&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1752&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3762&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Schoenbeck_2019.jpg
 extras:
   occupation: Attorney

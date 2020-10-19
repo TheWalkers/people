@@ -12,8 +12,8 @@ given_name: John
 id: ocd-person/a49e8075-4515-434c-b43b-fb8f01d5072d
 image: https://sdlegislature.gov/inc/img/Legislators/Wiik_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1735&Session=2020
-name: John Wiik
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3777&Session=2020s
+name: John J Wiik
 other_identifiers:
 - identifier: SDL000301
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1735&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3777&Session=2020s
 gender: Male

@@ -1,5 +1,5 @@
 id: ocd-person/0b50c8f9-2764-499b-8861-f7f10b2e9c5d
-name: Ryan Cwach
+name: Ryan D Cwach
 party:
 - name: Democratic
 roles:
@@ -14,9 +14,9 @@ contact_details:
   note: District Office
   voice: 605-260-4747
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1665&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3692&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1665&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3692&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Cwach_2019.jpg
 extras:
   occupation: Attorney

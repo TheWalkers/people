@@ -1,5 +1,5 @@
 id: ocd-person/c7f02193-a831-4f6e-9e82-8204a5729713
-name: Kaleb Weis
+name: Kaleb W Weis
 party:
 - name: Republican
 roles:
@@ -13,9 +13,9 @@ contact_details:
 - address: 2403 Bunker Dr.;Aberdeen, SD 57401
   note: District Office
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1697&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3774&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1697&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3774&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Weis_2019.jpg
 extras:
   occupation: HVAC Specialist

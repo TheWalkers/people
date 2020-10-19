@@ -12,8 +12,8 @@ given_name: Jamie
 id: ocd-person/bea6d77a-6773-463b-946c-b23b27f5f4c0
 image: https://sdlegislature.gov/inc/img/Legislators/Smith_jamie_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1653&Session=2020
-name: Jamie Smith
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3764&Session=2020s
+name: Jamie R Smith
 other_identifiers:
 - identifier: SDL000300
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1653&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3764&Session=2020s
 gender: Male

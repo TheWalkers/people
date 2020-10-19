@@ -1,5 +1,5 @@
 id: ocd-person/8dc5a857-0514-4a81-8215-a2f21a069075
-name: Peri Pourier
+name: Peri R Pourier
 party:
 - name: Democratic
 roles:
@@ -14,9 +14,9 @@ contact_details:
   note: District Office
   voice: 605-877-1238
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1666&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3750&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1666&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3750&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Pourier_2019.jpg
 extras:
   occupation: Background Investigator

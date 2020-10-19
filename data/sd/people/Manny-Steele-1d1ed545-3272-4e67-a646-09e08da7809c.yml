@@ -1,5 +1,5 @@
 id: ocd-person/1d1ed545-3272-4e67-a646-09e08da7809c
-name: Manny Steele
+name: Manny J Steele
 party:
 - name: Republican
 roles:
@@ -14,9 +14,9 @@ contact_details:
   note: District Office
   voice: 605-335-7036
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1692&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3769&Session=2020s
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1692&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3769&Session=2020s
 image: https://sdlegislature.gov/inc/img/Legislators/Steele_2019.jpg
 extras:
   occupation: Retired

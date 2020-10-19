@@ -12,8 +12,8 @@ given_name: Bob
 id: ocd-person/5feb8251-73cc-4594-a1fa-29535d6797aa
 image: https://sdlegislature.gov/inc/img/Legislators/Ewing_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1693&Session=2020
-name: Bob Ewing
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3699&Session=2020s
+name: Bob E Ewing
 other_identifiers:
 - identifier: SDL000152
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: upper
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1693&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3699&Session=2020s
 gender: Male

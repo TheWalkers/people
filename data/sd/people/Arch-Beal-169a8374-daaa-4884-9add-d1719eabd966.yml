@@ -12,8 +12,8 @@ given_name: Arch
 id: ocd-person/169a8374-daaa-4884-9add-d1719eabd966
 image: https://sdlegislature.gov/inc/img/Legislators/Beal_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1723&Session=2020
-name: Arch Beal
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3680&Session=2020s
+name: Arch E Beal
 other_identifiers:
 - identifier: SDL000242
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1723&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3680&Session=2020s
 gender: Male

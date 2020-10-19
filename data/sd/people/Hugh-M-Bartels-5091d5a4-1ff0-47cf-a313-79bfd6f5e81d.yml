@@ -12,7 +12,7 @@ given_name: Hugh M
 id: ocd-person/5091d5a4-1ff0-47cf-a313-79bfd6f5e81d
 image: https://sdlegislature.gov/inc/img/Legislators/Bartels_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1700&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3678&Session=2020s
 name: Hugh M Bartels
 other_identifiers:
 - identifier: SDL000314
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1700&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3678&Session=2020s
 gender: Male

@@ -12,8 +12,8 @@ given_name: Ray
 id: ocd-person/403362b9-d400-444a-b4e7-83c437ad1dc7
 image: https://sdlegislature.gov/inc/img/Legislators/Ring_2019.jpg
 links:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1664&Session=2020
-name: Ray Ring
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3756&Session=2020s
+name: Jr Ray J Ring
 other_identifiers:
 - identifier: SDL000192
   scheme: legacy_openstates
@@ -24,5 +24,5 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:sd/government
   type: lower
 sources:
-- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1664&Session=2020
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=3756&Session=2020s
 gender: Male
