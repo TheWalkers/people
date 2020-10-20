@@ -6,7 +6,6 @@ roles:
 - district: Rockingham 9
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   type: lower
-  end_date: '2018-12-31'
 contact_details:
 - email: michael.vose@leg.state.nh.us
   note: Capitol Office

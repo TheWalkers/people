@@ -466,9 +466,6 @@ nh:
     - chamber: lower
       district: Rockingham 3
       vacant_until: 2021-01-08
-    - chamber: lower
-      district: Rockingham 9
-      vacant_until: 2020-11-01
     # this person went missing from the state site, not sure when or why
     - chamber: lower
       district: Strafford 10
